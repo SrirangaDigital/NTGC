@@ -1,0 +1,32 @@
+.entry{
+margin-top: 0.7em;
+}
+
+.media_type{
+margin-right: 0.5em;
+font-weight: bold;
+color:red;
+}
+
+.media_value{
+margin-left: 0.5em;
+}
+
+a{
+	color: #444444;
+	text-decoration: none;
+}
+a:HOVER, a.active{
+	color: #AF0204;
+}
+
+.photo{
+}
+
+.disp_photo{
+display: iniline;
+text-align: center;
+margin-top: 1.5em;
+float: left;
+line-height: 1.1em;
+}

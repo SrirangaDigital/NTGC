@@ -1,0 +1,25 @@
+[13-Nov-2014 07:05:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/volumes.php on line 44
+[13-Nov-2014 07:06:58 UTC] PHP Notice:  Undefined index: data in /var/www/ntg/php/display_all.php on line 34
+[14-Nov-2014 12:06:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/toc.php on line 50
+[14-Nov-2014 12:06:15 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/toc.php on line 61
+[14-Nov-2014 12:08:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/toc.php on line 50
+[14-Nov-2014 12:08:40 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/toc.php on line 61
+[14-Nov-2014 12:08:57 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/toc.php on line 50
+[14-Nov-2014 12:08:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/toc.php on line 61
+[14-Nov-2014 12:08:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/volumes.php on line 44
+[14-Nov-2014 12:08:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/articles.php on line 96
+[14-Nov-2014 12:09:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/articles.php on line 96
+[14-Nov-2014 12:09:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/volumes.php on line 44
+[14-Nov-2014 12:09:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/toc.php on line 50
+[14-Nov-2014 12:09:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /var/www/ntg/php/toc.php on line 61
+[15-Nov-2014 06:49:14 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntg/php/event_details.php on line 37
+[19-Dec-2014 10:14:51 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntg/php/event_in_detail.php on line 41
+[19-Dec-2014 10:14:58 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntg/php/event_in_detail.php on line 41
+[22-Jan-2015 05:55:55 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntgc/php/event_details.php on line 38
+[22-Jan-2015 05:56:53 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntgc/php/event_details.php on line 38
+[22-Jan-2015 05:56:57 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntgc/php/event_details.php on line 38
+[22-Jan-2015 05:57:02 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntgc/php/event_details.php on line 38
+[22-Jan-2015 06:16:52 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntgc/php/event_details.php on line 38
+[22-Jan-2015 06:17:09 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntgc/php/event_details.php on line 39
+[22-Jan-2015 06:17:10 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntgc/php/event_details.php on line 39
+[22-Jan-2015 06:17:14 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/ntgc/php/event_details.php on line 39
