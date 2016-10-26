@@ -3413,10 +3413,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.141">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
+			<entry type="troup">नाट्य भारती</entry>
 			<entry type="drama">शुतुरमुर्ग</entry>
 			<entry type="writer">जानदेव अग्निहोत्री</entry>
 			<entry type="director">बंसी कौल</entry>
@@ -3428,9 +3429,12 @@
 			<entry id="108" type="02" size="">
 				<desc></desc>
 			</entry>
+			<entry id="152" type="02" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.102">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3461,7 +3465,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.103">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3477,7 +3481,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.106;73.107">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3497,7 +3501,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.104;73.105">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3517,7 +3521,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.110">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3533,7 +3537,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.109">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3548,7 +3552,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.108">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3563,7 +3567,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.111;73.112">
 		<mdetails>
 			<entry type="state">उतरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3593,7 +3597,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.113;73.114">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3612,8 +3616,13 @@
 				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट नाटक की पूर्व सूचना स्मारिका परि. सं. 2175 से प्राप्त</desc>
 			</entry>
 		</photo>
+		<photo>
+			<entry id="127" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट नाटक की पूर्व सूचना स्मारिका परि. सं. 2175 से प्राप्त</desc>
+			</entry>
+		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.117">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3629,7 +3638,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.115">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3648,7 +3657,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.118;73.119">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3668,7 +3677,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.121;73.122">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3691,7 +3700,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.120">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3723,7 +3732,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.127">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3739,7 +3748,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.126">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3755,7 +3764,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.125">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3775,7 +3784,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.124">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3792,7 +3801,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.129">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3809,7 +3818,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.128">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3829,7 +3838,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.135">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3843,7 +3852,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.133">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3861,7 +3870,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.132">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3869,10 +3878,11 @@
 			<entry type="drama">ययाति (हिन्दी)</entry>
 			<entry type="writer">गिरीश कारनाड (कन्नड़)</entry>
 			<entry type="translation">बी. आर. नारायण</entry>
+			<entry type="artist">चित्रा गॊरे (चित्रलेखा), पियूष विद्यासागर (ययाति), सोविरा कपूर (स्वर्णा) व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="99" type="" size="">
-				<desc></desc>
+			<entry id="99" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -3891,7 +3901,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.137">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3910,21 +3920,22 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.136">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
 			<entry type="troupe">नरेन्द्रदेव महिला महाविद्यालय</entry>
 			<entry type="drama">सीता की अग्निपरीक्षा</entry>
+			<entry type="artist">किरन (सीता), शिखा भट्टाचार्य (राम), उषा अग्रवाल (अग्निदेव), एवं रेपुका (लक्ष्मण)</entry>
 			<entry type="event">मानस चतुरशती के अवसर अभिनीत भावनाट्य, रामचरितमानस पर आधारित</entry>
 		</mdetails>
 		<photo>
-			<entry id="90" type="" size="">
-				<desc></desc>
+			<entry id="90" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.142">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3954,7 +3965,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.140">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3979,7 +3990,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.138">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3987,14 +3998,15 @@
 			<entry type="drama">मोहब्बत जिन्दाबाद</entry>
 			<entry type="writer">ज्ञानदेव अग्निहोत्री</entry>
 			<entry type="director">ज्ञानदेव अग्निहोत्री</entry>
+			<entry type="artist">श्रीमती विकाजी और नस्सर वानजी विकाजी</entry>
 		</mdetails>
 		<photo>
 			<entry id="148" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.144">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4018,7 +4030,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.143">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4032,7 +4044,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.148">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4050,7 +4062,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.147">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4063,11 +4075,11 @@
 		</mdetails>
 		<photo>
 			<entry id="2054" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.146">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4083,7 +4095,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.145">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4091,16 +4103,17 @@
 			<entry type="drama">सूरज जन्मा धरती पर</entry>
 			<entry type="writer">सुशील कुमार सिंह</entry>
 			<entry type="director">सुशील कुमार सिंह</entry>
+			<entry type="artist">के. कुमार (आचार्य रामानुज), अरुण गुप्ता (यमुनाचार्य), विजय दीक्षित (विक्षिप्त चिंतक)</entry>
 		</mdetails>
 		<photo>
 			<entry id="96" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="97" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="2821" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -4112,17 +4125,19 @@
 			<entry type="drama">अंधायुग</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
 			<entry type="director">शिवमूरत सिंह</entry>
+			<entry type="photographer">प्रताप</entry>
+			<entry type="artist">तौसीम अख्तर अंसारी (युयुत्स), मु. कैयूम (विदुर), धर्मेन्द्र कुमार जायसवाल (कृपाचार्य), सुरेश जायसवाल (गूंगा सैनिक), अवधेश वर्मा (प्रहरी-एक)</entry>
 		</mdetails>
 		<photo>
 			<entry id="121" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="122" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.149">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4133,11 +4148,11 @@
 		</mdetails>
 		<photo>
 			<entry id="106" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.155">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4154,7 +4169,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.153">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गाजीपुर</entry>
@@ -4162,17 +4177,18 @@
 			<entry type="drama">स्कंदगुप्त</entry>
 			<entry type="writer">जयशंकर प्रसाद</entry>
 			<entry type="director">शिवमूरत सिंह</entry>
+			<entry type="artist">दिनेश राय (स्कन्दगुप्त), राम अवतार सिंह (बंधु वर्मा), राधेश्याम द्विवेदी (शर्वनाश), वीरेन्द्रनजि राय (मातृगुप्त), कु. साधना गुप्ता (अनन्त देवी), शॊभा श्रीवास्तव (जयमाला)</entry>
 		</mdetails>
 		<photo>
-			<entry id="119" type="" size="">
-				<desc></desc>
+			<entry id="119" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="120" type="" size="">
-				<desc></desc>
+			<entry id="120" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.152">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गाज़ीपुर</entry>
@@ -4193,7 +4209,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.151">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गाज़ीपुर</entry>
@@ -4208,15 +4224,17 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.157">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="drama">तीन अपाहिज</entry>
+			<entry type="writer">विपिन कुमार अग्रवाल</entry>
+			<entry type="artist">विभाष गुजराया (कल्लू), विनोद दीक्षित (खल्लू), श्याम पाण्डेय (गल्लू)</entry>
 		</mdetails>
 		<photo>
-			<entry id="164" type="" size="">
-				<desc></desc>
+			<entry id="164" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -4225,82 +4243,103 @@
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="drama">कूड़े का पीपा</entry>
+			<entry type="artist">ऒ. पी. श्रीवास्तव (नश्यु), यश अवधूत (खैरा)</entry>
 		</mdetails>
 		<photo>
-			<entry id="163" type="" size="">
-				<desc></desc>
+			<entry id="163" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.182">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="drama">बादशाह बेगम गुलाम</entry>
+			<entry type="writer">गिरीराज किशोर</entry>
+			<entry type="director">गिरीश रस्तोगी</entry>
+			<entry type="artist">कंचन पाण्डे एवं अशिवन कुमार</entry>
+			<entry type="date">1973</entry>
 		</mdetails>
 		<photo>
-			<entry id="170" type="" size="">
-				<desc></desc>
+			<entry id="170" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.179">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
+			<entry type="troup">रूपांतर नाट्य मंच</entry>
 			<entry type="drama">नींद क्यों रात भर नहीं आती</entry>
 			<entry type="writer">लेखक सुरेन्द्र वर्मा</entry>
+			<entry type="director">गिरीश रस्तोगी</entry>
+			<entry type="artist">कु. आ भा छुलिया (युवती), कु. धीरा जोशी (लडकी)</entry>
+			<entry type="date">1973</entry>
 		</mdetails>
 		<photo>
 			<entry id="168" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 			<entry id="169" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.158">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="drama">नागपाश</entry>
+			<entry type="writer">सुशील कुमार सिंह</entry>
+			<entry type="artist">विनोद दीक्षित (बाप), ओ. पी. श्रीवास्तव (बेटा)</entry>
 		</mdetails>
 		<photo>
 			<entry id="167" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.161">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
+			<entry type="troup">गोरखपुर विश्वविद्यालय</entry>
 			<entry type="drama">दूसरा दरवाजा</entry>
+			<entry type="writer">लक्षीनारायण लाल</entry>
+			<entry type="director">गिरीश रस्तोगी</entry>
+			<entry type="date">1969-1970</entry>
 		</mdetails>
 		<photo>
 			<entry id="165" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="166" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.160;73.186">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="drama">लहरों के राजहंस</entry>
 			<entry type="writer">मोहन राकेश</entry>
+			<entry type="director">गिरीश रस्तोगी</entry>
+			<entry type="date">1968</entry>
 		</mdetails>
 		<photo>
-			<entry id="172" type="" size="">
-				<desc></desc>
+			<entry id="172" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना : भारतीय रंगकोश के पृष्ठ 119 से नटरंग में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.159">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4311,30 +4350,35 @@
 		</mdetails>
 		<photo>
 			<entry id="171" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.166;73.167">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="troupe">भारतीय जननाट्य संघ (इप्टा)</entry>
 			<entry type="drama">सद्गति</entry>
+			<entry type="director">मुमताज खान</entry>
+			<entry type="version">मुमताज खान</entry>
+			<entry type="venue">कचहरी क्लब (टाउन हाल)</entry>
 			<entry type="writer">प्रेमचन्द</entry>
+			<entry type="artist">आर. ए. खान (पण्डित धासीराम), रीता श्रीवास्तव (पण्डिताइन), शहजाद सैयद (दुक्की), कु. तृप्ति (भुरिया)</entry>
 			<entry type="date">08-08-1993</entry>
 		</mdetails>
 		<photo>
 			<entry id="3916" type="" size="">
-				<desc></desc>
+				<desc>प्रस्तुत नाटक गोरखपुर इकाई के `जिला सम्मेलन' तथा `प्रेमचन्द्र जयन्ती' के उपलदय में मंचित</desc>
+				<misc>पूर्ण सूचना स्मारिका परि. सं. - 1156 से प्राप्त</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.165">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
-			<entry type="troupe">भारतीय नाट्य संघ (इप्टा)</entry>
+			<entry type="troupe">भारतीय जन नाट्य संघ (इप्टा)</entry>
 			<entry type="drama">कह रहीम कैसे निभे</entry>
 			<entry type="writer">सुरेन्द्र सिंह</entry>
 			<entry type="director">सुरेन्द्र सिंह</entry>
@@ -4346,14 +4390,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.163">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="troupe">नटराज, पूर्वोत्तर रेलवे जूनियर इंस्टीट्यूट</entry>
 			<entry type="drama">सैंया भये कोतवाल</entry>
 			<entry type="writer">वसन्त सबनीस</entry>
+			<entry type="translation">उषा बैनर्जी</entry>
 			<entry type="director">हरीश चन्द्र माथुर</entry>
+			<entry type="original">मूल मराठी नाम - विच्छा माक्ती पुरी कथा</entry>
 			<entry type="date">23-03-1996</entry>
 		</mdetails>
 		<photo>
@@ -4362,13 +4408,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.162">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="troupe">दर्पण</entry>
 			<entry type="drama">अंधा युग</entry>
-			<entry type="writer">लेखक धर्मवीर भारती</entry>
+			<entry type="writer">धर्मवीर भारती</entry>
 			<entry type="director">संत श्रीवास्तव, अनिल मेहरोत्रा</entry>
 		</mdetails>
 		<photo>
@@ -4377,7 +4423,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.174">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4393,7 +4439,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.171;73.172">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4403,6 +4449,7 @@
 			<entry type="director">शैलेश श्रीवास्तव</entry>
 			<entry type="music">राजन कुमार शुक्ला</entry>
 			<entry type="venue">सैयद मोदी रेलवे स्टेडियम प्रेक्षागृह, गोरखपुर</entry>
+			<entry type="artist">सैयद मोदी रेलवे स्टेडियम प्रेक्षागृह, गोरखपुर</entry>
 			<entry type="date">28-01-1996</entry>
 		</mdetails>
 		<photo>
@@ -4432,7 +4479,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.180">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4442,27 +4489,28 @@
 		</mdetails>
 		<photo>
 			<entry id="180" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.178">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="troupe">रूपान्तर</entry>
 			<entry type="drama">जुलूस</entry>
 			<entry type="writer">बादल सरकार</entry>
+			<entry type="translation">यामा अग्रवाल</entry>
 			<entry type="director">गिरीश रस्तोगी</entry>
 			<entry type="date">अप्रैल 1980</entry>
 		</mdetails>
 		<photo>
 			<entry id="179" type="02" size="">
-				<desc></desc>
+				<misc>बांग्ला में नाम `मिछील'</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.175">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4481,7 +4529,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.183">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4522,26 +4570,32 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.188">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="troupe">रूपान्तर</entry>
 			<entry type="drama">शायद हां</entry>
+			<entry type="writer">शोभना भूटानी (सिद्धीकी)</entry>
+			<entry type="director">गिरीश रस्तोगी</entry>
+			<entry type="date">1972</entry>
 		</mdetails>
 		<photo>
 			<entry id="173" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचंद्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना : भा रंग. को </misc>
 			</entry>
 			<entry id="174" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचंद्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना : भा रंग. को </misc>
 			</entry>
 			<entry id="175" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचंद्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना : भा रंग. को </misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.187">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4557,7 +4611,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.185">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4576,7 +4630,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.184">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4593,7 +4647,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.202">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4604,7 +4658,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.190;73.191">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4612,14 +4666,23 @@
 			<entry type="drama">सत्याग्रह</entry>
 			<entry type="writer">प्रेमचन्द्र</entry>
 			<entry type="director">राजीव राज</entry>
+			<entry type="natyantra">शिवराम</entry>
+			<entry type="music">शक्ति श्रीवास्तव</entry>
+			<entry type="light">राजेश वाजपेयी, विजय सिंह श्रीवास्तव</entry>
+			<entry type="dress">विजय श्रीवास्तव</entry>
+			<entry type="lookandfeel">राजेश वाजपेयी</entry>
+			<entry type="stage">राघवेन्द्र श्रीवास्तव</entry>
+			<entry type="artist">नलिनी श्रीवास्तव (नटी), राजीव राज (सूत्रधार), रजनी श्रीवास्तव</entry>
+			<entry type="venue">चित्रगुप्त मन्दिर प्रेक्षागृह, गोरखपुर</entry>
+			<entry type="date">31-07-1983</entry>
 		</mdetails>
 		<photo>
 			<entry id="185" type="02" size="">
-				<desc>कहानी</desc>
+				<desc>पूर्व सूचना : स्मारिका परि. सं. 2339 से</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.207">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4631,11 +4694,11 @@
 		</mdetails>
 		<photo>
 			<entry id="189" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.206">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4649,7 +4712,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.205">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4663,7 +4726,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.203">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4679,7 +4742,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.209">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4700,14 +4763,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.208">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
 			<entry type="troupe">कला मंच</entry>
 			<entry type="drama">पोस्टर</entry>
 			<entry type="writer">शंकर शेष</entry>
-			<entry type="director">नरोत्तम कुमार अग्रवाल</entry>
+			<entry type="director">नरसेम कुमार अग्रवाल</entry>
+			<entry type="artist">गिरीश पॉयरी (कल्लू), शैलजा शर्मा (चैती), अशिवनी जैन (सुखलाल) व अन्य</entry>
 			<entry type="date">अक्टूबर 1985</entry>
 		</mdetails>
 		<photo>
@@ -4719,21 +4783,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.218">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
 			<entry type="troupe">वातायन</entry>
 			<entry type="drama">प्रहलाद नाटक</entry>
 			<entry type="writer">भवानीदत्त थपल्याल</entry>
+			<entry type="director">उर्मिल कुमार थपलियाल</entry>
+			<entry type="light">गजेन्द्र शर्मा, तरसेम अग्रवाल</entry>
+			<entry type="artist">मनवर सिंह गोसाई, दुर्गा प्रसाद कुकरेती, सुरेन्द्र भण्डारी, श्रीश डोभाल व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="203" type="" size="">
-				<desc></desc>
+			<entry id="203" type="02" size="">
+				<desc>न. प्र. संग्रह (नेमिचन्द्र जैन द्वारा भेंट)</desc>
+				<misc>पूर्व सूचना : 2005 में</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.215;73.216;73.217">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4741,15 +4809,22 @@
 			<entry type="drama">कोयला भई न राख</entry>
 			<entry type="writer">अवधेश कुमार</entry>
 			<entry type="director">हफ़ीज खान</entry>
-			<entry type="artist">सावित्री की भूमुका में सुषमा बहुगुणा, मंजु यादव, सास की भूमिका में, रमेश मिश्रा व श्रवण कुमार देवर की भूमिका में</entry>
+			<entry type="venue">टाउन हाल रंगशाला, देहरादून</entry>
+			<entry type="stage">हफीज़ खान</entry>
+			<entry type="light">गणेश मधवाल</entry>
+			<entry type="artist">मो. इलयास (सरकारी वकील), ओमप्रकाश वाल्मीकि (अध्यापक), यशपाल शर्मा (फोटोग्राफर - पत्रकार - जज), मंजु यादव (सास), जया शर्मा (ननद), श्रवण कुमार (ससुर) व अन्य</entry>
+			<entry type="photographer">अरविन्द शर्मा</entry>
+			<entry type="date">11-04-1988</entry>
 		</mdetails>
 		<photo>
 			<entry id="2052" type="02" size="">
 				<desc>वातायन के रंगशिविर में नारी उत्पीड़न पर तैयार किया गये नाटक</desc>
+				<misc>न. प्र. संग्रह (श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट)</misc>
+				<misc>नाटक की पूर्ण सूचना स्मा. सं. 2622 से</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.211;73.212;73.213;73.214">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4757,14 +4832,23 @@
 			<entry type="drama">सूखी धरती प्यासा मन</entry>
 			<entry type="writer">अवधेश कुमार</entry>
 			<entry type="director">हफ़ीज खान</entry>
+			<entry type="projection">हफ़ीज खान</entry>
+			<entry type="music">रूप सिंह थापा, संतोष कौशिक</entry>
+			<entry type="light">गणेश माधवन्</entry>
+			<entry type="dress">अजय नेने</entry>
+			<entry type="artist">भूषण (पत्रकार), रूप सिंह थाप (दीनू), मगली रस्तोगी (पत्नी), संजय धीमन (लठैत), राजीव सक्सेना (साधु), अनिल परमार (श्यामलाल), अजय नेने (रामलाल), कामा साही (मास्टर जी), संजय धीमन (ग्रामीण), रक्षा रस्तोगी (मेम साहब), अवधेश कुमार (अफसर), हफीज़ खान (भैया जी) व अन्य</entry>
+			<entry type="date">1-6 जनवरी, 1988</entry>
+			<entry type="photographer">अरविन्द शर्मा</entry>
+			<entry type="venue">पर्यावरण रंग शिविर में प्रस्तुत</entry>
 		</mdetails>
 		<photo>
 			<entry id="197" type="02" size="">
-				<desc>पर्यावरण रंगशिविर में तैयार किया गया नाटक</desc>
+				<desc>नटरंग प्रतिष्ठान संग्रह (श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट)</desc>
+				<misc>पूर्ण सूचना स्मा. न. 2024 से प्राप्त</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.210">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4776,7 +4860,8 @@
 		</mdetails>
 		<photo>
 			<entry id="195" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -4793,18 +4878,24 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.219;73.220">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
 			<entry type="troupe">वातायन</entry>
 			<entry type="drama">यह तो होना ही था</entry>
+			<entry type="writer">बर्टोल्ट ब्रेख्त</entry>
 			<entry type="director">रामप्रसाद अनुज</entry>
+			<entry type="light">अजय भटनागर</entry>
+			<entry type="dress">दीपक भट्टाचार्य</entry>
+			<entry type="lookandfeel">दीपक भट्टाचार्य</entry>
+			<entry type="lateralvoice">कृष्ण स्वरूप भरथरि</entry>
 			<entry type="date">अप्रैल 1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="199" type="" size="">
-				<desc></desc>
+			<entry id="199" type="02" size="">
+				<desc>न. प्र. संग्रह (नेमिचन्द्र जैन द्वारा न. प्र. को भेंट)</desc>
+				<misc>नाटक का मूल नाम - Exception and the Rules</misc>
 			</entry>
 		</photo>
 	</media>
@@ -6763,7 +6854,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.014">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -6779,7 +6870,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.015">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -6794,7 +6885,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.009;73.010">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">विशाखापट्टनम</entry>
@@ -6811,7 +6902,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.011">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">विशाखापट्टनम</entry>
@@ -6829,7 +6920,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.013">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -6845,7 +6936,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.016">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -6863,7 +6954,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.017">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -6879,7 +6970,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.018">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -6892,7 +6983,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.019">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -12386,7 +12477,7 @@
 			<entry type="troupe">उमंग बाल मंच</entry>
 			<entry type="drama">नीला घोड़ा [बाल नाटक]</entry>
 			<entry type="writer">मारिया क्लारा माशाडो</entry>
-			<entry type="director">इडारडो कालियस</entry>
+			<entry type="director">एडाअर्डो कालियस</entry>
 			<entry type="translation">उत्तरा बाउकर, अग्निदत्त</entry>
 			<entry type="artist">मनीहर सिंह</entry>
 		</mdetails>
@@ -18818,7 +18909,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.097;73.098">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51451,7 +51542,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.039">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -51469,7 +51560,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.071">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51490,7 +51581,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.041">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -51507,7 +51598,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.044">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -51524,7 +51615,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.046">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -51546,7 +51637,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.050">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51587,7 +51678,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.081;73.082;73.083">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51627,7 +51718,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.034;73.035">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -51651,7 +51742,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.073">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51670,7 +51761,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.031">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -51688,7 +51779,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.089">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51706,7 +51797,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.072">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51723,7 +51814,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.070">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51741,7 +51832,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.030">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -51757,7 +51848,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.036">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -51775,7 +51866,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.042">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -51801,7 +51892,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.029">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">अलीगढ़</entry>
@@ -51816,7 +51907,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.069">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51846,7 +51937,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.094">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51863,7 +51954,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.077;73.078;73.079">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -51893,7 +51984,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.123">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -52549,7 +52640,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.032">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -52571,7 +52662,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.033">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -52586,7 +52677,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.037">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -52594,7 +52685,7 @@
 			<entry type="drama">सगुन पंद्दी (हिन्दी)</entry>
 			<entry type="writer">लक्ष्मीनारायण लाल</entry>
 			<entry type="director">बंसीकौल</entry>
-			<entry type="1976"></entry>
+			<entry type="date">1976</entry>
 		</mdetails>
 		<photo>
 			<entry id="101" type="02" size="">
@@ -52611,7 +52702,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.038">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -52628,7 +52719,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.040">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -52643,7 +52734,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.043">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -52658,7 +52749,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.045">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -52674,7 +52765,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.047">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52688,7 +52779,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.048">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52704,7 +52795,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.049">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52718,7 +52809,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.051">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52730,11 +52821,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.052">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
-			<entry type="drama">सब मेरे भच्चे (हिन्दी)</entry>
+			<entry type="drama">सब मेरे बच्चे (हिन्दी)</entry>
 		</mdetails>
 		<photo>
 			<entry id="366" type="02" size="">
@@ -52745,7 +52836,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.053">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52765,7 +52856,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.056">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52783,7 +52874,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.057">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52797,9 +52888,12 @@
 			<entry id="377" type="02" size="">
 				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
+			<entry id="378" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.059">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52816,7 +52910,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.058">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52832,7 +52926,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.060">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52854,7 +52948,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.061">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52870,7 +52964,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.062">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52889,9 +52983,13 @@
 				<desc>उत्तर क्षेत्र नाट्य समारोह, जम्मू में मंचित</desc>
 				<misc>संगीत नाटक अकादेमी</misc>
 			</entry>
+			<entry id="11689" type="02" size="">
+				<desc>उत्तर क्षेत्र नाट्य समारोह, जम्मू में मंचित</desc>
+				<misc>संगीत नाटक अकादेमी</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.063">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52906,7 +53004,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.064;73.065">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52927,7 +53025,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.066">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52941,7 +53039,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.067">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52958,7 +53056,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.068">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52985,7 +53083,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.074">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53007,7 +53105,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.076">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53024,7 +53122,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.075">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53044,7 +53142,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.080">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53060,7 +53158,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.088">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53077,7 +53175,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.087">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53093,7 +53191,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.085">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53107,7 +53205,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.091">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53125,7 +53223,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.090">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53142,7 +53240,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.092">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53160,7 +53258,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.093">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53178,7 +53276,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.095;73.096">
 		<mdetails>
 			<entry type="state">उत्तरपदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53197,7 +53295,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.099">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53217,7 +53315,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.100">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53230,6 +53328,14 @@
 		</mdetails>
 		<photo>
 			<entry id="6048" type="" size="">
+				<desc>22 दिवसीय (10 दिसं. से 31 दिसं. 1999 तक) नाट्य नौटंकीप्रशिक्षण कार्यशाला में तैयार बाल-नौटंकी</desc>
+				<misc>दो तस्वीरें-श्वेत-श्याम व एक रंगीन</misc>
+			</entry>
+			<entry id="6049" type="" size="">
+				<desc>22 दिवसीय (10 दिसं. से 31 दिसं. 1999 तक) नाट्य नौटंकीप्रशिक्षण कार्यशाला में तैयार बाल-नौटंकी</desc>
+				<misc>दो तस्वीरें-श्वेत-श्याम व एक रंगीन</misc>
+			</entry>
+			<entry id="6050" type="" size="">
 				<desc>22 दिवसीय (10 दिसं. से 31 दिसं. 1999 तक) नाट्य नौटंकीप्रशिक्षण कार्यशाला में तैयार बाल-नौटंकी</desc>
 				<misc>दो तस्वीरें-श्वेत-श्याम व एक रंगीन</misc>
 			</entry>
