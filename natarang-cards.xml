@@ -4865,12 +4865,19 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.223;73.224">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
-			<entry type="place">देहरादून</entry>
+			<entry type="place">नारी शिल्प मन्दिर रंगशाला, देहरादून</entry>
 			<entry type="troupe">वातायन</entry>
-			<entry type="drama">लाश</entry>
+			<entry type="drama">लाश (एक आतंकवादी का अंत व लाश कहानी पर आधारित)</entry>
+			<entry type="writer">सुभाष पंत</entry>
+			<entry type="director">सतीश चाँद</entry>
+			<entry type="natyantra">राम प्रसाद सुन्द्रियाल, अवधेश कुमार, सतीश चाँद</entry>
+			<entry type="stageandsong">अवधेश कुमार</entry>
+			<entry type="musicandvoice">सपन चक्रवर्ती</entry>
+			<entry type="artist">रामप्रसाद अनुज (मास्तर जी), अशोक चक्रवर्ती (चेयरमैन), हिमानी भट्ट (मास्टरनी), सतीश चाँद (सल्लो के चाचा), हेम पंत (सल्लो की माँ) व अन्य</entry>
+			<entry type="date">14 अक्टू. 1978</entry>
 		</mdetails>
 		<photo>
 			<entry id="200" type="" size="">
@@ -4915,7 +4922,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.227;73.228">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">नैनीताल</entry>
@@ -4933,32 +4940,41 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.225;73.226">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">नैनीताल</entry>
 			<entry type="drama">नदी नाव और मुसाफिर</entry>
 			<entry type="writer">इकबाल मजीद</entry>
 			<entry type="director">ज़हुर आलम</entry>
+			<entry type="artist">मुक्ता शाह (मोना), राकेश चन्द्र दुआ (संजय), दयाकिशन सनवाल (मधेरा) की भूमिका मे</entry>
 			<entry type="date">17-11-1976</entry>
 		</mdetails>
 		<photo>
 			<entry id="208" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र. संग्रह (श्री नेमि चन्द्र जैन द्वारा न. प्र. को भेंट)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.221;73.222">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
-			<entry type="place">देहरादून</entry>
+			<entry type="place">नारी शिल्प मंदिर रंगशाला, देहरादून</entry>
 			<entry type="troupe">वातायन</entry>
 			<entry type="drama">शेड्यूल्ड कास्ट</entry>
+			<entry type="writer">लाडी</entry>
+			<entry type="director">सुभाष पंत</entry>
+			<entry type="asstdirection">अशोक चक्रवर्ति</entry>
+			<entry type="musicandvoice">सपन चक्रवर्ति</entry>
+			<entry type="stage">अशोक चक्रवर्ति</entry>
+			<entry type="light">अशोक चक्रवर्ति, त्रीश डोभाल</entry>
+			<entry type="artist">इन्द्र स्वरूप कुकरेती (मंगलू), हिमानी भट्ट (रानू), सतीश चाँद (सोनी) व अन्य</entry>
 			<entry type="date">02-12-1978</entry>
 		</mdetails>
 		<photo>
 			<entry id="202" type="02" size="">
-				<desc></desc>
+				<desc>नटरंग प्रतिष्ठान संग्रह (नेमिचन्द्र जैन द्वारा न. प्र. को भेंट)</desc>
+				<misc>पूर्ण सूचना स्मा-2009 से</misc>
 			</entry>
 		</photo>
 	</media>
