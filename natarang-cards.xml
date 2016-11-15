@@ -4868,7 +4868,7 @@
 	<media aid="01" cid="73.223;73.224">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
-			<entry type="place">नारी शिल्प मन्दिर रंगशाला, देहरादून</entry>
+			<entry type="place">देहरादून</entry>
 			<entry type="troupe">वातायन</entry>
 			<entry type="drama">लाश (एक आतंकवादी का अंत व लाश कहानी पर आधारित)</entry>
 			<entry type="writer">सुभाष पंत</entry>
@@ -4877,6 +4877,7 @@
 			<entry type="stageandsong">अवधेश कुमार</entry>
 			<entry type="musicandvoice">सपन चक्रवर्ती</entry>
 			<entry type="artist">रामप्रसाद अनुज (मास्तर जी), अशोक चक्रवर्ती (चेयरमैन), हिमानी भट्ट (मास्टरनी), सतीश चाँद (सल्लो के चाचा), हेम पंत (सल्लो की माँ) व अन्य</entry>
+			<entry type="venue">नारी शिल्प मन्दिर रंगशाला, देहरादून</entry>
 			<entry type="date">14 अक्टू. 1978</entry>
 		</mdetails>
 		<photo>
@@ -4906,7 +4907,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.229">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">नैनीताल</entry>
@@ -4914,7 +4915,7 @@
 			<entry type="drama">इडिपस</entry>
 			<entry type="writer">सोफोक्लीज</entry>
 			<entry type="event">रामनगर नाट्य महोस्तव, रामनगर</entry>
-			<entry type="date">8, 11 मार्च 1984</entry>
+			<entry type="date">8-11 मार्च 1984</entry>
 		</mdetails>
 		<photo>
 			<entry id="204" type="02" size="">
@@ -4959,16 +4960,17 @@
 	<media aid="01" cid="73.221;73.222">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
-			<entry type="place">नारी शिल्प मंदिर रंगशाला, देहरादून</entry>
+			<entry type="place">देहरादून</entry>
 			<entry type="troupe">वातायन</entry>
 			<entry type="drama">शेड्यूल्ड कास्ट</entry>
 			<entry type="writer">लाडी</entry>
 			<entry type="director">सुभाष पंत</entry>
-			<entry type="asstdirection">अशोक चक्रवर्ति</entry>
+			<entry type="asstdirector">अशोक चक्रवर्ति</entry>
 			<entry type="musicandvoice">सपन चक्रवर्ति</entry>
 			<entry type="stage">अशोक चक्रवर्ति</entry>
 			<entry type="light">अशोक चक्रवर्ति, त्रीश डोभाल</entry>
 			<entry type="artist">इन्द्र स्वरूप कुकरेती (मंगलू), हिमानी भट्ट (रानू), सतीश चाँद (सोनी) व अन्य</entry>
+			<entry type="venue">नारी शिल्प मंदिर रंगशाला, देहरादून</entry>
 			<entry type="date">02-12-1978</entry>
 		</mdetails>
 		<photo>
@@ -4978,7 +4980,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.232">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">पिथौरागढ़</entry>
@@ -4994,22 +4996,22 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.230">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">नैनीताल</entry>
 			<entry type="troupe">युगमंच</entry>
 			<entry type="drama">कबीर खड़ा बाजार में</entry>
 			<entry type="writer">भीष्म साहनी</entry>
-			<entry type="date">10, 12 दिसंबर 1983</entry>
+			<entry type="date">10-12 दिसंबर 1983</entry>
 		</mdetails>
 		<photo>
 			<entry id="205" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र. संग्रह (श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.236">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">बरेली</entry>
@@ -5018,12 +5020,13 @@
 			<entry type="writer">शरद जोशी</entry>
 		</mdetails>
 		<photo>
-			<entry id="271" type="" size="">
+			<entry id="271" type="2" size="">
 				<desc>प्रतियोगिता में प्रथम स्थान प्राप्त</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट, पुस्तक रूप में</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.235">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">बरेली</entry>
@@ -5033,17 +5036,18 @@
 		<photo>
 			<entry id="270" type="02" size="">
 				<desc>प्रतियोगिता का उद्घाटन करते हुए डा० अनादि नाथ सैगल आयुक्त, बरेली</desc>
+				<misc>एन. नियाज़ी, श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.234">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">बनारस</entry>
 			<entry type="troupe">रूपवाणी</entry>
 			<entry type="drama">कामायनी (हिन्दी) (नृत्य नाटिका)</entry>
 			<entry type="writer">जयशंकर प्रसाद (महाकाव्य)</entry>
-			<entry type="projection">धारेन्द्र मोहन</entry>
+			<entry type="projection">धीरेन्द्र मोहन</entry>
 			<entry type="director">व्योमेश शुक्ल</entry>
 			<entry type="music">अरविंद दास गुप्ता</entry>
 			<entry type="artist">स्वाति, प्रतिमा, रोशन व अन्य</entry>
@@ -5065,7 +5069,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.231">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">प्रतापगढ़</entry>
@@ -5073,14 +5077,15 @@
 			<entry type="drama">जुलूस</entry>
 			<entry type="writer">बादल सरकार</entry>
 			<entry type="director">सुशील कुमार सिंह</entry>
+			<entry type="translator">यामा अग्रवाल</entry>
 		</mdetails>
 		<photo>
-			<entry id="209" type="02" size="">
-				<desc></desc>
+			<entry id="209" type="02" size="9.7X11.6 से. मी.">
+				<desc>मूल: बांग्ला, नाम मिछिल</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.238">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5093,7 +5098,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.237">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5105,7 +5110,7 @@
 		</mdetails>
 		<photo>
 			<entry id="288" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -5148,10 +5153,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.241">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
-			<entry type="place">मथुर</entry>
+			<entry type="place">मथुरा</entry>
 			<entry type="troupe">ब्रज कला केन्द्र</entry>
 			<entry type="event">ब्रजोत्सव</entry>
 		</mdetails>
@@ -5161,20 +5166,29 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="99" cid="73.239;73.240">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
 			<entry type="troupe">ब्रज कला केन्द्र</entry>
-			<entry type="dance">पारिजात हरण</entry>
+			<entry type="event">पारिजात हरण व भौमासुर वध (स्वांग की भगत शैली में)</entry>
+			<entry type="writer">श्री बालमुकुन्द बेसनवाले</entry>
+			<entry type="director">श्री रामनारायण अग्रवाल</entry>
+			<entry type="music">उस्ताद मुनीर खाँ, उस्ताद बाबूलाल आदि</entry>
+			<entry type="make-up">ओम प्रकाश आर्य</entry>
+			<entry type="stage">मनमोहन चित्रशाला</entry>
+			<entry type="artist">गोपीचन्द प्रेमी, चौधरी छज्जन सिंह, अमरनाथ, विष्णुचन्द शर्मा, मदनलाल शर्मा, अशफाक हुसैन व अन्य</entry>
+			<entry type="venue">श्री कृष्ण जन्म स्थान रंगमंच</entry>
+			<entry type="date">03-09-1989 (रविवार रात्रि 8 बजे)</entry>
 		</mdetails>
 		<photo>
 			<entry id="290" type="02" size="">
 				<desc>ब्रज कला केन्द्र द्वारा आयोजित स्वांग समारोह</desc>
+				<misc>पूर्ण सूचना स्मा - 2350 में उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.243">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5190,7 +5204,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.242">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5217,16 +5231,23 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.248;73.249;73.250">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मुरादाबाद</entry>
+			<entry type="troupe">आदर्श कला संगम</entry>
 			<entry type="drama">एक और द्रोणाचार्य</entry>
 			<entry type="writer">शंकर शेष</entry>
+			<entry type="director">बलबीर पाठक</entry>
+			<entry type="music">राजेश शर्मा, शमशाद उद्दीन</entry>
+			<entry type="dressandstage">ज्ञानेन्द्र वार्ष्णेय</entry>
+			<entry type="lightmanandvoice">मोती साऊण्ड सर्विस, श्याम कपूर व सत्यनारायण</entry>
+			<entry type="artist">दिनेश टण्डन (प्रो. अरविन्द), बद्री विशाल पारीख (प्रो. यदु), स्मृति खन्ना (कृपी), हुल्लड़ मुरादाबादी (अश्वत्थामा), प्रदीप शर्मा (द्रोणाचार्य) की भूमिका मे. (फोटो परि. सं क्रमश : 277 व 276 मे.)</entry>
 		</mdetails>
 		<photo>
 			<entry id="275" type="02" size="">
-				<desc></desc>
+				<desc>एक और द्रोणाचार्य प्रदर्शन पर मुख्य अतिथि उ. प्र. श्रम व आबकारी मंत्री श्री रमाशंकर कौशिक (माइक पर) उनके बाएं संस्था अध्यक्ष श्री महेन्द्र प्रताप दायें राजा राम अग्रवाल व संयोजक औमनारायण अग्रवाल (फोटो सं. 275 मे.)</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट, पूर्ण सूचना स्मा- 2356 में</misc>
 			</entry>
 			<entry id="276" type="02" size="">
 				<desc></desc>
@@ -5253,7 +5274,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.244">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5263,7 +5284,7 @@
 			<entry type="director">एम. रानी</entry>
 		</mdetails>
 		<photo>
-			<entry id="10612" type="01" size="8.5X12">
+			<entry id="10612" type="01" size="8.5X12 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -5352,7 +5373,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.251">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -18825,7 +18846,7 @@
 			<entry id="4809C2" type="02" size="14.7X21.2">
 				<desc></desc>
 			</entry>
-			<entry id="4810C2" type="02" size="14.7x21.2">
+			<entry id="4810C2" type="02" size="14.7X21.2">
 				<desc></desc>
 			</entry>
 			<entry id="4811C2" type="02" size="14.7X21.2">
@@ -46345,7 +46366,7 @@
 			<entry type="photo">व्यक्तिगत</entry>
 		</mdetails>
 		<photo>
-			<entry id="12208_2c" type="02" size="18x12 and 14.5X10">
+			<entry id="12208_2c" type="02" size="18X12 and 14.5X10">
 				<desc>श्रीमती कमला देवी चटोपाध्याय, संगीत नाटक अकादेमी की प्रथम सचिव एवं सुक्षी निर्मला जोशी</desc>
 				<misc>श्री गोविंद विद्यार्थी द्वारा खींची गई तथा उन्हीं के द्वारा न. प्र. को भेंट</misc>
 			</entry>
