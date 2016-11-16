@@ -5218,16 +5218,19 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.252">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
-			<entry type="drama">अद्दरियों का तालाब</entry>
+			<entry type="troupe">मुक्ताकाश नाट्य संस्थान</entry>
+			<entry type="drama">अद्दरियों का तालाब (हिन्दी - एकांकी)</entry>
 			<entry type="writer">ललितमोहन थपल्याल</entry>
+			<entry type="director">सुरेन्द्र कौशिक</entry>
+			<entry type="date">1964</entry>
 		</mdetails>
 		<photo>
 			<entry id="223" type="" size="">
-				<desc></desc>
+				<desc>संस्था, निर्देशक व वर्ष सूचना भा. रं. को./प्रतिभा अग्रवाल की पुस्तक - खण्ड - 2 से</desc>
 			</entry>
 		</photo>
 	</media>
@@ -5250,10 +5253,12 @@
 				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट, पूर्ण सूचना स्मा- 2356 में</misc>
 			</entry>
 			<entry id="276" type="02" size="">
-				<desc></desc>
+				<desc>एक और द्रोणाचार्य प्रदर्शन पर मुख्य अतिथि उ. प्र. श्रम व आबकारी मंत्री श्री रमाशंकर कौशिक (माइक पर) उनके बाएं संस्था अध्यक्ष श्री महेन्द्र प्रताप दायें राजा राम अग्रवाल व संयोजक औमनारायण अग्रवाल (फोटो सं. 275 मे.)</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट, पूर्ण सूचना स्मा- 2356 में</misc>
 			</entry>
 			<entry id="277" type="02" size="">
-				<desc></desc>
+				<desc>एक और द्रोणाचार्य प्रदर्शन पर मुख्य अतिथि उ. प्र. श्रम व आबकारी मंत्री श्री रमाशंकर कौशिक (माइक पर) उनके बाएं संस्था अध्यक्ष श्री महेन्द्र प्रताप दायें राजा राम अग्रवाल व संयोजक औमनारायण अग्रवाल (फोटो सं. 275 मे.)</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट, पूर्ण सूचना स्मा- 2356 में</misc>
 			</entry>
 		</photo>
 	</media>
@@ -5289,38 +5294,43 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.258">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
-			<entry type="drama">नीली भ्कील</entry>
+			<entry type="drama">नीली भ्कील (एकांकी)</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
+			<entry type="director">सुरेन्द्र कौशिक</entry>
+			<entry type="artist">महेन्द्र कौशिक व अन्य</entry>
+			<entry type="date">1964</entry>
 		</mdetails>
 		<photo>
 			<entry id="222" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट</desc>
+				<misc>वर्ष, संस्था व निर्देशक की सूचना भा. रं. को. खण्ड - 2 से</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.253">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
+			<entry type="troupe">मुक्ताकाश नाट्य संस्थान</entry>
 			<entry type="drama">उसने कहा था</entry>
 			<entry type="writer">चन्द्रधर शर्मा गुलेरी</entry>
 			<entry type="version">सुरेन्द्र कौशिक</entry>
-			<entry type="artist">लहना सिंह, शत्रु से लड़ते हुए</entry>
+			<entry type="artist">लहना सिंह, शत्रु से लड़ते हुए (सुरेन्द्र कौशिक)</entry>
 		</mdetails>
 		<photo>
 			<entry id="224" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट</desc>
 			</entry>
 			<entry id="225" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.256;73.257">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5328,38 +5338,47 @@
 			<entry type="drama">दीपशिखा</entry>
 			<entry type="writer">रेवती सरण शर्मा</entry>
 			<entry type="director">सुरेन्द्र कौशिक</entry>
+			<entry type="lightandvoice">सुरेन्द्र कनौजिया, सुभाष चन्द्र सैनी</entry>
+			<entry type="artist">सुरेन्द्र कौशिक (सूत्रधार), इन्दु (किट्टी, माँ), महेन्द्र राठौरिया (डैडी, पिता, अब्बा) की भूमिका में मधुलिका शर्मा (रंजना व दीपशिखा) व अन्य</entry>
+			<entry type="venue">मुक्ताकाश सभागार, सुभाष नगर, मेरठ</entry>
+			<entry type="date">11-12 नवम्बर 1983</entry>
 		</mdetails>
 		<photo>
 			<entry id="217" type="02" size="">
-				<desc></desc>
+				<desc>मुक्ताकाश नाट्य संस्थान के 20 वें स्थापना दिवस समारोह में मंचित तथा ब्रेख्त पद्धति पर आधारित</desc>
+				<misc>पूर्ण सूचना स्मा - 2360 में</misc>
 			</entry>
 			<entry id="218" type="02" size="">
-				<desc></desc>
+				<desc>मुक्ताकाश नाट्य संस्थान के 20 वें स्थापना दिवस समारोह में मंचित तथा ब्रेख्त पद्धति पर आधारित</desc>
+				<misc>पूर्ण सूचना स्मा - 2360 में</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.255">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
 			<entry type="troupe">मुक्ताकाश नाट्य संस्थान</entry>
-			<entry type="drama">दिया बुम्क गया</entry>
+			<entry type="drama">दिया बुभ्क गया</entry>
+			<entry type="writer">कर्तार सिंह दुग्गल</entry>
 			<entry type="director">सुरेन्द्र कौशिक</entry>
-			<entry type="artist">नूराँ की भूमिका में मनोरमा गर्ग, एवं राजी की भूमिका में डॉ. इन्दु</entry>
+			<entry type="artist">नूराँ की भूमिका में मनोरमा गर्ग, एवं राजी की भूमिका में डॉ. इन्दु गद्दार सुल्तान की भूमिका में शैलेन्द्र तिवारी व अन्य</entry>
+			<entry type="date">1988</entry>
 		</mdetails>
 		<photo>
 			<entry id="215" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट</desc>
 			</entry>
 			<entry id="216" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को. भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.254">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
+			<entry type="troupe">मुक्ताकाश नाट्य संस्थान</entry>
 			<entry type="troupe">मुक्ताकाश नाट्य संस्थान</entry>
 			<entry type="drama">कंजूस</entry>
 			<entry type="writer">मोलियर</entry>
@@ -5387,43 +5406,55 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.261">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
 			<entry type="troupe">मुक्ताकाश नाट्य संस्थान</entry>
 			<entry type="drama">रजनीगंधा</entry>
 			<entry type="writer">धनंजय वैरागी</entry>
+			<entry type="director">सुरेन्द्र कौशिक</entry>
 			<entry type="artist">प्रोफेसर की भूमिका में सुरेन्द्र कौशिक तथा मंजु शर्मा सिने तारिका की भूमिका में</entry>
+			<entry type="date">1972</entry>
 		</mdetails>
 		<photo>
 			<entry id="214" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.259;73.260">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
 			<entry type="troupe">मुक्ताकाश नाट्य संस्थान</entry>
-			<entry type="drama">पंचपरमेश्वर</entry>
+			<entry type="drama">पंचपरमेश्वर (हास्य नाटक)</entry>
 			<entry type="writer">प्रेमचन्द</entry>
+			<entry type="stage">सुरेन्द्र कौशिक</entry>
 			<entry type="director">सुरेन्द्र कौशिक</entry>
+			<entry type="version">सुरेन्द्र कौशिक</entry>
+			<entry type="music">डा. इन्दु</entry>
+			<entry type="voice">सुरेन्द्र पाल कनौजिया</entry>
+			<entry type="light">महेन्द्र पाल सिंह राठौरिया</entry>
+			<entry type="artist">सुरेन्द्र कौशिक (मिया जुम्मन), मधु एवं मंजु शर्मा (नसीबन बेगम), नीरु (चम्पा), श्रीमती साधना (चौधरन), अब्दुल कयूम अलवी (मामूजान) एवं अन्य</entry>
 			<entry type="date">22-03-1978</entry>
 		</mdetails>
 		<photo>
 			<entry id="210" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
 			</entry>
 			<entry id="211" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
 			</entry>
 			<entry id="212" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
 			</entry>
 			<entry id="213" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
 			</entry>
 		</photo>
 	</media>
@@ -5438,7 +5469,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.268">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5449,56 +5480,60 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.266">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">राथबरेली</entry>
 			<entry type="troupe">स्वर्ण कमल कंबाइन</entry>
-			<entry type="drama">छूटि गडल अंचरा के दाग</entry>
+			<entry type="drama">द्दूूटि गडल अंचरा के दाग</entry>
 			<entry type="artist">राजेश्वर नाथ मधुकर व हरिभानसिंह</entry>
 			<entry type="date">8 - 11 अप्रैल 1984</entry>
 		</mdetails>
 		<photo>
 			<entry id="229" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.262">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
-			<entry type="place">रायबरेली</entry>
+			<entry type="place">मेरठ</entry>
+			<entry type="troupe">मुक्ताकाश नाट्य संस्था</entry>
 			<entry type="drama">राजा इडिपस</entry>
-			<entry type="writer">सोफोक्लीज</entry>
+			<entry type="writer">सोफोक्लीज (ग्रीक)</entry>
 			<entry type="translation">जे. एन. कौशल</entry>
+			<entry type="director">सुरेन्द्र कौशिक</entry>
+			<entry type="artist">सुरेन्द्र कौशिक (इडिपस), उषा (एण्टीगनी), उमा (इज़मेनी) व अन्य</entry>
 		</mdetails>
 		<photo>
 			<entry id="230" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="231" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="232" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.269">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="drama">अंडर सेक्रेटरी</entry>
+			<entry type="writer">रमेश मेहता</entry>
 			<entry type="director">कुमुद नागर</entry>
 			<entry type="artist">आर. एस. पंकज तथा सत्येन्द्र शर्मा, चाँद नारायण व वर्मा की भूमिका में</entry>
 		</mdetails>
 		<photo>
 			<entry id="330" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.267">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -34732,7 +34767,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.277">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनौउ</entry>
@@ -34741,8 +34776,9 @@
 			<entry type="director">कृष्णमोहन समेला</entry>
 		</mdetails>
 		<photo>
-			<entry id="333" type="" size="">
+			<entry id="333" type="2" size="">
 				<desc>26 जुलाई को रवीन्द्रालय लखनऊ में प्रस्तुत</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -52043,20 +52079,21 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.275">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="drama">भगवद्ज्जुकीयम्</entry>
-			<entry type="writer">बोधायन</entry>
+			<entry type="writer">बोधायन (संस्कृत)</entry>
+			<entry type="artist">सरोज कपूर, गीता मिश्रा, आशीष चटर्जी, कॅवलजीत सिंह (बाएं से दाएं)</entry>
 		</mdetails>
 		<photo>
 			<entry id="329" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.273">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52071,7 +52108,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.270">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52085,7 +52122,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.279">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52290,7 +52327,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.280">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52298,11 +52335,13 @@
 			<entry type="drama">एक और द्रोणाचार्य</entry>
 			<entry type="writer">शंकर शेष</entry>
 			<entry type="director">अमरेन्द्र सहाय</entry>
+			<entry type="artist">विकास श्रीवास्तव (बाल अश्वत्थामा), योमेश योग (द्रोणाचार्य), प्रमिला मिश्रा (कृपी)</entry>
 			<entry type="date">06-08-1986</entry>
 		</mdetails>
 		<photo>
 			<entry id="343" type="02" size="">
-				<desc></desc>
+				<desc>फोटो - एस. जी. शेखर द्वारा (लीगई)</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
