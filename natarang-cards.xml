@@ -5458,14 +5458,20 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="01" cid="73.342">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
+			<entry type="troupe">भारतेन्दु नाट्य अकादेमी</entry>
+			<entry type="drama">बहुत बडा सवाल</entry>
+			<entry type="writer">मोहन राकेश</entry>
+			<entry type="director">राज बिसारिया</entry>
+			<entry type="date">1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="335" type="" size="">
-				<desc></desc>
+			<entry id="335" type="2" size="">
+				<desc>राज बिसारिया द्वारा भेंट फोटो</desc>
+				<misc>सीडी, परि. सं. 994-1 के प्रिंट्स</misc>
 			</entry>
 		</photo>
 	</media>
@@ -5544,26 +5550,28 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.317">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">परिक्रमा</entry>
 			<entry type="drama">कसाईबाड़ा</entry>
+			<entry type="writer">शिवमूर्ति</entry>
 			<entry type="director">राजवीर रतन</entry>
+			<entry type="artist">सुदर्शन वर्मा सलिलेश (लीडर), अनिता त्रिवेदी (शनीचरी) की भूमिका में</entry>
 		</mdetails>
 		<photo>
 			<entry id="325" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.316">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">नौटंकी कला केन्द्र</entry>
-			<entry type="drama">सांप</entry>
+			<entry type="drama">सांप (नौटंकी)</entry>
 			<entry type="writer">रामकुमार वर्मा</entry>
 			<entry type="director">कैलाश सक्सेना</entry>
 			<entry type="artist">लता रानी व शमीम बानो</entry>
@@ -5571,11 +5579,11 @@
 		</mdetails>
 		<photo>
 			<entry id="233" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.315">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5585,23 +5593,26 @@
 		<photo>
 			<entry id="234" type="02" size="">
 				<desc>प्रथम पुरस्कार</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.314">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">नौटंकी कला केन्द्र</entry>
 			<entry type="drama">नौटंकी आजादी के दीवाने</entry>
+			<entry type="artist">लालचन्द्र, रामकुमार</entry>
 		</mdetails>
 		<photo>
 			<entry id="235" type="02" size="">
 				<desc>लोकोत्सव `1992'</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.320">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5617,7 +5628,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.319">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5633,15 +5644,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.327">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">भारतेन्दुनाट्य अकादमी</entry>
 			<entry type="drama">कंजूस</entry>
-			<entry type="writer">मौलियर</entry>
+			<entry type="originaldrama">द माइज़र</entry>
+			<entry type="writer">मौलियर (फ्रेंच)</entry>
 			<entry type="director">बी. एम. शाह</entry>
-			<entry type="date">दिसंबर 1993</entry>
+			<entry type="date">दिसंबर, 1993</entry>
 		</mdetails>
 		<photo>
 			<entry id="3950" type="02" size="">
@@ -5649,23 +5661,31 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.359;73.360">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">भारतेन्दु नाट्य अकादमी</entry>
+			<entry type="troupe">भारतेन्दु नाट्य अकादमी रंगमण्डल</entry>
 			<entry type="drama">आषाढ़ का एक दिन</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">भानु भारती</entry>
-			<entry type="artist">योगेश द्विवेदी, राघव प्रकाश</entry>
+			<entry type="projection">भानु भारती</entry>
+			<entry type="music">भानु भारती एवं राघव प्रकाष</entry>
+			<entry type="dress">शैलजा कपूर, मृदुला भारद्वाज</entry>
+			<entry type="stage">ललित सिंह पोखरिया</entry>
+			<entry type="light">अरुण त्रिवेदी</entry>
+			<entry type="artist">मृदुला भारद्वाज (अम्बिका), शीला चौरसिया (मल्लिका), योगीश द्विवेदी (कालिदास), आनन्द शर्मा (दन्तुल), व अन्य</entry>
+			<entry type="venue">राय उमानाथ बली प्रेक्षागृह, कैसरबाग</entry>
+			<entry type="date">18-20 फरवरी 1992</entry>
 		</mdetails>
 		<photo>
-			<entry id="2085" type="02" size="">
-				<desc></desc>
+			<entry id="2085" type="01" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मारिका - 1732 में</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.323">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5676,27 +5696,33 @@
 		</mdetails>
 		<photo>
 			<entry id="2087" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.321;73.322">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">बाल नाट्य मंच</entry>
-			<entry type="drama">अनोखा वरदान</entry>
+			<entry type="drama">अनोखा वरदान (बाल नाटक)</entry>
 			<entry type="writer">रेखा जैन</entry>
 			<entry type="director">नाहिद जमाल</entry>
+			<entry type="music">रवि नागर एवं साथी</entry>
+			<entry type="make-up">राजकुमार अग्रवाल</entry>
+			<entry type="dress">आशा सक्सेना</entry>
+			<entry type="stage">मधु</entry>
+			<entry type="lightingdesign">मोहम्मद हफीज</entry>
+			<entry type="artist">वरुण गुप्ता (शिव), नेहा मोहन (पार्वती), सुकेशी (गणेश), अविनाश मोहन (पुजारी), मिहिर खुराना (सेठ), नीरो कौशल (सेठानी), की भूमिका में व अन्य</entry>
 			<entry type="venue">लाल बाग, लखनऊ</entry>
 			<entry type="date">जुलाई 1993</entry>
 		</mdetails>
 		<photo>
 			<entry id="3942" type="01" size="">
-				<desc></desc>
+				<desc>नाट्य प्रशिक्षण शिविर समापन समारोह में मंचित, पूर्ण सूचना स्मा - 2458 में उपलब्ध</desc>
 			</entry>
 			<entry id="3943" type="01" size="">
-				<desc></desc>
+				<desc>नाट्य प्रशिक्षण शिविर समापन समारोह में मंचित, पूर्ण सूचना स्मा - 2458 में उपलब्ध</desc>
 			</entry>
 		</photo>
 	</media>
@@ -5737,24 +5763,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.328">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">भारतेन्दु नाट्य अकादमी</entry>
 			<entry type="drama">गिरगिट</entry>
-			<entry type="writer">अंतोन चेखव</entry>
+			<entry type="originaldrama">चमैलियन</entry>
+			<entry type="writer">अंतोन चेखव (रुसी)</entry>
 			<entry type="version">मुद्राराक्षस</entry>
 			<entry type="director">अनुपम खेर</entry>
 			<entry type="date">28 अप्रैल - 3 मई 1980</entry>
 		</mdetails>
 		<photo>
 			<entry id="262" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.347">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5823,21 +5850,32 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.339;73.340">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">भारतेन्दु नाट्य अकादमी</entry>
 			<entry type="drama">तिकड़मबाज (बिच्छू)</entry>
+			<entry type="writer">मौलियर (फ्रैंच)</entry>
 			<entry type="director">जुगल किशोर</entry>
+			<entry type="version">वसी खान</entry>
+			<entry type="projectionanddirection">वसी खान</entry>
+			<entry type="Presentation">राज बिसारिया</entry>
+			<entry type="music">जुगल/राघव</entry>
+			<entry type="make-up">रंगमण्डल कलाकार</entry>
+			<entry type="dress">ललित सिंह पोखरिया एवं मृदुला भारद्वाज</entry>
+			<entry type="stage">राघव प्रकाश</entry>
+			<entry type="voiceandlight">अरुण त्रिवेदी</entry>
+			<entry type="artist">योगीश चन्द्र द्विवेदी (हश्मत), निशी पाण्डेय (शब्बो), राघव प्रकाश (मुनीर), ललित सिंह पोखरिया (रहमत) व अन्य</entry>
 		</mdetails>
 		<photo>
 			<entry id="2086" type="01" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - 2462 में उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.334">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5849,78 +5887,88 @@
 		</mdetails>
 		<photo>
 			<entry id="260" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.332;73.333">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">भारतेन्दु नाट्य अकादमी</entry>
+			<entry type="troupe">भारतेन्दु नाट्य अकादेमी</entry>
 			<entry type="drama">घासीराम कोतवाल</entry>
-			<entry type="writer">विजय तेंडुलकर</entry>
-			<entry type="date">8 - 10 मार्च 1984</entry>
+			<entry type="writer">विजय तेंदुलकर (मराठी)</entry>
+			<entry type="translator">वसंत देव</entry>
+			<entry type="director">रवि शंकर केम्यू</entry>
+			<entry type="musicandstage">रवि शंकर केम्यू</entry>
+			<entry type="make-up">कलारानी एवं छात्र</entry>
+			<entry type="dressandstage">रवि शंकर केम्यू</entry>
+			<entry type="light">हेमेन्द्र भाटिया</entry>
+			<entry type="artist">अमरेन्द्र सहाय (सूत्रधार-1), अनिल शर्मा (सूत्रधार-2), मुकेश नारायण सक्सेना (सूत्रधार-3), रमा (लक्ष्मी/गौरी), राकेश पाण्डेय (नाना फड़नवीस), मुकेश मोहन नैथानी व अन्य</entry>
+			<entry type="date">08-10 मार्च 1984</entry>
 		</mdetails>
 		<photo>
 			<entry id="261" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मारिका - में उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.343;73.356">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">भारतेन्दु नाट्य अकादेमी छात्र</entry>
 			<entry type="drama">बाकी इतिहास</entry>
-			<entry type="writer">बादल सरकार</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">नेमिचन्द्र जैन</entry>
 			<entry type="director">राज बिसारिया</entry>
 			<entry type="artist">मीना जोशी, सिराज अहमद, राकेश श्रीवास्तव व अन्य</entry>
 			<entry type="date">1984</entry>
 		</mdetails>
 		<photo>
 			<entry id="12065" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12066" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12067" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12068" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12069" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12070" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12071" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12072" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12073" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12074" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12075" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12076" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12077" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 			<entry id="12078" type="02" size="">
-				<desc></desc>
+				<desc>भा. ना. अ. से प्राप्त सीडी परि सं. 994-1 के प्रिंट्स</desc>
 			</entry>
 		</photo>
 	</media>
@@ -5942,17 +5990,17 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.349">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">भारनेन्दु नाट्य अकादेमी</entry>
+			<entry type="troupe">भारतेन्दु नाट्य अकादेमी</entry>
 			<entry type="drama">राजा लियर</entry>
 			<entry type="writer">शेक्सपियर</entry>
-			<entry type="translation">हरिवंश राय वच्चन</entry>
+			<entry type="translator">हरिवंश राय वच्चन</entry>
 			<entry type="director">रॉबिन दास</entry>
 			<entry type="venue">बी. एम. शाह प्रेक्षागृह, लखनऊ</entry>
-			<entry type="date">10 - 12 जनवरी, 2003</entry>
+			<entry type="date">10-12 जनवरी, 2003</entry>
 		</mdetails>
 		<photo>
 			<entry id="17208" type="" size="">
@@ -5960,11 +6008,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.362">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">भारतेन्दु नाट्य अकादेमी : रंगमहल</entry>
+			<entry type="troupe">भारतेन्दु नाट्य अकादेमी : रंगमण्डल</entry>
 			<entry type="drama">तीसवीं शताब्दी (हिन्दी)</entry>
 			<entry type="writer">बादल सरकार (बांग्ला)</entry>
 			<entry type="translation">रामगोपाल बजाज</entry>
@@ -5978,7 +6026,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.361">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5995,7 +6043,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.357">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6007,49 +6055,50 @@
 		<photo>
 			<entry id="2249" type="02" size="">
 				<desc>द्वादश कोमुदी नाटक समारोह में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.363">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">मेघदूत</entry>
-			<entry type="drama">दुलारी बाई (हिन्दी)</entry>
+			<entry type="drama">दुलारी बाई (हिन्दी) (व्यंग्यात्मक)</entry>
 			<entry type="writer">मणि मधुकर</entry>
 			<entry type="director">सूर्य मोहन कुलश्रेष्ठ</entry>
 			<entry type="venue">मंज़र थियेटर</entry>
 			<entry type="date">20-02-1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="7091" type="" size="">
-				<desc></desc>
+			<entry id="7091" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="7092" type="" size="">
-				<desc></desc>
+			<entry id="7092" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="7093" type="" size="">
-				<desc></desc>
+			<entry id="7093" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="7094" type="" size="">
-				<desc></desc>
+			<entry id="7094" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="7095" type="" size="">
-				<desc></desc>
+			<entry id="7095" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.362.1(1);73.362.2">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">महिला विधालय</entry>
+			<entry type="troupe">महिला विद्यालय</entry>
 			<entry type="drama">पथ अभिलाषी</entry>
-			<entry type="artist">ऊषा रानी (मधुलिका), रागिनी भाटिया (रानी जमादारिन), इन्दुरस्तोगी (रामु जमादार)</entry>
+			<entry type="artist">ऊषा रानी (मधुलिका), रागिनी भाटिया (रानी जमादारिन), इन्दुरस्तोगी (रामू जमादार)</entry>
 		</mdetails>
 		<photo>
 			<entry id="331" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -6085,11 +6134,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.365;73.366">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">थायावर नाट्य मेला</entry>
+			<entry type="troupe">यायावर</entry>
 			<entry type="drama">प्यादा</entry>
 			<entry type="writer">जितेंद्र मित्तल</entry>
 			<entry type="director">एम. हफीज</entry>
@@ -6101,7 +6150,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.364">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6114,13 +6163,16 @@
 		</mdetails>
 		<photo>
 			<entry id="356" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>संगीत नाटक अकादेमी</misc>
 			</entry>
 			<entry id="357" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>संगीत नाटक अकादेमी</misc>
 			</entry>
 			<entry id="358" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>संगीत नाटक अकादेमी</misc>
 			</entry>
 		</photo>
 	</media>
@@ -52596,36 +52648,41 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.311">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">दर्पण</entry>
-			<entry type="drama">हरीश्चन्नर की लड़ाई</entry>
+			<entry type="drama">हरिश्चन्नर की लड़ाई (नौटंकी)</entry>
 			<entry type="writer">उर्मिल कुमार थपलियाल</entry>
 			<entry type="director">उर्मिल थपलियाल</entry>
 			<entry type="event">राष्ट्रीय नाट्य समारोह</entry>
-			<entry type="date">1984</entry>
+			<entry type="date">1984, अप्रैल</entry>
 		</mdetails>
 		<photo>
-			<entry id="247" type="" size="">
-				<desc>संगीत नाटक अकादेमी उत्तर संभागीय नाट्य समारोह में प्रदर्शित</desc>
+			<entry id="247" type="2" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा उत्तर संभागीय नाट्य समारोह में प्रदर्शित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सं. ना. अ., नटरंग अंक में प्रकाशित</misc>
 			</entry>
-			<entry id="248" type="" size="">
+			<entry id="248" type="2" size="">
 				<desc>संगीत नाटक अकादेमी उत्तर संभागीय नाट्य समारोह में प्रदर्शित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सं. ना. अ., नटरंग अंक में प्रकाशित</misc>
 			</entry>
-			<entry id="249" type="" size="">
-				<desc>संगीत नाटक अकादेमी उत्तर संभागीय नाट्य समारोह में प्रदर्शित</desc>
+			<entry id="249" type="2" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा उत्तर संभागीय नाट्य समारोह में प्रदर्शित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सं. ना. अ., नटरंग अंक में प्रकाशित</misc>
 			</entry>
-			<entry id="250" type="" size="">
-				<desc>संगीत नाटक अकादेमी उत्तर संभागीय नाट्य समारोह में प्रदर्शित</desc>
+			<entry id="250" type="2" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा उत्तर संभागीय नाट्य समारोह में प्रदर्शित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सं. ना. अ., नटरंग अंक में प्रकाशित</misc>
 			</entry>
-			<entry id="251" type="" size="">
-				<desc>संगीत नाटक अकादेमी उत्तर संभागीय नाट्य समारोह में प्रदर्शित</desc>
+			<entry id="251" type="2" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा उत्तर संभागीय नाट्य समारोह में प्रदर्शित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सं. ना. अ., नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.310">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52675,7 +52732,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.313">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52693,15 +52750,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.312;73.312(1)">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">दर्पण</entry>
-			<entry type="drama">हरिचन्नर की लड़ाई</entry>
+			<entry type="drama">हरिचन्नर की लड़ाई (नौटंकी)</entry>
+			<entry type="writer">उर्मिल कुमार थपल्याल</entry>
 			<entry type="director">उर्मिल कुमार थपल्याल</entry>
 			<entry type="venue">मंज़र थियेटर</entry>
-			<entry type="host">ट्रेड फेथर अथोरिटी ऑफ इंडिया (भारतीय व्यापार मेला प्राधिकरण)</entry>
+			<entry type="host">ट्रेड फेयर अथोरिटी ऑफ इंडिया (भारतीय व्यापार मेला प्राधिकरण)</entry>
 			<entry type="date">जून 22' 1985</entry>
 		</mdetails>
 		<photo>
@@ -52739,6 +52797,9 @@
 				<desc></desc>
 			</entry>
 			<entry id="4254" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22620" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
