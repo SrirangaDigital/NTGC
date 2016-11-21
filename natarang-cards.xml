@@ -6102,14 +6102,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.367">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">थायावर नाट्य मेला</entry>
+			<entry type="troupe">यायावर नाट्य मेला</entry>
 			<entry type="drama">सॉल्यूशन एक्स</entry>
-			<entry type="writer">बादल सरकार</entry>
-			<entry type="translation">यामा सराफ</entry>
+			<entry type="writer">बादल् सरकार</entry>
+			<entry type="translator">यामा सराफ</entry>
 			<entry type="director">जितेन्द्र मित्तल</entry>
 			<entry type="date">16 - 23 दिसम्बर 1982</entry>
 		</mdetails>
@@ -6119,18 +6119,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.371;73.372">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">थायावर नाट्य मेला</entry>
+			<entry type="troupe">यायावर रंगमण्डल</entry>
 			<entry type="drama">मंत्रिमंडल</entry>
 			<entry type="writer">जितेन्द्र मित्तल</entry>
-			<entry type="director">अशोक निशेष</entry>
+			<entry type="director">अशोक निशेश</entry>
+			<entry type="music">एच. वसन्त</entry>
+			<entry type="make-up">नन्दन गुप्ता</entry>
+			<entry type="stage">कीर्ति प्रकाश</entry>
+			<entry type="light">पीर गुलाम सिंह</entry>
+			<entry type="artist">एम. हफीज़ (पण्डित जी), जितेन्द्र मित्तल (बैजनाथ), विजयमिश्रा (यादव), मो. नूर (सुखराम), एम. फरीद (मिर्जा) एवं अन्य</entry>
+			<entry type="venue">लखनऊ</entry>
 		</mdetails>
 		<photo>
 			<entry id="351" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नाटक की पूर्ण सूचना स्मा - 2401 में उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
@@ -6141,12 +6148,19 @@
 			<entry type="troupe">यायावर</entry>
 			<entry type="drama">प्यादा</entry>
 			<entry type="writer">जितेंद्र मित्तल</entry>
-			<entry type="director">एम. हफीज</entry>
-			<entry type="date">16 - 23 दिसंबर 1988</entry>
+			<entry type="visualconcept">एम. हफीज़</entry>
+			<entry type="writingdirectionandprojection">जितेंद्र मित्तल</entry>
+			<entry type="make-up">मेराज आलम</entry>
+			<entry type="stage">जितेन्द्र नाथ सिन्हा, विनय कुमार चौधरी</entry>
+			<entry type="light">एम. हफीज़</entry>
+			<entry type="artist">नाहिद जमाल (रश्मि), जितेन्द्र मित्तल (विशाल), संजूश्री (रवि) की भूमिका में व अन्य</entry>
+			<entry type="venue">रवीन्द्रालय, लखनऊ</entry>
+			<entry type="date">16 - 23 दिसंबर 1982</entry>
 		</mdetails>
 		<photo>
 			<entry id="345" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - 2398</misc>
 			</entry>
 		</photo>
 	</media>
@@ -6176,39 +6190,44 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.370">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">थायावर नाट्य मेला</entry>
-			<entry type="drama">हायाहाया मेरा दिल</entry>
+			<entry type="troupe">यायावर</entry>
+			<entry type="drama">हायाहाय मेरा दिल</entry>
 			<entry type="writer">रणवीर सिंह</entry>
 			<entry type="director">जितेन्द्र मित्तल</entry>
+			<entry type="artist">गोपाल मिश्र एवं संजू श्री व अन्य</entry>
 			<entry type="date">22 - 24 सितंबर</entry>
 		</mdetails>
 		<photo>
 			<entry id="350" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.368(1);73.369(1)">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">थायावर नाटक मेला</entry>
+			<entry type="troupe">यायावर नाटक मेला</entry>
 			<entry type="drama">हमारा कोई नाम नही</entry>
-			<entry type="writer">अशोक अग्रवाल, नफ़ीस आफरीदी</entry>
-			<entry type="director">जिनेन्द्र मित्तल</entry>
+			<entry type="writer">अशोक अग्रवाल (कहानी)</entry>
+			<entry type="dramatized">नफ़ीस आफ़रीदी</entry>
+			<entry type="stage">एम. हफीज़, रवि शुक्ला</entry>
+			<entry type="light">गांपाल मिश्र</entry>
+			<entry type="music">सौविक चक्रवर्ती/संजू</entry>
+			<entry type="artist">जितेन्द्र श्रीवास्तव (नाटा/ना०.-8), एम. हफीज़ (दूसरा), मो. फरीद (पड़ोसी) व अन्य</entry>
 			<entry type="date">19 - 23 दिसंबर 1982</entry>
 		</mdetails>
 		<photo>
 			<entry id="349" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.378">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6218,45 +6237,55 @@
 		</mdetails>
 		<photo>
 			<entry id="332" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.376">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">रंगलोक</entry>
-			<entry type="drama">चौराहा</entry>
+			<entry type="drama">चौराहा के हादसे</entry>
 			<entry type="director">चन्दन गोपाल</entry>
 			<entry type="artist">चन्दन गोपाल (पागल की भूमिका में)</entry>
 			<entry type="date">जनवरी 1988</entry>
 		</mdetails>
 		<photo>
 			<entry id="322" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.374;73.375">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">रंगलोक</entry>
-			<entry type="drama">आकाश जुक गया</entry>
+			<entry type="drama">आकाश ऋक गया</entry>
 			<entry type="writer">सुरेशचन्द्र शुक्ल</entry>
 			<entry type="director">चन्दन गोपाल</entry>
+			<entry type="make-up">चन्दन ब्रदर्स</entry>
+			<entry type="dress">सुबोध श्रीवास्तव</entry>
+			<entry type="stageandlight">एम. एस. बेग</entry>
+			<entry type="visualmanagement">राकेश गोपाल</entry>
+			<entry type="artist">चन्दन गोपाल (सूत्राधार एवं वृद्ध), रवि कुमार (स्वामी युगानन्द), सुबोध श्रीवास्तव (मसिपाल), प्रीति सिंह (वासना कुमारी) की भूमिका में व अन्य</entry>
+			<entry type="venue">बाल रवीन्द्रालय, लखनऊ</entry>
+			<entry type="date">25-06-1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="323" type="" size="">
-				<desc></desc>
+			<entry id="323" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>रंगलोक की प्रथम प्रस्तुति</misc>
 			</entry>
-			<entry id="2324" type="" size="">
-				<desc></desc>
+			<entry id="2324" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>रंगलोक की प्रथम प्रस्तुति</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.377">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6265,64 +6294,79 @@
 			<entry type="writer">निकोलाई गोगोल</entry>
 			<entry type="version">मुद्राराक्षस</entry>
 			<entry type="director">बंसी कौल</entry>
+			<entry type="artist">हरेकृष्ण अरोरा (हल्लो भैया)</entry>
+			<entry type="venue">लखनऊ</entry>
+			<entry type="date">1976-77</entry>
 		</mdetails>
 		<photo>
 			<entry id="346" type="02" size="">
 				<desc></desc>
 			</entry>
 			<entry id="347" type="02" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध - 30/11</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.382">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
-			<entry type="troupe">वुश्वकर्मा पूजा समिति</entry>
+			<entry type="troupe">विश्वकर्मा पूजा समिति</entry>
 			<entry type="drama">सुबह के लिए</entry>
 			<entry type="writer">मधुकर सिंह</entry>
 			<entry type="director">प्रयाग वर्मा</entry>
+			<entry type="venue">रवीन्द्रालय, लखनऊ</entry>
 		</mdetails>
 		<photo>
 			<entry id="341" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.380">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">लकीस</entry>
 			<entry type="drama">खड़िया का घेरा</entry>
 			<entry type="writer">बर्टोल्ट ब्रैश्ट</entry>
+			<entry type="translator">कमलेश्वर</entry>
+			<entry type="artist">आलोपी वर्मा (अज़दक किसान, सिपाही, बाजे वाला), आलोक बनर्जी (डाक्टर) सिपाही की भूमिका में व अन्य</entry>
+			<entry type="venue">रवीन्द्रालय, लखनऊ</entry>
+			<entry type="date">09-11 मई</entry>
 		</mdetails>
 		<photo>
-			<entry id="359" type="02" size="">
-				<desc></desc>
+			<entry id="359" type="2" size="">
+				<desc>संगीत नाटक अकादेमी के तत्वाधान में पूर्ण विवरण स्मा - 2631 में उपलब्ध</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.386;73.387">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">संस्कृति</entry>
 			<entry type="drama">लकड़बग्घा</entry>
-			<entry type="writer">मुद्राराक्षस</entry>
-			<entry type="director">मुद्राराक्षस</entry>
+			<entry type="writer">रोमेल मुद्राराक्षस</entry>
+			<entry type="director">रोमेल मुद्राराक्षस</entry>
+			<entry type="projection">रोमेल मुद्राराक्षस</entry>
+			<entry type="stage">कलाकारो द्वारा</entry>
+			<entry type="artist">आभा उपाध्याय (नीरु), सीमा श्रीवास्तव (लाली), कुमुद उपाध्याय (अजय), अजय भटनागर (ललित), शीराज मुद्राराक्षस (मकउआ), पवन मिश्र (पकउआ) व अन्य</entry>
+			<entry type="venue">बाल रवीन्द्रालय, लखनऊ</entry>
+			<entry type="date">18-06-1979, शाम-7.30</entry>
 		</mdetails>
 		<photo>
 			<entry id="353" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - से प्राप्त</misc>
 			</entry>
 			<entry id="2925" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - से प्राप्त</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.385">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6330,14 +6374,16 @@
 			<entry type="drama">पगला घोड़ा</entry>
 			<entry type="writer">बादल सरकार</entry>
 			<entry type="director">मुद्राराक्षस</entry>
+			<entry type="translator">प्रतिभा अग्रवाल</entry>
 		</mdetails>
 		<photo>
 			<entry id="352" type="" size="">
-				<desc></desc>
+				<desc>बाल गंधर्व शतावदी समारोह में मंचित</desc>
+				<misc>Neg. No. 37/22</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.384">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6345,14 +6391,17 @@
 			<entry type="drama">मिस आहलुवालिया</entry>
 			<entry type="writer">शेखर चटर्जी</entry>
 			<entry type="director">संगम बहुगुणा</entry>
+			<entry type="artist">विनय श्रीवास्तव, पवन कुलश्रेष्ठ एवं राजनारायण</entry>
+			<entry type="date">1985</entry>
 		</mdetails>
 		<photo>
 			<entry id="324" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.383">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6360,35 +6409,45 @@
 			<entry type="drama">ओह अमेरिका</entry>
 			<entry type="writer">दयाप्रकाश सिन्हा</entry>
 			<entry type="director">के. बी. चन्द्रा</entry>
+			<entry type="artist">अशोक शर्मा (समीर), मेहरु ज़फर (मजर्था) की भूमिका में</entry>
 		</mdetails>
 		<photo>
 			<entry id="340" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.400">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
-			<entry type="troupe">अमृत पुत्र</entry>
+			<entry type="troupe">नाट्य परिषद</entry>
+			<entry type="drama">अमृत पुत्र (असंगत नाटक)</entry>
+			<entry type="writer">सत्यव्रत सिन्हा</entry>
+			<entry type="director">नीलकमल चटर्जी</entry>
+			<entry type="artist">नीलकमल चटर्जी (खुना), गणेश सिंह (गोयल), तथा नन्दिनी मेहता (पाला मिताली) व अन्य</entry>
+			<entry type="date">1976</entry>
 		</mdetails>
 		<photo>
 			<entry id="314" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - में प्रकाशित, लेखक-निर्देशक व वर्ष की सूचना भा. रं. कोश से प्राप्त</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.388">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">संस्कृति</entry>
 			<entry type="drama">स्वांग सपेड़ा</entry>
+			<entry type="artist">विपिन श्रीवास्तव, कुमकुम धर, मुमताज अली, अरुण द्विवेदी, कुमकुम श्रीवास्तव, विष्णु दत्त गौड़ व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="354" type="" size="">
-				<desc></desc>
+			<entry id="354" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -6404,62 +6463,72 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.390">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
 			<entry type="drama">तीन हस्ताक्षर</entry>
 			<entry type="director">प्रदीप मैनी</entry>
+			<entry type="cinematographer">एस. अतिबल</entry>
 		</mdetails>
 		<photo>
 			<entry id="311" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.393;73.394">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
-			<entry type="drama">आधे अघूरे</entry>
+			<entry type="troupe">अनुपमा</entry>
+			<entry type="drama">आधे अधूरे</entry>
 			<entry type="writer">मोहन राकेश</entry>
-			<entry type="director">अवध बिहारी लाल सोनू</entry>
+			<entry type="director">अवध बिहारी लाल सोना</entry>
+			<entry type="artist">श्रीमती लता मिश्रा (सावित्री), अवध बिहारी लाल (सोना) (जुनेजा), हेमा कृष्णन (बिन्नी), अंजलि श्रीवास्तव (बिन्नी), विजय कुमार तिवारी (अशोक) की भूमिका में व अन्य</entry>
+			<entry type="date">1976</entry>
 		</mdetails>
 		<photo>
-			<entry id="297" type="02" size="">
+			<entry id="297" type="2" size="">
 				<desc>उत्तरप्रदेश संगीत नाटक अकादमी द्वारा आयोजित प्रादेशीक प्रतियोगिता में सर्वश्रेष्ठ द्वित्तीय प्रस्तुति</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="298" type="02" size="">
+			<entry id="298" type="2" size="">
 				<desc>उत्तरप्रदेश संगीत नाटक अकादमी द्वारा आयोजित प्रादेशीक प्रतियोगिता में सर्वश्रेष्ठ द्वित्तीय प्रस्तुति</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.389">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
 			<entry type="drama">आखिरी सौदा</entry>
+			<entry type="writer">रूप तिवारी</entry>
+			<entry type="director">ज्योतीन्द्र सोहल</entry>
 		</mdetails>
 		<photo>
 			<entry id="309" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.392">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
 			<entry type="drama">यक्ष प्रश्न : उत्तर युद्द</entry>
 			<entry type="director">कृष्ण मोहन मिश्र</entry>
+			<entry type="cinematographer">एस. अतिबल</entry>
+			<entry type="sender">विजय कुमार</entry>
 		</mdetails>
 		<photo>
-			<entry id="310" type="02" size="">
-				<desc></desc>
+			<entry id="310" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.391">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6467,15 +6536,16 @@
 			<entry type="writer">शिवमूरत सिंह</entry>
 			<entry type="director">देवेन्द्र राज</entry>
 			<entry type="artist">सुनन्दानायक और सुरिन्दर शर्मा</entry>
-			<entry type="date">8 - 9 अक्टुबर 1977</entry>
+			<entry type="cinematographer">एस. अतिबल</entry>
+			<entry type="date">8 - 9 अक्टूबर 1977</entry>
 		</mdetails>
 		<photo>
-			<entry id="306" type="02" size="">
-				<desc></desc>
+			<entry id="306" type="2" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.398">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6483,7 +6553,8 @@
 			<entry type="drama">मालविकाग्नि मित्र</entry>
 			<entry type="writer">कालिदास</entry>
 			<entry type="director">प्रेमलता शर्मा, कमलेश दत्त त्रिपाठी</entry>
-			<entry type="event">कालिदास समारोह उज्जैन 1981</entry>
+			<entry type="event">कालिदास समारोह, उज्जैन</entry>
+			<entry type="date">1981</entry>
 		</mdetails>
 		<photo>
 			<entry id="316" type="02" size="">
@@ -6494,7 +6565,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.397">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6519,21 +6590,23 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.396">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
 			<entry type="troupe">अभिनयज्योति</entry>
 			<entry type="drama">मिस आहलुवालिया</entry>
-			<entry type="writer">शेखर चटर्जी</entry>
+			<entry type="writer">शेखर चटर्जी (बांग्ला)</entry>
+			<entry type="event">रजत जयंती समारोह</entry>
+			<entry type="date">दिसंबर 1990</entry>
 		</mdetails>
 		<photo>
 			<entry id="304" type="01" size="">
-				<desc>रजत जयंती समारोह दिसंबर 1990</desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.395">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6564,7 +6637,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.399">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6573,10 +6646,13 @@
 			<entry type="writer">रमेश उपाध्याय</entry>
 			<entry type="director">देवेन्द्र राज</entry>
 			<entry type="date">13 - 15 जनवरी 1980</entry>
+			<entry type="artist">जयप्रकाश वर्मा, विभा मिश्र, आर. एम. कौशिक, मधु अरोड़ा, बलदेव राज शर्मा व सुरिन्दर शर्मा</entry>
+			<entry type="venue">डी. रे. का संस्थान हॉल</entry>
+			<entry type="date">13-15 जन 1980</entry>
 		</mdetails>
 		<photo>
 			<entry id="313" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -52189,25 +52265,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.373">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
 			<entry type="troupe">यू. पी. फेडरेशन ऑफ मिनी सीरियल सर्विस एसोसिएशन्स</entry>
 			<entry type="drama">छुटकार : उर्फ पहली तारीख</entry>
-			<entry type="writer">राजनाथ कोचर (हरिकृष्ण अरोड़ा)</entry>
+			<entry type="writingdirection">राजनाथ कोचर (हरिकृष्ण अरोड़ा)</entry>
 			<entry type="director">राजनाथ कोचर (हरिकृष्ण अरोड़ा)</entry>
 			<entry type="artist">हरिकृष्ण अरोड़ा</entry>
 		</mdetails>
 		<photo>
 			<entry id="7970" type="" size="">
-				<desc>प्रथम प्रस्तुति : 1957, कोचिदूल हॉल, लखनऊ</desc>
+				<desc>प्रथम प्रस्तुति : 1957, कोचिडूल हॉल, लखनऊ</desc>
 			</entry>
 			<entry id="7973" type="" size="">
-				<desc>प्रथम प्रस्तुति : 1957, कोचिदूल हॉल, लखनऊ</desc>
+				<desc>प्रथम प्रस्तुति : 1957, कोचिडूल हॉल, लखनऊ</desc>
 			</entry>
 			<entry id="7973/1" type="" size="">
-				<desc>प्रथम प्रस्तुति : 1957, कोचिदूल हॉल, लखनऊ</desc>
+				<desc>प्रथम प्रस्तुति : 1957, कोचिडूल हॉल, लखनऊ</desc>
 			</entry>
 		</photo>
 	</media>
