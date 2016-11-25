@@ -6451,15 +6451,21 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.407">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
+			<entry type="troupe">श्री नाट्यम</entry>
 			<entry type="drama">नय की पीढ़ी</entry>
+			<entry type="writer">शिवमूरत सिंह</entry>
+			<entry type="director">प्रभात कुमार घोष</entry>
+			<entry type="artist">दुर्गा (राधिया), कमलाकांत मिश्र (किसन), बलदेव राज शर्मा (रामू) व अन्य</entry>
+			<entry type="cinematographer">एस. अतिबल</entry>
+			<entry type="date">नवम्बर 1971</entry>
 		</mdetails>
 		<photo>
 			<entry id="315" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -6623,17 +6629,26 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.401;73.402">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
-			<entry type="troupe">कला परिषद्</entry>
+			<entry type="troupe">नाट्य परिषद्</entry>
 			<entry type="drama">फंदी</entry>
-			<entry type="writer">लेखक शंकर शेष</entry>
+			<entry type="writer">शंकर शेष</entry>
+			<entry type="director">नीलकमल चटर्जी</entry>
+			<entry type="music">शिव मेहता, प्रदीप व सुदीप आनन्द</entry>
+			<entry type="voice">सुदीप, अंजलि, पुष्प व अन्य</entry>
+			<entry type="stage">बद्री प्रसाद, पन्नालाल पाण्डेय</entry>
+			<entry type="artist">कृष्ण मोहन मिश्र (वकील), राजेश वर्मा (वार्डर), नीलकमल चटर्जी (फंदी)</entry>
+			<entry type="venue">लखनऊ</entry>
+			<entry type="date">2 अक्टूबर 1975</entry>
+			<entry type="cinematographer">एस. अतिबल</entry>
 		</mdetails>
 		<photo>
 			<entry id="312" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - 2943 में उपलब्ध, नटरंग अंक - में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -6656,7 +6671,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.408;73.409">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">शाहजहाँपुर</entry>
@@ -6664,79 +6679,98 @@
 			<entry type="drama">अन्धायुग</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
 			<entry type="director">विश्वभावन देवलिया</entry>
+			<entry type="music">नमिता सक्सेना एवं प्रभात</entry>
+			<entry type="voice">मधु साउण्ड</entry>
+			<entry type="make-up">राधेश्याम श्रीवास्तव</entry>
+			<entry type="stage">बी. एस. त्रिवेदी</entry>
+			<entry type="artist">विकास चावला (अश्वत्थामा), शशि याज्ञिक (गाँधारी), मनोज त्रिपाठी (धृतराष्ट्र) व अन्य</entry>
+			<entry type="venue">गाँधी भवन प्रेक्षागृह, शाहजहाँपुर</entry>
+			<entry type="date">07-09 फर., 1990</entry>
 		</mdetails>
 		<photo>
 			<entry id="273" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - 2974 में उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.406">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
 			<entry type="troupe">श्रीनाट्यम</entry>
 			<entry type="drama">गोदान</entry>
-			<entry type="writer">प्रेमचन्द</entry>
+			<entry type="writer">प्रेमचन्द (उपन्यास)</entry>
+			<entry type="dramatized">के. बी. चन्द्रा</entry>
+			<entry type="director">प्रभात कुमार घोष (शायह)</entry>
 		</mdetails>
 		<photo>
 			<entry id="307" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="308" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.405">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
 			<entry type="troupe">श्रीनागरी नाटक मंडली</entry>
 			<entry type="drama">शेणी विजानंद</entry>
+			<entry type="artist">श्रीराम नागर, अन्नपूर्णामिश्रा व अन्य</entry>
 			<entry type="date">16 - 18 मार्च 1972</entry>
 		</mdetails>
 		<photo>
 			<entry id="318" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="319" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="320" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.403;73.404">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
 			<entry type="troupe">भारतेन्दु नाटक मंडली</entry>
 			<entry type="drama">अन्धेर नगरी</entry>
 			<entry type="writer">भारतेन्दु हरिशचन्द्र</entry>
+			<entry type="director">सत्यव्रत सिन्हा</entry>
+			<entry type="music">श्री मधुकर सिडनी</entry>
+			<entry type="make-up">अनिल कांजी लाल</entry>
+			<entry type="artist">नीलकमल चटर्जी (राजा), मयंक मुंशी (मंत्री), प्रेम प्रकाश शर्मा (कोतवाल), प्रतापचन्द्र जैन (फरियादी), कृष्ण मोहन गुप्ता (कल्लू बनिया), जयश्रीकृष्ण नागर (कारीगर), लक्ष्मण कृष्णा (चूने वाला) व अन्य</entry>
+			<entry type="venue">मुरारीलाल मेहता प्रेक्षागृह</entry>
+			<entry type="date">17-12-1974 शाम 8 बजे</entry>
 		</mdetails>
 		<photo>
 			<entry id="305" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.411">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">शाहजहांपुर</entry>
 			<entry type="troupe">अनामिका</entry>
 			<entry type="drama">गिरगिट</entry>
-			<entry type="writer">अंतोन चेखव</entry>
+			<entry type="writer">अंतोन चेखव (रुसी)</entry>
+			<entry type="translation">रमेश उपाध्याय/सफदर हाशमी/मुयूराक्षस/यशपाल (कोई एक)</entry>
+			<entry type="artist">अंशुमान (कुता), राजेन्द्र श्रीवास्तव (छोटा अफसर) व अन्य</entry>
 		</mdetails>
 		<photo>
 			<entry id="274" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.410">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">शाहजहाँपुर</entry>
@@ -6744,11 +6778,12 @@
 			<entry type="drama">इन्ना की आवाज</entry>
 			<entry type="writer">असगर वज़ाहत</entry>
 			<entry type="director">कमल वशिष्ठ</entry>
+			<entry type="artist">करुणा गुप्ता (मलका), चन्द्रमोहन दिनेश (इन्ना), श्याम किशोर (अंगरक्षक) व अन्य</entry>
 			<entry type="date">फरवरी 1981</entry>
 		</mdetails>
 		<photo>
 			<entry id="272" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
