@@ -6787,22 +6787,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="01" cid="73.418">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सहारनपुर</entry>
 			<entry type="troupe">नाट्य</entry>
-			<entry type="dance"></entry>
+			<entry type="drama">जुलूस</entry>
+			<entry type="originaldrama">मिछिल (बांग्ला)</entry>
 			<entry type="writer">बादल सरकार</entry>
 			<entry type="director">के. के. सिन्हा</entry>
+			<entry type="translator">यामा अग्रवाल</entry>
+			<entry type="date">1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="226" type="02" size="">
+			<entry id="226" type="02" size="10.5X16 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.413">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">श्रीनगर गढ़वाल</entry>
@@ -6857,33 +6860,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
-		<mdetails>
-			<entry type="state">उत्तरप्रदेश</entry>
-			<entry type="place">शाहजहाँपुर</entry>
-			<entry type="troupe">भुवनेश्वर प्रसाद शोधसंस्थान</entry>
-			<entry type="event">भुवनेश्वर प्रसाद स्मृति समारोह</entry>
-			<entry type="venue">गांधी भवन, शाहजहाँपुर</entry>
-			<entry type="date">27, 28 मार्च 1993</entry>
-		</mdetails>
-		<photo>
-			<entry id="14470" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="14471" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.412">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">शाहजहाँपुर</entry>
 			<entry type="troupe">भुवनेश्वर प्रसाद शोध संस्थान</entry>
 			<entry type="event">भुवनेश्वर प्रसाद स्मृति समारोह</entry>
+			<entry type="venue">गांधी भवन, शाहजहाँपुर</entry>
+			<entry type="date">27, 28 मार्च 1993</entry>
 		</mdetails>
 		<photo>
+			<photo>
 			<entry id="3959" type="02" size="">
+				<desc>सर्वश्री राजेश्वर सहाय बेदार, विनोद चन्द्र पाण्डेय, सुरेश अवस्थी, लक्ष्मीकान्त वर्मा, शुकदेव सिंह, बलवीर कुमार अग्रवाल, राजकुमार शर्मा तथा जे. आर. के. रायजादा</desc>
+			</entry>
+		</photo>
+			<entry id="14470" type="02" size="">
+				<desc>सर्वश्री राजेश्वर सहाय बेदार, विनोद चन्द्र पाण्डेय, सुरेश अवस्थी, लक्ष्मीकान्त वर्मा, शुकदेव सिंह, बलवीर कुमार अग्रवाल, राजकुमार शर्मा तथा जे. आर. के. रायजादा</desc>
+			</entry>
+			<entry id="14471" type="02" size="">
 				<desc>सर्वश्री राजेश्वर सहाय बेदार, विनोद चन्द्र पाण्डेय, सुरेश अवस्थी, लक्ष्मीकान्त वर्मा, शुकदेव सिंह, बलवीर कुमार अग्रवाल, राजकुमार शर्मा तथा जे. आर. के. रायजादा</desc>
 			</entry>
 		</photo>
@@ -6904,7 +6899,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.419">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सहारनपुर</entry>
@@ -6912,8 +6907,8 @@
 			<entry type="dance">धीमा जहर</entry>
 		</mdetails>
 		<photo>
-			<entry id="228" type="" size="">
-				<desc></desc>
+			<entry id="228" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
