@@ -18,10 +18,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.444">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="dance">डोलु कुणिता</entry>
+			<entry type="dance">डोलू कुनिथा</entry>
 		</mdetails>
 		<photo>
 			<entry id="3691" type="01" size="">
@@ -35,12 +35,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.446">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">इडगुंजी</entry>
-			<entry type="troupe">इडगुंजी गणपति यक्षगान मण्डली</entry>
-			<entry type="drama">जरासन्ध वध</entry>
+			<entry type="place">इंदागुंजी</entry>
+			<entry type="troupe">इंदागुंजी गणपति यक्षगान मण्डली</entry>
+			<entry type="drama">जरासन्ध वध (यक्षगान)</entry>
 			<entry type="director">शम्भु हेगड़े</entry>
 		</mdetails>
 		<photo>
@@ -49,11 +49,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.448">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">केरेमने</entry>
-			<entry type="troupe">इडगुंजी महागणपति यक्षगान मंडली</entry>
+			<entry type="troupe">इंडगुंजी महागणपति यक्षगान मंडली</entry>
 			<entry type="drama">यक्षगान</entry>
 			<entry type="venue">रामलीला मेला, भोपाल</entry>
 			<entry type="date">नवम्बर, 1988</entry>
@@ -64,10 +64,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.450">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बेंगलूरु</entry>
 			<entry type="drama">करुथा दाउथे थीडि : पीकडि</entry>
 		</mdetails>
 		<photo>
@@ -76,12 +76,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.449">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">तलवाटा</entry>
-			<entry type="troupe">गेळेयर बळग</entry>
-			<entry type="drama">मुत्तूरिन प्रसंग [कन्नड]</entry>
+			<entry type="troupe">गेलेयर बालग्ग</entry>
+			<entry type="drama">मूदुरिना प्रसंग [कन्नड]</entry>
 			<entry type="writer">ए. आर. श्रीनिवास</entry>
 			<entry type="director">एस. मालती</entry>
 			<entry type="date">26-11-1987</entry>
@@ -139,10 +139,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.451">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="drama">काडु कुद्रे</entry>
 			<entry type="writer">चन्द्रशेखर कंबार</entry>
 			<entry type="date">मार्च, 1984</entry>
@@ -6883,7 +6883,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.422">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सहारनपुर</entry>
@@ -6891,11 +6891,12 @@
 			<entry type="drama">फन्दी</entry>
 			<entry type="writer">शंकर शेष</entry>
 			<entry type="director">अरविन्द नैब</entry>
-			<entry type="date">18-08-1983</entry>
+			<entry type="artist">अरविन्द नैब (फन्दी), राजीव सिंघल (वकील) की भूमिका में</entry>
+			<entry type="date">18 आगस्त 1983</entry>
 		</mdetails>
 		<photo>
 			<entry id="227" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -6912,7 +6913,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.426">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
@@ -6921,15 +6922,15 @@
 			<entry type="writer">ललित मोहन थपल्याल</entry>
 			<entry type="director">ललित मोहन थपल्याल</entry>
 			<entry type="artist">जीतू की भूमिका में देवेन्दर सिंह</entry>
-			<entry type="date">14-04-2002</entry>
+			<entry type="date">14 अप्रेल 2002</entry>
 		</mdetails>
 		<photo>
-			<entry id="10222" type="01" size="10X15">
+			<entry id="10222" type="01" size="10X15 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.425">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
@@ -6938,19 +6939,20 @@
 			<entry type="date">15 मई - 13 जून 2004</entry>
 		</mdetails>
 		<photo>
-			<entry id="10614" type="01" size="8X12.5">
+			<entry id="10614" type="01" size="8X12.5 से. मी.">
 				<desc>बाल नाट्य कार्यशाला में प्रशिक्षित बच्चों द्वारा प्रस्तुत</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.423">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
 			<entry type="troupe">साधना नाट्य कला केन्द्र</entry>
-			<entry type="drama">अन्धा कौन</entry>
+			<entry type="drama">अन्धा कौन (बाल नाटक)</entry>
 			<entry type="writer">ललित मोहन थपल्याल</entry>
-			<entry type="artist">श्याम राजन, भानु छावड़ा</entry>
+			<entry type="director">ललित मोहन थपल्याल</entry>
+			<entry type="artist">श्याम राजन, भानु द्दाबड़ा</entry>
 			<entry type="date">2003</entry>
 		</mdetails>
 		<photo>
@@ -6959,7 +6961,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.424">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
@@ -6968,17 +6970,17 @@
 			<entry type="date">15 मई - 13 जून 2004</entry>
 		</mdetails>
 		<photo>
-			<entry id="10615" type="01" size="8X12.5">
+			<entry id="10615" type="01" size="8X12.5 से. मी.">
 				<desc>बाल नाट्य कार्यशाला में प्रशिक्षित बच्चों द्वारा प्रस्तुत</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.428">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
 			<entry type="troupe">साधना नाट्य कला केन्द्र</entry>
-			<entry type="drama">सौन्ड्रीला</entry>
+			<entry type="drama">सैन्ड्रीला (बाल नाटक)</entry>
 			<entry type="writer">ललित मोहन थपल्याल</entry>
 			<entry type="director">ललित मोहन थपल्याल</entry>
 		</mdetails>
@@ -6988,12 +6990,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.427">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
 			<entry type="troupe">साधना नाट्य कला केन्द्र</entry>
-			<entry type="drama">शाबाश दोस्तॊं</entry>
+			<entry type="drama">शाबाश दोस्तों (बाल नाटक)</entry>
 			<entry type="writer">ललित मोहन थपल्याल</entry>
 			<entry type="director">ललित मोहन थपल्याल</entry>
 		</mdetails>
@@ -7006,7 +7008,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.433">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
@@ -7014,73 +7016,90 @@
 			<entry type="drama">राम श्याम जदू</entry>
 			<entry type="writer">बादल सरकार</entry>
 			<entry type="director">विजय कपूर</entry>
+			<entry type="translator">प्रतिभा अग्रवाल</entry>
 		</mdetails>
 		<photo>
-			<entry id="263" type="02" size="">
+			<entry id="263" type="02" size="11.5X16 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.432">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
 			<entry type="troupe">दर्पण</entry>
 			<entry type="drama">जुलूस</entry>
-			<entry type="writer">बादल सरकार</entry>
+			<entry type="originaldrama">मिछिल</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">यामा अग्रवाल</entry>
+			<entry type="director">विजय कपूर</entry>
+			<entry type="date">1978</entry>
 		</mdetails>
 		<photo>
 			<entry id="265" type="02" size="">
-				<desc></desc>
+				<desc>मूल बांग्ला नाटक</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.431">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
 			<entry type="troupe">दर्पण</entry>
 			<entry type="drama">कायाकल्प</entry>
 			<entry type="writer">राजेन्द्र कुमार शर्मा</entry>
+			<entry type="director">राकेश वर्मा</entry>
 		</mdetails>
 		<photo>
 			<entry id="266" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
 			<entry id="267" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.429;73.430">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
 			<entry type="troupe">दर्पण</entry>
 			<entry type="drama">आधे अधूरे</entry>
 			<entry type="writer">मोहन राकेश</entry>
+			<entry type="director">विजय कपूर</entry>
+			<entry type="light">पीर गुलाम सिंह</entry>
+			<entry type="stage">काशी प्रसाद वैश्य</entry>
+			<entry type="make-up">इब्राहिम</entry>
+			<entry type="artist">प्रवीण सचदेव (काले सूटवाला आदमी), प्रमोद बाला (सावित्री), अमिता मिश्र (बिन्नी), विजय कपूर (जगमोहन) की भूमिका में व अन्य</entry>
+			<entry type="venue">नेत्र चिकित्सालय सभागार, सीतापुर</entry>
+			<entry type="date">01-01-1976</entry>
 		</mdetails>
 		<photo>
-			<entry id="264" type="" size="">
-				<desc></desc>
+			<entry id="264" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>स्मा - 2953 में उपलब्ध, नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.434">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
 			<entry type="troupe">सीतापुर सांस्कृतिक विभाग</entry>
 			<entry type="drama">मिस्टर अभिमन्यु</entry>
 			<entry type="writer">लक्ष्मीनारायण लाल</entry>
-			<entry type="director">इकबाल मजीद</entry>
+			<entry type="director">इक़बाल मजीद</entry>
+			<entry type="artist">विजय कपूर (राजन), हैदर अली (आत्मन)</entry>
 		</mdetails>
 		<photo>
 			<entry id="268" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 			<entry id="269" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -49257,11 +49276,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.448">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">केरेमने</entry>
-			<entry type="troupe">इडगुंजी महागणपति यक्षगान मंडली</entry>
+			<entry type="troupe">इंडगुंजी महागणपति यक्षगान मंडली</entry>
 			<entry type="photo">यक्षगान</entry>
 			<entry type="event">यक्षगान शैली रावण वध</entry>
 			<entry type="venue">रामलीला मेला, भोपाल</entry>
