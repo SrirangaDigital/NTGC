@@ -95,12 +95,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.453">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">जनपद रंग संकुल</entry>
-			<entry type="drama">संग्या बाळ्या</entry>
+			<entry type="drama">सांग्या बाल्या (कन्नड़)</entry>
 			<entry type="director">के. जी. कृष्णमूर्ति</entry>
 			<entry type="date">27-03-1990</entry>
 		</mdetails>
@@ -113,12 +113,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.452">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">जनपद रंग संकुल</entry>
-			<entry type="drama">संग्या बाळ्या [कन्नड़]</entry>
+			<entry type="drama">सांग्या बाल्या [कन्नड़]</entry>
 			<entry type="director">टी. एस. नागाभरण</entry>
 			<entry type="date">22-09-1985</entry>
 		</mdetails>
@@ -156,48 +156,59 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.458;73.466">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
+			<entry type="drama">मोहन</entry>
 			<entry type="artist">जयश्री, ब. व. कारन्त, मोहन</entry>
 		</mdetails>
 		<photo>
 			<entry id="3633" type="02" size="">
 				<desc>ब. व. कारंत द्वारा भेंट</desc>
+				<misc>न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.454;73.455">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">जनपद रिपोर्टरी</entry>
-			<entry type="drama">हुलिय नेरळु</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">जनपद रिपर्टरी ग्रुप</entry>
+			<entry type="drama">हुलीय नेरलु (कन्नड़)</entry>
 			<entry type="writer">चन्द्रशेखर कंबार</entry>
 			<entry type="director">प्रसन्ना</entry>
-			<entry type="date">दिसंबर, 1984</entry>
+			<entry type="make-up">Tahyaram Bhuthe</entry>
+			<entry type="stage">गोपालकृष्णा एच. एन.</entry>
+			<entry type="light">मुदम्मा आर.</entry>
+			<entry type="artist">लोहितस्व, मालती, सत्य संध, चन्द्रशेखर, रवीन्द्र, यतीश कुमार, सुरेन्द्र, चूड़ामणि, रमेश पण्डित, शशि कला व अन्य</entry>
+			<entry type="venue">बंगलूर</entry>
+			<entry type="date">15-12-1985</entry>
 		</mdetails>
 		<photo>
 			<entry id="632" type="02" size="">
-				<desc>राष्ट्रीय नाट्य समारोह</desc>
+				<desc>संगीत नाटक अकादेमी द्वारा आयोजित नाट्य समारोह में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा भेंट, पूर्ण सूचना स्मा - में उपलब्ध</misc>
 			</entry>
 			<entry id="633" type="02" size="">
-				<desc>राष्ट्रीय नाट्य समारोह</desc>
+				<desc>संगीत नाटक अकादेमी द्वारा आयोजित नाट्य समारोह में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा भेंट, पूर्ण सूचना स्मा - में उपलब्ध</misc>
 			</entry>
 			<entry id="634" type="02" size="">
-				<desc>राष्ट्रीय नाट्य समारोह</desc>
+				<desc>संगीत नाटक अकादेमी द्वारा आयोजित नाट्य समारोह में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा भेंट, पूर्ण सूचना स्मा - में उपलब्ध</misc>
 			</entry>
 			<entry id="635" type="02" size="">
-				<desc>राष्ट्रीय नाट्य समारोह</desc>
+				<desc>संगीत नाटक अकादेमी द्वारा आयोजित नाट्य समारोह में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा भेंट, पूर्ण सूचना स्मा - में उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.464">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
 			<entry type="drama">जो कुमार स्वामी [कन्नड़]</entry>
 			<entry type="writer">चन्द्रशेखर कम्बार</entry>
@@ -239,10 +250,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.463">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
 			<entry type="drama">गोम्बे कथे</entry>
 			<entry type="writer">वाजपेयी</entry>
@@ -255,10 +266,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.459">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
 			<entry type="drama">अनग्रेटफुल मेंन [अपकार्य]</entry>
 			<entry type="writer">प्रेमा कारन्त</entry>
@@ -271,42 +282,44 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.460">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
-			<entry type="drama">अभिज्ञानशाकुन्तलम</entry>
-			<entry type="writer">कालिदास</entry>
+			<entry type="drama">अभिज्ञान शाकुन्तलम् (कन्नड़)</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
+			<entry type="director">आद्य रंगाचार्य व ब. व. कारंत (शायद)</entry>
+			<entry type="photographer">वी. राममूर्ति</entry>
 		</mdetails>
 		<photo>
 			<entry id="636" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="637" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="638" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="639" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="640" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.461">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
 			<entry type="drama">अलीबाबा</entry>
 			<entry type="writer">कम्बार</entry>
 			<entry type="director">प्रेमा कारंत</entry>
+			<entry type="venue">मक्कट नाटक केन्द्र</entry>
 			<entry type="date">1979</entry>
-			<entry type="venue">मक्कळ नाटक केन्द्र</entry>
 		</mdetails>
 		<photo>
 			<entry id="3022" type="" size="">
@@ -314,12 +327,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.462">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
-			<entry type="drama">गिळियु पंजर दोळिल्ल</entry>
+			<entry type="drama">गिड़ियू पंजर दुड़िल्ला</entry>
 			<entry type="writer">पी. लंकेश</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="date">1974</entry>
@@ -330,10 +343,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.470">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
 			<entry type="drama">हेमलेट</entry>
 			<entry type="writer">शेक्सपीयर</entry>
@@ -355,12 +368,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.469;73.476">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">बेनका</entry>
-			<entry type="drama">हक्की हारुतिदे नीरुदिरा</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">मक्कल बेनका</entry>
+			<entry type="drama">पंद्दी एसे आते है</entry>
+			<entry type="originaldrama">हक्की हारुति देनीसदिश (मराठी)</entry>
 			<entry type="writer">विजय तेंदुलकर</entry>
 			<entry type="director">प्रेमा कारंत</entry>
 			<entry type="translation">प्रेमा कारंत</entry>
@@ -369,13 +383,14 @@
 		<photo>
 			<entry id="3023" type="" size="">
 				<desc>ब. व. कारंत द्वारा भेंट</desc>
+				<misc>न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.465">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
 			<entry type="drama">नाही कथे</entry>
 			<entry type="writer">चन्द्रशेखर कम्बार</entry>
@@ -407,13 +422,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.467">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
 			<entry type="drama">रस गंधर्व</entry>
-			<entry type="writer">मणीमधुकर</entry>
+			<entry type="writer">माणीमधुकर</entry>
 			<entry type="director">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
@@ -443,12 +458,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.468">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">बेनका</entry>
-			<entry type="drama">सत्तवर नेरळु</entry>
+			<entry type="drama">सत्त्वर नेरलु</entry>
 			<entry type="writer">जी. बी. जोशी</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="decorater">प्रसन्ना</entry>
@@ -466,15 +481,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.478">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">रंगमंडल</entry>
 			<entry type="drama">बुर्जुआ जेण्टलमैन</entry>
-			<entry type="writer">मैलियर</entry>
+			<entry type="writer">मौलियर</entry>
 			<entry type="director">ब. व. कारंत</entry>
-			<entry type="decorater">ब्रजमोहन शाह्य</entry>
+			<entry type="decorater">ब्रजमोहन शाह</entry>
 			<entry type="translation">आद्याचार्य</entry>
 			<entry type="date">1965-66</entry>
 		</mdetails>
@@ -508,11 +523,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.471">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">मक्कळ बेनका</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">मक्कलु बेनका</entry>
 			<entry type="drama">अज्जिकते</entry>
 			<entry type="writer">चन्द्रशेखर कम्बार</entry>
 			<entry type="director">प्रेमा कारंत</entry>
@@ -520,14 +535,15 @@
 		<photo>
 			<entry id="3168" type="" size="">
 				<desc>ब. व. कारंत द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<misc>न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.472">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">मक्कळ बेनका</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">मक्कलु बेनका</entry>
 			<entry type="drama">अज्जिकते</entry>
 			<entry type="writer">दुंडिराज</entry>
 			<entry type="director">प्रेमा कारंत</entry>
@@ -555,11 +571,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.473">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">मक्कळ बेनका</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">मक्कलु बेनका</entry>
 			<entry type="drama">इस्पीट राज्य (ताशेर देश)</entry>
 			<entry type="writer">रवीन्द्र नाथ टैगोर</entry>
 			<entry type="director">प्रेमा कारंत</entry>
@@ -589,6 +605,15 @@
 			<entry id="3583" type="" size="">
 				<desc>ब. व. कारंत द्वारा भेंट</desc>
 			</entry>
+			<entry id="3584" type="" size="">
+				<desc>ब. व. कारंत द्वारा भेंट</desc>
+			</entry>
+			<entry id="3585" type="" size="">
+				<desc>ब. व. कारंत द्वारा भेंट</desc>
+			</entry>
+			<entry id="3586" type="" size="">
+				<desc>ब. व. कारंत द्वारा भेंट</desc>
+			</entry>
 			<entry id="3587" type="" size="">
 				<desc>ब. व. कारंत द्वारा भेंट</desc>
 			</entry>
@@ -600,30 +625,30 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.475">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">मक्कळ बेनका</entry>
-			<entry type="drama">नाई कथे</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">मक्कलु बेनका</entry>
+			<entry type="drama">नाहीं कथे</entry>
 			<entry type="writer">चन्द्रशेखर कम्बार</entry>
 			<entry type="director">प्रेमा कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
 			<entry id="3024" type="" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="3169" type="" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.484">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">भूमिगीत</entry>
 			<entry type="director">जयतीर्थ जोशी</entry>
 			<entry type="music">ब. व. कारंत</entry>
@@ -638,11 +663,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.483">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">चन्द्रहास</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
@@ -675,11 +700,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.479">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">किन्द्री जोगी</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
@@ -697,11 +722,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.480">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">कृष्ण संधान</entry>
 			<entry type="director">रुच. के. योग</entry>
 			<entry type="music">नरसिम्हा</entry>
@@ -713,13 +738,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.481">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">गणमुख</entry>
-			<entry type="director">रधु नंदन</entry>
+			<entry type="director">रघु नंदन</entry>
 			<entry type="music">श्रीनिवास भट्ट</entry>
 		</mdetails>
 		<photo>
@@ -734,11 +759,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.482">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">चंद्रहास</entry>
 			<entry type="writer">कुवेंपु</entry>
 			<entry type="director">ब. व. कारंत</entry>
@@ -747,7 +772,7 @@
 		</mdetails>
 		<photo>
 			<entry id="3596" type="" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -809,11 +834,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.485">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="dance">यक्षगान (नृत्य)</entry>
 			<entry type="director">श्री महाबला हेगड़े</entry>
 		</mdetails>
@@ -823,11 +848,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.486">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">योगाक्षर प्रदर्शन</entry>
 			<entry type="date">21-12-1995</entry>
 		</mdetails>
@@ -837,14 +862,22 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.487;73.488">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">समुदाय</entry>
-			<entry type="drama">दांग्या मुंचिना दिंगालु [कन्नड़]</entry>
-			<entry type="writer">प्रसन्ना</entry>
+			<entry type="drama">दंगेय मुंचिन दिनगलु (कन्नड़) (विद्रोह से पहले)</entry>
+			<entry type="writer">प्रेमचन्द (कहानी - शतरंज के खिलाड़ी)</entry>
+			<entry type="kannadaarticle">प्रसन्ना</entry>
 			<entry type="director">प्रसन्ना</entry>
+			<entry type="song">के. वी. सुबण्णा</entry>
+			<entry type="songpresentation">जनार्दन</entry>
+			<entry type="stage">शशिधर अडपा</entry>
+			<entry type="light">सी. जी. कृष्ण स्वामी तथा मुद्दण्णा</entry>
+			<entry type="artist">सत्यसंघ (हसन), वैशाली कासरवल्ली (मीर रोशन अली की बेगम), मोहन कुमार (मिर्ज़ा सज्जाद अली), गंगाधर स्वामी (मीर रोशन अली) मानु (नवाब वाज़िद अली शाह)</entry>
+			<entry type="venue">रवीन्द्र कला क्षेत्र, बंगलूर</entry>
+			<entry type="date">24-03-1982</entry>
 		</mdetails>
 		<photo>
 			<entry id="659" type="02" size="">
