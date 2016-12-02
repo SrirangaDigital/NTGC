@@ -2,7 +2,7 @@
 <!DOCTYPE natarang SYSTEM "natarang.dtd">
 
 <natarang>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.505">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -776,10 +776,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.491">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">स्पन्दन</entry>
 			<entry type="drama">अग्निपथ</entry>
 			<entry type="director">बी. जयश्री</entry>
@@ -818,10 +818,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.490">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">समुदाय</entry>
 			<entry type="drama">मैकबैथ</entry>
 			<entry type="writer">शेक्सपियर</entry>
@@ -882,18 +882,19 @@
 		<photo>
 			<entry id="659" type="02" size="">
 				<desc>प्रेमचन्द्र की कहानी `शतरंज के खिलाड़ी' पर आधारित</desc>
+				<misc>सूचना स्रोत - पत्रिका - दिनमान (जी. अश्वत्थ नारायण की समीक्षा)</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.489">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">समुदाय</entry>
 			<entry type="drama">मदर</entry>
 			<entry type="director">आर. पी. प्रसन्ना</entry>
 			<entry type="venue">मंजर थिएटर</entry>
-			<entry type="date">15-02-1985 से 13-03-1985</entry>
+			<entry type="date">फरवरी 15 - मार्च 13 1985</entry>
 		</mdetails>
 		<photo>
 			<entry id="4267" type="02" size="">
@@ -926,7 +927,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.504">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -937,6 +938,7 @@
 		<photo>
 			<entry id="3631" type="" size="">
 				<desc>ब. व. कारंत द्वारा भेंट</desc>
+				<misc>निगेटिव सहित 9/16</misc>
 			</entry>
 		</photo>
 	</media>
@@ -1018,10 +1020,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.497">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
+			<entry type="place">बंगलूर</entry>
 			<entry type="troupe">स्पन्दन</entry>
 			<entry type="drama">यक्ष नगरी (कन्नड़)</entry>
 			<entry type="writer">रवीन्द्रनाथ टैगोर</entry>
@@ -1056,12 +1058,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.503">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
 			<entry type="troupe">गुब्बी थियेटर</entry>
 			<entry type="drama">दशावतार</entry>
+			<entry type="date">1955</entry>
 		</mdetails>
 		<photo>
 			<entry id="2269" type="" size="">
@@ -1077,10 +1080,10 @@
 				<desc></desc>
 			</entry>
 			<entry id="2273" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित 9/26</desc>
 			</entry>
 			<entry id="2274" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित 9/21</desc>
 			</entry>
 			<entry id="2275" type="" size="">
 				<desc></desc>
