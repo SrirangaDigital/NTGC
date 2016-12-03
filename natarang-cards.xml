@@ -7,7 +7,7 @@
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
 			<entry type="troupe">गुब्बी थियेटर</entry>
-			<entry type="drama">दशावतार</entry>
+			<entry type="drama">दशनावतार</entry>
 		</mdetails>
 		<photo>
 			<entry id="2271" type="" size="">
@@ -914,16 +914,17 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.506">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
 			<entry type="troupe">गुब्बी थियेटर</entry>
-			<entry type="drama">भक्त कबीर</entry>
+			<entry type="drama">भक्त कबीर (कन्नड़)</entry>
+			<entry type="date">1923-1924</entry>
 		</mdetails>
 		<photo>
 			<entry id="2283" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -1099,13 +1100,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.514">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
-			<entry type="drama">कत्तले बेळकु</entry>
-			<entry type="writer">आद्या रंगाचार्य</entry>
+			<entry type="troupe">रंगायन</entry>
+			<entry type="drama">कत्तले बेलाकु</entry>
+			<entry type="writer">आद्य रंगाचार्य</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="date">1994</entry>
 		</mdetails>
@@ -1118,15 +1119,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.511">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">एल्लिगे राजहम्से [कन्नड़] (लहरोंके राजहंस)</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">पी. गंगाधर स्वामी</entry>
-			<entry type="translation">सिद्दलिंग पट्टणशेट्टि</entry>
+			<entry type="translation">सिंहलिंग पट्टणशेट्टि</entry>
 			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
@@ -1135,7 +1136,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.507">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1143,38 +1144,43 @@
 			<entry type="drama">विविध</entry>
 		</mdetails>
 		<photo>
-			<entry id="2279" type="" size="">
-				<desc>गुब्बी वीरामन से संवादित फोटोग्राफ्स</desc>
+			<entry id="2279" type="02" size="">
+				<desc>गुब्बी वीरामन से संबंधित फोटोग्राफ्स</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
-			<entry id="2280" type="" size="">
+			<entry id="2280" type="02" size="">
 				<desc>गुब्बी वीरामन से संवादित फोटोग्राफ्स</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
-			<entry id="2281" type="" size="">
+			<entry id="2281" type="02" size="">
 				<desc>गुब्बी वीरामन से संवादित फोटोग्राफ्स</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
-			<entry id="2282" type="" size="">
+			<entry id="2282" type="02" size="">
 				<desc>गुब्बी वीरामन से संवादित फोटोग्राफ्स</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.508">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
 			<entry type="troupe">गुब्बी थियेटर</entry>
-			<entry type="drama">सम्पूर्ण श्री कृष्ण लीला</entry>
+			<entry type="drama">सम्पूर्ण श्री कृष्ण लीला (कन्नड़)</entry>
+			<entry type="date">1930-31</entry>
 		</mdetails>
 		<photo>
 			<entry id="2284" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.509">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="troupe">रंगायन</entry>
 		</mdetails>
 		<photo>
 			<entry id="3620" type="" size="">
@@ -1187,15 +1193,15 @@
 				<desc>साज-सज्जा का सामान</desc>
 			</entry>
 			<entry id="3621" type="" size="">
-				<desc>रंगायण के दर्शकमण</desc>
+				<desc>रंगायन के दर्शकमण</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.510">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">एत्त हारिदे हंस</entry>
 			<entry type="writer">एस. रघुनंदन</entry>
 			<entry type="director">एस. रघुनंदन</entry>
@@ -1216,24 +1222,24 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.520">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="troupe">रंगायन</entry>
 		</mdetails>
 		<photo>
 			<entry id="3621" type="" size="">
-				<desc>वानरंग ओपन थियेटर के दर्शकगन</desc>
+				<desc>वानरंग ओपन थियेटर के दर्शकगण</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.519">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
-			<entry type="drama">मूकन मक्कळु</entry>
+			<entry type="troupe">रंगायन</entry>
+			<entry type="drama">मूकाना मक्कालू</entry>
 			<entry type="writer">मास्ति वेंकटेश अय्यंगार</entry>
 			<entry type="director">ब. व. कारन्त</entry>
 			<entry type="music">ब. व. कारन्त</entry>
@@ -1245,11 +1251,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.515">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">गुन्दे गोदान चरित्रे (पीयरे जेंट)</entry>
 			<entry type="writer">इब्सन</entry>
 			<entry type="director">रुस्तम भरुचा</entry>
@@ -1262,11 +1268,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.516">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">तलेदण्ड़</entry>
 			<entry type="writer">गिरीश करनाड</entry>
 			<entry type="director">जयतीर्थ जोशी</entry>
@@ -1293,11 +1299,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.517">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">बेलाकालिन प्रसंग</entry>
 			<entry type="writer">रघुनंदन</entry>
 			<entry type="director">रघुनंदन</entry>
@@ -1313,11 +1319,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.518">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">माराहोतू बारा बंतू</entry>
 			<entry type="writer">मास्ति वेंकटेश अय्यंगार</entry>
 			<entry type="director">ब. व. कारंत, रूपा, वैदेही</entry>
@@ -1330,12 +1336,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.527">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
 			<entry type="troupe">नीनासम</entry>
-			<entry type="drama">काडु कुद्रे</entry>
+			<entry type="drama">कदु कुंद्रे</entry>
 			<entry type="writer">चन्द्रशेखर कम्बार</entry>
 			<entry type="director">मोहन</entry>
 			<entry type="venue">जनस्पंदन वर्कशाप</entry>
@@ -1353,7 +1359,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.526">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1391,16 +1397,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.522">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
-			<entry type="troupe">रंगायण</entry>
+			<entry type="troupe">रंगायन</entry>
 			<entry type="drama">हिप्पॉलिटस [कन्नड़]</entry>
 			<entry type="writer">यूरिपिडीज</entry>
 			<entry type="director">वेसिलियस कालिटसिस</entry>
 			<entry type="venue">अपनी मुक्ताकाशी रंगशाला वनरंग में</entry>
-			<entry type="music">ब. व. कारंत, दिलिप</entry>
+			<entry type="music">ब. व. कारंत, फिलिप</entry>
 			<entry type="artist">मंगला</entry>
 		</mdetails>
 		<photo>
@@ -1424,7 +1430,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.523">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हुबली</entry>
@@ -1451,7 +1457,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.525">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1476,7 +1482,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.535">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1497,7 +1503,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.534">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1521,12 +1527,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.528">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
 			<entry type="troupe">नीनासम</entry>
-			<entry type="drama">काकनकोटे मस्ती</entry>
+			<entry type="drama">कोकानकोटे मस्ती</entry>
 			<entry type="director">सी. आर. जाम्बे</entry>
 			<entry type="date">1985</entry>
 		</mdetails>
@@ -1542,7 +1548,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.530">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1564,13 +1570,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.531">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
 			<entry type="troupe">नीनासम</entry>
 			<entry type="drama">चरणदास चोर</entry>
-			<entry type="writer">हबीब तनवीर</entry>
+			<entry type="writer">हबीब ततवीर</entry>
 			<entry type="director">सी. आर. जाम्बे</entry>
 			<entry type="date">1984</entry>
 		</mdetails>
@@ -1586,7 +1592,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.533">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1602,12 +1608,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.543">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
 			<entry type="troupe">नीनासम</entry>
-			<entry type="drama">बेप्पुतक्कडी बोलेशंकर</entry>
+			<entry type="drama">बेप्पुतक्कडी बोलेशंकर (कन्नड़)</entry>
 			<entry type="writer">चन्द्रशेखर कम्बार</entry>
 			<entry type="director">सी. आर. जाम्बे</entry>
 			<entry type="date">24-11-1987</entry>
@@ -1624,7 +1630,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.542">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1632,10 +1638,10 @@
 			<entry type="drama">विगाद विक्रम चरित (कन्नड़)</entry>
 			<entry type="originaldrama">बेत्ताद अरसु एवं विगाद विक्रम राय</entry>
 			<entry type="writer">सम्सा</entry>
-			<entry type="translation">वी. के. सुब्बन्ना</entry>
+			<entry type="translation">वी. के. सुबन्ना</entry>
 			<entry type="director">चिदम्बर राव जाम्बे</entry>
 			<entry type="venue">मंज़र थियेटर</entry>
-			<entry type="date">28-02-1987</entry>
+			<entry type="date">फरवरी 28 1987</entry>
 		</mdetails>
 		<photo>
 			<entry id="7064" type="02" size="">
@@ -1679,12 +1685,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.537">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
 			<entry type="troupe">नीनासम</entry>
-			<entry type="drama">पिजरशाला</entry>
+			<entry type="drama">पिंजरशाला</entry>
 			<entry type="writer">ब. व. कारंत</entry>
 			<entry type="director">पुष्पावलि</entry>
 		</mdetails>
@@ -1700,18 +1706,19 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.538">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
 			<entry type="troupe">नीनासम</entry>
-			<entry type="drama">मन्निन बंडि (कन्नड़)</entry>
+			<entry type="drama">मन्नीना बांदी (कन्नड़)</entry>
 			<entry type="originaldrama">मृच्छकटिक</entry>
 			<entry type="writer">शूद्रक</entry>
-			<entry type="translation">बन्नन्जे गोविन्दाचार्य</entry>
-			<entry type="director">अतुल तिवारि</entry>
+			<entry type="translation">बन्नानजे गोविन्दाचार्य</entry>
+			<entry type="director">अतुल तिवारी</entry>
 			<entry type="venue">मंजर थियेटर</entry>
-			<entry type="host">ट्रेड फेयर अथारिटि आफ इंडिया</entry>
+			<entry type="host">ट्रेड फेयर अथोरिटी ऑफ इंडिया</entry>
+			<entry type="date">फरवरी 26 1987</entry>
 		</mdetails>
 		<photo>
 			<entry id="7135" type="" size="">
@@ -1725,18 +1732,19 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.539">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
 			<entry type="troupe">नीनासम</entry>
-			<entry type="drama">मूरुकासिन संगीत नाटक (कन्नड़)</entry>
+			<entry type="drama">मोरुकासीना संगीत नाटक (कन्नड़)</entry>
 			<entry type="originaldrama">थ्री पेनी ऑपेरा</entry>
-			<entry type="writer">बट्रेन्ट ब्रेष्ट</entry>
-			<entry type="translation">के. वी. सुब्बन्न</entry>
+			<entry type="writer">बर्टोण्ट ब्रेष्ट</entry>
+			<entry type="translation">के. वी. सुबन्ना</entry>
 			<entry type="director">के. वी. अक्षरा</entry>
 			<entry type="venue">मंजर थियेटर</entry>
-			<entry type="host">ट्रेड फेयर अथारिटी आफ इंडिया</entry>
+			<entry type="host">ट्रेड फेयर अथोरिटी आफ इंडिया</entry>
+			<entry type="date">फरवरी 27 1987</entry>
 		</mdetails>
 		<photo>
 			<entry id="7138" type="" size="">
@@ -1768,36 +1776,41 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.541">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
 			<entry type="troupe">नीनासम</entry>
-			<entry type="drama">लोक शकुन्तला</entry>
+			<entry type="drama">लोक शकुन्तला (कन्नड़)</entry>
 			<entry type="writer">के. वी. सुब्बन्न</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
 			<entry type="director">सी. आर. जाम्बे</entry>
 		</mdetails>
 		<photo>
-			<entry id="696" type="" size="">
-				<desc></desc>
+			<entry id="696" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
-			<entry id="697" type="" size="">
-				<desc></desc>
+			<entry id="697" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 			<entry id="698" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 			<entry id="699" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.544">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
 			<entry type="troupe">नीनासम</entry>
-			<entry type="drama">साम्ब शिव प्रहसन</entry>
+			<entry type="drama">सम्बा शिव प्रहसन</entry>
 			<entry type="writer">चन्द्रशेखर कंबार</entry>
 			<entry type="director">के. वी. अक्षर</entry>
 		</mdetails>
@@ -1816,7 +1829,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.546">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -14345,7 +14358,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.554">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14362,29 +14375,37 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.555;73.556">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
-			<entry type="troupe">रसिक आर्टस एण्ड कलचरल सोसायटी</entry>
+			<entry type="troupe">रसिक आर्टस एण्ड कल्चरल सोसायटी</entry>
 			<entry type="dance">कलानेथीनि [मलयालम]</entry>
-			<entry type="writer">कावालम नारायणं मठिक्कर</entry>
+			<entry type="writer">कावलम नारायण पणिक्कर</entry>
 			<entry type="director">के. कलाधरन</entry>
+			<entry type="music">शिवमोहन थम्पी</entry>
+			<entry type="dress">पंकजाक्षन नायर</entry>
+			<entry type="make-up">ससी पूजाप्पूरा</entry>
+			<entry type="stage">एम. कृष्णामूर्ति नायर</entry>
+			<entry type="artist">ए. जनार्धन (सूत्रधार), एम. गिरिसन (मार्थियन), एल. आर. रघुमनी (ललिता व कली) व अन्य</entry>
 			<entry type="date">27-11-1987</entry>
 		</mdetails>
 		<photo>
 			<entry id="5080" type="02" size="">
 				<desc>दक्षिण क्षेत्र नाट्य समारोह, मद्रास</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
 			<entry id="5081" type="02" size="">
 				<desc>दक्षिण क्षेत्र नाट्य समारोह, मद्रास</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
 			<entry id="5082" type="02" size="">
 				<desc>दक्षिण क्षेत्र नाट्य समारोह, मद्रास</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.547">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14396,7 +14417,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.551">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14412,11 +14433,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.552">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
-			<entry type="troupe">तिकवरंग</entry>
+			<entry type="troupe">तिरुवरंग</entry>
 			<entry type="dance">देवतार</entry>
 			<entry type="writer">कावालम नारायण पणिकर</entry>
 			<entry type="director">कुमार वर्मा</entry>
@@ -14427,7 +14448,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.553">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14522,30 +14543,31 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.557">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
 			<entry type="troupe">रसिक आर्ट एण्ड कलचरल सोसायटी</entry>
-			<entry type="dance">कैक्कुट्टप्पाहु</entry>
-			<entry type="writer">कावालम नारायण मणिक्कर</entry>
+			<entry type="dance">कैक्कुट्टप्पाडु</entry>
+			<entry type="writer">कावालम नारायण पणिक्कर</entry>
 			<entry type="director">के. कलाधरन</entry>
+			<entry type="event">राष्ट्रीय नाट्य समारोह 1989</entry>
 			<entry type="date">30-03-1990</entry>
 		</mdetails>
 		<photo>
 			<entry id="5049" type="" size="">
-				<desc>संगीत नाटक अकादेमी, राष्ट्रीय नाट्य समारोह 1989</desc>
+				<desc>संगीत नाटक अकादेमी</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.558">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
 			<entry type="troupe">सोपानम्</entry>
-			<entry type="dance">अभिज्ञान शाकुंतल</entry>
+			<entry type="dance">अभिज्ञान शाकुंतल (संस्कृत) (कुडियाट्टम)</entry>
 			<entry type="writer">कालिदास</entry>
-			<entry type="director">कावालम् नारायण पणिक्कर</entry>
+			<entry type="director">कावलम नारायण पणिक्कर</entry>
 			<entry type="event">कालिदास समारोह `1982'</entry>
 			<entry type="date">02-12-1982</entry>
 		</mdetails>
