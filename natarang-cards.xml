@@ -5909,7 +5909,7 @@
 			<entry type="director">जुगल किशोर</entry>
 			<entry type="version">वसी खान</entry>
 			<entry type="projectionanddirection">वसी खान</entry>
-			<entry type="Presentation">राज बिसारिया</entry>
+			<entry type="presentation">राज बिसारिया</entry>
 			<entry type="music">जुगल/राघव</entry>
 			<entry type="make-up">रंगमण्डल कलाकार</entry>
 			<entry type="dress">ललित सिंह पोखरिया एवं मृदुला भारद्वाज</entry>
@@ -8766,7 +8766,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.624">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="drama">देवयानी का कहना है</entry>
@@ -8782,10 +8782,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.625">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
-			<entry type="dance"></entry>
+			<entry type="dance">विविध</entry>
 			<entry type="choreographer">के. पी. सिन्हा</entry>
 		</mdetails>
 		<photo>
@@ -12961,14 +12961,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.593">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
 			<entry type="troupe">गुजिर संस्कुत रंगम</entry>
 			<entry type="drama">स्वपनवासवदत्ता</entry>
-			<entry type="writer">भास्त</entry>
-			<entry type="director">जॉनडी मिचेस</entry>
+			<entry type="writer">भास</entry>
+			<entry type="director">जॉन डी. मिचेस</entry>
 		</mdetails>
 		<photo>
 			<entry id="2258" type="01" size="">
@@ -12994,28 +12994,38 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.594;73.595">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
 			<entry type="troupe">दर्पण</entry>
-			<entry type="drama">लीला</entry>
+			<entry type="drama">लीला (गुजराती)</entry>
+			<entry type="writer">बकुल त्रिपाठी</entry>
+			<entry type="presentation">मृणालिनी साराभाई</entry>
+			<entry type="director">कैलाश पाण्डेय</entry>
+			<entry type="music">बाबूलाल परमार</entry>
+			<entry type="stage">बालकृष्ण पटेल</entry>
+			<entry type="light">एच. त्रिपाठी</entry>
+			<entry type="singer">रुपान्दे शाह, अनंग देसाई, भारत मकवाना</entry>
 			<entry type="venue">अखिल भारतीय नाटक समारोह, दिल्ली</entry>
 			<entry type="date">फरवरी 1977</entry>
 		</mdetails>
 		<photo>
 			<entry id="1343" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>अखिल भारतीय नाट्य समारोह में मंचित</misc>
 			</entry>
 			<entry id="1344" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>अखिल भारतीय नाट्य समारोह में मंचित</misc>
 			</entry>
 			<entry id="2844" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>अखिल भारतीय नाट्य समारोह में मंचित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.587">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13029,26 +13039,31 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.606;73.607;73.608">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
+			<entry type="troupe">सिंधी ड्रामा वर्कशॉप</entry>
 			<entry type="drama">स्पार्टाकस</entry>
-			<entry type="writer">बादल सरकार</entry>
-			<entry type="translation">रति बार्थोलोम्यो, वीरेन्द्र सक्सेना</entry>
+			<entry type="writer">हार्वड फ़ास्ट (अँग्रेजी उपन्यास)</entry>
+			<entry type="dramatized">बादल सरकार (बांग्ला)</entry>
+			<entry type="translation">रति बार्थोलोम्यू एवं वीरेन्द्र सक्सेना</entry>
 			<entry type="director">प्रेमप्रकाश</entry>
+			<entry type="artist">खड़े हुए - रतन काडेकर (स्पार्टाकस) वीरु वासवानी, सुमेर लाल भाई, दशरथ रामलाल, कुमारी भैरवी, राज वासवानी, रमेश खनवानी, श्याम सतनानी फर्श पर - सभी गुलाम</entry>
+			<entry type="venue">अंगन मंच, कोलकाता</entry>
+			<entry type="informationsource">भारतीय रंगकोश - खण्ड-1/प्रतिभा अग्रवाल, संपा. व नटरंग अंक 37</entry>
 			<entry type="date">दिसंबर 1980</entry>
 		</mdetails>
 		<photo>
-			<entry id="1352" type="" size="">
-				<desc></desc>
+			<entry id="1352" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1353" type="" size="">
-				<desc></desc>
+			<entry id="1353" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.590">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13069,7 +13084,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.592">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13090,7 +13105,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.604">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13102,19 +13117,19 @@
 		</mdetails>
 		<photo>
 			<entry id="2819" type="02" size="">
-				<desc>स्ट्रिनबर्ग `दि फादर' का रूपान्तर</desc>
+				<desc>लेखक स्ट्रिनबर्ग `दि फादर' का रूपान्तर</desc>
 			</entry>
 			<entry id="2820" type="02" size="">
-				<desc>स्ट्रिनबर्ग `दि फादर' का रूपान्तर</desc>
+				<desc>लेखक स्ट्रिनबर्ग `दि फादर' का रूपान्तर</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.605">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
-			<entry type="troupe">सरदार पटेल विशविद्यालय, वल्लभ विद्या नगर</entry>
-			<entry type="drama">संध्या छाया</entry>
+			<entry type="troupe">सरदार पटेल विश्वविद्यालय, वल्लभ विद्या नगर</entry>
+			<entry type="drama">संध्या द्दाया</entry>
 			<entry type="writer">जयवंत दलवी और कुसुम कुमार</entry>
 			<entry type="director">सनत कुमार</entry>
 			<entry type="date">11-04-1988</entry>
@@ -13125,28 +13140,39 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.596;73.597">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
-			<entry type="troupe">नटमण्डल</entry>
-			<entry type="drama">मेना गुर्जरी</entry>
+			<entry type="troupe">नट मण्डल</entry>
+			<entry type="drama">मेना गुर्जरी (गुजराती) (लोक नाट्य)</entry>
 			<entry type="writer">रसिकलाल पारीख</entry>
-			<entry type="artist">दीना पाठक (मैना गुर्जरी)</entry>
+			<entry type="director">जयशंकर सुंदरी व दीना गाँधी</entry>
+			<entry type="folktheaterdirector">कैलाश पाण्डे</entry>
+			<entry type="choreographer">दीना गाँधी</entry>
+			<entry type="dress">दीना गाँधी व खरसानी</entry>
+			<entry type="light">कैलाश पाण्डे, नटवर लाल व अन्य</entry>
+			<entry type="music">मेहुल</entry>
+			<entry type="artist">दीना गाँधी (मेना गुर्जरी) व अन्य</entry>
+			<entry type="venue">अहमदाबाद</entry>
+			<entry type="date">31-10-1953</entry>
 		</mdetails>
 		<photo>
 			<entry id="1349" type="02" size="">
-				<desc></desc>
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>सूचना स्रोत स्मा.</misc>
 			</entry>
 			<entry id="1350" type="02" size="">
-				<desc></desc>
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>सूचना स्रोत स्मा.</misc>
 			</entry>
 			<entry id="1351" type="02" size="">
-				<desc></desc>
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>सूचना स्रोत स्मा.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.601">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13159,7 +13185,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="73.602">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13172,7 +13198,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.603">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13196,12 +13222,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.613">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
-			<entry type="place">वडोदरा</entry>
+			<entry type="place">बड़ौदा</entry>
 			<entry type="troupe">नाट्य विभाग, म. स. विद्यापीठ</entry>
-			<entry type="drama">आजाद का एक दिन</entry>
+			<entry type="drama">आषाढ़ का एक दिन</entry>
 			<entry type="director">प्रा. यशवंत केलकर</entry>
 			<entry type="artist">दीपा हिवान (माल्लिका), नम्रता व्यास (अम्बिका)</entry>
 			<entry type="date">3 - 7 सितं. 1981</entry>
@@ -13212,12 +13238,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.614">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
-			<entry type="troupe">मराठी वाड्ण्मय मंडल</entry>
-			<entry type="drama">प्रेमा तुझा रंग कसा</entry>
+			<entry type="troupe">मराठी वाङ्मय मंडल</entry>
+			<entry type="drama">प्रेमा तुम्का रंग कसा</entry>
 			<entry type="writer">वसंत कानेटकर</entry>
 			<entry type="director">यशवंत केलकर</entry>
 		</mdetails>
@@ -13233,7 +13259,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.609">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
@@ -13251,7 +13277,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.610">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
@@ -13280,28 +13306,29 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.611">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
-			<entry type="drama">निस दिन वरसत नैन हमारे</entry>
+			<entry type="drama">निस दिन बरसत नैन हमारे</entry>
+			<entry type="originaldrama">`शारदिया'पर आधारित</entry>
 			<entry type="writer">जगदीश चन्द्र माथुर</entry>
 			<entry type="translation">जयंतीराम पटेल (गुजराती अनुवाद)</entry>
 			<entry type="director">यशवंत केलकर</entry>
 		</mdetails>
 		<photo>
 			<entry id="1334" type="" size="">
-				<desc>मूल नाटक `शारदिया' पर आधारित</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.612">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
 			<entry type="troupe">एमेच्योर्स ड्रामेटिक क्लब</entry>
 			<entry type="drama">रायगडाला जेव्हां जाग चेते</entry>
-			<entry type="director">यशवंत</entry>
+			<entry type="director">यशवंत केलकर</entry>
 			<entry type="date">09-08-1981</entry>
 		</mdetails>
 		<photo>
@@ -14506,14 +14533,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.567">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
 			<entry type="troupe">सोपानम</entry>
 			<entry type="drama">कर्णभारम्</entry>
 			<entry type="writer">भास</entry>
-			<entry type="director">कावालम् नारायण पणिक्कर</entry>
+			<entry type="director">कावालम नारायण पणिक्कर</entry>
 			<entry type="event">प्रथम भास समारोह `1987'</entry>
 		</mdetails>
 		<photo>
@@ -14524,7 +14551,7 @@
 				<desc></desc>
 			</entry>
 			<entry id="721" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध 30/2</desc>
 			</entry>
 			<entry id="722" type="" size="">
 				<desc></desc>
@@ -14569,46 +14596,54 @@
 			<entry type="writer">कालिदास</entry>
 			<entry type="director">कावलम नारायण पणिक्कर</entry>
 			<entry type="event">कालिदास समारोह `1982'</entry>
+			<entry type="artist">जयराज, मोहिनी व अन्य</entry>
 			<entry type="date">02-12-1982</entry>
 		</mdetails>
 		<photo>
-			<entry id="713" type="" size="">
-				<desc>संस्कृत</desc>
+			<entry id="713" type="02" size="">
+				<desc>कालिदास समारोह, उज्जैन में मंचित श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत-पुस्तक-K. N. Panikker: The Theatre of Kasa/Udayan Vajpeyi, ed.</misc>
 			</entry>
-			<entry id="714" type="" size="">
-				<desc>संस्कृत</desc>
+			<entry id="714" type="02" size="">
+				<desc>कालिदास समारोह, उज्जैन में मंचित श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत-पुस्तक-K. N. Panikker: The Theatre of Kasa/Udayan Vajpeyi, ed.</misc>
 			</entry>
-			<entry id="715" type="" size="">
-				<desc>संस्कृत</desc>
+			<entry id="715" type="02" size="">
+				<desc>कालिदास समारोह, उज्जैन में मंचित श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत-पुस्तक-K. N. Panikker: The Theatre of Kasa/Udayan Vajpeyi, ed.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.559;73.560">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
 			<entry type="troupe">सोपानम्</entry>
-			<entry type="dance">अवनवन कटम्पा</entry>
-			<entry type="writer">के. एन. पणिक्कर</entry>
-			<entry type="director">के. एन. पणिक्कर</entry>
-			<entry type="venue">मंजर थिएटर</entry>
-			<entry type="date">16-02-1985</entry>
+			<entry type="dance">अवनम कटम्पा (मलयालम)</entry>
+			<entry type="writer">कावलम नारायण पणिक्कर</entry>
+			<entry type="director">कावलम नारायण पणिक्कर एवं जी. अरविन्दन</entry>
+			<entry type="music">कावलम श्रीकुमार एवं लक्ष्मी</entry>
+			<entry type="make-upandstage">पकंजाक्षण नायर</entry>
+			<entry type="lightandstageassistant">सलीम आरीफ</entry>
+			<entry type="artist">कलाधरन, अजी, वासुदेवन नंबूदरी, बालकृष्णन, रामदास (पट्टुपरिशे), सी. श्रीकुमार (वादीवेलवन), वसंत गोपालकृष्णन (चिथिरापेन्नु) की भूमिका में व अन्य</entry>
+			<entry type="venue">मंजर थिएटर, प्रगति मैदान, दिल्ली</entry>
+			<entry type="date">16-02-1985 शाम 6 बजे</entry>
 		</mdetails>
 		<photo>
-			<entry id="4319" type="" size="">
-				<desc></desc>
+			<entry id="4319" type="02" size="">
+				<desc>पूर्ण सूचना स्मा - 1664 में उपलब्ध</desc>
 			</entry>
-			<entry id="4320" type="" size="">
-				<desc></desc>
+			<entry id="4320" type="02" size="">
+				<desc>पूर्ण सूचना स्मा - 1664 में उपलब्ध</desc>
 			</entry>
-			<entry id="4321" type="" size="">
-				<desc></desc>
+			<entry id="4321" type="02" size="">
+				<desc>पूर्ण सूचना स्मा - 1664 में उपलब्ध</desc>
 			</entry>
-			<entry id="4322" type="" size="">
-				<desc></desc>
+			<entry id="4322" type="02" size="">
+				<desc>पूर्ण सूचना स्मा - 1664 में उपलब्ध</desc>
 			</entry>
-			<entry id="4323" type="" size="">
-				<desc></desc>
+			<entry id="4323" type="02" size="">
+				<desc>पूर्ण सूचना स्मा - 1664 में उपलब्ध</desc>
 			</entry>
 		</photo>
 	</media>
@@ -14650,7 +14685,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.573">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुवन्थपुरम्</entry>
@@ -14682,14 +14717,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.574">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
 			<entry type="troupe">सोपानम्</entry>
 			<entry type="dance">मध्यम व्यायोग</entry>
 			<entry type="writer">भास</entry>
-			<entry type="director">कावालम् नारायण पणिकार</entry>
+			<entry type="director">कावालम नारायण पणिक्कर</entry>
 		</mdetails>
 		<photo>
 			<entry id="732" type="" size="">
@@ -14721,42 +14756,51 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.570">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुवनन्थपुरम</entry>
 			<entry type="troupe">सोपानम्</entry>
 			<entry type="dance">कलुरूट्टी (मलयालम)</entry>
-			<entry type="writer">कवलम नारायण पनिक्कर</entry>
-			<entry type="director">कवलम नारायण पनिक्कर</entry>
-			<entry type="venue">कमानी</entry>
+			<entry type="writer">कवलम नारायण पणिक्कर</entry>
+			<entry type="director">कवलम नारायण पणिक्कर</entry>
+			<entry type="artist">मणिकांतन, कृष्णकुमार, शाजी, साजी एस. एल. सुजीत संकर व अन्य</entry>
+			<entry type="information">K. N. Panikkar: the Theatre of Rase by Udayan Vajpeyi, N.P. Series में उपलब्ध</entry>
+			<entry type="venue">कमानी सभागार, दिल्ली</entry>
 			<entry type="date">04-04-2002</entry>
 		</mdetails>
 		<photo>
 			<entry id="9847" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मलयालम में प्रस्तुत</desc>
+				<misc>चतुर्थ भारंगम, 2002 में मंचित श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="9848" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मलयालम में प्रस्तुत</desc>
+				<misc>चतुर्थ भारंगम, 2002 में मंचित श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="9849" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मलयालम में प्रस्तुत</desc>
+				<misc>चतुर्थ भारंगम, 2002 में मंचित श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="9850" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मलयालम में प्रस्तुत</desc>
+				<misc>चतुर्थ भारंगम, 2002 में मंचित श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="9851" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मलयालम में प्रस्तुत</desc>
+				<misc>चतुर्थ भारंगम, 2002 में मंचित श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="9852" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मलयालम में प्रस्तुत</desc>
+				<misc>चतुर्थ भारंगम, 2002 में मंचित श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="9853" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मलयालम में प्रस्तुत</desc>
+				<misc>चतुर्थ भारंगम, 2002 में मंचित श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.571">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुवनंथपुरम</entry>
@@ -14766,24 +14810,24 @@
 			<entry type="director">कावलम नारायण पणिक्कर</entry>
 		</mdetails>
 		<photo>
-			<entry id="16163" type="01" size="10X15">
+			<entry id="16163" type="01" size="10X15 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="16164" type="01" size="10X15">
+			<entry id="16164" type="01" size="10X15 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="16165" type="01" size="10X15">
+			<entry id="16165" type="01" size="10X15 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="16166" type="01" size="10X15">
+			<entry id="16166" type="01" size="10X15 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="16167" type="01" size="10X15">
+			<entry id="16167" type="01" size="10X15 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.572">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम (तिरुवनन्तपुरम)</entry>
@@ -14794,19 +14838,19 @@
 			<entry type="date">2001</entry>
 		</mdetails>
 		<photo>
-			<entry id="10340" type="01" size="10X15">
+			<entry id="10340" type="01" size="10X15 से. मी.">
 				<desc>राष्टीय नाट्य विद्यालय द्वारा आयोजित तीसरे `भारत रंग महोत्सव' में मंचित | (2001)</desc>
 			</entry>
-			<entry id="10341" type="01" size="10X15">
+			<entry id="10341" type="01" size="10X15 से. मी.">
 				<desc>राष्टीय नाट्य विद्यालय द्वारा आयोजित तीसरे `भारत रंग महोत्सव' में मंचित | (2001)</desc>
 			</entry>
-			<entry id="10342" type="01" size="10X15">
+			<entry id="10342" type="01" size="10X15 से. मी.">
 				<desc>राष्टीय नाट्य विद्यालय द्वारा आयोजित तीसरे `भारत रंग महोत्सव' में मंचित | (2001)</desc>
 			</entry>
-			<entry id="10343" type="01" size="10X15">
+			<entry id="10343" type="01" size="10X15 से. मी.">
 				<desc>राष्टीय नाट्य विद्यालय द्वारा आयोजित तीसरे `भारत रंग महोत्सव' में मंचित | (2001)</desc>
 			</entry>
-			<entry id="10344" type="01" size="10X15">
+			<entry id="10344" type="01" size="10X15 से. मी.">
 				<desc>राष्टीय नाट्य विद्यालय द्वारा आयोजित तीसरे `भारत रंग महोत्सव' में मंचित | (2001)</desc>
 			</entry>
 		</photo>
@@ -14827,14 +14871,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.575">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
 			<entry type="troupe">सोपानम्</entry>
 			<entry type="dance">विक्रमोर्वशीयम् (चतुर्थ अंक)</entry>
 			<entry type="writer">कालिदास</entry>
-			<entry type="director">कावलम् नारायण पणिक्कर</entry>
+			<entry type="director">कावलम नारायण पणिक्कर</entry>
 		</mdetails>
 		<photo>
 			<entry id="739" type="" size="">
@@ -14854,12 +14898,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.583">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिचूर</entry>
-			<entry type="troupe">कालीकट यूनिवस्र्टी लिटिल थियेटर</entry>
-			<entry type="dance">मुधेवेर (Mudheyur)</entry>
+			<entry type="troupe">कालीकट यूनिवर्स्टी लिटिल थियेटर</entry>
+			<entry type="dance">मूधेवेर (Mudheyur)</entry>
 			<entry type="writer">जी. शंकर पिल्लई</entry>
 			<entry type="director">एस. रामानुजम</entry>
 			<entry type="event">राष्ट्रीय नाट्य समारोह 1983</entry>
@@ -14870,7 +14914,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.586">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिचूर</entry>
@@ -19036,7 +19080,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.591">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -28136,7 +28180,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.621">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कोंकण थियेटर संस्था</entry>
@@ -28160,7 +28204,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.617">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कला अकादमी</entry>
@@ -28173,7 +28217,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.618">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कला अकादमी</entry>
@@ -28186,7 +28230,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.619">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कला अकादमी</entry>
@@ -28198,11 +28242,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.620">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कला अकादमी</entry>
-			<entry type="drama">सिरी सम्पिगे [हिन्दी]</entry>
+			<entry type="drama">सीरी सम्पिगे [हिन्दी]</entry>
 			<entry type="writer">चन्द्रशेखर कम्बार</entry>
 			<entry type="director">जयश्री</entry>
 		</mdetails>
