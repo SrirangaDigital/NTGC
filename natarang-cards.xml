@@ -8728,13 +8728,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.628">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">अन्धा युग</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
-			<entry type="director">एन. सी. ठाकुर और वीरेन्द्र मेहदीस्ता</entry>
+			<entry type="director">एन. सी. ठाकुर और वीरेन्द्र मेंहदीरत्ता</entry>
 			<entry type="date">1981</entry>
 		</mdetails>
 		<photo>
@@ -8742,11 +8742,11 @@
 				<desc></desc>
 			</entry>
 			<entry id="621" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध 36/22</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.629">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8794,7 +8794,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.626">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8808,7 +8808,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.627">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8822,52 +8822,65 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.634;73.635">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
-			<entry type="drama">एवम् इन्द्रजित</entry>
-			<entry type="writer">बादल सरकार</entry>
+			<entry type="drama">एवम् इन्द्रजीत</entry>
+			<entry type="originaldrama">इबोंग इन्द्रजित (नाटक का मूल बांग्ला नाम)</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">प्रतिभा अग्रवाल</entry>
 			<entry type="director">अतुलवीर अरोड़ा</entry>
+			<entry type="artist">हरीश भाटिया (लेखक), देवेन जोशी (इन्द्रजीत), आलोका मेंहदीरत्ता (मानसी) व अन्य</entry>
+			<entry type="venue">चण्डीगढ़</entry>
+			<entry type="date">1976</entry>
 		</mdetails>
 		<photo>
-			<entry id="603" type="" size="">
-				<desc></desc>
+			<entry id="603" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="604" type="" size="">
-				<desc></desc>
+			<entry id="604" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="605" type="" size="">
-				<desc></desc>
+			<entry id="605" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.636;73.637">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
-			<entry type="drama">कांचघर</entry>
-			<entry type="translation">अतुलवीर अरोड़ा</entry>
-			<entry type="director">अतुलवीर अरोड़ा और अर्नेस्ट अल्बर्ट</entry>
-			<entry type="artist">मीता वसिष्ठ (लॉरा), जिम (अर्नेस्ट अल्बर्ट)</entry>
-			<entry type="date">1982</entry>
+			<entry type="drama">काँचघर</entry>
+			<entry type="writer">टेनिसी विलियम्स</entry>
+			<entry type="translator">अतुलवीर अरोड़ा</entry>
+			<entry type="director">अतुलवीर अरोड़ा और अर्नेस्ट एलबर्ल्ट</entry>
+			<entry type="make-up">कमल अरोड़ा</entry>
+			<entry type="light">चरणदास, भारत भूषण</entry>
+			<entry type="artist">अतुलवीर अरोड़ा (टॉम), मीता वसिष्ठ (लॉरा), मीना अरोड़ा (अमेण्डा), जिम (अर्नेस्ट एलबर्ल्ट) व अन्य</entry>
+			<entry type="venue">टैगोर थिएटर, चण्डीगढ़</entry>
+			<entry type="date">05-06 सित., 1982</entry>
 		</mdetails>
 		<photo>
-			<entry id="599" type="" size="">
+			<entry id="599" type="02" size="">
 				<desc>लेखक टेनिसी विलियम्स `द ग्लास मितैज्री' का अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, परि.सं.602 की फोटो नटरंग अंक में प्रकाशित, पूर्ण सूचना स्मा - 1929 में उपलब्ध</misc>
 			</entry>
-			<entry id="600" type="" size="">
+			<entry id="600" type="02" size="">
 				<desc>लेखक टेनिसी विलियम्स `द ग्लास मितैज्री' का अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, परि.सं.602 की फोटो नटरंग अंक में प्रकाशित, पूर्ण सूचना स्मा - 1929 में उपलब्ध</misc>
 			</entry>
-			<entry id="601" type="" size="">
+			<entry id="601" type="02" size="">
 				<desc>लेखक टेनिसी विलियम्स `द ग्लास मितैज्री' का अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, परि.सं.602 की फोटो नटरंग अंक में प्रकाशित, पूर्ण सूचना स्मा - 1929 में उपलब्ध</misc>
 			</entry>
-			<entry id="602" type="" size="">
+			<entry id="602" type="02" size="">
 				<desc>लेखक टेनिसी विलियम्स `द ग्लास मितैज्री' का अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, परि.सं.602 की फोटो नटरंग अंक में प्रकाशित, पूर्ण सूचना स्मा - 1929 में उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.630">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8887,19 +8900,19 @@
 				<desc></desc>
 			</entry>
 			<entry id="2112" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध 36/23</desc>
 			</entry>
 			<entry id="2341" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.631">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">आला अफ़सर</entry>
-			<entry type="writer">निकोलई जोगोल</entry>
+			<entry type="writer">निकोलई गोगोल</entry>
 			<entry type="version">मुद्राराक्षस</entry>
 			<entry type="director">हरीश भाटिया</entry>
 			<entry type="event">राष्ट्रीय हिन्दी नाटक समारोह, भोपाल</entry>
@@ -8926,7 +8939,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.632">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8940,7 +8953,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.633">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8981,13 +8994,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.643">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">देहान्तर</entry>
 			<entry type="writer">नन्द किशोर आचार्य</entry>
-			<entry type="director">नरेन्द्र मेंहदीस्ता</entry>
+			<entry type="director">वीरेन्द्र मेंहदीरत्ता</entry>
 			<entry type="artist">`शर्मिष्ठा' की भूमिका में प्रीति गुप्ता एवं `मंगल' की भूमिका में उमा तरफदार</entry>
 		</mdetails>
 		<photo>
@@ -8996,7 +9009,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.638">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9007,40 +9020,52 @@
 		<photo>
 			<entry id="7677" type="" size="">
 				<desc>उर्जा सरपाल एवं राजा शर्मा</desc>
+				<misc>सॉजन्य से - नन्दकिशोर आचार्य</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.639;73.640">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">चारपाई</entry>
 			<entry type="writer">रामेश्वर प्रेम</entry>
 			<entry type="director">आदित्य प्रकाश</entry>
+			<entry type="music">राज जैन</entry>
+			<entry type="dressandstage">आदित्य प्रकाश</entry>
+			<entry type="make-up">कमल अरोड़ा</entry>
+			<entry type="stageassistant">सुनील सहगल</entry>
+			<entry type="light">रविन्दर कुमार</entry>
+			<entry type="artist">नविता हांडा (औरत), संदीप बिरमानी (पुरुष), सुनेत्रा अगाशे (माँ), गौरी अग्रवाल (शीलू), प्रहलाद अग्रवाल (बूढ़ा) व अन्य</entry>
+			<entry type="venue">टैगोर थियेटर, चण्डीगढ़</entry>
 			<entry type="date">20 - 21 मई 1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="595" type="" size="">
-				<desc></desc>
+			<entry id="595" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा 1940</misc>
 			</entry>
-			<entry id="596" type="" size="">
-				<desc></desc>
+			<entry id="596" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा 1940</misc>
 			</entry>
-			<entry id="597" type="" size="">
-				<desc></desc>
+			<entry id="597" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा 1940</misc>
 			</entry>
-			<entry id="598" type="" size="">
-				<desc></desc>
+			<entry id="598" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा 1940</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.641">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">जर्जर हवेली</entry>
 			<entry type="writer">महेश एलकुंचवार</entry>
-			<entry type="director">हरी भाटिया</entry>
+			<entry type="director">हरीश भाटिया</entry>
 		</mdetails>
 		<photo>
 			<entry id="592" type="" size="">
@@ -9054,13 +9079,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.642">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">दुलारीबाई</entry>
 			<entry type="writer">मणी मधुकर</entry>
-			<entry type="director">हरी भाटिया</entry>
+			<entry type="director">हरीश भाटिया</entry>
 			<entry type="date">1979</entry>
 		</mdetails>
 		<photo>
@@ -9081,25 +9106,31 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.654;73.655">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">लहरों के राजहंस</entry>
 			<entry type="writer">मोहन राकेश</entry>
-			<entry type="director">वीरेन्द्र मेहन्दीस्ता</entry>
-			<entry type="date">1975</entry>
+			<entry type="director">वीरेन्द्र मेहन्दीरत्ता</entry>
+			<entry type="dress">गोल्डी मल्होत्रा</entry>
+			<entry type="make-up">प्रमुक्ता जैन, कमल अरोड़ा व अन्य</entry>
+			<entry type="stage">पल्लव मुखर्जी</entry>
+			<entry type="light">कमल तिवारी</entry>
+			<entry type="artist">अतुलवीर अरोड़ा, हरीश भाटिया (श्यामंग), विकास नंदा (श्वेतांग), गोल्डी मल्होत्रा (सुंदरी), आलोका मेंहदीरत्ता (अलका), भारत भूषण (भिक्षु आनन्द) व अन्य</entry>
+			<entry type="venue">टैगोर थियेटर, चण्डीगढ़</entry>
+			<entry type="date">23-24 अगस्त 1975</entry>
 		</mdetails>
 		<photo>
 			<entry id="2108" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="2343" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.656">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9117,32 +9148,41 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.647;73.648">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
-			<entry type="drama">पैर तले की जमीन</entry>
+			<entry type="drama">पैर तले की ज़मीन</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">अतुलवीर अरोड़ा</entry>
-			<entry type="artist">उषा आर. शर्मा (सलमा), प्रो. हरीश भाटिया (अयूब), अपराजिता (रीता), पूजा माथुर (नीरा)</entry>
-			<entry type="date">1979</entry>
+			<entry type="voice">अनूप महाजन, नलिन, कुलदीप अरोड़ा</entry>
+			<entry type="make-up">कमल अरोड़ा</entry>
+			<entry type="stage">आदित्य प्रकाश</entry>
+			<entry type="light">हरजीत कैंथ, चरणदास</entry>
+			<entry type="artist">भारत भूषण (अब्दुल्ला), स्वराज भूषण (पण्डित), उषा आर. शर्मा (सलमा), प्रो. हरीश भाटिया (अयूब), अपराजिता (रीता), पूजा माथुर (नीरा) व अन्य</entry>
+			<entry type="venue">टैगोर थिएटर, चण्डीगढ़</entry>
+			<entry type="date">28-29 जु. 1979</entry>
 		</mdetails>
 		<photo>
 			<entry id="2105" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - 1926 में उपलब्ध</misc>
 			</entry>
 			<entry id="2106" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - 1926 में उपलब्ध</misc>
 			</entry>
 			<entry id="2107" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - 1926 में उपलब्ध</misc>
 			</entry>
 			<entry id="2342" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण सूचना स्मा - 1926 में उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.649">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9156,42 +9196,49 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.650;73.651">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">मिट्टी की गाड़ी</entry>
-			<entry type="writer">शूद्रक</entry>
+			<entry type="writer">शूद्रक (संस्कृत)</entry>
+			<entry type="translation">मोहन राकेश</entry>
+			<entry type="director">हरीश भाटिया एवं आदित्य प्रकाश</entry>
+			<entry type="music">लता साठे</entry>
+			<entry type="dress">आदित्य प्रकाश, उषा भाटिया</entry>
+			<entry type="stage">आदित्य प्रकाश</entry>
+			<entry type="light">मंगल ढिल्लो, चरणदास</entry>
+			<entry type="song">कमल तिवारी, वीरेन्द्र वालिया, लता साठे व अन्य</entry>
+			<entry type="venue">टैगोर थियेटर, चण्डीगढ़</entry>
 			<entry type="version">मृच्छकटिका</entry>
-			<entry type="director">हरीश भाटिया, आदित्य प्रकाश</entry>
 			<entry type="artist">गोल्डी मल्होत्रा, हरीश भाटिया</entry>
 			<entry type="date">2 - 3 सितंबर 1983</entry>
 		</mdetails>
 		<photo>
 			<entry id="579" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="580" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="581" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="582" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="583" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="584" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="585" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.652">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9209,7 +9256,7 @@
 				<desc></desc>
 			</entry>
 			<entry id="575" type="02" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध 36/24</desc>
 			</entry>
 			<entry id="576" type="02" size="">
 				<desc></desc>
@@ -9222,12 +9269,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.663">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">इंडियन थिएटर डिपार्टमेन्ट</entry>
 			<entry type="drama">एंटीगोन</entry>
-			<entry type="writer">सोफोस्लीज</entry>
+			<entry type="writer">सोफोक्लीज</entry>
 			<entry type="director">बलवंत गार्गी</entry>
 			<entry type="artist">उमा वाग्ले, मनोहर सिंह</entry>
 			<entry type="date">1975-76</entry>
@@ -9235,10 +9282,11 @@
 		<photo>
 			<entry id="3089" type="" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
+				<misc>निगेटिव उपलब्ध 36/21</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.664">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">एवरेस्ट</entry>
@@ -9250,34 +9298,36 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.657">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">सारी रात</entry>
-			<entry type="writer">बादल सरकार</entry>
+			<entry type="originaldrama">सारा रात्तिर (नाटक का मूल नाम)</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">प्रतिभा अग्रवाल</entry>
 			<entry type="director">अतुलवीर अरोड़ा</entry>
-			<entry type="artist">अर्नेस्ट एल्बर्ट (पुरुष), उषा आर. शर्मा (स्त्री), हरीश भाटिया (वृद्द)</entry>
+			<entry type="artist">अर्नेस्ट एल्बर्ट (पुरुष), उषा आर. शर्मा (स्त्री), एवं हरीश भाटिया (वृद्ध)</entry>
 			<entry type="date">1978</entry>
 		</mdetails>
 		<photo>
-			<entry id="568" type="" size="">
-				<desc></desc>
+			<entry id="568" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="569" type="" size="">
-				<desc></desc>
+			<entry id="569" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="570" type="" size="">
-				<desc></desc>
+			<entry id="570" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.658">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
-			<entry type="drama">सुनो जनमेर्चय</entry>
-			<entry type="writer">आद्य रंगाचर्य</entry>
+			<entry type="drama">सुनो जनमेझय</entry>
+			<entry type="writer">आद्य रंगाचार्य</entry>
 			<entry type="translation">नेमिचन्द्र जैन और ब. व. कारंत</entry>
 			<entry type="director">नवीनचन्द्र ठाकुर</entry>
 			<entry type="date">1975</entry>
@@ -9291,21 +9341,30 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.659;73.660">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="drama">सूर्य की अंतिम किरण से सूर्य की पहली किरण तक</entry>
 			<entry type="writer">सुरेन्द्र वर्मा</entry>
-			<entry type="date">16, 19 - 20 फरवरी 1989</entry>
+			<entry type="director">अतुलवीर अरोड़ा</entry>
+			<entry type="musicandvoice">कमल तिवारी, सुरेन्द्र शर्मा</entry>
+			<entry type="dress">आदित्य प्रकाश, भधुरिमा</entry>
+			<entry type="make-up">कमल अरोड़ा</entry>
+			<entry type="stage">आदित्य प्रकाश</entry>
+			<entry type="light">रवीन्द्र कुमार, चरणदास</entry>
+			<entry type="artist">अनीता शर्मा (महत्तरिका), सांनिया (प्रतिहारी), सुरेन्द्र शर्मा (महामात्य), अतुलवीर अरोड़ा (ओक्काक), भधुरिमा (शीलवती) व अन्य</entry>
+			<entry type="venue">लाला अचिन्त राम सभागार, चण्डीगढ़</entry>
+			<entry type="date">16, 19 - 20 जनवरी 1989</entry>
 		</mdetails>
 		<photo>
-			<entry id="2113" type="" size="">
-				<desc></desc>
+			<entry id="2113" type="01" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्मा - 1941 से</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.662">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">इंजीनियरिंग कालेज</entry>
@@ -9321,7 +9380,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.670">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
@@ -9329,9 +9388,9 @@
 			<entry type="writer">गिरीश करनाड</entry>
 			<entry type="translation">सुरजीत पातर</entry>
 			<entry type="director">नीलम मानसिंह चौधरी</entry>
-			<entry type="music">ब. व. कारन्त</entry>
+			<entry type="musicdirector">ब. व. कारन्त</entry>
 			<entry type="light">दौलत वेद</entry>
-			<entry type="stage">कबीर</entry>
+			<entry type="decorater">कबीर</entry>
 		</mdetails>
 		<photo>
 			<entry id="11319" type="" size="">
@@ -9366,17 +9425,17 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.665">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
 			<entry type="drama">एन अनपोस्टेड लव लैटर (An Unposted Love Letter)</entry>
 			<entry type="writer">डोरिस लौसिंग (Doris Lessing)</entry>
 			<entry type="director">नीलम मानसिंह चौधरी</entry>
-			<entry type="light">रवीन्द्र `हैप्पि'</entry>
-			<entry type="stage">सुमन्त जयकृष्णन एवं नीलम मानसिंह चौधरी</entry>
+			<entry type="light">रवीन्द्र `हैप्पी'</entry>
+			<entry type="decorater">सुमन्त जयकृष्णन एवं नीलम मानसिंह चौधरी</entry>
 			<entry type="translation">सुरजीत पातर</entry>
-			<entry type="music">ब. व. कारन्त</entry>
+			<entry type="musicconcept">ब. व. कारन्त</entry>
 			<entry type="venue">ब्रिटिश काउंसिल, नई दिल्ली</entry>
 			<entry type="date">18 अप्रैल</entry>
 		</mdetails>
@@ -9389,72 +9448,77 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.666;73.667">
 		<mdetails>
 			<entry type="state">पंजाब</entry>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कंपनी</entry>
-			<entry type="drama">किचन कथा</entry>
-			<entry type="writer">सुरजीत पत्तर</entry>
+			<entry type="drama">किचन कथा (पंजाबी)</entry>
+			<entry type="writer">सुरजीत पातर</entry>
 			<entry type="director">नीलम मानसिंह चौधरी</entry>
 			<entry type="music">ब. व. कारंत</entry>
-			<entry type="light">सुमंत जय कृष्णन</entry>
-			<entry type="stage">सुमंत जय कृष्णन</entry>
-			<entry type="venue">अभिमंच, राष्ट्रीय नाट्य विद्यालय, दिल्ली</entry>
+			<entry type="light">सुमंत जयकृष्णन</entry>
+			<entry type="stage">सुमंत जयकृष्णन</entry>
+			<entry type="artist">रमनजीत कौर (तारा, चाँदकौर), पायल चौधरी (लेखक), पामेला सिंह, सोमेश व अनिल शर्मा (गायक), मेहरचंद, बहादुरचन्द, अमरजीत, देसराज व अन्य (कुक व संगीतज्ञ)</entry>
+			<entry type="venue">अभिमंच सभागार, राष्ट्रीय नाट्य विद्यालय, दिल्ली</entry>
+			<entry type="event">रा. ना. विद्यालय एवं नटरंग प्रतिष्ठान द्वारा आयोजित एशियाई महिला रंग निर्देशक नाट्य समारोह `पूर्वा' में मंचित</entry>
 			<entry type="date">09-01-2003</entry>
 		</mdetails>
 		<photo>
-			<entry id="7906" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="7906" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="7907" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="7907" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9318" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9318" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9319" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9319" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9320" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9320" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9321" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9321" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9322" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9322" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9323" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9323" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9324" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9324" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9325" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9325" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9326" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9326" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="9327" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="9327" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="10642" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="10642" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
-			<entry id="10643" type="" size="">
-				<desc>पूर्वा : एशियाई महिला रंग निर्देशक नाट्य महोत्सव के अन्तर्गत प्रस्तुत, न. प्र. व. रा. ना. विद्यालय द्वारा आयोजित</desc>
+			<entry id="10643" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
+			</entry>
+			<entry id="13843" type="01" size="">
+				<desc>सूचना स्रोत स्मा - `पूर्वा महोत्सव'</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.668">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
 			<entry type="drama">किचन कथा (पंजाबी)</entry>
 			<entry type="writer">पायल चौधरी</entry>
-			<entry type="translation">सुरजीत पातर</entry>
+			<entry type="translator">सुरजीत पातर</entry>
 			<entry type="director">नीलम मानसिंह चौधरी</entry>
 			<entry type="music">ब. व. कारन्त</entry>
 			<entry type="venue">जुमीरा बीच होटल, कान्फेंस सेन्टर</entry>
@@ -9472,14 +9536,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.669">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
 			<entry type="drama">नागछाया (नागमण्डल) (पंजाबी)</entry>
 			<entry type="writer">गिरीश कारनाड</entry>
 			<entry type="director">नीलम मानसिंह चौधरी</entry>
-			<entry type="translation">सुरजीत पातर (पंजाबी रूपान्तरण)</entry>
+			<entry type="version">सुरजीत पातर (पंजाबी रूपान्तरण)</entry>
 			<entry type="music">ब. व. कारन्त</entry>
 		</mdetails>
 		<photo>
@@ -18475,39 +18539,40 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.661">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
 			<entry type="dance">हयवदन</entry>
 			<entry type="writer">गिरीश कारनाड</entry>
 			<entry type="director">हरीश भाटिया</entry>
+			<entry type="event">उत्तर संभागीय नाट्य समारोह, चणडीगढ़</entry>
 			<entry type="date">22-26 सितम्बर 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="558" type="" size="">
-				<desc>उत्तर संभागीय नाट्य समारोह, चणडीगढ़</desc>
+			<entry id="558" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="559" type="" size="">
-				<desc>उत्तर संभागीय नाट्य समारोह, चणडीगढ़</desc>
+			<entry id="559" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="560" type="" size="">
-				<desc>उत्तर संभागीय नाट्य समारोह, चणडीगढ़</desc>
+			<entry id="560" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="561" type="" size="">
-				<desc>उत्तर संभागीय नाट्य समारोह, चणडीगढ़</desc>
+			<entry id="561" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="562" type="" size="">
-				<desc>उत्तर संभागीय नाट्य समारोह, चणडीगढ़</desc>
+			<entry id="562" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="563" type="" size="">
-				<desc>उत्तर संभागीय नाट्य समारोह, चणडीगढ़</desc>
+			<entry id="563" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="564" type="" size="">
-				<desc>उत्तर संभागीय नाट्य समारोह, चणडीगढ़</desc>
+			<entry id="564" type="02" size="">
+				<desc>निगेटिव उपलब्ध 36/25</desc>
 			</entry>
-			<entry id="565" type="" size="">
-				<desc>उत्तर संभागीय नाट्य समारोह, चणडीगढ़</desc>
+			<entry id="565" type="02" size="">
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
