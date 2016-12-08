@@ -869,7 +869,7 @@
 			<entry type="troupe">समुदाय</entry>
 			<entry type="drama">दंगेय मुंचिन दिनगलु (कन्नड़) (विद्रोह से पहले)</entry>
 			<entry type="writer">प्रेमचन्द (कहानी - शतरंज के खिलाड़ी)</entry>
-			<entry type="kannadaarticle">प्रसन्ना</entry>
+			<entry type="article">प्रसन्ना</entry>
 			<entry type="director">प्रसन्ना</entry>
 			<entry type="song">के. वी. सुबण्णा</entry>
 			<entry type="songpresentation">जनार्दन</entry>
@@ -13593,7 +13593,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.736">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13604,7 +13604,7 @@
 		</mdetails>
 		<photo>
 			<entry id="3923" type="" size="">
-				<desc></desc>
+				<desc>नेगेटिव उपलब्ध</desc>
 			</entry>
 			<entry id="3923-II" type="" size="">
 				<desc></desc>
@@ -13617,15 +13617,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.737">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
 			<entry type="troupe">बहुरंगी</entry>
 			<entry type="drama">ओ जन्मेया इ नई</entry>
-			<entry type="writer">असगर वजाहत</entry>
+			<entry type="writer">अस़गर वजाहत</entry>
 			<entry type="director">कविरतन शर्मा, जम्मू</entry>
-			<entry type="date">3 - 6 मई 1991</entry>
+			<entry type="date">5 - 6 मई 1991</entry>
 		</mdetails>
 		<photo>
 			<entry id="954" type="" size="">
@@ -13697,7 +13697,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.734">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13715,12 +13715,14 @@
 			</entry>
 			<entry id="956" type="" size="">
 				<desc>डोंगरी</desc>
+				<misc>नेगेटिव उपलब्ध 18/36</misc>
 			</entry>
 			<entry id="957" type="" size="">
 				<desc>डोंगरी</desc>
 			</entry>
 			<entry id="958" type="" size="">
 				<desc>डोंगरी</desc>
+				<misc>नेगेटिव उपलब्ध 18/33</misc>
 			</entry>
 			<entry id="958-I" type="" size="">
 				<desc>डोंगरी</desc>
@@ -13733,7 +13735,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.742">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13750,7 +13752,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.743">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13767,7 +13769,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.738">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13783,7 +13785,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.739">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13802,7 +13804,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.740">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13821,14 +13823,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.741">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
 			<entry type="troupe">समूह थिएटर</entry>
 			<entry type="drama">अन्ना युग</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
-			<entry type="translation">राम नाथ शास्त्री</entry>
+			<entry type="translation">रामनाथ शास्त्री</entry>
 			<entry type="director">सुधीर महाजन</entry>
 			<entry type="venue">अभिनय थिएटर, जम्मू</entry>
 			<entry type="date">09-12-1999</entry>
@@ -13839,7 +13841,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.750">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13854,7 +13856,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.751">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13868,7 +13870,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.744">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13914,7 +13916,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.748">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13933,7 +13935,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.749">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13949,10 +13951,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.756">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
-			<entry type="place">टलियारा</entry>
+			<entry type="place">ढलियारा</entry>
 			<entry type="troupe">राजकीय महाविद्यालय</entry>
 			<entry type="drama">लोटन</entry>
 			<entry type="writer">विपिन कुमार अग्रवाल</entry>
@@ -13963,7 +13965,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.757">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">श्रीनगर</entry>
@@ -13971,16 +13973,16 @@
 			<entry type="drama">तकदीर</entry>
 		</mdetails>
 		<photo>
-			<entry id="972" type="" size="">
-				<desc></desc>
+			<entry id="972" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.752">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
-			<entry type="troupe">समूह थिएटर तथा अमिनय स्कूल ऑफ ग्युजिक डांस एण्ड ड्रामाटिक</entry>
+			<entry type="troupe">समूह थिएटर तथा अमिनय स्कूल ऑफ म्यूजिक डांस एण्ड ड्रामाटिक</entry>
 			<entry type="drama">अंधेर नगरी</entry>
 			<entry type="writer">भारतेन्दु हरिश्चन्द्र</entry>
 			<entry type="director">सुधीर महाजन</entry>
@@ -13991,7 +13993,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.753">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13999,7 +14001,7 @@
 			<entry type="drama">मत्तविलासम</entry>
 			<entry type="writer">महेन्द्र विक्रम वर्मा</entry>
 			<entry type="director">सुधीर महाजन</entry>
-			<entry type="translation">राम नाथ शास्त्री [डोगरी अनुवाद]</entry>
+			<entry type="translation">रामनाथ शास्त्री [डोंगरी अनुवाद]</entry>
 			<entry type="music">विनोद, वर्षा व कुलजीत</entry>
 			<entry type="venue">अभिनव थिएटर, जम्मू</entry>
 			<entry type="date">19-05-1996</entry>
@@ -14010,7 +14012,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.754">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -14019,7 +14021,7 @@
 			<entry type="writer">सुरेन्द्र वर्मा</entry>
 			<entry type="director">सुधीर महाजन</entry>
 			<entry type="music">विनोद, वर्षा व कुलजीत</entry>
-			<entry type="artist">धनेश डोगरा व राजेश कोन्नू</entry>
+			<entry type="artist">धनेश डोंगरा व राजेश कोन्नू</entry>
 			<entry type="venue">अभिनव थिएटर, जम्मू</entry>
 			<entry type="date">19-05-1996</entry>
 		</mdetails>
@@ -14029,7 +14031,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.755">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -14043,7 +14045,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="73.758">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">श्रीनगर</entry>
@@ -14055,16 +14057,16 @@
 		</mdetails>
 		<photo>
 			<entry id="968" type="02" size="">
-				<desc>कास्मीरी</desc>
+				<desc>काश्मीरी</desc>
 			</entry>
 			<entry id="969" type="02" size="">
-				<desc>कास्मीरी</desc>
+				<desc>काश्मीरी</desc>
 			</entry>
 			<entry id="970" type="02" size="">
-				<desc>कास्मीरी</desc>
+				<desc>काश्मीरी</desc>
 			</entry>
 			<entry id="971" type="02" size="">
-				<desc>कास्मीरी</desc>
+				<desc>काश्मीरी</desc>
 			</entry>
 		</photo>
 	</media>
@@ -26884,25 +26886,33 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.767;73.768">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
 			<entry type="troupe">अभ्युदय</entry>
 			<entry type="drama">बकरी</entry>
-			<entry type="writer">सर्वेश्वरदयाल सक्सेना</entry>
-			<entry type="date">1988</entry>
+			<entry type="writer">सर्वेश्वर दयाल सक्सेना</entry>
+			<entry type="projection">सुषमा आहुजा</entry>
+			<entry type="director">सुषमा आहुजा</entry>
+			<entry type="music">काजल घोष</entry>
+			<entry type="dress">मज़ना रैइस, क्तृचा आहुजा</entry>
+			<entry type="light">अमिता पटेल</entry>
+			<entry type="artist">श्यामा शर्मा (नटी), सौरभ आहुजा (दुर्जन सिंह), देवकरण शर्मा (फोटोग्राफर), मुकुल श्रीवास्तव, बिजौय दीप, के. सेठी (सिपाही) व अन्य</entry>
+			<entry type="date">सितम्बर 1987</entry>
 		</mdetails>
 		<photo>
 			<entry id="938" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 2960</misc>
 			</entry>
 			<entry id="939" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 2960</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.769">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
@@ -26917,10 +26927,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.760">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
-			<entry type="place">चेन्नई</entry>
+			<entry type="place">चेन्नई (मद्रास)</entry>
 		</mdetails>
 		<photo>
 			<entry id="922" type="" size="">
@@ -26934,22 +26944,22 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.761">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
-			<entry type="place">चेन्नई</entry>
+			<entry type="place">चेन्नई (मद्रास)</entry>
 			<entry type="drama">क्षणमुगम्</entry>
 		</mdetails>
 		<photo>
 			<entry id="2064" type="" size="">
-				<desc>तामिल नाटक</desc>
+				<desc>तमिल नाटक</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.763">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
-			<entry type="place">चेन्नई</entry>
+			<entry type="place">चेन्नई (मद्रास)</entry>
 			<entry type="troupe">अभ्युदय</entry>
 			<entry type="drama">एक कहानी ये भी</entry>
 		</mdetails>
@@ -26959,19 +26969,32 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.764;73.765;73.766">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
 			<entry type="troupe">अभ्युदय</entry>
 			<entry type="drama">ओ नीली छतरी वाले</entry>
+			<entry type="writer">सुषमा आहुजा</entry>
+			<entry type="director">सुषमा आहुजा</entry>
+			<entry type="choreographer">सुषमा आहुजा</entry>
+			<entry type="projection">सुषमा आहुजा</entry>
+			<entry type="music">काजल घोष</entry>
+			<entry type="dress">श्यामा शर्मा</entry>
+			<entry type="make-up">सबापति</entry>
+			<entry type="stage">जी. रवि</entry>
+			<entry type="light">विक्टर पॉलराज एवं रमा</entry>
+			<entry type="artist">सुधीर आहुजा (पिता (साधुराम)), सुषमा आहुजा (माँ (गंगा)), सूरज प्रकाश शर्मा (दारजी), विनय मल्होत्रा (शहरी), पिया भण्डारी, क्तृचा आहुजा, अवन्तिका सरवाल, अंजलि हरिहरण (बेटियाँ) व अन्य</entry>
+			<entry type="date">अगस्त 1988</entry>
 		</mdetails>
 		<photo>
 			<entry id="942" type="01" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 2963</misc>
 			</entry>
 			<entry id="943" type="01" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 2963</misc>
 			</entry>
 		</photo>
 	</media>
@@ -27015,7 +27038,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="73.770">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
