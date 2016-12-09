@@ -2,7 +2,7 @@
 <!DOCTYPE natarang SYSTEM "natarang.dtd">
 
 <natarang>
-	<media aid="01" cid="73.505">
+	<media aid="01" cid="073.505">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -18,7 +18,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.444">
+	<media aid="02" cid="073.444">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="dance">डोलू कुनिथा</entry>
@@ -35,7 +35,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.446">
+	<media aid="01" cid="073.446">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">इंदागुंजी</entry>
@@ -49,7 +49,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.448">
+	<media aid="01" cid="073.448">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">केरेमने</entry>
@@ -64,7 +64,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.450">
+	<media aid="01" cid="073.450">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बेंगलूरु</entry>
@@ -76,7 +76,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.449">
+	<media aid="01" cid="073.449">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">तलवाटा</entry>
@@ -95,7 +95,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.453">
+	<media aid="01" cid="073.453">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -113,7 +113,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.452">
+	<media aid="01" cid="073.452">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -139,7 +139,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.451">
+	<media aid="01" cid="073.451">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -156,7 +156,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.458;73.466">
+	<media aid="01" cid="073.458;073.466">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -171,7 +171,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.454;73.455">
+	<media aid="01" cid="073.454;073.455">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -205,7 +205,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.464">
+	<media aid="01" cid="073.464">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -250,7 +250,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.463">
+	<media aid="01" cid="073.463">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -266,7 +266,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.459">
+	<media aid="01" cid="073.459">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -282,7 +282,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.460">
+	<media aid="01" cid="073.460">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -310,7 +310,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.461">
+	<media aid="01" cid="073.461">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -327,7 +327,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.462">
+	<media aid="01" cid="073.462">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -343,7 +343,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.470">
+	<media aid="01" cid="073.470">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -368,7 +368,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.469;73.476">
+	<media aid="01" cid="073.469;073.476">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -387,7 +387,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.465">
+	<media aid="01" cid="073.465">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -422,7 +422,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.467">
+	<media aid="01" cid="073.467">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -458,7 +458,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.468">
+	<media aid="01" cid="073.468">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -481,7 +481,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.478">
+	<media aid="01" cid="073.478">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -523,7 +523,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.471">
+	<media aid="01" cid="073.471">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -539,7 +539,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.472">
+	<media aid="01" cid="073.472">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -571,7 +571,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.473">
+	<media aid="01" cid="073.473">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -625,7 +625,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.475">
+	<media aid="01" cid="073.475">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -644,7 +644,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.484">
+	<media aid="01" cid="073.484">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -663,7 +663,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.483">
+	<media aid="01" cid="073.483">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -700,7 +700,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.479">
+	<media aid="01" cid="073.479">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -722,7 +722,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.480">
+	<media aid="01" cid="073.480">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -738,7 +738,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.481">
+	<media aid="01" cid="073.481">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -759,7 +759,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.482">
+	<media aid="01" cid="073.482">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -776,7 +776,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.491">
+	<media aid="01" cid="073.491">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -818,7 +818,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.490">
+	<media aid="01" cid="073.490">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -834,7 +834,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.485">
+	<media aid="02" cid="073.485">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -848,7 +848,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.486">
+	<media aid="01" cid="073.486">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -862,7 +862,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.487;73.488">
+	<media aid="01" cid="073.487;073.488">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -886,7 +886,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.489">
+	<media aid="01" cid="073.489">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -914,7 +914,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.506">
+	<media aid="01" cid="073.506">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -928,7 +928,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.504">
+	<media aid="01" cid="073.504">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1021,7 +1021,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.497">
+	<media aid="02" cid="073.497">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">बंगलूर</entry>
@@ -1059,7 +1059,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.503">
+	<media aid="01" cid="073.503">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1100,7 +1100,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.514">
+	<media aid="01" cid="073.514">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1119,7 +1119,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.511">
+	<media aid="01" cid="073.511">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1136,7 +1136,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.507">
+	<media aid="01" cid="073.507">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1162,7 +1162,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.508">
+	<media aid="01" cid="073.508">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1176,7 +1176,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.509">
+	<media aid="99" cid="073.509">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1197,7 +1197,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.510">
+	<media aid="01" cid="073.510">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1222,7 +1222,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.520">
+	<media aid="01" cid="073.520">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1234,7 +1234,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.519">
+	<media aid="01" cid="073.519">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1251,7 +1251,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.515">
+	<media aid="01" cid="073.515">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1268,7 +1268,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.516">
+	<media aid="01" cid="073.516">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1299,7 +1299,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.517">
+	<media aid="01" cid="073.517">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1319,7 +1319,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.518">
+	<media aid="01" cid="073.518">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1336,7 +1336,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.527">
+	<media aid="01" cid="073.527">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1359,7 +1359,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.526">
+	<media aid="01" cid="073.526">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1397,7 +1397,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.522">
+	<media aid="01" cid="073.522">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">मैसूर</entry>
@@ -1430,7 +1430,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.523">
+	<media aid="01" cid="073.523">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हुबली</entry>
@@ -1457,7 +1457,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.525">
+	<media aid="01" cid="073.525">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1482,7 +1482,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.535">
+	<media aid="01" cid="073.535">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1503,7 +1503,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.534">
+	<media aid="01" cid="073.534">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1527,7 +1527,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.528">
+	<media aid="01" cid="073.528">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1548,7 +1548,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.530">
+	<media aid="01" cid="073.530">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1570,7 +1570,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.531">
+	<media aid="01" cid="073.531">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1592,7 +1592,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.533">
+	<media aid="01" cid="073.533">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1608,7 +1608,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.543">
+	<media aid="01" cid="073.543">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1630,7 +1630,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.542">
+	<media aid="01" cid="073.542">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1685,7 +1685,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.537">
+	<media aid="01" cid="073.537">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1706,7 +1706,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.538">
+	<media aid="01" cid="073.538">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1732,7 +1732,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.539">
+	<media aid="01" cid="073.539">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1776,7 +1776,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.541">
+	<media aid="01" cid="073.541">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1805,7 +1805,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.544">
+	<media aid="01" cid="073.544">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -1829,7 +1829,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.546">
+	<media aid="01" cid="073.546">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">हेग्गुडु</entry>
@@ -3462,28 +3462,28 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.141">
+	<media aid="01" cid="073.101;073.141">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
 			<entry type="troup">नाट्य भारती</entry>
 			<entry type="drama">शुतुरमुर्ग</entry>
-			<entry type="writer">जानदेव अग्निहोत्री</entry>
+			<entry type="writer">ज्ञानदेव अग्निहोत्री</entry>
 			<entry type="director">बंसी कौल</entry>
 		</mdetails>
 		<photo>
 			<entry id="107" type="02" size="">
-				<desc></desc>
+				<desc>नि. न. 37/5</desc>
 			</entry>
 			<entry id="108" type="02" size="">
-				<desc></desc>
+				<desc>नि. न. 37/5</desc>
 			</entry>
 			<entry id="152" type="02" size="">
-				<desc></desc>
+				<desc>नि. न. 37/5</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.102">
+	<media aid="01" cid="073.102">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3514,7 +3514,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.103">
+	<media aid="01" cid="073.103">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3530,7 +3530,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.106;73.107">
+	<media aid="01" cid="073.106;073.107">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3550,7 +3550,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.104;73.105">
+	<media aid="01" cid="073.104;073.105">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3570,7 +3570,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.110">
+	<media aid="01" cid="073.110">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3586,7 +3586,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.109">
+	<media aid="01" cid="073.109">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3601,7 +3601,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.108">
+	<media aid="01" cid="073.108">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3616,7 +3616,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.111;73.112">
+	<media aid="01" cid="073.111;073.112">
 		<mdetails>
 			<entry type="state">उतरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3646,7 +3646,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.113;73.114">
+	<media aid="01" cid="073.113;073.114">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3671,7 +3671,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.117">
+	<media aid="01" cid="073.117">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3687,7 +3687,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.115">
+	<media aid="01" cid="073.115">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3706,7 +3706,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.118;73.119">
+	<media aid="01" cid="073.118;073.119">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3726,7 +3726,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.121;73.122">
+	<media aid="01" cid="073.121;073.122">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3749,7 +3749,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.120">
+	<media aid="01" cid="073.120">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3766,7 +3766,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.301">
+	<media aid="01" cid="073.301">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -3781,7 +3781,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.127">
+	<media aid="01" cid="073.127">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3797,7 +3797,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.126">
+	<media aid="01" cid="073.126">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3813,7 +3813,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.125">
+	<media aid="02" cid="073.125">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3833,7 +3833,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.124">
+	<media aid="01" cid="073.124">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3850,7 +3850,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.129">
+	<media aid="01" cid="073.129">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3867,7 +3867,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.128">
+	<media aid="01" cid="073.128">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3887,7 +3887,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.135">
+	<media aid="02" cid="073.135">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3901,7 +3901,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.133">
+	<media aid="01" cid="073.133">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3919,7 +3919,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.132">
+	<media aid="01" cid="073.132">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3950,7 +3950,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.137">
+	<media aid="02" cid="073.137">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3969,7 +3969,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.136">
+	<media aid="02" cid="073.136">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -3984,7 +3984,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.142">
+	<media aid="01" cid="073.142">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4014,7 +4014,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.140">
+	<media aid="01" cid="073.140">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4039,7 +4039,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.138">
+	<media aid="01" cid="073.138">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4055,7 +4055,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.144">
+	<media aid="01" cid="073.144">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4079,7 +4079,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.143">
+	<media aid="01" cid="073.143">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4093,7 +4093,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.148">
+	<media aid="01" cid="073.148">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4111,7 +4111,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.147">
+	<media aid="01" cid="073.147">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4128,7 +4128,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.146">
+	<media aid="01" cid="073.146">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4144,7 +4144,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.145">
+	<media aid="01" cid="073.145">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4166,7 +4166,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.150">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गाजीपुर</entry>
@@ -4175,7 +4175,7 @@
 			<entry type="writer">धर्मवीर भारती</entry>
 			<entry type="director">शिवमूरत सिंह</entry>
 			<entry type="photographer">प्रताप</entry>
-			<entry type="artist">तौसीम अख्तर अंसारी (युयुत्स), मु. कैयूम (विदुर), धर्मेन्द्र कुमार जायसवाल (कृपाचार्य), सुरेश जायसवाल (गूंगा सैनिक), अवधेश वर्मा (प्रहरी-एक)</entry>
+			<entry type="artist">तौसीम अख़्तर अंसारी (युयुत्स), मु. कैयूम (विदुर), धर्मेन्द्र कुमार जायसवाल (कृपाचार्य), सुरेश जायसवाल (गूंगा सैनिक), अवधेश वर्मा (प्रहरी-एक)</entry>
 		</mdetails>
 		<photo>
 			<entry id="121" type="02" size="">
@@ -4186,7 +4186,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.149">
+	<media aid="01" cid="073.149">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4201,7 +4201,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.155">
+	<media aid="01" cid="073.155">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4218,7 +4218,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.153">
+	<media aid="01" cid="073.153">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गाजीपुर</entry>
@@ -4237,7 +4237,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.152">
+	<media aid="01" cid="073.152">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गाज़ीपुर</entry>
@@ -4258,7 +4258,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.151">
+	<media aid="01" cid="073.151">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गाज़ीपुर</entry>
@@ -4273,7 +4273,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.157">
+	<media aid="01" cid="073.157">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4300,7 +4300,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.182">
+	<media aid="01" cid="073.182">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4317,7 +4317,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.179">
+	<media aid="01" cid="073.179">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4339,7 +4339,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.158">
+	<media aid="01" cid="073.158">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4353,7 +4353,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.161">
+	<media aid="01" cid="073.161">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4372,7 +4372,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.160;73.186">
+	<media aid="01" cid="073.160;073.186">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4388,7 +4388,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.159">
+	<media aid="01" cid="073.159">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4403,7 +4403,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.166;73.167">
+	<media aid="01" cid="073.166;073.167">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4423,7 +4423,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.165">
+	<media aid="01" cid="073.165">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4439,7 +4439,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.163">
+	<media aid="01" cid="073.163">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4457,7 +4457,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.162">
+	<media aid="01" cid="073.162">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4472,7 +4472,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.174">
+	<media aid="01" cid="073.174">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4488,7 +4488,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.171;73.172">
+	<media aid="01" cid="073.171;073.172">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4528,7 +4528,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.180">
+	<media aid="01" cid="073.180">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4542,7 +4542,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.178">
+	<media aid="01" cid="073.178">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4559,7 +4559,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.175">
+	<media aid="02" cid="073.175">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4578,7 +4578,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.183">
+	<media aid="01" cid="073.183">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4619,7 +4619,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.188">
+	<media aid="01" cid="073.188">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4644,7 +4644,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.187">
+	<media aid="01" cid="073.187">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4660,7 +4660,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.185">
+	<media aid="01" cid="073.185">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4679,7 +4679,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.184">
+	<media aid="01" cid="073.184">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4696,7 +4696,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.202">
+	<media aid="01" cid="073.202">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4707,7 +4707,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.190;73.191">
+	<media aid="01" cid="073.190;073.191">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
@@ -4731,7 +4731,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.207">
+	<media aid="01" cid="073.207">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4747,7 +4747,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.206">
+	<media aid="01" cid="073.206">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4761,7 +4761,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.205">
+	<media aid="01" cid="073.205">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4775,7 +4775,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.203">
+	<media aid="01" cid="073.203">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4791,7 +4791,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.209">
+	<media aid="01" cid="073.209">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4812,7 +4812,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.208">
+	<media aid="01" cid="073.208">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4832,7 +4832,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.218">
+	<media aid="01" cid="073.218">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4850,7 +4850,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.215;73.216;73.217">
+	<media aid="01" cid="073.215;073.216;073.217">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4873,7 +4873,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.211;73.212;73.213;73.214">
+	<media aid="01" cid="073.211;073.212;073.213;073.214">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4897,7 +4897,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.210">
+	<media aid="01" cid="073.210">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4914,7 +4914,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.223;73.224">
+	<media aid="01" cid="073.223;073.224">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4935,7 +4935,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.219;73.220">
+	<media aid="01" cid="073.219;073.220">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -4956,7 +4956,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.229">
+	<media aid="02" cid="073.229">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">नैनीताल</entry>
@@ -4972,7 +4972,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.227;73.228">
+	<media aid="01" cid="073.227;073.228">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">नैनीताल</entry>
@@ -4990,7 +4990,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.225;73.226">
+	<media aid="01" cid="073.225;073.226">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">नैनीताल</entry>
@@ -5006,7 +5006,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.221;73.222">
+	<media aid="01" cid="073.221;073.222">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">देहरादून</entry>
@@ -5029,7 +5029,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.232">
+	<media aid="01" cid="073.232">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">पिथौरागढ़</entry>
@@ -5045,7 +5045,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.230">
+	<media aid="01" cid="073.230">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">नैनीताल</entry>
@@ -5060,7 +5060,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.236">
+	<media aid="01" cid="073.236">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">बरेली</entry>
@@ -5075,7 +5075,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.235">
+	<media aid="99" cid="073.235">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">बरेली</entry>
@@ -5089,7 +5089,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.234">
+	<media aid="01" cid="073.234">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">बनारस</entry>
@@ -5118,7 +5118,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.231">
+	<media aid="01" cid="073.231">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">प्रतापगढ़</entry>
@@ -5134,7 +5134,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.238">
+	<media aid="01" cid="073.238">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5147,7 +5147,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.237">
+	<media aid="01" cid="073.237">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5202,7 +5202,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.241">
+	<media aid="99" cid="073.241">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5215,7 +5215,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.239;73.240">
+	<media aid="99" cid="073.239;073.240">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5237,7 +5237,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.243">
+	<media aid="01" cid="073.243">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5253,7 +5253,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.242">
+	<media aid="01" cid="073.242">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5267,7 +5267,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.252">
+	<media aid="01" cid="073.252">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5283,7 +5283,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.248;73.249;73.250">
+	<media aid="01" cid="073.248;073.249;073.250">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मुरादाबाद</entry>
@@ -5328,7 +5328,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.244">
+	<media aid="01" cid="073.244">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5343,7 +5343,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.258">
+	<media aid="01" cid="073.258">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5360,7 +5360,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.253">
+	<media aid="01" cid="073.253">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5379,7 +5379,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.256;73.257">
+	<media aid="01" cid="073.256;073.257">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5403,7 +5403,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.255">
+	<media aid="01" cid="073.255">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5423,7 +5423,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.254">
+	<media aid="01" cid="073.254">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5441,7 +5441,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.251">
+	<media aid="01" cid="073.251">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5455,7 +5455,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.261">
+	<media aid="01" cid="073.261">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5472,7 +5472,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.259;73.260">
+	<media aid="01" cid="073.259;073.260">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5507,7 +5507,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.342">
+	<media aid="01" cid="073.342">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5524,7 +5524,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.268">
+	<media aid="99" cid="073.268">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5535,7 +5535,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.266">
+	<media aid="01" cid="073.266">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">राथबरेली</entry>
@@ -5550,7 +5550,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.262">
+	<media aid="01" cid="073.262">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मेरठ</entry>
@@ -5573,7 +5573,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.269">
+	<media aid="01" cid="073.269">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5588,7 +5588,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.267">
+	<media aid="99" cid="073.267">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5599,7 +5599,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.317">
+	<media aid="01" cid="073.317">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5615,7 +5615,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.316">
+	<media aid="01" cid="073.316">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5632,7 +5632,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.315">
+	<media aid="99" cid="073.315">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5646,7 +5646,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.314">
+	<media aid="01" cid="073.314">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5661,7 +5661,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.320">
+	<media aid="99" cid="073.320">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5677,7 +5677,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.319">
+	<media aid="01" cid="073.319">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5693,7 +5693,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.327">
+	<media aid="01" cid="073.327">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5710,7 +5710,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.359;73.360">
+	<media aid="01" cid="073.359;073.360">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5734,7 +5734,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.323">
+	<media aid="01" cid="073.323">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5749,7 +5749,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.321;73.322">
+	<media aid="01" cid="073.321;073.322">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5812,7 +5812,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.328">
+	<media aid="01" cid="073.328">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5830,7 +5830,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.347">
+	<media aid="01" cid="073.347">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5899,7 +5899,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.339;73.340">
+	<media aid="01" cid="073.339;073.340">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5924,7 +5924,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.334">
+	<media aid="01" cid="073.334">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5941,7 +5941,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.332;73.333">
+	<media aid="01" cid="073.332;073.333">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -5964,7 +5964,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.343;73.356">
+	<media aid="01" cid="073.343;073.356">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6039,7 +6039,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.349">
+	<media aid="01" cid="073.349">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6057,7 +6057,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.362">
+	<media aid="01" cid="073.362">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6075,7 +6075,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.361">
+	<media aid="01" cid="073.361">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6092,7 +6092,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.357">
+	<media aid="01" cid="073.357">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6108,7 +6108,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.363">
+	<media aid="01" cid="073.363">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6137,7 +6137,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.362.1(1);73.362.2">
+	<media aid="01" cid="073.362.1(1);073.362.2">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6151,7 +6151,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.367">
+	<media aid="01" cid="073.367">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6168,7 +6168,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.371;73.372">
+	<media aid="01" cid="073.371;073.372">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6190,7 +6190,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.365;73.366">
+	<media aid="01" cid="073.365;073.366">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6213,7 +6213,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.364">
+	<media aid="01" cid="073.364">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6239,7 +6239,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.370">
+	<media aid="01" cid="073.370">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6256,7 +6256,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.368(1);73.369(1)">
+	<media aid="01" cid="073.368(1);073.369(1)">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6276,7 +6276,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.378">
+	<media aid="01" cid="073.378">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6291,7 +6291,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.376">
+	<media aid="01" cid="073.376">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6307,7 +6307,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.374;73.375">
+	<media aid="01" cid="073.374;073.375">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6334,7 +6334,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.377">
+	<media aid="01" cid="073.377">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6356,7 +6356,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.382">
+	<media aid="01" cid="073.382">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6372,7 +6372,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.380">
+	<media aid="01" cid="073.380">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6390,7 +6390,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.386;73.387">
+	<media aid="01" cid="073.386;073.387">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6415,7 +6415,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.385">
+	<media aid="01" cid="073.385">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6432,7 +6432,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.384">
+	<media aid="01" cid="073.384">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6450,7 +6450,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.383">
+	<media aid="01" cid="073.383">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6467,7 +6467,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.400">
+	<media aid="01" cid="073.400">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6485,7 +6485,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.388">
+	<media aid="01" cid="073.388">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6500,7 +6500,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.407">
+	<media aid="01" cid="073.407">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6518,7 +6518,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.390">
+	<media aid="01" cid="073.390">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6532,7 +6532,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.393;73.394">
+	<media aid="01" cid="073.393;073.394">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6554,7 +6554,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.389">
+	<media aid="01" cid="073.389">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6568,7 +6568,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.392">
+	<media aid="01" cid="073.392">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6583,7 +6583,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.391">
+	<media aid="01" cid="073.391">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6600,7 +6600,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.398">
+	<media aid="01" cid="073.398">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6620,7 +6620,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.397">
+	<media aid="99" cid="073.397">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6645,7 +6645,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.396">
+	<media aid="01" cid="073.396">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6661,7 +6661,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.395">
+	<media aid="02" cid="073.395">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6678,7 +6678,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.401;73.402">
+	<media aid="01" cid="073.401;073.402">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6701,7 +6701,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.399">
+	<media aid="01" cid="073.399">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6720,7 +6720,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.408;73.409">
+	<media aid="01" cid="073.408;073.409">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">शाहजहाँपुर</entry>
@@ -6743,7 +6743,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.406">
+	<media aid="01" cid="073.406">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6762,7 +6762,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.405">
+	<media aid="01" cid="073.405">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6783,7 +6783,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.403;73.404">
+	<media aid="01" cid="073.403;073.404">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">वाराणसी</entry>
@@ -6803,7 +6803,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.411">
+	<media aid="01" cid="073.411">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">शाहजहांपुर</entry>
@@ -6819,7 +6819,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.410">
+	<media aid="01" cid="073.410">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">शाहजहाँपुर</entry>
@@ -6836,7 +6836,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.418">
+	<media aid="01" cid="073.418">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सहारनपुर</entry>
@@ -6854,7 +6854,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.413">
+	<media aid="01" cid="073.413">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">श्रीनगर गढ़वाल</entry>
@@ -6909,7 +6909,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.412">
+	<media aid="99" cid="073.412">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">शाहजहाँपुर</entry>
@@ -6932,7 +6932,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.422">
+	<media aid="01" cid="073.422">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सहारनपुर</entry>
@@ -6949,7 +6949,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.419">
+	<media aid="02" cid="073.419">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सहारनपुर</entry>
@@ -6962,7 +6962,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.426">
+	<media aid="02" cid="073.426">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
@@ -6979,7 +6979,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.425">
+	<media aid="02" cid="073.425">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
@@ -6993,7 +6993,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.423">
+	<media aid="01" cid="073.423">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
@@ -7010,7 +7010,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.424">
+	<media aid="01" cid="073.424">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
@@ -7024,7 +7024,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.428">
+	<media aid="01" cid="073.428">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
@@ -7039,7 +7039,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.427">
+	<media aid="01" cid="073.427">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">साहिबाबाद</entry>
@@ -7057,7 +7057,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.433">
+	<media aid="01" cid="073.433">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
@@ -7073,7 +7073,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.432">
+	<media aid="01" cid="073.432">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
@@ -7091,7 +7091,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.431">
+	<media aid="01" cid="073.431">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
@@ -7109,7 +7109,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.429;73.430">
+	<media aid="01" cid="073.429;073.430">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
@@ -7131,7 +7131,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.434">
+	<media aid="01" cid="073.434">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">सीतापुर</entry>
@@ -7152,7 +7152,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.014">
+	<media aid="01" cid="073.014">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -7168,7 +7168,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.015">
+	<media aid="01" cid="073.015">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -7183,7 +7183,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.009;73.010">
+	<media aid="01" cid="073.009;073.010">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">विशाखापट्टनम</entry>
@@ -7200,7 +7200,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.011">
+	<media aid="01" cid="073.011">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">विशाखापट्टनम</entry>
@@ -7218,7 +7218,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.013">
+	<media aid="01" cid="073.013">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -7234,7 +7234,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.016">
+	<media aid="01" cid="073.016">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -7252,7 +7252,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.017">
+	<media aid="01" cid="073.017">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -7268,7 +7268,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.018">
+	<media aid="01" cid="073.018">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -7281,7 +7281,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.019">
+	<media aid="01" cid="073.019">
 		<mdetails>
 			<entry type="state">आन्ध्रप्रदेश</entry>
 			<entry type="place">हैदराबाद</entry>
@@ -8728,7 +8728,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.628">
+	<media aid="01" cid="073.628">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8746,7 +8746,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.629">
+	<media aid="01" cid="073.629">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8766,7 +8766,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.624">
+	<media aid="01" cid="073.624">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="drama">देवयानी का कहना है</entry>
@@ -8782,7 +8782,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.625">
+	<media aid="02" cid="073.625">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="dance">विविध</entry>
@@ -8794,7 +8794,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.626">
+	<media aid="01" cid="073.626">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8808,7 +8808,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.627">
+	<media aid="01" cid="073.627">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8822,7 +8822,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.634;73.635">
+	<media aid="01" cid="073.634;073.635">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8847,7 +8847,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.636;73.637">
+	<media aid="01" cid="073.636;073.637">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8880,7 +8880,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.630">
+	<media aid="01" cid="073.630">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8907,7 +8907,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.631">
+	<media aid="01" cid="073.631">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8939,7 +8939,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.632">
+	<media aid="01" cid="073.632">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8953,7 +8953,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.633">
+	<media aid="01" cid="073.633">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -8994,7 +8994,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.643">
+	<media aid="01" cid="073.643">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9009,7 +9009,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.638">
+	<media aid="01" cid="073.638">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9024,7 +9024,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.639;73.640">
+	<media aid="01" cid="073.639;073.640">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9059,7 +9059,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.641">
+	<media aid="01" cid="073.641">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9079,7 +9079,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.642">
+	<media aid="01" cid="073.642">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9106,7 +9106,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.654;73.655">
+	<media aid="01" cid="073.654;073.655">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9130,7 +9130,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.656">
+	<media aid="01" cid="073.656">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9148,7 +9148,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.647;73.648">
+	<media aid="01" cid="073.647;073.648">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9182,7 +9182,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.649">
+	<media aid="01" cid="073.649">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9196,7 +9196,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.650;73.651">
+	<media aid="01" cid="073.650;073.651">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9238,7 +9238,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.652">
+	<media aid="01" cid="073.652">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9269,7 +9269,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.663">
+	<media aid="01" cid="073.663">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">इंडियन थिएटर डिपार्टमेन्ट</entry>
@@ -9286,7 +9286,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.664">
+	<media aid="01" cid="073.664">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">एवरेस्ट</entry>
@@ -9298,7 +9298,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.657">
+	<media aid="01" cid="073.657">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9322,7 +9322,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.658">
+	<media aid="01" cid="073.658">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9341,7 +9341,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.659;73.660">
+	<media aid="01" cid="073.659;073.660">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -9364,7 +9364,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.662">
+	<media aid="01" cid="073.662">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">इंजीनियरिंग कालेज</entry>
@@ -9380,7 +9380,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.670">
+	<media aid="01" cid="073.670">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
@@ -9425,7 +9425,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.665">
+	<media aid="01" cid="073.665">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
@@ -9448,7 +9448,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.666;73.667">
+	<media aid="01" cid="073.666;073.667">
 		<mdetails>
 			<entry type="state">पंजाब</entry>
 			<entry type="place">चण्डीगढ़</entry>
@@ -9512,7 +9512,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.668">
+	<media aid="01" cid="073.668">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
@@ -9536,7 +9536,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.669">
+	<media aid="01" cid="073.669">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
@@ -9600,7 +9600,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.671;73.672">
+	<media aid="01" cid="073.671;073.672">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कंपनी</entry>
@@ -9672,7 +9672,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.673;73.674">
+	<media aid="01" cid="073.673;073.674">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
@@ -9775,29 +9775,35 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.675">
+	<media aid="01" cid="073.675;140001">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">दि कम्पनी थिएटर</entry>
-			<entry type="drama">राजा भर्तृहरि (पंजाबी)</entry>
+			<entry type="drama">राजा भरथरी (पंजाबी)</entry>
 			<entry type="writer">जोगा सिंह</entry>
 			<entry type="version">रविन्दर हैप्पी</entry>
 			<entry type="director">नीलम मानसिंह</entry>
+			<entry type="artist">जोगा सिंह, रविन्दर हैप्पी</entry>
 			<entry type="event">उत्तरप्रदेश नाट्य समारोह, जम्मू</entry>
+			<entry type="venue">जम्मू</entry>
 			<entry type="date">23-08-1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="544" type="" size="">
-				<desc></desc>
+			<entry id="544" type="02" size="">
+				<desc>उत्तर क्षेत्र नाट्य समारोह, जम्मू में मंचित</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
-			<entry id="545" type="" size="">
-				<desc></desc>
+			<entry id="545" type="02" size="">
+				<desc>उत्तर क्षेत्र नाट्य समारोह, जम्मू में मंचित</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
-			<entry id="5064" type="" size="">
-				<desc></desc>
+			<entry id="5064" type="02" size="">
+				<desc>उत्तर क्षेत्र नाट्य समारोह, जम्मू में मंचित</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
-			<entry id="5065" type="" size="">
-				<desc></desc>
+			<entry id="5065" type="02" size="">
+				<desc>उत्तर क्षेत्र नाट्य समारोह, जम्मू में मंचित</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
 		</photo>
 	</media>
@@ -9867,7 +9873,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.677;73.678">
+	<media aid="01" cid="073.677;073.678">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
@@ -9936,7 +9942,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.683">
+	<media aid="01" cid="073.683">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">पंजाब विश्वविद्यालय, हिन्दी विभाग</entry>
@@ -9949,7 +9955,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.684">
+	<media aid="01" cid="073.684">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">पंजाब विश्वविद्यालय हिन्दी विभाग</entry>
@@ -9962,7 +9968,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.679">
+	<media aid="01" cid="073.679">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कम्पनी</entry>
@@ -9982,7 +9988,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.680">
+	<media aid="01" cid="073.680">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">द कंपनी</entry>
@@ -10004,7 +10010,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.681">
+	<media aid="01" cid="073.681">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">टैगोर थियेटर</entry>
@@ -10022,7 +10028,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.682">
+	<media aid="01" cid="073.682">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">थिएटर लैब</entry>
@@ -10043,7 +10049,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.689">
+	<media aid="01" cid="073.689">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">भारतीय रंगमंच विभाग</entry>
@@ -10057,7 +10063,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.690">
+	<media aid="01" cid="073.690">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">भारतीय रंगमंच विभाग</entry>
@@ -10070,7 +10076,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.685">
+	<media aid="01" cid="073.685">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">भारतीय रंगमंच विभाग</entry>
@@ -10084,7 +10090,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.686">
+	<media aid="01" cid="073.686">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">भारतीय रंगमंच विभाग</entry>
@@ -10109,7 +10115,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.687">
+	<media aid="01" cid="073.687">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">भारतीय रंगमंच विभाग</entry>
@@ -10122,7 +10128,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.688">
+	<media aid="01" cid="073.688">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">भारतीय रंगमंच विभाग</entry>
@@ -10138,7 +10144,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.701">
+	<media aid="01" cid="073.701">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">लोक कला मंच</entry>
@@ -10159,7 +10165,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.697">
+	<media aid="01" cid="073.697">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">लोककला मंच</entry>
@@ -10174,7 +10180,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.698">
+	<media aid="01" cid="073.698">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">लोककला मंच</entry>
@@ -10188,7 +10194,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.699">
+	<media aid="01" cid="073.699">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">लोक कला मंच</entry>
@@ -10201,7 +10207,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.700">
+	<media aid="01" cid="073.700">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">लोककला मंच</entry>
@@ -10215,7 +10221,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.703">
+	<media aid="01" cid="073.703">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">महासमुद्रं</entry>
@@ -10231,7 +10237,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.704">
+	<media aid="01" cid="073.704">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">महासमुद्रं</entry>
@@ -10247,7 +10253,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.707">
+	<media aid="02" cid="073.707">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायगढ़</entry>
@@ -10286,7 +10292,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.705;73.706">
+	<media aid="01" cid="073.705;073.706">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायगढ़</entry>
@@ -10307,7 +10313,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.715">
+	<media aid="01" cid="073.715">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10322,7 +10328,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.716">
+	<media aid="01" cid="073.716">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10338,7 +10344,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.711">
+	<media aid="01" cid="073.711">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10352,7 +10358,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.712">
+	<media aid="01" cid="073.712">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10367,7 +10373,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.713">
+	<media aid="01" cid="073.713">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10383,7 +10389,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.714">
+	<media aid="01" cid="073.714">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10407,7 +10413,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.721">
+	<media aid="01" cid="073.721">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10422,7 +10428,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.722">
+	<media aid="01" cid="073.722">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रींवा</entry>
@@ -10438,7 +10444,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.717">
+	<media aid="01" cid="073.717">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10469,7 +10475,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.718">
+	<media aid="01" cid="073.718">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10496,7 +10502,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.719">
+	<media aid="01" cid="073.719">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -10512,7 +10518,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.720">
+	<media aid="01" cid="073.720">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="place">रायपुर</entry>
@@ -13102,7 +13108,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.593">
+	<media aid="01" cid="073.593">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13135,7 +13141,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.594;73.595">
+	<media aid="01" cid="073.594;073.595">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13166,7 +13172,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.587">
+	<media aid="99" cid="073.587">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13180,7 +13186,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.606;73.607;73.608">
+	<media aid="01" cid="073.606;073.607;073.608">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13204,7 +13210,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.590">
+	<media aid="01" cid="073.590">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13225,7 +13231,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.592">
+	<media aid="01" cid="073.592">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13246,7 +13252,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.604">
+	<media aid="01" cid="073.604">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13265,7 +13271,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.605">
+	<media aid="01" cid="073.605">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13281,7 +13287,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.596;73.597">
+	<media aid="01" cid="073.596;073.597">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13313,7 +13319,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.601">
+	<media aid="01" cid="073.601">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13326,7 +13332,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.602">
+	<media aid="99" cid="073.602">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13339,7 +13345,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.603">
+	<media aid="02" cid="073.603">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -13363,7 +13369,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.613">
+	<media aid="01" cid="073.613">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
@@ -13379,7 +13385,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.614">
+	<media aid="01" cid="073.614">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
@@ -13400,7 +13406,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.609">
+	<media aid="01" cid="073.609">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
@@ -13418,7 +13424,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.610">
+	<media aid="01" cid="073.610">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
@@ -13447,7 +13453,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.611">
+	<media aid="01" cid="073.611">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
@@ -13463,7 +13469,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.612">
+	<media aid="01" cid="073.612">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">बड़ौदा</entry>
@@ -13492,7 +13498,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.729">
+	<media aid="01" cid="073.729">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13509,7 +13515,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.730">
+	<media aid="01" cid="073.730">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13537,7 +13543,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.726">
+	<media aid="01" cid="073.726">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13558,7 +13564,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.727">
+	<media aid="01" cid="073.727">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13575,7 +13581,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.728">
+	<media aid="01" cid="073.728">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13593,7 +13599,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.736">
+	<media aid="01" cid="073.736">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13617,7 +13623,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.737">
+	<media aid="01" cid="073.737">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13636,7 +13642,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.725">
+	<media aid="01" cid="073.725">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13654,7 +13660,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.731">
+	<media aid="02" cid="073.731">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13675,7 +13681,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.733">
+	<media aid="01" cid="073.733">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13697,7 +13703,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.734">
+	<media aid="01" cid="073.734">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13735,7 +13741,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.742">
+	<media aid="01" cid="073.742">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13752,7 +13758,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.743">
+	<media aid="01" cid="073.743">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13769,7 +13775,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.738">
+	<media aid="02" cid="073.738">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13785,7 +13791,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.739">
+	<media aid="01" cid="073.739">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13804,7 +13810,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.740">
+	<media aid="01" cid="073.740">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13823,7 +13829,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.741">
+	<media aid="01" cid="073.741">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13841,7 +13847,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.750">
+	<media aid="01" cid="073.750">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13856,7 +13862,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.751">
+	<media aid="01" cid="073.751">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13870,7 +13876,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.744">
+	<media aid="01" cid="073.744">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13916,7 +13922,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.748">
+	<media aid="01" cid="073.748">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13935,7 +13941,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.749">
+	<media aid="01" cid="073.749">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13951,7 +13957,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.756">
+	<media aid="01" cid="073.756">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">ढलियारा</entry>
@@ -13965,7 +13971,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.757">
+	<media aid="01" cid="073.757">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">श्रीनगर</entry>
@@ -13978,7 +13984,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.752">
+	<media aid="01" cid="073.752">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -13993,7 +13999,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.753">
+	<media aid="01" cid="073.753">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -14012,7 +14018,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.754">
+	<media aid="01" cid="073.754">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -14031,7 +14037,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.755">
+	<media aid="01" cid="073.755">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">जम्मू</entry>
@@ -14045,7 +14051,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.758">
+	<media aid="02" cid="073.758">
 		<mdetails>
 			<entry type="state">जम्मू और कश्मीर</entry>
 			<entry type="place">श्रीनगर</entry>
@@ -14531,7 +14537,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.554">
+	<media aid="02" cid="073.554">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14548,7 +14554,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.555;73.556">
+	<media aid="02" cid="073.555;073.556">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14578,7 +14584,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.547">
+	<media aid="02" cid="073.547">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14590,7 +14596,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.551">
+	<media aid="02" cid="073.551">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14606,7 +14612,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.552">
+	<media aid="02" cid="073.552">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14621,7 +14627,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.553">
+	<media aid="02" cid="073.553">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14679,7 +14685,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.567">
+	<media aid="02" cid="073.567">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14716,7 +14722,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.557">
+	<media aid="02" cid="073.557">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14733,7 +14739,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.558">
+	<media aid="02" cid="073.558">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14760,7 +14766,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.559;73.560">
+	<media aid="02" cid="073.559;073.560">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14831,7 +14837,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.573">
+	<media aid="02" cid="073.573">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुवन्थपुरम्</entry>
@@ -14863,7 +14869,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.574">
+	<media aid="02" cid="073.574">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -14902,7 +14908,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.570">
+	<media aid="02" cid="073.570">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुवनन्थपुरम</entry>
@@ -14946,7 +14952,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.571">
+	<media aid="02" cid="073.571">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुवनंथपुरम</entry>
@@ -14973,7 +14979,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.572">
+	<media aid="02" cid="073.572">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम (तिरुवनन्तपुरम)</entry>
@@ -15017,7 +15023,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.575">
+	<media aid="02" cid="073.575">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
@@ -15044,7 +15050,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.583">
+	<media aid="02" cid="073.583">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिचूर</entry>
@@ -15060,7 +15066,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.586">
+	<media aid="01" cid="073.586">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिचूर</entry>
@@ -18621,7 +18627,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.661">
+	<media aid="02" cid="073.661">
 		<mdetails>
 			<entry type="place">चण्डीगढ़</entry>
 			<entry type="troupe">अभिनेत</entry>
@@ -19227,7 +19233,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.591">
+	<media aid="01" cid="073.591">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">अहमदाबाद</entry>
@@ -19407,7 +19413,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.097;73.098">
+	<media aid="02" cid="073.097;073.098">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -26886,7 +26892,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.767;73.768">
+	<media aid="01" cid="073.767;073.768">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
@@ -26912,7 +26918,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.769">
+	<media aid="01" cid="073.769">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
@@ -26927,7 +26933,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.760">
+	<media aid="01" cid="073.760">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई (मद्रास)</entry>
@@ -26944,7 +26950,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.761">
+	<media aid="01" cid="073.761">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई (मद्रास)</entry>
@@ -26956,7 +26962,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.763">
+	<media aid="01" cid="073.763">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई (मद्रास)</entry>
@@ -26969,7 +26975,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.764;73.765;73.766">
+	<media aid="01" cid="073.764;073.765;073.766">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
@@ -26998,15 +27004,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.777">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
 			<entry type="troupe">कूतूयतरइ</entry>
-			<entry type="drama">भगवद्ज्जुकम [तमिल]</entry>
-			<entry type="writer">महेन्द्र विक्रय ?</entry>
-			<entry type="translation">मुत्तुस्वामी</entry>
-			<entry type="director">बी. अर्मुगम</entry>
+			<entry type="drama">भगवदज्जुकम [तमिल]</entry>
+			<entry type="writer">महेन्द्र विक्रम ?</entry>
+			<entry type="translation">एन. मुत्तुस्वामी</entry>
+			<entry type="director">बी. अस्मुगम</entry>
 			<entry type="date">28-11-1987</entry>
 		</mdetails>
 		<photo>
@@ -27021,24 +27027,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.783">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
 			<entry type="troupe">मद्रास नाट्य संघ</entry>
 			<entry type="drama">उरंगीय उल्लम</entry>
 			<entry type="director">अरसू तथा उषादेवी</entry>
+			<entry type="adaptation">रामन</entry>
 		</mdetails>
 		<photo>
 			<entry id="926" type="" size="">
-				<desc>`होम एट सैवन' का रूपांतरण, रूपांतरकार रामन. निर्देशक अरसू तथा उषादेवी, मद्रास नाट्य संघ द्रेनिंग कोर्स के छत्रों द्वारा अभिनीत</desc>
+				<desc>`होम एट सैवन' का रूपांतरण, मद्रास नाट्य संघ द्रेनिंग कोर्स के छत्रों द्वारा अभिनीत</desc>
 			</entry>
 			<entry id="927" type="" size="">
-				<desc>`होम एट सैवन' का रूपांतरण, रूपांतरकार रामन. निर्देशक अरसू तथा उषादेवी, मद्रास नाट्य संघ द्रेनिंग कोर्स के छत्रों द्वारा अभिनीत</desc>
+				<desc>`होम एट सैवन' का रूपांतरण, मद्रास नाट्य संघ द्रेनिंग कोर्स के छत्रों द्वारा अभिनीत</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.770">
+	<media aid="01" cid="073.770">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
@@ -27051,37 +27058,49 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.771;073.772;073.773">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
 			<entry type="troupe">अभ्युदय</entry>
-			<entry type="drama">मायाजाल</entry>
-			<entry type="writer">विजयदान देथा</entry>
-			<entry type="natyantre">हरपिन्दर भाटिया</entry>
+			<entry type="drama">मायाजाल (राजस्थान की लोक कथा पर आधारित)</entry>
+			<entry type="writer">विजयदान देथा (कहानी)</entry>
+			<entry type="dramatized">इरपिन्दर भाटिया</entry>
+			<entry type="projection">सुषमा आहुजा</entry>
+			<entry type="director">सुषमा आहुजा</entry>
+			<entry type="dress">कामिनी अग्रवाल</entry>
+			<entry type="stage">मिथरन देवनेसन</entry>
+			<entry type="light">मुकुल श्रीवास्तव</entry>
+			<entry type="artdirector">पोलिन</entry>
+			<entry type="artist">सुधीर आहुजा (रावजी भट्ट), श्यामा शर्मा (धनिया), सूरज प्रकाश शर्मा (रामधन), समीर तिवारी (नवयुवक), सुमंत साहनी (सेठ) सुषमा आहुजा व अन्य</entry>
+			<entry type="date">जून 1990</entry>
 		</mdetails>
 		<photo>
 			<entry id="933" type="01" size="">
-				<desc>कहानी</desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 2962</misc>
 			</entry>
 			<entry id="934" type="01" size="">
-				<desc>कहानी</desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 2962</misc>
 			</entry>
 			<entry id="935" type="01" size="">
-				<desc>कहानी</desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 2962</misc>
 			</entry>
 			<entry id="2115" type="01" size="">
-				<desc>कहानी</desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 2962</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.774">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
 			<entry type="troupe">अभ्युदय</entry>
 			<entry type="drama">शव-नौका</entry>
-			<entry type="writer">हैरल्ड मुलर (जमिन)</entry>
+			<entry type="writer">हैरल्ड मुलर (जर्मन)</entry>
 		</mdetails>
 		<photo>
 			<entry id="929" type="01" size="">
@@ -27112,14 +27131,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.787">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
-			<entry type="place">चेन्नई</entry>
+			<entry type="place">मदुरै</entry>
 			<entry type="troupe">निज नाटक इयक्कम</entry>
-			<entry type="drama">शामम | विभोयनम् ? [तमिल]</entry>
-			<entry type="writer">एम. रामस्वामी</entry>
-			<entry type="translation">एस. रामस्वामी</entry>
+			<entry type="drama">शायम ! विमोयनम् ? [तमिल]</entry>
+			<entry type="writer">एम. रामास्वामी</entry>
+			<entry type="translator">एस. रामास्वामी</entry>
 			<entry type="date">23-12-1987</entry>
 		</mdetails>
 		<photo>
@@ -27131,13 +27150,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.784">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">चेन्नई</entry>
 			<entry type="troupe">द मद्रास प्लेयर्स</entry>
 			<entry type="drama">द केयर टेकर</entry>
-			<entry type="writer">हारेल्ड</entry>
+			<entry type="writer">हारोल्ड</entry>
 			<entry type="director">गिरीश कारनाड और एम्मू मैथ्यू</entry>
 			<entry type="date">22-23 अप्रैल 1966</entry>
 		</mdetails>
@@ -27147,12 +27166,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.785">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="place">तंजौर</entry>
 			<entry type="troupe">तुलीर</entry>
-			<entry type="drama">वेरियाट्टम (तमिल)</entry>
+			<entry type="drama">वेरीयाट्टम (तमिल)</entry>
 			<entry type="writer">एस. रामानुजम्</entry>
 			<entry type="director">रामानुजम् एवं रामास्वामी</entry>
 			<entry type="venue">मंज़र थियेटर</entry>
@@ -27194,26 +27213,33 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.786">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
-			<entry type="place">चेन्नई</entry>
+			<entry type="place">मदुरै</entry>
 			<entry type="troupe">निज नाटक इयक्कम</entry>
 			<entry type="drama">तुर्किश अवलम [तमिल]</entry>
+			<entry type="originaldrama">एंटगनी</entry>
 			<entry type="writer">सोफोक्लीज</entry>
 			<entry type="translation">एस. बी. रामास्वामी</entry>
-			<entry type="director">एम. रामस्वामी</entry>
-			<entry type="date">1984</entry>
+			<entry type="director">एम. रामास्वामी</entry>
+			<entry type="date">दिसंबर 1984</entry>
 		</mdetails>
 		<photo>
 			<entry id="940" type="02" size="">
-				<desc>लेखक सोफोक्लीज `एंटगनी' नाटक का अनुवाद, राष्ट्रीय नाट्य समारोह 1984 (दिसंबर)</desc>
+				<desc>`एंटगनी' नाटक का अनुवाद, राष्ट्रीय नाट्य समारोह 1984 (दिसंबर)</desc>
 			</entry>
 			<entry id="941" type="02" size="">
-				<desc>लेखक सोफोक्लीज `एंटगनी' नाटक का अनुवाद, राष्ट्रीय नाट्य समारोह 1984 (दिसंबर)</desc>
+				<desc>`एंटगनी' नाटक का अनुवाद, राष्ट्रीय नाट्य समारोह 1984 (दिसंबर)</desc>
 			</entry>
 			<entry id="2117" type="02" size="">
-				<desc>लेखक सोफोक्लीज `एंटगनी' नाटक का अनुवाद, राष्ट्रीय नाट्य समारोह 1984 (दिसंबर)</desc>
+				<desc>`एंटगनी' नाटक का अनुवाद, राष्ट्रीय नाट्य समारोह 1984 (दिसंबर)</desc>
+			</entry>
+			<entry id="21177" type="02" size="">
+				<desc>`एंटगनी' नाटक का अनुवाद, राष्ट्रीय नाट्य समारोह 1984 (दिसंबर)</desc>
+			</entry>
+			<entry id="20850" type="02" size="">
+				<desc>`एंटगनी' नाटक का अनुवाद, राष्ट्रीय नाट्य समारोह 1984 (दिसंबर)</desc>
 			</entry>
 		</photo>
 	</media>
@@ -28348,7 +28374,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.621">
+	<media aid="01" cid="073.621">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कोंकण थियेटर संस्था</entry>
@@ -28372,7 +28398,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.617">
+	<media aid="01" cid="073.617">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कला अकादमी</entry>
@@ -28385,7 +28411,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.618">
+	<media aid="01" cid="073.618">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कला अकादमी</entry>
@@ -28398,7 +28424,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.619">
+	<media aid="01" cid="073.619">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कला अकादमी</entry>
@@ -28410,7 +28436,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.620">
+	<media aid="01" cid="073.620">
 		<mdetails>
 			<entry type="state">गोवा</entry>
 			<entry type="troupe">कला अकादमी</entry>
@@ -35214,7 +35240,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.277">
+	<media aid="01" cid="073.277">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनौउ</entry>
@@ -49546,7 +49572,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.448">
+	<media aid="99" cid="073.448">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="place">केरेमने</entry>
@@ -52062,7 +52088,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="73.039">
+	<media aid="02" cid="073.039">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -52080,7 +52106,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.071">
+	<media aid="01" cid="073.071">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52101,7 +52127,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.041">
+	<media aid="01" cid="073.041">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -52118,7 +52144,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.044">
+	<media aid="01" cid="073.044">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -52135,7 +52161,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.046">
+	<media aid="01" cid="073.046">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -52157,7 +52183,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.050">
+	<media aid="01" cid="073.050">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52198,7 +52224,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.081;73.082;73.083">
+	<media aid="01" cid="073.081;073.082;073.083">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52238,7 +52264,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.034;73.035">
+	<media aid="01" cid="073.034;073.035">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -52262,7 +52288,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.073">
+	<media aid="01" cid="073.073">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52281,7 +52307,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.031">
+	<media aid="01" cid="073.031">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -52299,7 +52325,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.089">
+	<media aid="01" cid="073.089">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52317,7 +52343,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.072">
+	<media aid="01" cid="073.072">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52334,7 +52360,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.070">
+	<media aid="01" cid="073.070">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52352,7 +52378,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.030">
+	<media aid="01" cid="073.030">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -52368,7 +52394,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.036">
+	<media aid="01" cid="073.036">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -52386,7 +52412,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.042">
+	<media aid="01" cid="073.042">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -52412,7 +52438,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.029">
+	<media aid="01" cid="073.029">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">अलीगढ़</entry>
@@ -52427,7 +52453,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.069">
+	<media aid="01" cid="073.069">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52457,7 +52483,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.094">
+	<media aid="01" cid="073.094">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52474,7 +52500,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.077;73.078;73.079">
+	<media aid="01" cid="073.077;073.078;073.079">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -52504,7 +52530,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.123">
+	<media aid="01" cid="073.123">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -52526,7 +52552,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.275">
+	<media aid="01" cid="073.275">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52540,7 +52566,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.273">
+	<media aid="01" cid="073.273">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52555,7 +52581,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.270">
+	<media aid="01" cid="073.270">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52569,7 +52595,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.279">
+	<media aid="01" cid="073.279">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52584,7 +52610,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.373">
+	<media aid="01" cid="073.373">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52606,7 +52632,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.293">
+	<media aid="01" cid="073.293">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52746,7 +52772,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.288">
+	<media aid="01" cid="073.288">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52764,7 +52790,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.281">
+	<media aid="01" cid="073.281">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52781,7 +52807,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.280">
+	<media aid="01" cid="073.280">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52799,7 +52825,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.298">
+	<media aid="01" cid="073.298">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52816,7 +52842,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.294">
+	<media aid="01" cid="073.294">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52915,7 +52941,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.303;73.304">
+	<media aid="01" cid="073.303;073.304">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52944,7 +52970,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.302">
+	<media aid="01" cid="073.302">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52962,7 +52988,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.300">
+	<media aid="01" cid="073.300">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52975,7 +53001,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.299">
+	<media aid="01" cid="073.299">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -52991,7 +53017,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.306;73.307">
+	<media aid="01" cid="073.306;073.307">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -53024,7 +53050,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.305">
+	<media aid="01" cid="073.305">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -53043,7 +53069,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.311">
+	<media aid="01" cid="073.311">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -53077,7 +53103,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.310">
+	<media aid="01" cid="073.310">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -53090,7 +53116,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.309">
+	<media aid="01" cid="073.309">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -53112,7 +53138,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.308">
+	<media aid="01" cid="073.308">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -53127,7 +53153,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.313">
+	<media aid="01" cid="073.313">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -53145,7 +53171,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.312;73.312(1)">
+	<media aid="01" cid="073.312;073.312(1)">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -53199,7 +53225,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.032">
+	<media aid="01" cid="073.032">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -53221,7 +53247,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.033">
+	<media aid="01" cid="073.033">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -53236,7 +53262,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.037">
+	<media aid="01" cid="073.037">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -53261,7 +53287,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.038">
+	<media aid="01" cid="073.038">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आगरा</entry>
@@ -53278,7 +53304,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.040">
+	<media aid="01" cid="073.040">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -53293,7 +53319,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.043">
+	<media aid="01" cid="073.043">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -53308,7 +53334,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.045">
+	<media aid="99" cid="073.045">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">आजमगढ़</entry>
@@ -53324,7 +53350,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.047">
+	<media aid="01" cid="073.047">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53338,7 +53364,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.048">
+	<media aid="01" cid="073.048">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53354,7 +53380,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.049">
+	<media aid="01" cid="073.049">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53368,7 +53394,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.051">
+	<media aid="99" cid="073.051">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53380,7 +53406,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.052">
+	<media aid="01" cid="073.052">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53395,7 +53421,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.053">
+	<media aid="01" cid="073.053">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53415,7 +53441,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="73.056">
+	<media aid="99" cid="073.056">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53433,7 +53459,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.057">
+	<media aid="01" cid="073.057">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53452,7 +53478,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.059">
+	<media aid="01" cid="073.059">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53469,7 +53495,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.058">
+	<media aid="01" cid="073.058">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53485,7 +53511,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.060">
+	<media aid="01" cid="073.060">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53507,7 +53533,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.061">
+	<media aid="01" cid="073.061">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53523,7 +53549,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.062">
+	<media aid="01" cid="073.062">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53548,7 +53574,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.063">
+	<media aid="01" cid="073.063">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53563,7 +53589,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.064;73.065">
+	<media aid="01" cid="073.064;073.065">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53584,7 +53610,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.066">
+	<media aid="01" cid="073.066">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53598,7 +53624,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.067">
+	<media aid="01" cid="073.067">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53615,7 +53641,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.068">
+	<media aid="01" cid="073.068">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53642,7 +53668,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.074">
+	<media aid="01" cid="073.074">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53664,7 +53690,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.076">
+	<media aid="01" cid="073.076">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53681,7 +53707,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.075">
+	<media aid="01" cid="073.075">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53701,7 +53727,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.080">
+	<media aid="01" cid="073.080">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53717,7 +53743,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.088">
+	<media aid="01" cid="073.088">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53734,7 +53760,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.087">
+	<media aid="01" cid="073.087">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53750,7 +53776,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.085">
+	<media aid="01" cid="073.085">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53764,7 +53790,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.091">
+	<media aid="01" cid="073.091">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53782,7 +53808,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.090">
+	<media aid="01" cid="073.090">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53799,7 +53825,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.092">
+	<media aid="01" cid="073.092">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53817,7 +53843,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.093">
+	<media aid="01" cid="073.093">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53835,7 +53861,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.095;73.096">
+	<media aid="01" cid="073.095;073.096">
 		<mdetails>
 			<entry type="state">उत्तरपदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53854,7 +53880,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.099">
+	<media aid="01" cid="073.099">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
@@ -53874,7 +53900,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="73.100">
+	<media aid="01" cid="073.100">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">इलाहाबाद</entry>
