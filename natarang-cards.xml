@@ -4287,16 +4287,17 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.156">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">गोरखपुर</entry>
 			<entry type="drama">कूड़े का पीपा</entry>
-			<entry type="artist">ऒ. पी. श्रीवास्तव (नश्यु), यश अवधूत (खैरा)</entry>
+			<entry type="writer">विपिन कुमार अग्रवाल</entry>
+			<entry type="artist">ओ. पी. श्रीवास्तव (नश्यू), यश अवधूत (खैरा)</entry>
 		</mdetails>
 		<photo>
 			<entry id="163" type="02" size="">
-				<desc>श्री नेमिचन्द्र जैन द्वार न. प्र. को भेंट</desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -6137,7 +6138,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="073.362.1(1);073.362.2">
+	<media aid="01" cid="073.362.1.1;073.362.2">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6256,7 +6257,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="073.368(1);073.369(1)">
+	<media aid="01" cid="073.368;073.368.1;073.369;073.369.1">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
@@ -6264,6 +6265,7 @@
 			<entry type="drama">हमारा कोई नाम नही</entry>
 			<entry type="writer">अशोक अग्रवाल (कहानी)</entry>
 			<entry type="dramatized">नफ़ीस आफ़रीदी</entry>
+			<entry type="director">जितेन्द्र मित्तल</entry>
 			<entry type="stage">एम. हफीज़, रवि शुक्ला</entry>
 			<entry type="light">गांपाल मिश्र</entry>
 			<entry type="music">सौविक चक्रवर्ती/संजू</entry>
@@ -6272,6 +6274,9 @@
 		</mdetails>
 		<photo>
 			<entry id="349" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="22622" type="02" size="">
 				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
@@ -14584,11 +14589,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="073.547">
+	<media aid="02" cid="073.547;077.494.1">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिवेन्द्रम</entry>
-			<entry type="dance">किरायम</entry>
+			<entry type="dance">किरायम (पारम्परिक नाट्य)</entry>
 		</mdetails>
 		<photo>
 			<entry id="744" type="" size="">
@@ -19223,7 +19228,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.495">
 		<mdetails>
 			<entry type="event">कुट्टियाट्टम् (एटक्का (डमरु जैसा वाद्य) बजाने वाला)</entry>
 		</mdetails>
@@ -43177,15 +43182,17 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.491">
 		<mdetails>
 			<entry type="state">असम</entry>
-			<entry type="drama">भाओना अंकिया नाट : बड़े धार्हाटया (असमी)</entry>
+			<entry type="place">भाओना</entry>
+			<entry type="troupe">बड़े छाहारिया</entry>
+			<entry type="drama">अंकिया नाट (असमी) (पारम्परिक नाट्य)</entry>
 			<entry type="date">26-27 मार्च 1986</entry>
 		</mdetails>
 		<photo>
 			<entry id="3760" type="" size="">
-				<desc></desc>
+				<desc>व अन्य प्रस्तुति</desc>
 			</entry>
 			<entry id="3761" type="" size="">
 				<desc></desc>
@@ -43194,6 +43201,36 @@
 				<desc></desc>
 			</entry>
 			<entry id="3763" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21130" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21131" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21132" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21133" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21134" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21135" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21136" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="18950" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21124" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21129" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -44063,7 +44100,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.504">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुअनंतपुरम्</entry>
@@ -44102,12 +44139,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.505">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुअनंतपुरम्</entry>
 			<entry type="troupe">कलामण्डलम्</entry>
-			<entry type="dance">कुट्टियाट्टम - `लक्षण' शूर्पणखा अंक में</entry>
+			<entry type="dance">कुट्टियाट्टम् - `लक्ष्मण' शूर्पणखा अंक में</entry>
 		</mdetails>
 		<photo>
 			<entry id="3223" type="" size="">
@@ -44115,7 +44152,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.502">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुअनंतपुरम्</entry>
@@ -44129,7 +44166,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.501">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुअनंतपुरम्</entry>
@@ -44143,7 +44180,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.500">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुअनंतपुरम्</entry>
@@ -44157,7 +44194,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.499">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">तिरुअनंतपुरम्</entry>
@@ -44213,7 +44250,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.498">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिचूर</entry>
@@ -44254,13 +44291,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.496">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिचूर</entry>
 			<entry type="troupe">कलामण्डलम्</entry>
 			<entry type="dance">कुट्टियाट्टम्</entry>
-			<entry type="artist">`प्रतिज्ञा योगन्धरयण' राज उदयन व विदुषक</entry>
+			<entry type="artist">`प्रतिज्ञा योगन्धरायण' राजा उदयन व विदुषक</entry>
 		</mdetails>
 		<photo>
 			<entry id="3237" type="" size="">
@@ -49744,11 +49781,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.490">
 		<mdetails>
 			<entry type="state">असम</entry>
-			<entry type="place">कमलबारी</entry>
-			<entry type="drama">भाओनाअंकिया नाट : राम विजय (असमी)</entry>
+			<entry type="place">भाओना</entry>
+			<entry type="drama">अंकिया नाट : राम विजय (असमी) (पारम्परिक नाट्य)</entry>
+			<entry type="event">कमलबारी सत्र</entry>
+			<entry type="artist">रामविजय</entry>
 			<entry type="date">1982</entry>
 		</mdetails>
 		<photo>
@@ -49756,6 +49795,12 @@
 				<desc>कालिदास समारोह में आयोजित</desc>
 			</entry>
 			<entry id="3759" type="" size="">
+				<desc>कालिदास समारोह में आयोजित</desc>
+			</entry>
+			<entry id="21125" type="" size="">
+				<desc>कालिदास समारोह में आयोजित</desc>
+			</entry>
+			<entry id="21128" type="" size="">
 				<desc>कालिदास समारोह में आयोजित</desc>
 			</entry>
 		</photo>
@@ -49896,12 +49941,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.503">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिचूर</entry>
 			<entry type="troupe">वड़क्कूनाथन</entry>
-			<entry type="drama">कुट्टियाट्टम - कुतम्बलम्</entry>
+			<entry type="drama">कुट्टियाट्टम् - कुतम्बलम्</entry>
 		</mdetails>
 		<photo>
 			<entry id="3215" type="" size="">
@@ -53171,7 +53216,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="073.312;073.312(1)">
+	<media aid="01" cid="073.312;073.312.1">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">लखनऊ</entry>
