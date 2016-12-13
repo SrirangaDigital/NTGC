@@ -18,7 +18,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="073.444">
+	<media aid="02" cid="073.444;077.548.1">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="dance">डोलू कुनिथा</entry>
@@ -13489,7 +13489,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.527">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="place">राजकोट</entry>
@@ -13499,7 +13499,7 @@
 		</mdetails>
 		<photo>
 			<entry id="2157" type="" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -14271,7 +14271,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.541">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">कादम्बरी थिएटर</entry>
@@ -14431,21 +14431,26 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="99" cid="077.517">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="place">त्रिचूर</entry>
-			<entry type="event">च्रिचूर : कुतुम्बलम् के दर्शक</entry>
+			<entry type="troupe">कलामण्डलम्</entry>
+			<entry type="event">कुट्टियाट्टम्-कुतम्बलम्</entry>
+			<entry type="date">1977</entry>
 		</mdetails>
 		<photo>
 			<entry id="3206" type="" size="">
-				<desc>गोवर्धन पांचाल द्वारा भेंट विSअय के अन्गर्त रखी सामग्री के शाथ</desc>
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट विषय के अन्गर्त रखी सामग्री के शाथ</desc>
+				<misc>वड़क्कूनायन त्रिचूर के दर्शकगण</misc>
 			</entry>
 			<entry id="3210" type="" size="">
-				<desc>गोवर्धन पांचाल द्वारा भेंट विSअय के अन्गर्त रखी सामग्री के शाथ</desc>
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट विषय के अन्गर्त रखी सामग्री के शाथ</desc>
+				<misc>वड़क्कूनायन त्रिचूर के दर्शकगण</misc>
 			</entry>
 			<entry id="3219" type="" size="">
-				<desc>गोवर्धन पांचाल द्वारा भेंट विSअय के अन्गर्त रखी सामग्री के शाथ</desc>
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट विषय के अन्गर्त रखी सामग्री के शाथ</desc>
+				<misc>वड़क्कूनायन त्रिचूर के दर्शकगण</misc>
 			</entry>
 		</photo>
 	</media>
@@ -14486,7 +14491,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.522">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="event">कोलकालि (विद्या)</entry>
@@ -19173,30 +19178,57 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.548.0">
 		<mdetails>
 			<entry type="subject">जात्रा</entry>
 		</mdetails>
 		<photo>
-			<entry id="3734" type="" size="">
+			<entry id="3734" type="02" size="">
 				<desc>बंगाल</desc>
 			</entry>
-			<entry id="3735" type="" size="">
+			<entry id="3735" type="02" size="">
 				<desc>बंगाल</desc>
 			</entry>
-			<entry id="3736" type="" size="">
+			<entry id="3736" type="02" size="">
+				<desc>बंगाल</desc>
+			</entry>
+			<entry id="10672" type="02" size="">
+				<desc>बंगाल</desc>
+			</entry>
+			<entry id="10673" type="02" size="">
+				<desc>बंगाल</desc>
+			</entry>
+			<entry id="10674" type="02" size="">
+				<desc>बंगाल</desc>
+			</entry>
+			<entry id="10675" type="02" size="">
+				<desc>बंगाल</desc>
+			</entry>
+			<entry id="10676" type="02" size="">
+				<desc>बंगाल</desc>
+			</entry>
+			<entry id="10677" type="02" size="">
+				<desc>बंगाल</desc>
+			</entry>
+			<entry id="10678" type="02" size="">
+				<desc>बंगाल</desc>
+			</entry>
+			<entry id="10679" type="02" size="">
+				<desc>बंगाल</desc>
+			</entry>
+			<entry id="20898" type="02" size="">
 				<desc>बंगाल</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.526">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="drama">ख्याल</entry>
 		</mdetails>
 		<photo>
 			<entry id="3731" type="" size="">
-				<desc>राजस्थान की कुचाभणी ख्याल शैली में मीरा मंगल का एक दृश्य</desc>
+				<desc>राजस्थान की कुचामणी ख्याल शैली में मीरा मंगल का एक दृश्य</desc>
 			</entry>
 		</photo>
 	</media>
@@ -35570,12 +35602,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.559">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">मध्यप्रदेश आदिवासी लोक कला परिषद्</entry>
-			<entry type="drama">नचा - खड़े साज का नाचा (छतीसगढ़) व नाचा कलाकार</entry>
+			<entry type="drama">नाचा - खड़े साज का नाचा (छतीसगढ़) व नाचा कलाकार</entry>
 		</mdetails>
 		<photo>
 			<entry id="3646" type="" size="">
@@ -35602,12 +35634,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.565">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">मध्यप्रदेश आदिवासी लोक कला परिषद्</entry>
-			<entry type="drama">भतरा नाट (बस्तर)</entry>
+			<entry type="drama">नाट-भतरा (बस्तर)</entry>
 		</mdetails>
 		<photo>
 			<entry id="3652" type="" size="">
@@ -43268,21 +43300,24 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.523">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="dance">कृष्णाट्टम</entry>
 		</mdetails>
 		<photo>
-			<entry id="5923" type="" size="">
-				<desc></desc>
+			<entry id="5923" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="5924" type="" size="">
-				<desc></desc>
+			<entry id="5924" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="21140" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.524">
 		<mdetails>
 			<entry type="dance">कृष्णाट्टम</entry>
 		</mdetails>
@@ -43292,23 +43327,29 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.525">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="dance">ख्याल</entry>
 		</mdetails>
 		<photo>
 			<entry id="5925" type="" size="">
-				<desc>स्तोत. नेमिचन्द्र जैन संगृह</desc>
+				<desc>स्रोत. नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="5926" type="" size="">
-				<desc>स्तोत. नेमिचन्द्र जैन संगृह</desc>
+				<desc>स्रोत. नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="5927" type="" size="">
-				<desc>स्तोत. नेमिचन्द्र जैन संगृह</desc>
+				<desc>स्रोत. नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="5928" type="" size="">
-				<desc>स्तोत. नेमिचन्द्र जैन संगृह</desc>
+				<desc>स्रोत. नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="20984" type="" size="">
+				<desc>स्रोत. नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="21141" type="" size="">
+				<desc>स्रोत. नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -43340,10 +43381,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.531">
 		<mdetails>
-			<entry type="state">धत्तीसगढ़</entry>
+			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="dance">चन्दैनी (लोकनाट्य)</entry>
+			<entry type="cinematographer">घनश्याम शर्मा</entry>
 		</mdetails>
 		<photo>
 			<entry id="7158" type="" size="">
@@ -43941,7 +43983,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.518">
 		<mdetails>
 			<entry type="dance">कुट्टियाट्टम्</entry>
 		</mdetails>
@@ -43987,7 +44029,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.520">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="dance">कुट्टियाट्टम्</entry>
@@ -44468,7 +44510,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.561">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">रायपुर</entry>
@@ -44478,24 +44520,37 @@
 		</mdetails>
 		<photo>
 			<entry id="8106" type="" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.558">
 		<mdetails>
 			<entry type="state">छत्तीसगढ़</entry>
 			<entry type="dance">नाचा खड़े साज</entry>
 		</mdetails>
 		<photo>
+			<entry id="10779" type="" size="">
+				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+			</entry>
+			<entry id="10780" type="" size="">
+				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+			</entry>
 			<entry id="7154" type="" size="">
+				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+			</entry>
+			<entry id="10781" type="" size="">
+				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+			</entry>
+			<entry id="10782" type="" size="">
 				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.560">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश, छत्तीसगढ़</entry>
+			<entry type="troupe">लोक मंजरी</entry>
 			<entry type="dance">नाचा (छत्तीसगढ़)</entry>
 		</mdetails>
 		<photo>
@@ -44504,7 +44559,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.562">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -44515,9 +44570,12 @@
 			<entry id="3648" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="7157" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.563">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -44553,7 +44611,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.570">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="drama">नौटंकी</entry>
@@ -44567,18 +44625,35 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.572.0">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="drama">पंडवानी</entry>
 			<entry type="artist">तीजन बाई</entry>
 		</mdetails>
 		<photo>
-			<entry id="7887" type="" size="">
-				<desc></desc>
+			<entry id="17774" type="02" size="">
+				<desc>स्त्री कलाकार में भी देखें</desc>
+				<misc>सं. ना. अ. से प्राप्त</misc>
 			</entry>
-			<entry id="9739" type="" size="">
-				<desc></desc>
+			<entry id="17775" type="02" size="">
+				<desc>स्त्री कलाकार में भी देखें</desc>
+				<misc>सं. ना. अ. से प्राप्त</misc>
+			</entry>
+			<entry id="7887" type="02" size="">
+				<desc>स्त्री कलाकार में भी देखें</desc>
+			</entry>
+			<entry id="9739" type="02" size="">
+				<desc>स्त्री कलाकार में भी देखें</desc>
+			</entry>
+			<entry id="21155" type="02" size="">
+				<desc>स्त्री कलाकार में भी देखें</desc>
+			</entry>
+			<entry id="18996" type="02" size="">
+				<desc>स्त्री कलाकार में भी देखें</desc>
+			</entry>
+			<entry id="18999" type="02" size="">
+				<desc>स्त्री कलाकार में भी देखें</desc>
 			</entry>
 		</photo>
 	</media>
@@ -44661,7 +44736,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.542">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">कादम्बरी थिएटर</entry>
@@ -44671,28 +44746,28 @@
 		</mdetails>
 		<photo>
 			<entry id="4097" type="" size="">
-				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊकी प्रस्तुति</desc>
+				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4098" type="" size="">
-				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊकी प्रस्तुति</desc>
+				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4099" type="" size="">
-				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊकी प्रस्तुति</desc>
+				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4100" type="" size="">
-				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊकी प्रस्तुति</desc>
+				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4101" type="" size="">
-				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊकी प्रस्तुति</desc>
+				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4102" type="" size="">
-				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊकी प्रस्तुति</desc>
+				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4103" type="" size="">
-				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊकी प्रस्तुति</desc>
+				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4104" type="" size="">
-				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊकी प्रस्तुति</desc>
+				<desc>बागमुंडी ग्रूप द्वारा पुरुलिया छाऊ की प्रस्तुति</desc>
 			</entry>
 		</photo>
 	</media>
@@ -44709,35 +44784,35 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.540">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">कादम्बरी थिएटर</entry>
-			<entry type="dance">नृत्य-छाऊ - मथुरभान</entry>
+			<entry type="dance">नृत्य-छाऊ - मयूरभान</entry>
 			<entry type="venue">छाऊ नृत्य महोत्सव</entry>
 			<entry type="date">24-03-1985</entry>
 		</mdetails>
 		<photo>
 			<entry id="4162" type="" size="">
-				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूर भान छाऊ की प्रस्तुति</desc>
+				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूरभान छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4163" type="" size="">
-				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूर भान छाऊ की प्रस्तुति</desc>
+				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूरभान छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4164" type="" size="">
-				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूर भान छाऊ की प्रस्तुति</desc>
+				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूरभान छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4165" type="" size="">
-				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूर भान छाऊ की प्रस्तुति</desc>
+				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूरभान छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4166" type="" size="">
-				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूर भान छाऊ की प्रस्तुति</desc>
+				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूरभान छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4167" type="" size="">
-				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूर भान छाऊ की प्रस्तुति</desc>
+				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूरभान छाऊ की प्रस्तुति</desc>
 			</entry>
 			<entry id="4168" type="" size="">
-				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूर भान छाऊ की प्रस्तुति</desc>
+				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूरभान छाऊ की प्रस्तुति</desc>
 			</entry>
 		</photo>
 	</media>
@@ -44978,9 +45053,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.556.1">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश, छत्तीसगढ़</entry>
+			<entry type="place">छत्तीसगढ़</entry>
 			<entry type="dance">देवारी (लोक नाट्य)</entry>
 		</mdetails>
 		<photo>
@@ -45004,25 +45080,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.557">
 		<mdetails>
 			<entry type="dance">नकल</entry>
 		</mdetails>
 		<photo>
-			<entry id="3748" type="" size="">
+			<entry id="3748" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="3749" type="" size="">
+			<entry id="3749" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="3750" type="" size="">
-				<desc></desc>
+			<entry id="3750" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="3751" type="" size="">
-				<desc></desc>
+			<entry id="3751" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="5919" type="" size="">
-				<desc></desc>
+			<entry id="5919" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -49990,44 +50066,74 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.549">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="drama">तमाशा</entry>
 		</mdetails>
 		<photo>
-			<entry id="3737" type="" size="">
-				<desc></desc>
+			<entry id="2461" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
 			</entry>
-			<entry id="3738" type="" size="">
-				<desc></desc>
+			<entry id="3737" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
 			</entry>
-			<entry id="3739" type="" size="">
-				<desc></desc>
+			<entry id="3738" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
 			</entry>
-			<entry id="3740" type="" size="">
-				<desc></desc>
+			<entry id="3739" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
 			</entry>
-			<entry id="3741" type="" size="">
-				<desc></desc>
+			<entry id="3740" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
 			</entry>
-			<entry id="5908" type="" size="">
-				<desc></desc>
+			<entry id="3741" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="4959/10901" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="5908" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="10900" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="10901" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="10902" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="10903" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="10904" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="10905" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="10907" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
+			</entry>
+			<entry id="10908" type="02" size="">
+				<desc>विभिन्न प्रस्तुतियाँ</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.550">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="drama">तमाशा</entry>
 		</mdetails>
 		<photo>
 			<entry id="4759" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.555">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -50041,17 +50147,43 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.554">
 		<mdetails>
 			<entry type="state">तमिलनाडु</entry>
 			<entry type="drama">तेरूकूत्तु</entry>
 		</mdetails>
 		<photo>
-			<entry id="518" type="" size="">
-				<desc></desc>
+			<entry id="518" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
-			<entry id="3732" type="" size="">
-				<desc></desc>
+			<entry id="3732" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
+			</entry>
+			<entry id="10832" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
+			</entry>
+			<entry id="10833" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
+			</entry>
+			<entry id="10834" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
+			</entry>
+			<entry id="21148" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
+			</entry>
+			<entry id="21149" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
+			</entry>
+			<entry id="21180" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
 		</photo>
 	</media>
