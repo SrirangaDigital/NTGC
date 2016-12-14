@@ -14471,7 +14471,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.604">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="event">मोप्पिल्लकालि (विद्या)</entry>
@@ -43049,18 +43049,18 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.585">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="drama">भवाई</entry>
 		</mdetails>
 		<photo>
 			<entry id="4760" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.594">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="drama">भवाई</entry>
@@ -43074,7 +43074,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.591">
 		<mdetails>
 			<entry type="drama">भवई नाटक</entry>
 			<entry type="event">अमृत शिव जयन्ति में नटवर लाल नायक पंसेर</entry>
@@ -43088,7 +43088,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.588">
 		<mdetails>
 			<entry type="drama">भवई नाटक</entry>
 			<entry type="event">खेड़ा के वेश में गणपति लाल नायक टकड़ी वाला</entry>
@@ -43099,7 +43099,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.592">
 		<mdetails>
 			<entry type="drama">भवाई नाटक - फूल कन्या</entry>
 		</mdetails>
@@ -43109,7 +43109,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.590">
 		<mdetails>
 			<entry type="drama">भवई नाटक</entry>
 			<entry type="event">खेड़ाबा वेश में गिरधारी लाल नायक</entry>
@@ -43120,7 +43120,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.587">
 		<mdetails>
 			<entry type="drama">भवाई नाटक</entry>
 			<entry type="event">ब्राह्मण वेश में लालभाई नायक</entry>
@@ -43131,7 +43131,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.586">
 		<mdetails>
 			<entry type="drama">भवई नाटक</entry>
 			<entry type="event">वामन माधिनो वेश में मोहन लाल नायक</entry>
@@ -43142,7 +43142,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.593">
 		<mdetails>
 			<entry type="drama">भवई नाटक</entry>
 			<entry type="event">विक्रमचरित्रनुं दृश्य 1, 2 जयशंकर सुंदरी, बाबु लाल नायक</entry>
@@ -43156,18 +43156,24 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.596">
 		<mdetails>
 			<entry type="state">जम्मू-कश्मीर</entry>
 			<entry type="drama">भांड पाथर - जम्मू-कश्मीर</entry>
 		</mdetails>
 		<photo>
-			<entry id="7884" type="" size="">
+			<entry id="7884" type="02" size="">
+				<desc>संगीत नाटक अकादमी से प्राप्त</desc>
+			</entry>
+			<entry id="22527" type="02" size="">
+				<desc>संगीत नाटक अकादमी से प्राप्त</desc>
+			</entry>
+			<entry id="22530" type="02" size="">
 				<desc>संगीत नाटक अकादमी से प्राप्त</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.582">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="drama">भवई नाटक - गुजरात</entry>
@@ -43267,7 +43273,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.597.1">
 		<mdetails>
 			<entry type="state">गुजरात</entry>
 			<entry type="drama">भावरी</entry>
@@ -43278,7 +43284,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.598">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
 			<entry type="drama">भूत नृत्य</entry>
@@ -44406,31 +44412,52 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.601">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">मालवा</entry>
 			<entry type="drama">माच</entry>
 		</mdetails>
 		<photo>
-			<entry id="5910" type="" size="">
+			<entry id="3654" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="5911" type="" size="">
+			<entry id="3656" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="5912" type="" size="">
+			<entry id="5910" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="5911" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="5912" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="7156" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10777" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10778" type="02" size="">
+				<desc>सं. ना. अ.</desc>
+			</entry>
+			<entry id="18995" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.599">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">बस्तर</entry>
-			<entry type="drama">माओपाटा (मुशिया)</entry>
+			<entry type="drama">माओपाटा (मुरिया)</entry>
 		</mdetails>
 		<photo>
+			<entry id="3657" type="" size="">
+				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+			</entry>
 			<entry id="7159" type="" size="">
 				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
 			</entry>
@@ -44453,20 +44480,23 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.603">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="drama">मुडियेट्टु</entry>
 		</mdetails>
 		<photo>
-			<entry id="5920" type="" size="">
-				<desc></desc>
+			<entry id="5920" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
-			<entry id="5921" type="" size="">
-				<desc></desc>
+			<entry id="5921" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
-			<entry id="5922" type="" size="">
-				<desc></desc>
+			<entry id="5922" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
 		</photo>
 	</media>
@@ -49779,15 +49809,24 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.575">
 		<mdetails>
 			<entry type="state">बिहार</entry>
+			<entry type="troupe">भिखारी ठाकुर दल</entry>
 			<entry type="photo">विदेसिया</entry>
-			<entry type="person">भिखारी ठाकुर दल</entry>
 		</mdetails>
 		<photo>
 			<entry id="7151" type="" size="">
 				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+				<misc>नेमिचन्द्र जैन संग्रह</misc>
+			</entry>
+			<entry id="2134" type="" size="">
+				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+				<misc>नेमिचन्द्र जैन संग्रह</misc>
+			</entry>
+			<entry id="18991" type="" size="">
+				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+				<misc>नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
 		</photo>
 	</media>
