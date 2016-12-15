@@ -49,21 +49,6 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="073.448">
-		<mdetails>
-			<entry type="state">कर्नाटक</entry>
-			<entry type="place">केरेमने</entry>
-			<entry type="troupe">इंडगुंजी महागणपति यक्षगान मंडली</entry>
-			<entry type="drama">यक्षगान</entry>
-			<entry type="venue">रामलीला मेला, भोपाल</entry>
-			<entry type="date">नवम्बर, 1988</entry>
-		</mdetails>
-		<photo>
-			<entry id="3733" type="" size="">
-				<desc>यक्षगान शैली रावण वध</desc>
-			</entry>
-		</photo>
-	</media>
 	<media aid="01" cid="073.450">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
@@ -5187,7 +5172,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.625.1">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">मथुरा</entry>
@@ -5195,10 +5180,10 @@
 			<entry type="dance">स्वांग</entry>
 		</mdetails>
 		<photo>
-			<entry id="2094" type="" size="">
+			<entry id="2094" type="02" size="">
 				<desc>उत्तरप्रदेश का पारंपरिक नाट्य रूप</desc>
 			</entry>
-			<entry id="2094-I" type="" size="">
+			<entry id="2094-I" type="02" size="">
 				<desc>उत्तरप्रदेश का पारंपरिक नाट्य रूप</desc>
 			</entry>
 		</photo>
@@ -14454,7 +14439,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.608">
 		<mdetails>
 			<entry type="state">केरल</entry>
 			<entry type="event">वेलाकालि (विद्या)</entry>
@@ -14468,6 +14453,12 @@
 			</entry>
 			<entry id="3696" type="01" size="">
 				<desc>अशोक वाजपेयी द्वारा भेंट</desc>
+			</entry>
+			<entry id="21158" type="01" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+			</entry>
+			<entry id="18947" type="01" size="">
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
@@ -32525,15 +32516,44 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.613">
 		<mdetails>
 			<entry type="state">उत्तर प्रदेश</entry>
 			<entry type="place">रामनगर</entry>
 			<entry type="dance">रामलीला</entry>
 		</mdetails>
 		<photo>
-			<entry id="17207" type="" size="">
+			<entry id="7888" type="02" size="">
 				<desc>संगीत नाटक अकादेमी से प्राप्त</desc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
+			</entry>
+			<entry id="17207" type="02" size="">
+				<desc>संगीत नाटक अकादेमी से प्राप्त</desc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
+			</entry>
+			<entry id="18680" type="02" size="">
+				<desc>संगीत नाटक अकादेमी से प्राप्त</desc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
+			</entry>
+			<entry id="18684" type="02" size="">
+				<desc>संगीत नाटक अकादेमी से प्राप्त</desc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
+			</entry>
+			<entry id="18686" type="02" size="">
+				<desc>संगीत नाटक अकादेमी से प्राप्त</desc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
+			</entry>
+			<entry id="20921" type="02" size="">
+				<desc>संगीत नाटक अकादेमी से प्राप्त</desc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
+			</entry>
+			<entry id="20974" type="02" size="">
+				<desc>संगीत नाटक अकादेमी से प्राप्त</desc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
+			</entry>
+			<entry id="21171" type="02" size="">
+				<desc>संगीत नाटक अकादेमी से प्राप्त</desc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
 			</entry>
 		</photo>
 	</media>
@@ -44700,13 +44720,20 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.625.0">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
-			<entry type="drama">बुन्देली स्वांग</entry>
+			<entry type="drama">बुन्देली स्वांग (कोरकू खम्ब स्वांग - पूर्ण निमाड़, खण्डवा)</entry>
+			<entry type="photographer">घनश्याम शर्मा</entry>
 		</mdetails>
 		<photo>
 			<entry id="7160" type="" size="">
+				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+			</entry>
+			<entry id="3656" type="" size="">
+				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
+			</entry>
+			<entry id="3658" type="" size="">
 				<desc>स्त्रोत. मध्यप्रदेश आदिवासी लोक कला परिषद्, भोपाल</desc>
 			</entry>
 		</photo>
@@ -49745,66 +49772,95 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.609.1">
 		<mdetails>
 			<entry type="photo">रम्मत</entry>
 		</mdetails>
 		<photo>
 			<entry id="3781" type="" size="">
-				<desc>बीकनेरी रम्मत ख्याल शैली में भूमल महेन्द्रा का दृश्य</desc>
+				<desc>बीकानेरी रम्मत ख्याल शैली में भूमल महेन्द्रा का दृश्य</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.621">
 		<mdetails>
-			<entry type="उत्तर प्रदेश"></entry>
-			<entry type="place">हाथरस</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">हाथरस व अन्य</entry>
 			<entry type="dance">रासलीला</entry>
 			<entry type="venue">ब्रज कला केन्द्र</entry>
 		</mdetails>
 		<photo>
-			<entry id="17195" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17195" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17196" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17196" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17197" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17197" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17198" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17198" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17199" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17199" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17200" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17200" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17201" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17201" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17202" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17202" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17203" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17203" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17204" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17204" type="02" size="">
+				<desc></desc>
 			</entry>
-			<entry id="17205" type="" size="">
-				<desc>पारम्परिक नाट्य</desc>
+			<entry id="17205" type="02" size="">
+				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="place">रामनगर</entry>
-			<entry type="dance">रामलीला</entry>
-		</mdetails>
-		<photo>
-			<entry id="7888" type="" size="">
+			<entry id="17225" type="02" size="">
+				<desc>सं. ना. अ.</desc>
+			</entry>
+			<entry id="18992" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="20808" type="02" size="">
+				<desc>सं. ना. अ.</desc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
+			</entry>
+			<entry id="21160" type="02" size="">
+				<desc>सं. ना. अ.</desc>
+			</entry>
+			<entry id="21161" type="02" size="">
+				<desc>सं. ना. अ.</desc>
+			</entry>
+			<entry id="21162" type="02" size="">
+				<desc>सं. ना. अ.</desc>
+			</entry>
+			<entry id="21163" type="02" size="">
+				<desc>सं. ना. अ.</desc>
+			</entry>
+			<entry id="21164" type="02" size="">
+				<desc>सं. ना. अ.</desc>
+			</entry>
+			<entry id="21165" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21166" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21167" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21168" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21169" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -49860,11 +49916,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.624">
 		<mdetails>
 			<entry type="state">हरियाण</entry>
 			<entry type="troupe">तुलेराम एवं पार्टि</entry>
 			<entry type="song">सांग</entry>
+			<entry type="photographer">घनश्याम शर्मा</entry>
 		</mdetails>
 		<photo>
 			<entry id="7153" type="" size="">
@@ -49872,7 +49929,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.623">
 		<mdetails>
 			<entry type="state">हरियाण</entry>
 			<entry type="song">सांग</entry>
@@ -49880,6 +49937,7 @@
 		<photo>
 			<entry id="5909" type="" size="">
 				<desc>स्त्रोत. नेमिचन्द्र जैन संग्रह</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
 		</photo>
 	</media>
@@ -54142,7 +54200,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.630">
 		<mdetails>
 			<entry type="country">अमेरीका</entry>
 			<entry type="place">न्यूयार्क</entry>
@@ -54155,7 +54213,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.631">
 		<mdetails>
 			<entry type="country">अमेरिक</entry>
 			<entry type="place">वर्जीनिया</entry>
@@ -54167,7 +54225,7 @@
 		</mdetails>
 		<photo>
 			<entry id="2339" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध 36/19</desc>
 			</entry>
 			<entry id="4395" type="" size="">
 				<desc></desc>
@@ -54177,7 +54235,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.632">
 		<mdetails>
 			<entry type="country">अमेरिका</entry>
 			<entry type="place">वाशिंगटन</entry>
@@ -54185,27 +54243,27 @@
 			<entry type="writer">मनोज मित्र</entry>
 			<entry type="director">उमेश अग्निहोत्री</entry>
 			<entry type="venue">वाशिंगटन डी. सी.</entry>
-			<entry type="date">1995</entry>
+			<entry type="date">नवंबर 1995</entry>
 		</mdetails>
 		<photo>
 			<entry id="3808" type="" size="">
-				<desc>उमेश अग्निहोत्री से प्राप्त</desc>
+				<desc>नवंबर 1995 में उमेश अग्निहोत्री से प्राप्त</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.665">
 		<mdetails>
 			<entry type="country">ओमान</entry>
 			<entry type="troupe">एशियन आर्टिस्ट</entry>
-			<entry type="drama">सूर का सफर</entry>
+			<entry type="drama">सुर का सफर</entry>
 		</mdetails>
 		<photo>
-			<entry id="8957" type="01" size="17.5X12.5">
+			<entry id="8957" type="01" size="17.5X12.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.664">
 		<mdetails>
 			<entry type="country">ओमान</entry>
 			<entry type="troupe">एशियन आर्टिस्ट</entry>
@@ -54215,32 +54273,32 @@
 			<entry type="date">1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="8969" type="01" size="17.5X12.5">
+			<entry id="8969" type="01" size="17.5X12.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.663">
 		<mdetails>
-			<entry type="country">ओमन</entry>
+			<entry type="country">ओमान</entry>
 			<entry type="troupe">एशियन आर्टिस्ट</entry>
 			<entry type="drama">मसकट मसाला</entry>
-			<entry type="director">सलीम रज़ा</entry>
-			<entry type="artist">सलीम रज़ा व अन्य</entry>
+			<entry type="director">सलीमा रज़ा</entry>
+			<entry type="artist">सलीमा रज़ा व अन्य</entry>
 			<entry type="date">1985-1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="8959" type="" size="17.5X12.5">
+			<entry id="8959" type="01" size="17.5X12.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="8960" type="" size="17.5X12.5">
+			<entry id="8960" type="01" size="17.5X12.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.662">
 		<mdetails>
-			<entry type="country">ओमन</entry>
+			<entry type="country">ओमान</entry>
 			<entry type="troupe">एशियन आर्टिस्ट</entry>
 			<entry type="drama">धागे प्रेम के</entry>
 			<entry type="director">सलीमा रज़ा</entry>
@@ -54248,26 +54306,30 @@
 			<entry type="date">1992</entry>
 		</mdetails>
 		<photo>
-			<entry id="8970" type="01" size="17.5X12.5">
+			<entry id="8970" type="01" size="17.5X12.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.645">
 		<mdetails>
-			<entry type="country">इंग्लैड</entry>
+			<entry type="country">इंग्लैण्ड</entry>
 			<entry type="place">लंदन</entry>
-			<entry type="drama">शकुन्तला</entry>
+			<entry type="drama">शाकुन्तल</entry>
 			<entry type="writer">कालिदास</entry>
-			<entry type="director">मासोन</entry>
+			<entry type="director">मिस्टर मैसन</entry>
+			<entry type="artist">शांता गाँधी (शकुन्तला), श्रीमती रोज़र, पद्मा, कु. बक्षी, श्रीमती किरण स्वरूप व अन्य</entry>
+			<entry type="venue">लंदन</entry>
+			<entry type="date">1936</entry>
 		</mdetails>
 		<photo>
-			<entry id="3438" type="" size="">
+			<entry id="3438" type="02" size="">
 				<desc>लंदन में फंड प्राप्त हेतु</desc>
+				<misc>श्रीमती शांता गाँधी द्वारा भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.659">
 		<mdetails>
 			<entry type="country">ईरान</entry>
 			<entry type="event">संगीत</entry>
@@ -54278,13 +54340,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.666">
 		<mdetails>
 			<entry type="country">कम्बोडिया</entry>
 			<entry type="troupe">क्लासिकल डांस कंपनी</entry>
 			<entry type="dance">ग्लास बॉक्स (The glass box)</entry>
-			<entry type="photographer">सॉफिलिन चीग शपीशे</entry>
-			<entry type="artist">सॉफिलिन चीग शपीशे</entry>
+			<entry type="choreographer">सॉफिलिन चीम शपीशे</entry>
+			<entry type="artist">सॉफिलिन चीम शपीशे</entry>
 			<entry type="venue">दिल्ली</entry>
 			<entry type="host">रा. ना. वि. एवं नटरंग प्रतिष्ठान</entry>
 			<entry type="date">07-01-2003</entry>
@@ -54307,14 +54369,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.672">
 		<mdetails>
 			<entry type="country">कम्बोडिया</entry>
 			<entry type="troupe">नेशनल थियेटर</entry>
 			<entry type="drama">माइ मदर्स लास्ट विश</entry>
 			<entry type="writer">अर्न कोर्न-पॉण्ड</entry>
 			<entry type="director">नाव संदाब</entry>
-			<entry type="artist">नाव संदाब, रोज नेवी, काई ऑन एवं सेंग पोनारोंग</entry>
+			<entry type="artist">नाव संदाब, रोज़ नेवी, क्राई ऑन एवं सेंग पोनारोंग</entry>
 			<entry type="venue">अभिमंच सभागार</entry>
 			<entry type="date">7 जनवरी 2003</entry>
 		</mdetails>
@@ -54423,42 +54485,67 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.680">
 		<mdetails>
 			<entry type="country">चीन</entry>
-			<entry type="drama">शकुन्तला</entry>
-			<entry type="writer">कालिदास</entry>
+			<entry type="drama">शकुन्तला (चाइनीज़)</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
+			<entry type="director">वू हुसूह (Wu Hsueh)</entry>
+			<entry type="artdirector">शांग शेग यू (Chang Cheng-Yu)</entry>
+			<entry type="artist">पाईशान (Pai Shan) (शकुंतला), मी हसी (Mei Hsi) (दुष्यंत) व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="2945" type="" size="">
+			<entry id="2945" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
-			<entry id="2946" type="" size="">
+			<entry id="2946" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
-			<entry id="2947" type="" size="">
+			<entry id="2947" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
-			<entry id="2948" type="" size="">
+			<entry id="2948" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
-			<entry id="2949" type="" size="">
+			<entry id="2949" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
-			<entry id="2950" type="" size="">
+			<entry id="2950" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
-			<entry id="2951" type="" size="">
+			<entry id="2951" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
-			<entry id="2952" type="" size="">
+			<entry id="2952" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
-			<entry id="2953" type="" size="">
+			<entry id="2953" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
-			<entry id="2954" type="" size="">
+			<entry id="2954" type="02" size="">
 				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
+			</entry>
+			<entry id="16780" type="02" size="">
+				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
+			</entry>
+			<entry id="16781" type="02" size="">
+				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
+			</entry>
+			<entry id="16782" type="02" size="">
+				<desc>`अभिज्ञानशाकुन्तलम्' पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स. क.</misc>
 			</entry>
 		</photo>
 	</media>
@@ -54862,19 +54949,29 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.628;077.629">
 		<mdetails>
-			<entry type="country">यू. एस. ए.</entry>
-			<entry type="place">न्यूयार्क</entry>
+			<entry type="country">अमेरिका</entry>
+			<entry type="place">न्यूयॉर्क</entry>
 			<entry type="troupe">टैगोर सोसायटी</entry>
-			<entry type="drama">शकुन्तला</entry>
-			<entry type="writer">कालिदास</entry>
-			<entry type="director">माया कुलकर्णी, प्रकाश राममूर्ति</entry>
+			<entry type="drama">अभिज्ञान शकुंतलम् (नृत्य नाटक)</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
+			<entry type="director">माया कुलकर्णी</entry>
+			<entry type="music">सुरेश शुक्ला</entry>
+			<entry type="music">माया कुलकर्णी (भरतनाट्यम नृत्यांगना) व बिहारी शर्मा (मणिपुरी नर्तक)</entry>
+			<entry type="light">राममूर्ति</entry>
+			<entry type="artist">माया कुलकर्णी (शकुंतला), बिहारी शर्मा (दुष्यंत)</entry>
+			<entry type="venue">न्यूयॉर्क, टैगोर सोसायटी</entry>
+			<entry type="date">मार्च 1971</entry>
 		</mdetails>
 		<photo>
-			<entry id="2943" type="" size="">
-				<desc>नृत्य नाटिका</desc>
-				<misc>`अभिज्ञान शाकुन्तलम्' पर आधारित</misc>
+			<entry id="2943" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="2944" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -54928,13 +55025,32 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.651">
 		<mdetails>
-			<entry type="drama">मीरट ग्रूप का महाभारत</entry>
+			<entry type="country">इंग्लैण्ड</entry>
+			<entry type="troupe">मीरट ग्रूप</entry>
+			<entry type="drama">महाभारत</entry>
+			<entry type="director">पीटर ब्रुक</entry>
+			<entry type="artist">मल्लिका साराभाई</entry>
 		</mdetails>
 		<photo>
-			<entry id="4763" type="" size="">
-				<desc></desc>
+			<entry id="4763" type="02" size="">
+				<desc>श्री अशोक वाजपेयी से प्राप्त</desc>
+			</entry>
+			<entry id="21085" type="02" size="">
+				<desc>श्री अशोक वाजपेयी से प्राप्त</desc>
+			</entry>
+			<entry id="21086" type="02" size="">
+				<desc>श्री अशोक वाजपेयी से प्राप्त</desc>
+			</entry>
+			<entry id="21087" type="02" size="">
+				<desc>श्री अशोक वाजपेयी से प्राप्त</desc>
+			</entry>
+			<entry id="21088" type="02" size="">
+				<desc>श्री अशोक वाजपेयी से प्राप्त</desc>
+			</entry>
+			<entry id="21089" type="02" size="">
+				<desc>श्री अशोक वाजपेयी से प्राप्त</desc>
 			</entry>
 		</photo>
 	</media>
