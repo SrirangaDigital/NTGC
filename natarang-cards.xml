@@ -37537,100 +37537,121 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.002;077.003">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बम्बई</entry>
+			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">अंजी</entry>
-			<entry type="writer">विजय तेंडुलकर</entry>
+			<entry type="writer">विजय तेंडुलकर (मराठी)</entry>
+			<entry type="translation">वसंत देव</entry>
+			<entry type="projection">दिनेश ठाकुर</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
-			<entry type="date">1985</entry>
+			<entry type="music">महेश बोहिदर</entry>
+			<entry type="stage">शंकर अय्यर, रागेश अस्थाना</entry>
+			<entry type="light">शंकर अय्यर</entry>
+			<entry type="make-up">प्रदीप नोहाटे</entry>
+			<entry type="artist">दिनेश ठाकुर (सूत्रधार), अमित भवसार (हारमोनियम प्लेयर), मीनाक्षी ठाकुर (अंजी), नीतिश भारद्वाज (भागवत द्विवेदी), अनन्त महादेवन (प्रभु दयाल) व अन्य</entry>
+			<entry type="venue">मंज़र थियेटर, प्रगति मैदान, दिल्ली</entry>
+			<entry type="date">23-02-1986</entry>
 		</mdetails>
 		<photo>
-			<entry id="4978" type="" size="">
+			<entry id="4978" type="01" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4979" type="" size="">
+			<entry id="4979" type="01" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.007;077.008;077.009">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बम्बई</entry>
+			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">आज रात</entry>
 			<entry type="writer">जे. बी. प्रीस्टले</entry>
+			<entry type="compilation">दिनेश ठाकुर</entry>
+			<entry type="projection">दिनेश ठाकुर</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
-			<entry type="date">अक्टूबर 1986</entry>
+			<entry type="music">रागेश अस्थाना, अनिमेश जैन</entry>
+			<entry type="dress">मीनाक्षी ठाकुर</entry>
+			<entry type="make-up">प्रकाश सिंह</entry>
+			<entry type="light">शंकर अय्यर</entry>
+			<entry type="artist">मीनाक्षी ठाकुर (श्रीमती सुमित्रा राय), दिनेश ठाकुर (इंस्पैक्टर खान), विजयन नायर (राघवेन्द्रनाथ राय), अनंत महादेवन (रवीन्द्रप्रताप रावल) व अन्य</entry>
+			<entry type="venue">पृथ्वी थिएटर, जुहू, मुम्बई</entry>
+			<entry type="date">1-12 अक्टूबर 1986</entry>
 		</mdetails>
 		<photo>
-			<entry id="1408" type="" size="">
+			<entry id="1408" type="02" size="">
 				<desc>`एन इंस्पेक्टर कॉल्स' का नाट्यान्तर</desc>
+				<misc>अंक की सालगिरह पर मंचित, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="1409" type="" size="">
+			<entry id="1409" type="02" size="">
 				<desc>`एन इंस्पेक्टर कॉल्स' का नाट्यान्तर</desc>
+				<misc>अंक की सालगिरह पर मंचित, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स्मा.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.011">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बम्बई</entry>
+			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">आत्मकथा</entry>
-			<entry type="writer">महेश खलकुंचवार</entry>
+			<entry type="writer">महेश एलकुंचवार</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
+			<entry type="translation">वसंत देव</entry>
 			<entry type="version">वसंत देव</entry>
+			<entry type="artist">दिनेश ठाकुर, प्रीता माथुर व अन्य</entry>
 			<entry type="date">1997</entry>
 		</mdetails>
 		<photo>
-			<entry id="4982" type="" size="">
+			<entry id="4982" type="01" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4983" type="" size="">
+			<entry id="4983" type="01" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4984" type="" size="">
+			<entry id="4984" type="01" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.013">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बम्बई</entry>
+			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">अंक</entry>
-			<entry type="drama">आधे अधूरे</entry>
+			<entry type="drama">आधे-अधूरे</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
-			<entry type="venue">पृथ्वी थिएटर, बम्बई</entry>
+			<entry type="artist">दिनेश ठाकुर (पाँचों पुरुषपात्र), प्रीता माथुर (सावित्री)</entry>
+			<entry type="venue">पृथ्वी थिएटर, जुहू, महाराष्ट्र</entry>
 			<entry type="date">4-7 जुलाई 1995</entry>
 		</mdetails>
 		<photo>
-			<entry id="2933" type="" size="">
+			<entry id="2933" type="01" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2934" type="" size="">
+			<entry id="2934" type="01" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2935" type="" size="">
+			<entry id="2935" type="01" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2936" type="" size="">
+			<entry id="2936" type="01" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2937" type="" size="">
+			<entry id="2937" type="01" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.014">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बम्बई</entry>
+			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">आपस की बात</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
@@ -37642,76 +37663,85 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.015">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बम्बई</entry>
+			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">आपस की बात (हिन्दी)</entry>
-			<entry type="originalwriter">नील साइमन</entry>
+			<entry type="writer">नील साइमन</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
-			<entry type="venue">मंज़र थियेटर</entry>
+			<entry type="artist">दिनेश ठाकुर, मीनाक्षी ठाकुर, अनन्त महादेव व अन्य</entry>
+			<entry type="venue">मंज़र थियेटर, प्रगति मैदान, दिल्ली</entry>
 			<entry type="date">फरवरी 14' 1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="7096" type="" size="">
+			<entry id="7096" type="02" size="">
 				<desc>नील साइमन के द गुड डॉक्टर पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="7097" type="" size="">
+			<entry id="7097" type="02" size="">
 				<desc>नील साइमन के द गुड डॉक्टर पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="7098" type="" size="">
+			<entry id="7098" type="02" size="">
 				<desc>नील साइमन के द गुड डॉक्टर पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="7099" type="" size="">
+			<entry id="7099" type="02" size="">
 				<desc>नील साइमन के द गुड डॉक्टर पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="7100" type="" size="">
+			<entry id="7100" type="02" size="">
 				<desc>नील साइमन के द गुड डॉक्टर पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="7101" type="" size="">
+			<entry id="7101" type="02" size="">
 				<desc>नील साइमन के द गुड डॉक्टर पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.016;077.017">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बम्बई</entry>
+			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">आपस की बात (चेखव की कहानियों पर आधारित)</entry>
+			<entry type="writer">नील साइमन (कहानियाँ एण्टोन चेखव की)</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
 			<entry type="version">दिनेश ठाकुर</entry>
+			<entry type="artist">दिनेश ठाकुर (लेखक-सूत्रधार), प्रीता माथुर, पवन चौपड़ा, वंदना सजनानी महेन्द्र दोंगरे</entry>
 			<entry type="date">03-04-1998</entry>
 		</mdetails>
 		<photo>
-			<entry id="4985" type="" size="">
-				<desc></desc>
+			<entry id="4985" type="01" size="">
+				<desc>सूचना स्रोत - स. क. सं. - 23 (अंक, मुम्बई)</desc>
 			</entry>
-			<entry id="4986" type="" size="">
-				<desc></desc>
+			<entry id="4986" type="01" size="">
+				<desc>सूचना स्रोत - स. क. सं. - 23 (अंक, मुम्बई)</desc>
 			</entry>
-			<entry id="4987" type="" size="">
-				<desc></desc>
+			<entry id="4987" type="01" size="">
+				<desc>सूचना स्रोत - स. क. सं. - 23 (अंक, मुम्बई)</desc>
 			</entry>
-			<entry id="4988" type="" size="">
-				<desc></desc>
+			<entry id="4988" type="01" size="">
+				<desc>सूचना स्रोत - स. क. सं. - 23 (अंक, मुम्बई)</desc>
 			</entry>
-			<entry id="4989" type="" size="">
-				<desc></desc>
+			<entry id="4989" type="01" size="">
+				<desc>सूचना स्रोत - स. क. सं. - 23 (अंक, मुम्बई)</desc>
 			</entry>
-			<entry id="4990" type="" size="">
-				<desc></desc>
+			<entry id="4990" type="01" size="">
+				<desc>सूचना स्रोत - स. क. सं. - 23 (अंक, मुम्बई)</desc>
 			</entry>
-			<entry id="4991" type="" size="">
-				<desc></desc>
+			<entry id="4991" type="01" size="">
+				<desc>सूचना स्रोत - स. क. सं. - 23 (अंक, मुम्बई)</desc>
 			</entry>
-			<entry id="4992" type="" size="">
-				<desc></desc>
+			<entry id="4992" type="01" size="">
+				<desc>सूचना स्रोत - स. क. सं. - 23 (अंक, मुम्बई)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.019">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37726,14 +37756,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.018">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">आला अफ़सर</entry>
 			<entry type="writer">मुद्राराक्षस</entry>
-			<entry type="venue">अंक नाट्य समारोह</entry>
+			<entry type="event">अंक नाट्य समारोह</entry>
 			<entry type="date">1-16 अक्टूबर 1983</entry>
 		</mdetails>
 		<photo>
