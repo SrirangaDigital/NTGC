@@ -37772,58 +37772,75 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.022;077.023">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">कछुआ-खरगोश</entry>
+			<entry type="writer">रवि चतुर्वेदी</entry>
+			<entry type="projection">दिनेश ठाकुर</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
+			<entry type="music">महेश भिन्डर</entry>
+			<entry type="stage">शंकर अय्यर</entry>
+			<entry type="light">रागेश अस्थाना, अनिमेष जैन</entry>
+			<entry type="make-up">प्रकाश सिंह</entry>
+			<entry type="artist">अनंत महोदवन (श्रीधर), दिनेश ठाकुर (मुकुन्द), मीनाक्षी ठाकुर (कुमुद), टी. पी. जैन (नाना) व अन्य</entry>
 			<entry type="venue">मंजर थियेटर</entry>
 			<entry type="host">ट्रेड फेयर अथोरिटी ऑफ इंडिया (भारतीय व्यापार मेला प्राधिकरण)</entry>
 			<entry type="date">फरवरी 28' 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="4370" type="" size="">
-				<desc></desc>
+			<entry id="4370" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
-			<entry id="4371" type="" size="">
-				<desc></desc>
+			<entry id="4371" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
-			<entry id="4372" type="" size="">
-				<desc></desc>
+			<entry id="4372" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
-			<entry id="4373" type="" size="">
-				<desc></desc>
+			<entry id="4373" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
-			<entry id="4374" type="" size="">
-				<desc></desc>
+			<entry id="4374" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
-			<entry id="4375" type="" size="">
-				<desc></desc>
+			<entry id="4375" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
-			<entry id="7049" type="" size="">
-				<desc></desc>
+			<entry id="7049" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
-			<entry id="7050" type="" size="">
-				<desc></desc>
+			<entry id="7050" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
-			<entry id="7051" type="" size="">
-				<desc></desc>
+			<entry id="7051" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
-			<entry id="7052" type="" size="">
-				<desc></desc>
+			<entry id="7052" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा - 1659</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.024">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">कन्यादान</entry>
 			<entry type="writer">विजय तेंडुलकर</entry>
-			<entry type="translation">वसंत देव</entry>
+			<entry type="translator">वसंत देव</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
 		</mdetails>
 		<photo>
@@ -37832,7 +37849,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.028">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37849,35 +37866,47 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.029;077.030;077.031">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">खामोश अदालत जारी है</entry>
-			<entry type="writer">विजय तेंदुलकर</entry>
-			<entry type="director">दिनेश अंकुर</entry>
-			<entry type="venue">मंजर थिएटर</entry>
+			<entry type="originaldrama">शांतता कोर्ट चालू आहे (नाटक का मूल नाम)</entry>
+			<entry type="writer">विजय तेंदुलकर (मराठी)</entry>
+			<entry type="translator">कमलाकर सोनटक्के</entry>
+			<entry type="director">दिनेश ठाकुर</entry>
+			<entry type="music">महेश बोहिदर</entry>
+			<entry type="make-up">प्रकाश सिंह</entry>
+			<entry type="light">रागेश अस्थाना</entry>
+			<entry type="artist">मीनाक्षी ठाकुर (मिस बेनारे ), अनंत महादेवन (सामंत), टी. पी. जैन (सुखात्मे), दिनेश ठाकुर (काशीकर), राजेश्वरी तेन्दुलकर (श्रीमती काशीकर), व अन्य</entry>
+			<entry type="venue">मंजर थिएटर, प्रगति मैदान, दिल्ली</entry>
 			<entry type="date">01-03-1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="4382" type="" size="">
-				<desc></desc>
+			<entry id="4382" type="02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा - 1660</misc>
 			</entry>
-			<entry id="4383" type="" size="">
-				<desc></desc>
+			<entry id="4383" type="02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा - 1660</misc>
 			</entry>
-			<entry id="4384" type="" size="">
-				<desc></desc>
+			<entry id="4384" type="02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा - 1660</misc>
 			</entry>
-			<entry id="4385" type="" size="">
-				<desc></desc>
+			<entry id="4385" type="02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा - 1660</misc>
 			</entry>
-			<entry id="4386" type="" size="">
-				<desc></desc>
+			<entry id="4386" type="02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा - 1660</misc>
 			</entry>
-			<entry id="4387" type="" size="">
-				<desc></desc>
+			<entry id="4387" type="02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा - 1660</misc>
 			</entry>
 		</photo>
 	</media>
@@ -37929,7 +37958,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.041">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37949,7 +37978,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.043">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37957,34 +37986,34 @@
 			<entry type="drama">भागम भाग</entry>
 			<entry type="writer">मनोहर काटदरे</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
-			<entry type="date">28-08-1998</entry>
+			<entry type="date">प्रथम प्रदर्शन 1986;28-08-1998</entry>
 		</mdetails>
 		<photo>
 			<entry id="4976" type="" size="">
-				<desc>प्रथम प्रदर्शन 1986</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.044">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">अंक</entry>
 			<entry type="drama">रंग बजरंग</entry>
-			<entry type="writer">स्पिर्ड नारा</entry>
+			<entry type="writer">स्पिर्ड नाश</entry>
 			<entry type="director">दिनेश ठाकुर</entry>
 			<entry type="date">1986</entry>
 		</mdetails>
 		<photo>
 			<entry id="1405" type="" size="">
-				<desc>`रिजर नैश के द रैन मेकर' पर आधारित</desc>
+				<desc>रिचर नैश के `द रैन मेकर' पर आधारित</desc>
 			</entry>
 			<entry id="4223" type="" size="">
-				<desc>`रिचार्ड  नैश के द रैन मेकर' पर आधारित</desc>
+				<desc>रिचर  नैश के `द रैन मेकर' पर आधारित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.045">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
