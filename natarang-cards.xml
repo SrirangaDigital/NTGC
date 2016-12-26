@@ -41662,89 +41662,101 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.153">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="troupe">गोवा हिन्दू ऎसोसियेशन</entry>
+			<entry type="troupe">गोवा हिन्दू एसोसियेशन</entry>
 			<entry type="drama">अभिज्ञान शाकुंतल (मराठी)</entry>
-			<entry type="writer">कालिदास</entry>
+			<entry type="writer">कालिदास (संस्कृत )</entry>
+			<entry type="translator">शंकर वैद्य / द. ग. गोडसे</entry>
 			<entry type="director">विजया मेहता</entry>
+			<entry type="artist">अर्चना जोगलेकर (शकुंतला) व अन्य</entry>
 			<entry type="date">24 अक्टूबर 1979</entry>
 		</mdetails>
 		<photo>
-			<entry id="1481" type="" size="">
-				<desc></desc>
+			<entry id="1481" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्रीमती विजया मेहता द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="1484" type="" size="">
-				<desc></desc>
+			<entry id="1484" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्रीमती विजया मेहता द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="1485" type="" size="">
-				<desc></desc>
+			<entry id="1485" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्रीमती विजया मेहता द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="1486" type="" size="">
-				<desc></desc>
+			<entry id="1486" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्रीमती विजया मेहता द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="2195" type="" size="">
-				<desc></desc>
+			<entry id="2195" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्रीमती विजया मेहता द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="2196" type="" size="">
-				<desc></desc>
+			<entry id="2196" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्रीमती विजया मेहता द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.151">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
-			<entry type="troupe">दी गोआ हिन्दू एसोसियेशन प्रोडक्शन</entry>
+			<entry type="troupe">दी गोआ हिन्दु एसोसियेशन प्रोडक्शन</entry>
 			<entry type="drama">बैरिस्टर</entry>
 			<entry type="writer">जयावन्त दलवी</entry>
 			<entry type="director">विजया मेहता</entry>
 			<entry type="language">मराठी</entry>
 			<entry type="vyaktirekha">मौसी</entry>
+			<entry type="date">1977 (प्रथम प्रस्तुति)</entry>
 		</mdetails>
 		<photo>
 			<entry id="8484" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटॊ एन. सी. पी. ए.</desc>
-				<misc>1977 - प्रथम प्रस्तुति - 1977 - लगभग 250 प्रस्तुतियाँ</misc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</desc>
+				<misc>लग भग 250 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.152">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">दी गोआ हिन्दु एसोसिएशन प्रोडक्शन</entry>
-			<entry type="drama">शाकुंतल</entry>
-			<entry type="writer">लालीदास</entry>
+			<entry type="drama">शाकुंतल (मराठी)</entry>
+			<entry type="writer">लालीदास (संस्कृत)</entry>
 			<entry type="director">विजया मेहता</entry>
 			<entry type="language">मराठी</entry>
 			<entry type="translation">शंकर वैद्य / द. ग. गोडसे</entry>
+			<entry type="director">विजया मेहता</entry>
+			<entry type="artist">अर्चना जोगलेकर (शकुंतला) व अन्य</entry>
+			<entry type="date">1979 (प्रथम प्रस्तुति)</entry>
 		</mdetails>
 		<photo>
 			<entry id="8490" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</desc>
-				<misc>1979 प्रथम प्रस्तुति - 1979 लगभग 50 प्रस्तुतियाँ</misc>
+				<misc>लग भग 50 प्रस्तुतियाँ, श्रीमती विजया मेहता द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="8491" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</desc>
-				<misc>1979 प्रथम प्रस्तुति - 1979 लगभग 50 प्रस्तुतियाँ</misc>
+				<misc>लग भग 50 प्रस्तुतियाँ, श्रीमती विजया मेहता द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="8492" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</desc>
-				<misc>1979 प्रथम प्रस्तुति - 1979 लगभग 50 प्रस्तुतियाँ</misc>
+				<misc>लग भग 50 प्रस्तुतियाँ, श्रीमती विजया मेहता द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.154">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">गोवा हिन्दू एसोसियेशन</entry>
 			<entry type="drama">शाकुंतल</entry>
 			<entry type="writer">कालिदास</entry>
-			<entry type="translation">मोहन राकेश</entry>
+			<entry type="translator">मोहन राकेश</entry>
 			<entry type="director">विजया मेहता</entry>
 			<entry type="event">सातवे राष्ट्रीय नाट्य समारोह</entry>
 			<entry type="date">अक्टूबर 1985</entry>
@@ -41758,7 +41770,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.155">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -41768,16 +41780,16 @@
 			<entry type="director">माधव वाटवे</entry>
 			<entry type="language">मराठी</entry>
 			<entry type="vyaktirekha">नानी</entry>
-			<entry type="artist"></entry>
+			<entry type="date">1973 (प्रथम प्रस्तुति)</entry>
 		</mdetails>
 		<photo>
 			<entry id="8485" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</desc>
-				<misc>प्रथम प्रस्तुति 1973 - लगभग 250 प्रस्तुतियाँ</misc>
+				<misc>लग भग 250 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.156">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -41786,24 +41798,24 @@
 			<entry type="writer">गिरीश कारनाड</entry>
 			<entry type="director">विजया मेहता</entry>
 			<entry type="language">मराठी</entry>
-			<entry type="date">1983</entry>
+			<entry type="date">1983 (प्रथम प्रस्तुति)</entry>
 		</mdetails>
 		<photo>
 			<entry id="8487" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA</desc>
-				<misc>प्रथम प्रस्तुति - 1983 - लगभग 100 प्रस्तुतियाँ</misc>
+				<misc>लग भग 100 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 			<entry id="8488" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA</desc>
-				<misc>प्रथम प्रस्तुति - 1983 - लगभग 100 प्रस्तुतियाँ</misc>
+				<misc>लग भग 100 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 			<entry id="8489" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA</desc>
-				<misc>प्रथम प्रस्तुति - 1983 - लगभग 100 प्रस्तुतियाँ</misc>
+				<misc>लग भग 100 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.157">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -41812,22 +41824,22 @@
 			<entry type="director">वामन केन्द्रे</entry>
 		</mdetails>
 		<photo>
-			<entry id="11858" type="01" size="">
+			<entry id="11858" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11859" type="01" size="">
+			<entry id="11859" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11860" type="01" size="">
+			<entry id="11860" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11861" type="01" size="">
+			<entry id="11861" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11862" type="01" size="">
+			<entry id="11862" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11863" type="01" size="">
+			<entry id="11863" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 		</photo>
@@ -41861,7 +41873,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.158">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -41870,37 +41882,44 @@
 			<entry type="writer">बरनार्ड शां</entry>
 			<entry type="compilation">पी. एल. देशपाण्डे</entry>
 			<entry type="director">वामन केन्द्रे</entry>
+			<entry type="event">राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''</entry>
 			<entry type="venue">कमानी सभागार</entry>
 			<entry type="date">18 मार्च 2002</entry>
 		</mdetails>
 		<photo>
 			<entry id="9758" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''</desc>
+				<desc></desc>
 			</entry>
 			<entry id="9759" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''</desc>
+				<desc></desc>
 			</entry>
 			<entry id="9760" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''</desc>
+				<desc></desc>
 			</entry>
 			<entry id="9761" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''</desc>
+				<desc></desc>
 			</entry>
 			<entry id="9762" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''</desc>
+				<desc></desc>
 			</entry>
 			<entry id="9763" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''</desc>
+				<desc></desc>
 			</entry>
 			<entry id="9764" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''</desc>
+				<desc></desc>
 			</entry>
 			<entry id="9765" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन ``4th भारत रंग महोत्सव 2002''</desc>
+				<desc></desc>
+			</entry>
+			<entry id="21276" type="01" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21277" type="01" size="">
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.159">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -41909,27 +41928,27 @@
 			<entry type="director">वामन केन्द्रे</entry>
 		</mdetails>
 		<photo>
-			<entry id="11840" type="" size="">
+			<entry id="11840" type="02" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11841" type="" size="">
+			<entry id="11841" type="02" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11842" type="" size="">
+			<entry id="11842" type="02" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11843" type="" size="">
+			<entry id="11843" type="02" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11844" type="" size="">
+			<entry id="11844" type="02" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11845" type="" size="">
+			<entry id="11845" type="02" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.160">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -41939,32 +41958,32 @@
 		</mdetails>
 		<photo>
 			<entry id="11864" type="01" size="">
-				<desc>चोमती घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11865" type="01" size="">
-				<desc>चोमती घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11866" type="01" size="">
-				<desc>चोमती घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11867" type="01" size="">
-				<desc>चोमती घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11868" type="01" size="">
-				<desc>चोमती घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11869" type="01" size="">
-				<desc>चोमती घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11870" type="01" size="">
-				<desc>चोमती घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11871" type="01" size="">
-				<desc>चोमती घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.161">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -41975,17 +41994,17 @@
 			<entry type="artist">पूर्वा केसकर, ज्योति सुभाष, देवेन्द्र सारलकर, गजानन परांजपे</entry>
 		</mdetails>
 		<photo>
-			<entry id="16137" type="" size="25X30.5">
-				<desc>से० मी० के द्वारा भेंट</desc>
+			<entry id="16137" type="01;02" size="25X30.5 से. मी.">
+				<desc>.............. के द्वारा भेंट</desc>
 			</entry>
-			<entry id="16138" type="" size="25X30.5">
-				<desc>से० मी० के द्वारा भेंट</desc>
+			<entry id="16138" type="01;02" size="25X30.5 से. मी.">
+				<desc>.............. के द्वारा भेंट</desc>
 			</entry>
-			<entry id="16139" type="" size="25X30.5">
-				<desc>से० मी० के द्वारा भेंट</desc>
+			<entry id="16139" type="01;02" size="25X30.5 से. मी.">
+				<desc>.............. के द्वारा भेंट</desc>
 			</entry>
-			<entry id="16140" type="" size="25X30.5">
-				<desc>से० मी० के द्वारा भेंट</desc>
+			<entry id="16140" type="01;02" size="25X30.5 से. मी.">
+				<desc>.............. के द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -42056,7 +42075,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.162">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42073,7 +42092,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.163">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42095,7 +42114,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.164">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42119,7 +42138,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.165">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -42132,12 +42151,12 @@
 			<entry id="10247" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="10247/I" type="" size="">
+			<entry id="10247/1" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.168">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42160,7 +42179,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.169">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42178,7 +42197,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.170">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42190,11 +42209,11 @@
 		</mdetails>
 		<photo>
 			<entry id="2348" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.171">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42218,7 +42237,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.172">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42233,7 +42252,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.173">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42253,7 +42272,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.174">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42269,7 +42288,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.175">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42288,14 +42307,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.176">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">थिएटर यूनिट</entry>
 			<entry type="drama">सुनो जनमेजय</entry>
-			<entry type="writer">आद्य रंगचार्य</entry>
-			<entry type="translation">नेमिचन्द्र जैन</entry>
+			<entry type="writer">आद्य रंगाचार्य</entry>
+			<entry type="translator">नेमिचन्द्र जैन</entry>
 			<entry type="director">सत्यदेव दुबे</entry>
 		</mdetails>
 		<photo>
@@ -42346,7 +42365,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.177">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42369,14 +42388,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.178">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">नटरंग</entry>
 			<entry type="drama">दायित्व</entry>
 			<entry type="writer">नन्दकिशोर मित्तल</entry>
-			<entry type="director">सुरेन मातप्रेकर</entry>
+			<entry type="director">सुरेन मातर्पेकर</entry>
 		</mdetails>
 		<photo>
 			<entry id="1418" type="" size="">
@@ -42387,7 +42406,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.179">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42406,7 +42425,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.180">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42414,7 +42433,7 @@
 			<entry type="drama">कांचन रंग</entry>
 			<entry type="writer">शंभुमित्र एवं अमित मैत्र</entry>
 			<entry type="director">सुदर्शन शर्मा</entry>
-			<entry type="venue">सोलहवा महाराष्ट्र राज्य हिन्दी नाट्य महोत्सव</entry>
+			<entry type="event">सोलहवा महाराष्ट्र राज्य हिन्दी नाट्य महोत्सव</entry>
 			<entry type="date">16 जनवरी 1966</entry>
 		</mdetails>
 		<photo>
@@ -42423,7 +42442,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.181">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42438,7 +42457,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.182">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42454,7 +42473,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.183">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42469,7 +42488,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.184">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -42479,37 +42498,37 @@
 		</mdetails>
 		<photo>
 			<entry id="11836" type="" size="">
-				<desc>चोमनी घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11837" type="" size="">
-				<desc>चोमनी घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11838" type="" size="">
-				<desc>चोमनी घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 			<entry id="11839" type="" size="">
-				<desc>चोमनी घोष से प्राप्त</desc>
+				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.185">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
-			<entry type="troupe">सी. पी. ए. व नाट्य मलहार</entry>
+			<entry type="troupe">एन. सी. पी. ए. व नाट्य मलहार</entry>
 			<entry type="drama">पुरुष</entry>
 			<entry type="writer">जयवंत दलवी</entry>
 			<entry type="director">विजय मेहता</entry>
 			<entry type="language">हिन्दी</entry>
-			<entry type="artist"></entry>
+			<entry type="date">2000 (प्रथम प्रस्तुति)</entry>
 		</mdetails>
 		<photo>
 			<entry id="8524" type="01" size="">
-				<desc>प्रथम प्रस्तुति 2000 - लगभग 1000 प्रस्तुतियाँ, विजय मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</desc>
+				<desc>लग भग 1000 प्रस्तुतियाँ, विजय मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए., न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.186">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -42522,23 +42541,23 @@
 		</mdetails>
 		<photo>
 			<entry id="8525" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992, न. प्र.</desc>
 			</entry>
 			<entry id="8526" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992, न. प्र.</desc>
 			</entry>
 			<entry id="8527" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992, न. प्र.</desc>
 			</entry>
 			<entry id="8528" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992, न. प्र.</desc>
 			</entry>
 			<entry id="8529" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती 1992, न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.188">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42553,111 +42572,29 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.189">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">पंचकला</entry>
-			<entry type="drama">विवाह का बन्धन</entry>
+			<entry type="drama">विवाह का बन्धन (हिन्दी रूपान्तर)</entry>
+			<entry type="originaldrama">`लगना मी बेड़ी'</entry>
 			<entry type="writer">ओत्रेय</entry>
 		</mdetails>
 		<photo>
 			<entry id="1425" type="" size="">
-				<desc>`लगता मी बेड़ी' का हिन्दी रूपान्तर</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.190">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">परफॉर्म्स</entry>
 			<entry type="drama">अब बजाओ बाजा</entry>
 			<entry type="writer">मनोहर काटदरे</entry>
-			<entry type="translation">गजानन बंगेरा</entry>
-			<entry type="director">गजानन बंगेरा</entry>
-			<entry type="event">रंगरंग बम्बई द्वारा आयोजित</entry>
-			<entry type="date">1 जून 1985</entry>
-		</mdetails>
-		<photo>
-			<entry id="1426" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">मुम्बई</entry>
-			<entry type="troupe">प्रवीण जोशी थियेटर</entry>
-			<entry type="drama">कुमारनी अगाशी (गुजराती)</entry>
-			<entry type="writer">मधु रे</entry>
-			<entry type="director">प्रवीण जोशी</entry>
-			<entry type="artist">सतिता जोशी</entry>
-		</mdetails>
-		<photo>
-			<entry id="16941" type="02" size="">
-				<desc>संगीत नाटक अकादेमी श्री सत्येन्द्र तनेजा द्वारा न. प्र. को भेंट</desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बम्बई</entry>
-			<entry type="troupe">पृथ्वी थिएटर</entry>
-			<entry type="drama">पठान</entry>
-			<entry type="writer">लालचन्द बिस्मिल</entry>
-			<entry type="director">पृथ्वीराज कपूर</entry>
-		</mdetails>
-		<photo>
-			<entry id="1428" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="2192" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="2193" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">मुम्बई</entry>
-			<entry type="troupe">एन. सी. पी. ए. &amp; हम प्रोडक्सन</entry>
-			<entry type="drama">नागमंडल</entry>
-			<entry type="writer">गिरीश कर्नाड</entry>
-			<entry type="language">हिन्दी</entry>
-			<entry type="director">विजया मेहता</entry>
-			<entry type="date">1992</entry>
-		</mdetails>
-		<photo>
-			<entry id="8525" type="" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती - 1992</desc>
-			</entry>
-			<entry id="8526" type="" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती - 1992</desc>
-			</entry>
-			<entry id="8527" type="" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती - 1992</desc>
-			</entry>
-			<entry id="8528" type="" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती - 1992</desc>
-			</entry>
-			<entry id="8529" type="" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA प्रथम प्रस्तुती - 1992</desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बम्बई</entry>
-			<entry type="troupe">परफॉर्म्स</entry>
-			<entry type="drama">अब बजाओ बाजा</entry>
-			<entry type="writer">मनोहर काटदरे</entry>
+			<entry type="translator">गजानन बंगेरा</entry>
 			<entry type="director">गजानन बंगेरा</entry>
 			<entry type="event">रागरंग बम्बई द्वारा आयोजित</entry>
 			<entry type="date">1 जून 1985</entry>
@@ -42668,14 +42605,46 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.199;077.200">
+		<mdetails>
+			<entry type="state">महाराष्ट्र</entry>
+			<entry type="place">बम्बई</entry>
+			<entry type="troupe">पृथ्वी थिएटर</entry>
+			<entry type="drama">पठान</entry>
+			<entry type="writer">लालचन्द बिस्मिल</entry>
+			<entry type="writer">पृथ्वीराज कपूर</entry>
+			<entry type="producer">पृथ्वीराज कपूर</entry>
+			<entry type="director">पृथ्वीराज कपूर</entry>
+			<entry type="music">राम गंगोली</entry>
+			<entry type="dance">सत्यनारायण</entry>
+			<entry type="song">लालचंद `बिस्मिल' पेशावरी</entry>
+			<entry type="costume">वी. एस. आठवले</entry>
+			<entry type="artist">पृथ्वीराज कपूर (शेरखान), जोहरा सैहगल (उल-निसा), सजमन (वज़ीरचंद) व अन्य</entry>
+			<entry type="date">13-04-1947</entry>
+		</mdetails>
+		<photo>
+			<entry id="1428" type="" size="">
+				<desc>प्रथम प्रस्तुति 13-04-1947 को नागपुर में</desc>
+				<misc>सूचना स्रोत नाट्य पुस्तक `पठान', पृथ्वीराज कपूर, ले.</misc>
+			</entry>
+			<entry id="2192" type="" size="">
+				<desc>प्रथम प्रस्तुति 13-04-1947 को नागपुर में</desc>
+				<misc>सूचना स्रोत नाट्य पुस्तक `पठान', पृथ्वीराज कपूर, ले.</misc>
+			</entry>
+			<entry id="2193" type="" size="">
+				<desc>प्रथम प्रस्तुति 13-04-1947 को नागपुर में</desc>
+				<misc>सूचना स्रोत नाट्य पुस्तक `पठान', पृथ्वीराज कपूर, ले.</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="077.193">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">प्रवीण जोशी थियेटर</entry>
 			<entry type="drama">कुमारनी अगाशी (गुजराती)</entry>
 			<entry type="writer">मधु रे</entry>
-			<entry type="director">प्रवीण जोश</entry>
+			<entry type="director">प्रवीण जोशी</entry>
 			<entry type="artist">सरिता जोशी</entry>
 		</mdetails>
 		<photo>
@@ -42684,7 +42653,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.196">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
