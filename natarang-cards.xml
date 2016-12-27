@@ -40832,7 +40832,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.216">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -40842,7 +40842,7 @@
 			<entry type="translation">शैलजा</entry>
 			<entry type="director">एम. एस. सथ्यू</entry>
 			<entry type="music">कुलदीप सिंह</entry>
-			<entry type="prastutisamyojak">शैली सथ्यू</entry>
+			<entry type="presentationcoordinator">शैली सथ्यू</entry>
 			<entry type="venue">गन्ना संस्थान प्रेक्षागृह, लखनऊ</entry>
 			<entry type="date">8 फरवरी 2008</entry>
 		</mdetails>
@@ -40852,20 +40852,20 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.218">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="troupe">इप्टा</entry>
-			<entry type="drama">आज दर्शन (हिन्दी)</entry>
+			<entry type="troupe">इप्टा भारतीय जन नाट्य संघ</entry>
+			<entry type="drama">राज दर्शन (हिन्दी)</entry>
 			<entry type="writer">मनोज मित्रा</entry>
 			<entry type="director">वामन केन्द्रे</entry>
 			<entry type="venue">मंजर थियेटर</entry>
-			<entry type="host">ट्रेड फेथर अथोरिटी ऑफ इंडिया</entry>
+			<entry type="host">ट्रेड फेयर अथोरिटी ऑफ इंडिया</entry>
 			<entry type="date">मार्च 6' 1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="7112" type="" size="">
+			<entry id="7112-5c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="7113" type="" size="">
@@ -40873,7 +40873,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.219">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -40887,7 +40887,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.220">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -40912,7 +40912,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.221">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -40928,7 +40928,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.215">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42008,42 +42008,43 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.257;077.258">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">रूपवेध</entry>
-			<entry type="drama">उद्धस्त धर्मशाला</entry>
+			<entry type="drama">उध्वस्त धर्मशाला (मराठी)</entry>
 			<entry type="writer">गोविन्द पुरुषोत्तम देशपाण्डे</entry>
 			<entry type="director">डॉ. श्रीराम लागू</entry>
-			<entry type="artist">श्रीराम लागू, दीपा लागू, श्रीकांत लागू, एकनाथ हट्टंगडी, मधुकर नाईक, आशुतोष दात्तार, रेखा सबनीस आदि</entry>
-			<entry type="date">1974</entry>
+			<entry type="artist">श्रीराम लागू (श्रीधर कुलकर्णी), दीपा श्रीराम (श्रीधर की पत्नी), रेखा सबनीस (माधवी), आशुतोष दात्तार (बड़ा बेटा), अनंत वार्तक (वाइस चांसलर जांबेकर), श्रीकांत लागू (प्रो. क्षीर सागर), मधुकर नाइक (रजिस्ट्रार वेलंकर), एकनाथ हट्टंगडी, आदि व अन्य</entry>
+			<entry type="venue">मुम्बई</entry>
+			<entry type="date">अक्टू. 1974</entry>
 		</mdetails>
 		<photo>
 			<entry id="16141" type="02" size="25X30.5">
-				<desc></desc>
+				<desc>सूचना स्रोत - पुस्तक - `रंगसाक्षी', जयदेव तनेजा, ले.</desc>
 			</entry>
 			<entry id="16142" type="02" size="25X30.5">
-				<desc></desc>
+				<desc>सूचना स्रोत - पुस्तक - `रंगसाक्षी', जयदेव तनेजा, ले.</desc>
 			</entry>
 			<entry id="16143" type="02" size="25X30.5">
-				<desc></desc>
+				<desc>सूचना स्रोत - पुस्तक - `रंगसाक्षी', जयदेव तनेजा, ले.</desc>
 			</entry>
 			<entry id="16144" type="02" size="25X30.5">
-				<desc></desc>
+				<desc>सूचना स्रोत - पुस्तक - `रंगसाक्षी', जयदेव तनेजा, ले.</desc>
 			</entry>
 			<entry id="16145" type="02" size="25X30.5">
-				<desc></desc>
+				<desc>सूचना स्रोत - पुस्तक - `रंगसाक्षी', जयदेव तनेजा, ले.</desc>
 			</entry>
 			<entry id="16146" type="02" size="25X30.5">
-				<desc></desc>
+				<desc>सूचना स्रोत - पुस्तक - `रंगसाक्षी', जयदेव तनेजा, ले.</desc>
 			</entry>
 			<entry id="16147" type="02" size="25X30.5">
-				<desc></desc>
+				<desc>सूचना स्रोत - पुस्तक - `रंगसाक्षी', जयदेव तनेजा, ले.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.261;077.262">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -42051,7 +42052,7 @@
 			<entry type="drama">चाणक्य विष्णुगुप्त</entry>
 			<entry type="writer">गोविन्द पुरुषोत्तम देशपाण्डे</entry>
 			<entry type="director">डॉ. श्रीराम लागू</entry>
-			<entry type="artist">डॉ. श्रीराम लागू, सुकन्या कुलकर्णी, श्रीकांत लागू, मधुकर नाईक आथि</entry>
+			<entry type="artist">डॉ. श्रीराम लागू, सुकन्या कुलकर्णी, श्रीकांत लागू, मधुकर नाईक आदि</entry>
 			<entry type="date">1991</entry>
 		</mdetails>
 		<photo>
@@ -42667,21 +42668,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.206">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">पृथ्वी थिएटर</entry>
 			<entry type="drama">शकुंतला</entry>
-			<entry type="writer">कालिदास</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
+			<entry type="compilation">नारायण प्रसाद `बेताब'</entry>
+			<entry type="artist">पृथ्वीराज कपूर व अन्य</entry>
+			<entry type="date">1954/1944</entry>
 		</mdetails>
 		<photo>
 			<entry id="1429" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<misc>सूचना स्रोत पुस्तक - The Oxford Companion to Indian Theatre</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.207">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42692,12 +42697,12 @@
 			<entry type="date">14-18 दिसम्बर 1986</entry>
 		</mdetails>
 		<photo>
-			<entry id="10671" type="" size="11X15">
+			<entry id="10671" type="" size="11X15 से. मी.">
 				<desc>विवेचना, राष्ट्रीय नाट्य समारोह में मंचित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.210">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -42730,7 +42735,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.211">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -42815,12 +42820,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.212">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="troupe">बाबुकोड़ि मूविस</entry>
-			<entry type="drama">फणियाम्मा (फिल्म)</entry>
+			<entry type="troupe">बाबुकोड़ि मूवीस</entry>
+			<entry type="drama">फणियम्मा (फिल्म)</entry>
 			<entry type="writer">एम. के. इन्द्रा</entry>
 			<entry type="director">प्रेमा कारन्त</entry>
 		</mdetails>
@@ -42836,31 +42841,38 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.213;077.214">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="troupe">ब्रह्मण सभा</entry>
-			<entry type="drama">शकुन्तला</entry>
+			<entry type="troupe">ब्राह्मण सभा</entry>
+			<entry type="drama">अभिज्ञान शाकुन्तल (संस्कृत)</entry>
 			<entry type="writer">कालिदास</entry>
+			<entry type="director">दाजी भादवडेकर</entry>
 			<entry type="event">राष्ट्रीय नाट्य समारोह</entry>
+			<entry type="venue">दिल्ली</entry>
+			<entry type="date">1954</entry>
 		</mdetails>
 		<photo>
-			<entry id="1430" type="" size="">
-				<desc>संस्कृत</desc>
+			<entry id="1430" type="02" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा अयोजित प्रथम राष्ट्रीय नाट्य समारोह का मंचित प्रथम नाटक</desc>
+				<misc>श्री सुरेश अवस्थी द्वारा न. प्र. को भेंट, सूचना स्रोत पुस्तक `रंगदर्शन', नेमिचन्द्र जैन, ले. (पृष्ठ 98) एवं पुस्तक `रंगपरम्परा....', नेमिचन्द्र जैन, ले. (पृष्ठ 16)</misc>
 			</entry>
-			<entry id="1431" type="" size="">
-				<desc>संस्कृत</desc>
+			<entry id="1431" type="02" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा अयोजित प्रथम राष्ट्रीय नाट्य समारोह का मंचित प्रथम नाटक</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत पुस्तक `रंगदर्शन', नेमिचन्द्र जैन, ले. (पृष्ठ 98) एवं पुस्तक `रंगपरम्परा....', नेमिचन्द्र जैन, ले. (पृष्ठ 16)</misc>
 			</entry>
-			<entry id="1432" type="" size="">
-				<desc>संस्कृत</desc>
+			<entry id="1432" type="02" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा अयोजित प्रथम राष्ट्रीय नाट्य समारोह का मंचित प्रथम नाटक</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत पुस्तक `रंगदर्शन', नेमिचन्द्र जैन, ले. (पृष्ठ 98) एवं पुस्तक `रंगपरम्परा....', नेमिचन्द्र जैन, ले. (पृष्ठ 16)</misc>
 			</entry>
-			<entry id="1954" type="" size="">
-				<desc>संस्कृत</desc>
+			<entry id="1954" type="02" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा अयोजित प्रथम राष्ट्रीय नाट्य समारोह का मंचित प्रथम नाटक</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत पुस्तक `रंगदर्शन', नेमिचन्द्र जैन, ले. (पृष्ठ 98) एवं पुस्तक `रंगपरम्परा....', नेमिचन्द्र जैन, ले. (पृष्ठ 16)</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.222">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -42869,7 +42881,7 @@
 			<entry type="director">मीता वशिष्ठ</entry>
 			<entry type="artist">मीनाक्षी, मुम्ताज़, ज्योति, शारदा आदि</entry>
 			<entry type="venue">दिल्ली</entry>
-			<entry type="host">रा. ना. वि. एंन नटरंग प्रतिष्ठान</entry>
+			<entry type="host">रा. ना. वि. एवं नटरंग प्रतिष्ठान</entry>
 			<entry type="date">08-01-2003</entry>
 		</mdetails>
 		<photo>
@@ -42956,11 +42968,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.223">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="troupe">महाराष्ट्र स्टेट कोओपरिटिव बैंक</entry>
+			<entry type="troupe">महाराष्ट्र स्टेट कोओपरेटिव बैंक</entry>
 			<entry type="drama">टाइम डज अप</entry>
 			<entry type="writer">दिलीप रवाण्डेकर</entry>
 			<entry type="director">दिलीप कुलकर्णी</entry>
@@ -42971,28 +42983,28 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.225">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="troupe">मुम्बई मराठी साइत्य संघ</entry>
-			<entry type="drama">आजब न्याय वर्तुलाचा</entry>
-			<entry type="writer">बर्टेल्ट ब्रैश्ट</entry>
+			<entry type="troupe">मुम्बई मराठी साहित्य संघ</entry>
+			<entry type="drama">अजब न्याय वर्तुलाचा</entry>
+			<entry type="writer">बर्टोल्ट ब्रैश्ट</entry>
 			<entry type="version">चि. त्र्यं खानोलकर</entry>
 		</mdetails>
 		<photo>
 			<entry id="1433" type="" size="">
-				<desc>`कॉकसियन चॉक सर्कल पर आधारित'</desc>
+				<desc>`कॉकशियन चॉक सर्कल' पर आधारित</desc>
 			</entry>
 			<entry id="1434" type="" size="">
-				<desc>`कॉकसियन चॉक सर्कल पर आधारित'</desc>
+				<desc>`कॉकशियन चॉक सर्कल' पर आधारित</desc>
 			</entry>
 			<entry id="1435" type="" size="">
-				<desc>`कॉकसियन चॉक सर्कल पर आधारित'</desc>
+				<desc>`कॉकशियन चॉक सर्कल' पर आधारित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.224">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43000,32 +43012,32 @@
 			<entry type="drama">अजब न्याय वारतुलचा</entry>
 			<entry type="writer">बर्ठोल्ट ब्रेख्त</entry>
 			<entry type="director">विजया मेहता, फ्रिट्स बेनेविड्झ</entry>
-			<entry type="translation">सी. टी. खानोलकर</entry>
+			<entry type="translator">सी. टी. खानोलकर</entry>
 			<entry type="language">मराठी</entry>
 			<entry type="date">1973</entry>
 		</mdetails>
 		<photo>
 			<entry id="8517" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति, न. प्र.</desc>
 			</entry>
 			<entry id="8518" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति, न. प्र.</desc>
 			</entry>
 			<entry id="8519" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति, न. प्र.</desc>
 			</entry>
 			<entry id="8520" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति, न. प्र.</desc>
 			</entry>
 			<entry id="8521" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति, न. प्र.</desc>
 			</entry>
 			<entry id="8522" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति</desc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए. प्रथम प्रस्तुति 1973 - लगभग 100 प्रस्तुति, न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.226">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43038,76 +43050,76 @@
 		</mdetails>
 		<photo>
 			<entry id="8513" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटॊ एन. सी. पी. ए.</desc>
-				<misc>प्रथम प्रस्तुति 1975 - लगभग 11 या 15 प्रस्तुतियाँ</misc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो  एन. सी. पी. ए.</desc>
+				<misc>प्रथम प्रस्तुति 1975 - लगभग 11 या 15 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 			<entry id="8514" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटॊ एन. सी. पी. ए.</desc>
-				<misc>प्रथम प्रस्तुति 1975 - लगभग 11 या 15 प्रस्तुतियाँ</misc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो  एन. सी. पी. ए.</desc>
+				<misc>प्रथम प्रस्तुति 1975 - लगभग 11 या 15 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 			<entry id="8515" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटॊ एन. सी. पी. ए.</desc>
-				<misc>प्रथम प्रस्तुति 1975 - लगभग 11 या 15 प्रस्तुतियाँ</misc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो  एन. सी. पी. ए.</desc>
+				<misc>प्रथम प्रस्तुति 1975 - लगभग 11 या 15 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 			<entry id="8516" type="02" size="">
-				<desc>विजया मेहता द्वारा प्राप्त फोटॊ एन. सी. पी. ए.</desc>
-				<misc>प्रथम प्रस्तुति 1975 - लगभग 11 या 15 प्रस्तुतियाँ</misc>
+				<desc>विजया मेहता द्वारा प्राप्त फोटो  एन. सी. पी. ए.</desc>
+				<misc>प्रथम प्रस्तुति 1975 - लगभग 11 या 15 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.230">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">मोटले</entry>
 			<entry type="drama">एन्ड्रोडस एण्ड द लायन</entry>
-			<entry type="director">नसीरूधीन शाह</entry>
+			<entry type="director">नसीरूद्दीन शाह</entry>
 			<entry type="artist">कारला सिंह (शेर), जैमिनी पाठक, रत्ना पाठक</entry>
 		</mdetails>
 		<photo>
 			<entry id="5557" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 			<entry id="5557-I" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 			<entry id="5558" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.233">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुंबई</entry>
 			<entry type="troupe">मोटले</entry>
 			<entry type="drama">जुलियस सीज़र</entry>
 			<entry type="writer">विलियम शेक्सपियर</entry>
-			<entry type="director">नसीरुधीन शाह</entry>
+			<entry type="director">नसीरुद्दीन शाह</entry>
 			<entry type="date">1991</entry>
 		</mdetails>
 		<photo>
 			<entry id="5559" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 			<entry id="5559-I" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 			<entry id="5560" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 			<entry id="5560-I" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 			<entry id="5561" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 			<entry id="5561-I" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.234">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43126,7 +43138,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.235">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43134,7 +43146,7 @@
 			<entry type="drama">बली</entry>
 			<entry type="writer">गिरीश कारनाड</entry>
 			<entry type="director">सत्यदेव दुबे</entry>
-			<entry type="artist">नसीरुद्दिन शाह एवं रत्ना पाठ शाह</entry>
+			<entry type="artist">नसीरुद्दीन शाह एवं रत्ना पाठ शाह</entry>
 		</mdetails>
 		<photo>
 			<entry id="5555-I" type="" size="">
@@ -43142,39 +43154,46 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.236">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">मोटले</entry>
-			<entry type="drama">मान्टो इस्मत हाजिर है (हिन्दुस्तानी)</entry>
-			<entry type="writer">सआदत हसन मान्टो एवं इस्मत चुघतई</entry>
+			<entry type="drama">मन्टो इस्मत हाज़िर है (हिन्दुस्तानी)</entry>
+			<entry type="writer">सआदत हसन एवं इस्मत चुगतई</entry>
 			<entry type="director">नसीरुद्दीन शाह</entry>
-			<entry type="venue">अभिमंच सभागार</entry>
+			<entry type="artist">हीबा शाह, रणदीप हुड्डा</entry>
+			<entry type="venue">अभिमंच सभागार, रा. ना. वि., दिल्ली</entry>
 			<entry type="date">17 मार्च 2002</entry>
 		</mdetails>
 		<photo>
 			<entry id="9752" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन `4th भारत रंग महोत्सव' 2002 में प्रदर्शित नाटक</desc>
+				<misc>साअदत हसन व इस्मत चुगतई की कथाओं, क्रमश; `बू' व `लिहाफ' पर आधारित</misc>
 			</entry>
 			<entry id="9753" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन `4th भारत रंग महोत्सव' 2002 में प्रदर्शित नाटक</desc>
+				<misc>साअदत हसन व इस्मत चुगतई की कथाओं, क्रमश; `बू' व `लिहाफ' पर आधारित</misc>
 			</entry>
 			<entry id="9754" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन `4th भारत रंग महोत्सव' 2002 में प्रदर्शित नाटक</desc>
+				<misc>साअदत हसन व इस्मत चुगतई की कथाओं, क्रमश; `बू' व `लिहाफ' पर आधारित</misc>
 			</entry>
 			<entry id="9755" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन `4th भारत रंग महोत्सव' 2002 में प्रदर्शित नाटक</desc>
+				<misc>साअदत हसन व इस्मत चुगतई की कथाओं, क्रमश; `बू' व `लिहाफ' पर आधारित</misc>
 			</entry>
 			<entry id="9756" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन `4th भारत रंग महोत्सव' 2002 में प्रदर्शित नाटक</desc>
+				<misc>साअदत हसन व इस्मत चुगतई की कथाओं, क्रमश; `बू' व `लिहाफ' पर आधारित</misc>
 			</entry>
 			<entry id="9757" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय का आयोजन `4th भारत रंग महोत्सव' 2002 में प्रदर्शित नाटक</desc>
+				<misc>साअदत हसन व इस्मत चुगतई की कथाओं, क्रमश; `बू' व `लिहाफ' पर आधारित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.237">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुंबई</entry>
@@ -43189,7 +43208,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.238">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43201,232 +43220,362 @@
 		</mdetails>
 		<photo>
 			<entry id="5554-II" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव न. 71</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.239;077.240">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">मोटले</entry>
-			<entry type="drama">वेटिंग फार गोडो</entry>
-			<entry type="writer">सैमुअल बैकेट</entry>
-			<entry type="director">बैंजामिन गिलानी</entry>
-			<entry type="venue">श्री राम सेन्टर दिल्ली</entry>
+			<entry type="drama">वेटिंग फॉर गोडो (अँग्रेजी)</entry>
+			<entry type="writer">सैमुअल ब्रेख़्त</entry>
+			<entry type="director">बैंजमिन गिलानी</entry>
+			<entry type="make-up">जयराज पाटील</entry>
+			<entry type="stage">जयराज पाटील</entry>
+			<entry type="light">रत्ना पाठक शाह</entry>
+			<entry type="artist">बैंजमिन गिलानी (एस्ट्रागन), नसीरुद्दीन शाह (ल्लादिमिर), करीम वकील (लक्की), आकाश खुराना (पोज्जो), विवान असद शाह (लड़का)</entry>
+			<entry type="venue">श्रीराम सेन्टर सभागार, दिल्ली</entry>
 			<entry type="host">नटरंग प्रतिष्ठान</entry>
 			<entry type="date">5 नवम्बर 1998</entry>
 		</mdetails>
 		<photo>
-			<entry id="5343" type="" size="">
+			<entry id="5343" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5344" type="" size="">
+			<entry id="5344" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5345" type="" size="">
+			<entry id="5345" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5346" type="" size="">
+			<entry id="5346" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5347" type="" size="">
+			<entry id="5347" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5348" type="" size="">
+			<entry id="5348" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5349" type="" size="">
+			<entry id="5349" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5350" type="" size="">
+			<entry id="5350" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5351" type="" size="">
+			<entry id="5351" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5352" type="" size="">
+			<entry id="5352" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5353" type="" size="">
+			<entry id="5353" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5354" type="" size="">
+			<entry id="5354" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5355" type="" size="">
+			<entry id="5355" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5356" type="" size="">
+			<entry id="5356" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5357" type="" size="">
+			<entry id="5357" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5358" type="" size="">
+			<entry id="5358" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5359" type="" size="">
+			<entry id="5359" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5360" type="" size="">
+			<entry id="5360" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5361" type="" size="">
+			<entry id="5361" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5362" type="" size="">
+			<entry id="5362" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5363" type="" size="">
+			<entry id="5363" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5364" type="" size="">
+			<entry id="5364" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5365" type="" size="">
+			<entry id="5365" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5366" type="" size="">
+			<entry id="5366" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5367" type="" size="">
+			<entry id="5367" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5368" type="" size="">
+			<entry id="5368" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5369" type="" size="">
+			<entry id="5369" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5370" type="" size="">
+			<entry id="5370" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5371" type="" size="">
+			<entry id="5371" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5444" type="" size="">
+			<entry id="5444" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5446" type="" size="">
+			<entry id="5445" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5316" type="" size="">
+			<entry id="5446" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5317" type="" size="">
+			<entry id="5447" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5318" type="" size="">
+			<entry id="5448" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5319" type="" size="">
+			<entry id="5450" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5320" type="" size="">
+			<entry id="5451" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5321" type="" size="">
+			<entry id="5452" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5322" type="" size="">
+			<entry id="5453" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5323" type="" size="">
+			<entry id="5454" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5324" type="" size="">
+			<entry id="5455" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5325" type="" size="">
+			<entry id="5456" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5326" type="" size="">
+			<entry id="5316" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5327" type="" size="">
+			<entry id="5317" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5328" type="" size="">
+			<entry id="5318" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5329" type="" size="">
+			<entry id="5319" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5330" type="" size="">
+			<entry id="5320" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5331" type="" size="">
+			<entry id="5321" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5332" type="" size="">
+			<entry id="5322" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5333" type="" size="">
+			<entry id="5323" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5334" type="" size="">
+			<entry id="5324" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5335" type="" size="">
+			<entry id="5325" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5336" type="" size="">
+			<entry id="5326" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5337" type="" size="">
+			<entry id="5327" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5338" type="" size="">
+			<entry id="5328" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5339" type="" size="">
+			<entry id="5329" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5340" type="" size="">
+			<entry id="5330" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5341" type="" size="">
+			<entry id="5331" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
-			<entry id="5342" type="" size="">
+			<entry id="5332" type="01;02" size="">
 				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5333" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5334" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5335" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5336" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5337" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5338" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5339" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5340" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5341" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5342" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5531" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5532" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5533" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5534" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
+			</entry>
+			<entry id="5535" type="01;02" size="">
+				<desc>कॉन्ट्रेक्ट शीट उपलब्ध (100-105)</desc>
+				<misc>सूचना स्रोत - स्मा.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.241;077.242">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">मोटले</entry>
-			<entry type="drama">सफेद झठ काली सलवार (हिन्दी, उर्दू)</entry>
-			<entry type="writer">मण्टो</entry>
+			<entry type="drama">सफेद झूठ काली सलवार (हिन्दी, उर्दू) (हिन्दुस्तानी)</entry>
+			<entry type="writer">सआदत हसन मण्टो</entry>
 			<entry type="director">नसीरुद्दीन शाह एवं रत्ना पाठक शाह</entry>
+			<entry type="producer">जयराज पाटील</entry>
+			<entry type="artist">हीबा शाह (रेहाना), ज़मील खान (लेखक), रणदीप हुड्डा</entry>
 			<entry type="venue">अभिमंच सभागार, दिल्ली</entry>
 			<entry type="date">25 मार्च 2003</entry>
 		</mdetails>
 		<photo>
 			<entry id="10321" type="01" size="10X15">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवे भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>मण्टो की पाँच कहानियों पर आधारित नाटक, सूचना स्रोत स. क. सं. 17 (संस्था-मोटले)</misc>
 			</entry>
 			<entry id="10322" type="01" size="10X15">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवे भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>मण्टो की पाँच कहानियों पर आधारित नाटक, सूचना स्रोत स. क. सं. 17 (संस्था-मोटले)</misc>
 			</entry>
 			<entry id="10323" type="01" size="10X15">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवे भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>मण्टो की पाँच कहानियों पर आधारित नाटक, सूचना स्रोत स. क. सं. 17 (संस्था-मोटले)</misc>
 			</entry>
 			<entry id="10324" type="01" size="10X15">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवे भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>मण्टो की पाँच कहानियों पर आधारित नाटक, सूचना स्रोत स. क. सं. 17 (संस्था-मोटले)</misc>
 			</entry>
 			<entry id="10325" type="01" size="10X15">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवे भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>मण्टो की पाँच कहानियों पर आधारित नाटक, सूचना स्रोत स. क. सं. 17 (संस्था-मोटले)</misc>
 			</entry>
 			<entry id="10326" type="01" size="10X15">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवे भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>मण्टो की पाँच कहानियों पर आधारित नाटक, सूचना स्रोत स. क. सं. 17 (संस्था-मोटले)</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.243">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -43440,7 +43589,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.244">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -43453,7 +43602,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.245">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43467,43 +43616,43 @@
 		<photo>
 			<entry id="8479" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</desc>
-				<misc>प्रथम प्रस्तुति 1962-6 प्रस्तुतियाँ</misc>
+				<misc>प्रथम प्रस्तुति 1962-6 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="state">महाराष्ट</entry>
-			<entry type="place">बम्बई</entry>
-			<entry type="troupe">रंगायन</entry>
-			<entry type="drama">अरे शरीफ लोग</entry>
-			<entry type="writer">जयवंत दलवी</entry>
-			<entry type="translation">विजय बापट</entry>
-			<entry type="director">रेनू होरा</entry>
-		</mdetails>
-		<photo>
-			<entry id="1439" type="" size="">
-				<desc>हास्य नाटक</desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.246">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">रंगायन</entry>
-			<entry type="drama">आधी रात के बाद</entry>
+			<entry type="drama">अरे शरीफ लोग (हास्य नाटक)</entry>
+			<entry type="writer">जयवंत दलवी</entry>
+			<entry type="translator">विजय बापट</entry>
+			<entry type="director">रेनू होरा</entry>
+		</mdetails>
+		<photo>
+			<entry id="1439" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="077.247">
+		<mdetails>
+			<entry type="state">महाराष्ट्र</entry>
+			<entry type="place">बम्बई</entry>
+			<entry type="troupe">रंगायन</entry>
+			<entry type="drama">आधी रात के बाद (व्यंगय नाटक)</entry>
 			<entry type="writer">शंकर शेष</entry>
-			<entry type="event">चतुर्थ वार्षिकि हास्यरंग महोत्सव का आयोजन</entry>
+			<entry type="event">चतुर्थ वार्षिक हास्यरंग महोत्सव का आयोजन</entry>
 			<entry type="date">21 सितंबर 1984</entry>
 		</mdetails>
 		<photo>
 			<entry id="1440" type="" size="">
-				<desc>व्यंगय नाटक</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.248">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43517,11 +43666,11 @@
 		<photo>
 			<entry id="8483" type="02" size="">
 				<desc>प्रथम प्रस्तुति 1966-6/8 प्रस्तुतियाँ</desc>
-				<misc>विजया मेहता द्वारा प्राप्त फोटो, NCPA</misc>
+				<misc>विजया मेहता द्वारा प्राप्त फोटो, NCPA, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.249">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43537,11 +43686,11 @@
 		<photo>
 			<entry id="8481" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA</desc>
-				<misc>प्रथम प्रस्तुति - 1964 - लगभग 6 या 8 प्रस्तुतियाँ</misc>
+				<misc>प्रथम प्रस्तुति - 1964 - लगभग 6 या 8 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.250">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43554,13 +43703,13 @@
 			<entry type="date">1962</entry>
 		</mdetails>
 		<photo>
-			<entry id="8482" type="" size="">
+			<entry id="8482" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</desc>
-				<misc>प्रथम प्रस्तुति 1962 - लगभग 6 प्रस्तुतियाँ</misc>
+				<misc>प्रथम प्रस्तुति 1962 - लगभग 6 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.251">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43575,15 +43724,15 @@
 		<photo>
 			<entry id="8478" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो, NCPA</desc>
-				<misc>प्रथम प्रस्तुति - 1962 - लगभग 8 प्रस्तुतियाँ</misc>
+				<misc>प्रथम प्रस्तुति - 1962 - लगभग 8 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.252">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
-			<entry type="troupe">रंगयान प्रोडक्शन</entry>
+			<entry type="troupe">रंगायन प्रोडक्शन</entry>
 			<entry type="drama">मी जिंकलो मी हारलो</entry>
 			<entry type="writer">विजय तेन्दुलकर</entry>
 			<entry type="director">विजया मेहता (खोटे)</entry>
@@ -43592,11 +43741,11 @@
 		<photo>
 			<entry id="8500" type="02" size="">
 				<desc>प्रथम प्रस्तुति 1963, 25 प्रस्तुतियाँ</desc>
-				<misc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</misc>
+				<misc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए., न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.253">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -43610,11 +43759,11 @@
 		<photo>
 			<entry id="8480" type="02" size="">
 				<desc>विजया मेहता द्वारा प्राप्त फोटो एन. सी. पी. ए.</desc>
-				<misc>प्रथम प्रस्तुति 1963, 6/8 प्रस्तुतियाँ</misc>
+				<misc>प्रथम प्रस्तुति 1963, 6/8 प्रस्तुतियाँ, न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.254">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -43627,7 +43776,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.255">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -43643,14 +43792,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.256">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">रूपबंध</entry>
 			<entry type="drama">उध्वस्त धर्मशाला</entry>
 			<entry type="writer">गोविंद देशपांडे</entry>
-			<entry type="translation">वसंत देव</entry>
+			<entry type="translator">वसंत देव</entry>
 			<entry type="date">फरवरी 1977</entry>
 		</mdetails>
 		<photo>
@@ -43659,7 +43808,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.264">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -43674,82 +43823,105 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.265;077.266">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">वर्किंग टाइटिल</entry>
-			<entry type="drama">महादेव भाई (अंग्रेजी), (एकल)</entry>
-			<entry type="writer">रामकृष्ण रामनाथन</entry>
-			<entry type="director">रामकृष्ण रामनाथन</entry>
+			<entry type="drama">महादेव माई (अंग्रेजी), (एकल)</entry>
+			<entry type="writer">रामू रामनाथन</entry>
+			<entry type="director">रामू रामनाथन</entry>
+			<entry type="music">किन्नारी वोहरा</entry>
+			<entry type="voice">प्रयाग तिवारी</entry>
+			<entry type="stage">निखिल खादिलकर एवं विनेश अय्यर</entry>
+			<entry type="light">दावी भंसाली</entry>
+			<entry type="photographer">सिद्धार्थ शिवा (Siva)</entry>
+			<entry type="artist">जैमिनी पाठक</entry>
 			<entry type="venue">सम्मुख सभागार, दिल्ली</entry>
 			<entry type="date">26-03-2003</entry>
 		</mdetails>
 		<photo>
 			<entry id="10304" type="" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>सूचना स्रोत भारंगम स्मा -</misc>
 			</entry>
 			<entry id="10305" type="" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>सूचना स्रोत भारंगम स्मा -</misc>
 			</entry>
 			<entry id="10306" type="" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>सूचना स्रोत भारंगम स्मा -</misc>
 			</entry>
 			<entry id="10307" type="" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>सूचना स्रोत भारंगम स्मा -</misc>
 			</entry>
 			<entry id="10308" type="" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पाँचवें भारत रंग महोत्सव में मंचित नाटक ।</desc>
+				<misc>सूचना स्रोत भारंगम स्मा -</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.267">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
 			<entry type="troupe">श्री देशी नाटक समाज</entry>
-			<entry type="drama">मदीना जाया</entry>
+			<entry type="drama">मदीना जाया (गुजराती नाटक)</entry>
 			<entry type="writer">प्रागजी दोसा</entry>
 		</mdetails>
 		<photo>
 			<entry id="1444" type="" size="">
-				<desc>गुजराती नाटक</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.268;077.269">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
 			<entry type="troupe">सहज</entry>
-			<entry type="drama">सूर्य की अंतिम किरण से पहली किरण तक (हिन्दी)</entry>
+			<entry type="drama">सूर्य की अंतिम किरण से सूर्य की पहली किरण तक (हिन्दी)</entry>
 			<entry type="writer">सुरेन्द्र वर्मा</entry>
 			<entry type="director">राजेन्द्र गुप्ता</entry>
-			<entry type="artist">नीना गुप्ता, राजेन्द्र गुप्ता व अन्य</entry>
-			<entry type="venue">अभिमंच सभागार</entry>
+			<entry type="costume">माला डे</entry>
+			<entry type="stage">जयंत देशमुख</entry>
+			<entry type="light">अभिजीत लहरी</entry>
+			<entry type="music">अभिजीत लहरी</entry>
+			<entry type="singer">दालिम, सीमा सहगल</entry>
+			<entry type="artist">नीना गुप्ता (रानी-शीलवती), राजेन्द्र गुप्ता (राजा-ओक्काक), अमित बहल (प्रतोष), शमीम शेख (महाट्टारिका), सुनीता चाँद (परिचारिका) व अन्य</entry>
+			<entry type="venue">अभिमंच सभागार, रा. ना. वि., दिल्ली</entry>
 			<entry type="date">21 मार्च 2003</entry>
 		</mdetails>
 		<photo>
-			<entry id="10297" type="" size="">
+			<entry id="10297" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवें `भारत रंग महोत्सव में मंचित' ।</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - भारंगम स्मा.</misc>
 			</entry>
-			<entry id="10298" type="" size="">
+			<entry id="10298" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवें `भारत रंग महोत्सव में मंचित' ।</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - भारंगम स्मा.</misc>
 			</entry>
-			<entry id="10299" type="" size="">
+			<entry id="10299" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवें `भारत रंग महोत्सव में मंचित' ।</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - भारंगम स्मा.</misc>
 			</entry>
-			<entry id="10300" type="" size="">
+			<entry id="10300" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवें `भारत रंग महोत्सव में मंचित' ।</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - भारंगम स्मा.</misc>
 			</entry>
-			<entry id="10301" type="" size="">
+			<entry id="10301" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवें `भारत रंग महोत्सव में मंचित' ।</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - भारंगम स्मा.</misc>
 			</entry>
-			<entry id="10302" type="" size="">
+			<entry id="10302" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवें `भारत रंग महोत्सव में मंचित' ।</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - भारंगम स्मा.</misc>
 			</entry>
-			<entry id="10303" type="" size="">
+			<entry id="10303" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित पॉचवें `भारत रंग महोत्सव में मंचित' ।</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - भारंगम स्मा.</misc>
 			</entry>
 		</photo>
 	</media>
