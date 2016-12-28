@@ -19050,11 +19050,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.287">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="troupe">दीक्षा (फिल्म)</entry>
+			<entry type="film">दीक्षा (फिल्म)</entry>
 			<entry type="artist">मनोहर सिंह</entry>
 		</mdetails>
 		<photo>
@@ -36711,11 +36711,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.305">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="troupe">दलित रंगमंच</entry>
-			<entry type="drama">कालोखाच्या गर्भात (अंधेरे की गती में)</entry>
+			<entry type="drama">कालोखाच्या गर्भात (अंधेरे की गर्त में)</entry>
 		</mdetails>
 		<photo>
 			<entry id="1624" type="" size="">
@@ -36726,7 +36726,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.304">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="troupe">दलित रंगमंच</entry>
@@ -37178,7 +37178,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.272">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बंबई</entry>
@@ -37191,7 +37191,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.273">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37203,7 +37203,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.274">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37217,7 +37217,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.275">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -37245,11 +37245,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.276">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="drama">किस्सा कुर्सी का (फिल्म)</entry>
+			<entry type="film">किस्सा कुर्सी का (फिल्म)</entry>
 			<entry type="artist">मनोहर सिंह, सुरेखा सीकरी व अन्य साथी कलाकार</entry>
 		</mdetails>
 		<photo>
@@ -37273,7 +37273,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.277">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37285,23 +37285,27 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.278">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="drama">क्वीन एंड द रिबैल्स</entry>
+			<entry type="drama">क्वीन एंड द रीबैल्स</entry>
+			<entry type="artist">सुलभा देशपाण्डे व विजया मेहता</entry>
 		</mdetails>
 		<photo>
-			<entry id="2068" type="" size="">
-				<desc></desc>
+			<entry id="2068" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="10259" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.279">
 		<mdetails>
 			<entry type="state">महाराष्ट</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="drama">गुनाह (फिल्म)</entry>
+			<entry type="film">गुनाह (फिल्म)</entry>
 			<entry type="artist">सन्नी देओल, मनोहर सिंह</entry>
 		</mdetails>
 		<photo>
@@ -37310,11 +37314,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.280">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
-			<entry type="drama">घरकूल (Doll,s house)</entry>
+			<entry type="drama">घरकूल (Doll's house)</entry>
 			<entry type="writer">इब्सन</entry>
 			<entry type="version">अनंत काणेकर</entry>
 		</mdetails>
@@ -37324,7 +37328,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.281">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37337,7 +37341,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.282">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37356,7 +37360,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.284">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37371,7 +37375,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.286">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37387,7 +37391,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.288">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37399,7 +37403,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.289">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37411,7 +37415,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.291">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37423,7 +37427,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.290">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37436,7 +37440,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.292">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37449,7 +37453,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.294">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37470,7 +37474,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.295">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37484,7 +37488,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.296">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37496,10 +37500,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.298">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
-			<entry type="place">बन्बई</entry>
+			<entry type="place">बंबई</entry>
 			<entry type="event">विविध</entry>
 		</mdetails>
 		<photo>
@@ -37508,7 +37512,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.299">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -37520,7 +37524,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.302">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -41844,7 +41848,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.283">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">मुम्बई</entry>
@@ -41853,22 +41857,22 @@
 			<entry type="director">वामन केन्द्रे</entry>
 		</mdetails>
 		<photo>
-			<entry id="11846" type="" size="">
+			<entry id="11846" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11847" type="" size="">
+			<entry id="11847" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11848" type="" size="">
+			<entry id="11848" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11849" type="" size="">
+			<entry id="11849" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11850" type="" size="">
+			<entry id="11850" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
-			<entry id="11851" type="" size="">
+			<entry id="11851" type="01" size="15.1X20.3 से. मी.">
 				<desc>चोयती घोष से प्राप्त</desc>
 			</entry>
 		</photo>
@@ -43925,7 +43929,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.271">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">बम्बई</entry>
@@ -51186,17 +51190,20 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.308">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">अजमेर</entry>
-			<entry type="troupe">सावित्री कलेज मंच</entry>
+			<entry type="troupe">सावित्री कालेज मंच</entry>
 			<entry type="drama">हानूश</entry>
 			<entry type="writer">भीस्म साहनी</entry>
 			<entry type="director">अमलेन्दु कुन्डु</entry>
 		</mdetails>
 		<photo>
 			<entry id="1500" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4568-I" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -51218,7 +51225,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.309">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">अलवर</entry>
@@ -51235,19 +51242,19 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.330">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
-			<entry type="drama">उल्टा पल्टा</entry>
+			<entry type="drama">उल्टा पल्टा (कन्नड़ नाटक)</entry>
 		</mdetails>
 		<photo>
 			<entry id="1515" type="" size="">
-				<desc>कन्नड़ नाटक</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.331">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51261,7 +51268,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.332">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51273,32 +51280,35 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.333">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
-			<entry type="drama">ज्याच काम त्यानी कराव</entry>
+			<entry type="drama">ज्याच काम त्यानी कराव (मराठी नाटक)</entry>
 		</mdetails>
 		<photo>
 			<entry id="1527" type="" size="">
-				<desc>मराठी नाटक</desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="state">राजस्थान</entry>
-			<entry type="place">उदयपुर</entry>
-			<entry type="drama">बाकी इतिहास</entry>
-			<entry type="writer">बादल सरकार</entry>
-		</mdetails>
-		<photo>
-			<entry id="1517" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.329;077.334">
+		<mdetails>
+			<entry type="state">राजस्थान</entry>
+			<entry type="place">उदयपुर</entry>
+			<entry type="drama">बाकी इतिहास</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">नेमिचन्द्र जैन</entry>
+			<entry type="director">शैल चोयल एवं क़य्यूम अली बोह</entry>
+			<entry type="event">सेवा मंदिर अभिनय गोष्ठी</entry>
+		</mdetails>
+		<photo>
+			<entry id="1517" type="02" size="8.6X10.4 से. मी.">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="077.335">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51311,7 +51321,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.310">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51327,7 +51337,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.311">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51343,7 +51353,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.312">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51363,9 +51373,12 @@
 			<entry id="1524" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="11691" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.313">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51381,7 +51394,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.314">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51397,12 +51410,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.316">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
 			<entry type="troupe">दिशा नाट्य संस्थान</entry>
-			<entry type="drama">पशु गायात्री</entry>
+			<entry type="drama">पशु गायात्री (राजस्थानी)</entry>
 			<entry type="writer">कावालम नारायण पणिक्कर</entry>
 			<entry type="director">भानु भारती</entry>
 			<entry type="event">राष्ट्रीय नाट्य समारोह</entry>
@@ -51410,17 +51423,17 @@
 		</mdetails>
 		<photo>
 			<entry id="1519" type="" size="">
-				<desc>राजस्थानी</desc>
+				<desc></desc>
 			</entry>
 			<entry id="1520" type="" size="">
-				<desc>राजस्थानी</desc>
+				<desc></desc>
 			</entry>
 			<entry id="1521" type="" size="">
-				<desc>राजस्थानी</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.317">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51437,7 +51450,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.318">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51453,15 +51466,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.319">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
 			<entry type="troupe">पश्चिमी क्षेत्र सांस्कृतिक केन्द्र</entry>
 			<entry type="drama">भादली (Bhadli)</entry>
-			<entry type="writer">सुभाष शास</entry>
-			<entry type="director">सुभाष शास</entry>
-			<entry type="artist">बड़ौदा वर्कशॉप</entry>
+			<entry type="writer">सुभाष शास (Subhash Shas)</entry>
+			<entry type="director">सुभाष शास (Subhash Shas)</entry>
+			<entry type="event">बड़ौदा वर्कशॉप</entry>
 			<entry type="date">10-19 फरवरी 1992</entry>
 		</mdetails>
 		<photo>
@@ -51470,7 +51483,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.320">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51486,7 +51499,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.321">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51501,7 +51514,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.322">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51517,14 +51530,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.323">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
 			<entry type="troupe">पश्चिमी क्षेत्र सांस्कृतिक केन्द्र</entry>
 			<entry type="drama">मोहम्मद भाई के दुश्मन</entry>
-			<entry type="writer">विलास जानवे</entry>
-			<entry type="director">विलास जानवे</entry>
+			<entry type="writer">विलास जानवे (Vilas Janve)</entry>
+			<entry type="director">विलास जानवे (Vilas Janve)</entry>
 			<entry type="date">अगस्त 1989</entry>
 		</mdetails>
 		<photo>
@@ -51533,7 +51546,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.324">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51548,14 +51561,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.326">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
 			<entry type="troupe">पश्चिमी क्षेत्र सांस्कृतिक केन्द्र</entry>
 			<entry type="drama">शास्त्र देखो शास्त्र</entry>
 			<entry type="writer">बी. आर. भार्गव</entry>
-			<entry type="director">विलास जानवे</entry>
+			<entry type="director">विलास जानवे (Vilas Janve)</entry>
 			<entry type="date">अगस्त 1990</entry>
 		</mdetails>
 		<photo>
@@ -51564,7 +51577,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.327">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
@@ -51579,15 +51592,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.328">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">उदयपुर</entry>
 			<entry type="troupe">पश्चिमी क्षेत्र सांस्कृतिक केन्द्र</entry>
-			<entry type="drama">हज्र हुजुर</entry>
+			<entry type="drama">हज़्र हुजुर</entry>
 			<entry type="writer">चिन् मोदी</entry>
 			<entry type="director">चिन् मोदी</entry>
-			<entry type="venue">बड़ौदा वर्कशॉप</entry>
+			<entry type="event">बड़ौदा वर्कशॉप</entry>
 			<entry type="date">10-19 फरवरी 1992</entry>
 		</mdetails>
 		<photo>
@@ -51596,7 +51609,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.338">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">कोटा</entry>
@@ -51609,7 +51622,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.337">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">कोटा</entry>
@@ -51626,7 +51639,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.364">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51640,21 +51653,24 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.345;077.365">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
+			<entry type="troupe">राजस्थान कल्चरल सोसायटी</entry>
 			<entry type="drama">आदि विद्रोही स्पार्टाकस</entry>
-			<entry type="writer">बादल सरकार</entry>
+			<entry type="writer">हावर्ड फास्ट (उपन्यास) (अँग्रेजी)</entry>
+			<entry type="dramatized">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">रति बार्थोलोम्यु एवं वीरेन्द्र सक्सेन</entry>
 			<entry type="director">एस. वासुदेव</entry>
 		</mdetails>
 		<photo>
-			<entry id="1547" type="" size="">
+			<entry id="1547" type="02" size="11.1X16.4 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.366">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51666,7 +51682,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.339">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51681,11 +51697,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.341">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
-			<entry type="troupe">एमेcचोर आर्टिस्ट एसोसिएशन</entry>
+			<entry type="troupe">एमेच्चोर आर्टिस्ट एसोसिएशन</entry>
 			<entry type="drama">आषाढ़ का एक दिन</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">मोहन महर्षि</entry>
@@ -51699,13 +51715,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.342">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
 			<entry type="troupe">कला संगम</entry>
 			<entry type="drama">बोलती बंद</entry>
-			<entry type="writer">मैलियर</entry>
+			<entry type="writer">मौलियर</entry>
 			<entry type="director">डी. एन. शेली</entry>
 			<entry type="version">गंगा प्रसाद माथुर</entry>
 		</mdetails>
@@ -51715,11 +51731,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.344">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
-			<entry type="troupe">कल्चरल सोसयटी</entry>
+			<entry type="troupe">कल्चरल सोसायटी</entry>
 			<entry type="drama">अंधायुग</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
 			<entry type="date">जुलाई 1977</entry>
@@ -51733,7 +51749,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.346">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51749,7 +51765,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.348">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51774,7 +51790,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.349">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51791,7 +51807,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.350">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51807,7 +51823,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.351">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51823,7 +51839,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.352">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51845,7 +51861,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.353">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51866,7 +51882,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.367">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51878,7 +51894,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.354">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51956,7 +51972,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.355">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51975,7 +51991,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.356">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -51990,7 +52006,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.357">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -52004,7 +52020,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.358">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -52022,7 +52038,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.359">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -52039,21 +52055,22 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.343;077.360">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
 			<entry type="troupe">वीणा पाणी कला मन्दिर</entry>
-			<entry type="drama">लैला मजनू</entry>
+			<entry type="drama">लैला मजनूं</entry>
 			<entry type="director">वासुदेव भट्ट</entry>
+			<entry type="venue">जयपुर</entry>
 		</mdetails>
 		<photo>
-			<entry id="3951" type="" size="">
-				<desc>राजस्थान संगीत नाटक अकादमी के तत्त्वधान में ओम शिवपुती नाट्य समारोह - 1994</desc>
+			<entry id="3951" type="02" size="8.6X11.5 से. मी.">
+				<desc>राजस्थान संगीत नाटक अकादमी द्वारा आयोजित `ओम शिवपुरी नाट्य समारोह' - 1994 में मंचित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.361">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -52070,7 +52087,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.362">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
@@ -52091,19 +52108,19 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.363">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जयपुर</entry>
 			<entry type="troupe">सेतुमंच</entry>
-			<entry type="drama">साँप</entry>
+			<entry type="drama">साँप (एकांकी)</entry>
 			<entry type="writer">रामकुमार वर्मा</entry>
 			<entry type="director">मीनाक्षी शर्मा</entry>
+			<entry type="event">कल्चरल सोसायटी ऑफ राजस्थान द्वारा आयोजित पंचम भाषायी नाटक समारोह</entry>
 		</mdetails>
 		<photo>
 			<entry id="1548" type="" size="">
-				<desc>एकांकी</desc>
-				<misc>कल्चरल सोसायटी ऑफ राजस्थान द्वारा आयोजित पंचम भाषायी नाटक समारोह</misc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
@@ -52172,7 +52189,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.368">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52186,7 +52203,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.369">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52201,7 +52218,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.370">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52214,7 +52231,7 @@
 		<photo>
 			<entry id="3951" type="" size="">
 				<desc>मूल - इंसपेक्टर जनरल</desc>
-				<misc>राजस्थान संगीत नाटक अकादमी के तत्वाधान में ओमशिवपुरी नाट्य समारोह - 1994</misc>
+				<misc>राजस्थान संगीत नाटक अकादमी के तत्वाधान में ओम शिवपुरी नाट्य समारोह - 1994</misc>
 			</entry>
 		</photo>
 	</media>
