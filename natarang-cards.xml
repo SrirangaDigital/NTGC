@@ -19024,7 +19024,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.470">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">मंडी</entry>
@@ -32577,12 +32577,12 @@
 			</entry>
 		</video>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.451">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">अंबाला</entry>
 			<entry type="troupe">अंकुर आर्टस्</entry>
-			<entry type="drama">आषाढ का एक दिन</entry>
+			<entry type="drama">आषाढ़ का एक दिन</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">ज्ञान जौरसिया</entry>
 			<entry type="date">1979</entry>
@@ -32608,7 +32608,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.452">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">अंबाला</entry>
@@ -32628,7 +32628,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.453">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">गुड़गांव</entry>
@@ -32638,11 +32638,11 @@
 		</mdetails>
 		<photo>
 			<entry id="2035" type="" size="">
-				<desc>प्रतियोगिता में द्वितीयस्थान प्राप्त नाटक</desc>
+				<desc>प्रतियोगिता में द्वितीय स्थान प्राप्त नाटक</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.455">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">गुड़गाँव</entry>
@@ -32656,7 +32656,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.456">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">फरीदाबाद</entry>
@@ -32677,11 +32677,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.457">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">फरीदाबाद</entry>
-			<entry type="drama">सीन : 75 (Scene : 75)</entry>
+			<entry type="drama">सीन : 75 (Scene: 75)</entry>
 			<entry type="director">रमेश नायडू</entry>
 		</mdetails>
 		<photo>
@@ -32690,7 +32690,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.458">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">रोहतक</entry>
@@ -32704,7 +32704,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.459">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">रोहतक</entry>
@@ -32720,14 +32720,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.460">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">रोहतक</entry>
 			<entry type="troupe">रंगशिल्पी</entry>
 			<entry type="drama">नमस्कार, आज गुरुवार है</entry>
-			<entry type="writer">रिज़वान ज़हीर अस्मान</entry>
-			<entry type="director">रणवीर काध्याण</entry>
+			<entry type="writer">रिज़वान ज़हीर उस्मान</entry>
+			<entry type="director">रणवीर काद्दयाण</entry>
 			<entry type="date">7 अगस्त 1988</entry>
 		</mdetails>
 		<photo>
@@ -32736,14 +32736,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.461">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">रोहतक</entry>
 			<entry type="troupe">रंगशिल्पी</entry>
 			<entry type="drama">लोमड़ियां</entry>
-			<entry type="writer">रिज़वान ज़हीर अस्मान</entry>
-			<entry type="director">रणवीर काध्याण</entry>
+			<entry type="writer">रिज़वान ज़हीर उस्मान</entry>
+			<entry type="director">रणवीर काद्दयाण</entry>
 			<entry type="date">7 अगस्त 1982</entry>
 		</mdetails>
 		<photo>
@@ -32752,16 +32752,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.462">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">वल्लभगढ़</entry>
 			<entry type="troupe">आकृति रंगमंच</entry>
 			<entry type="drama">सैंया भये कोतवाल</entry>
 			<entry type="writer">वसंत सबनीस</entry>
-			<entry type="translation">उषा वैनर्जी</entry>
+			<entry type="translation">उषा बैनर्जी</entry>
 			<entry type="director">संजय पाहूजा</entry>
-			<entry type="date">14-7-1988</entry>
+			<entry type="date">14-07-1988</entry>
 		</mdetails>
 		<photo>
 			<entry id="2037" type="" size="">
@@ -32772,7 +32772,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.463">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">हिसार</entry>
@@ -32785,7 +32785,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.464">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">हिसार</entry>
@@ -32798,7 +32798,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.465">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">हिसार</entry>
@@ -32811,14 +32811,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.466">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">हिसार</entry>
 			<entry type="troupe">संकेत</entry>
 			<entry type="drama">पापा खो गए (बाल नाटक)</entry>
 			<entry type="writer">विजय तेंदुलकर</entry>
-			<entry type="artist">अनुराग, बेबी लूबा, राजेन्द्र सिंह</entry>
+			<entry type="artist">अनुराग, बेबी लूबा तथा राजेन्द्र सिंह</entry>
 		</mdetails>
 		<photo>
 			<entry id="2046" type="" size="">
@@ -32826,7 +32826,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.467">
 		<mdetails>
 			<entry type="state">हरियाणा</entry>
 			<entry type="place">हिसार</entry>
@@ -32840,7 +32840,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.471">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">मंडी</entry>
@@ -32865,7 +32865,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.487">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -32877,11 +32877,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.488">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
-			<entry type="drama">मंजिल (इंडो चाइना वार पर लिक्खा गया नाटक)</entry>
+			<entry type="drama">मंजिल (इंडो चाइना वार पर लिखा गया नाटक)</entry>
 			<entry type="date">1962</entry>
 		</mdetails>
 		<photo>
@@ -32914,7 +32914,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.472">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -32936,7 +32936,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.474">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -32951,7 +32951,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.479">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -32964,7 +32964,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.476">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -32976,7 +32976,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.478">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -32989,7 +32989,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.481">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -33003,7 +33003,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.480">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -33017,7 +33017,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.482">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -33058,25 +33058,26 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.483">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
 			<entry type="troupe">हिमाचल सरकार रंगमंडल</entry>
 			<entry type="drama">हिन्दोस्तान हमारा</entry>
 			<entry type="writer">रतन सिंह हिमेश</entry>
+			<entry type="host">गीत एवं नाट्य विभाग, दिल्ली</entry>
 		</mdetails>
 		<photo>
 			<entry id="3033" type="" size="">
-				<desc>राष्ट्रीय नाट्य महोत्सव दिल्ली में प्रस्तुत आयोजक : गीत एवं नाट्य विभाग, दिल्ली [मनोहर सिंह के द्वारा भेंट]</desc>
+				<desc>राष्ट्रीय नाट्य महोत्सव दिल्ली में प्रस्तुत [मनोहर सिंह के द्वारा भेंट]</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.484">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
-			<entry type="troupe">हिमाचल स्टेट ड्रामाट्रूप</entry>
+			<entry type="troupe">हिमाचल स्टेट ड्रामा ट्रूप</entry>
 			<entry type="drama">दामाद</entry>
 			<entry type="writer">रमेश मेहता</entry>
 		</mdetails>
@@ -33086,12 +33087,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.486">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">सोलन</entry>
 			<entry type="troupe">संवाद थिएटर ग्रूप</entry>
-			<entry type="drama">आषाढ का एक दिन</entry>
+			<entry type="drama">आषाढ़ का एक दिन</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">कैलाश आहलुवालिया</entry>
 			<entry type="date">24, 25-4-1993</entry>
@@ -33105,7 +33106,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.475">
 		<mdetails>
 			<entry type="state">हिमाचल प्रदेश</entry>
 			<entry type="place">शिमला</entry>
@@ -33117,10 +33118,10 @@
 		</mdetails>
 		<photo>
 			<entry id="5089-I" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव एवं कान्टेक्ट - शीट उपलब्ध-</desc>
 			</entry>
 			<entry id="5089" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव एवं कान्टेक्ट - शीट उपलब्ध-</desc>
 			</entry>
 		</photo>
 	</media>
@@ -51159,7 +51160,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.449">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="troupe">अवामी अभिनय मंच</entry>
@@ -51173,15 +51174,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.450">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="troupe">राष्ट्रीय छात्र संगठन</entry>
 			<entry type="drama">और फिर</entry>
 			<entry type="writer">राजकुमार शर्मा</entry>
-			<entry type="natyantra">जावेद रवॉ सरोहा</entry>
-			<entry type="version">जावेद रवॉ सरोहा</entry>
-			<entry type="director">जावेद रवॉ सरोहा</entry>
+			<entry type="dramatized">जावेद खाँ सरोहा</entry>
+			<entry type="version">जावेद खाँ सरोहा</entry>
+			<entry type="director">जावेद खाँ सरोहा</entry>
 			<entry type="date">सितंबर 1983</entry>
 		</mdetails>
 		<photo>
@@ -52124,7 +52125,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.391">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52137,7 +52138,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.386">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52151,7 +52152,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.387">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52160,11 +52161,11 @@
 		</mdetails>
 		<photo>
 			<entry id="1490" type="" size="">
-				<desc>दि इनबिजीबल वैंड पर आधारित</desc>
+				<desc>दि इनबिजीबल वौंड पर आधारित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.388">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52177,7 +52178,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.389">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52235,7 +52236,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.371">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52251,7 +52252,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.372">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52267,14 +52268,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="077.373">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
 			<entry type="troupe">कमल कलामन्दिर</entry>
 			<entry type="dance">महान सम्यताओं का पतन बाहरी आक्रमणों से नहीं होगा</entry>
 			<entry type="event">भाषायी नाट्य समारोह</entry>
-			<entry type="date">1982</entry>
+			<entry type="date">मार्च 1982</entry>
 		</mdetails>
 		<photo>
 			<entry id="1607" type="" size="">
@@ -52282,7 +52283,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.374">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52298,7 +52299,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.375">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52312,7 +52313,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.376">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52326,7 +52327,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.377">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52341,7 +52342,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.378">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52355,7 +52356,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.379">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52381,7 +52382,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.380">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52395,7 +52396,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.381">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52410,7 +52411,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.382">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52430,7 +52431,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.383">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">जोधपुर</entry>
@@ -52445,7 +52446,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.436">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52459,13 +52460,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.421">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
+			<entry type="troupe">रंगन</entry>
 			<entry type="drama">किसी और का सपना</entry>
 			<entry type="writer">नन्दकिशोर आचार्य</entry>
 			<entry type="director">ओमप्रकाश थानबी</entry>
+			<entry type="date">12-12-1979</entry>
 		</mdetails>
 		<photo>
 			<entry id="1567" type="" size="">
@@ -52473,7 +52476,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.437">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52486,7 +52489,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.438">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52498,7 +52501,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.439">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52510,7 +52513,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="077.440">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52518,11 +52521,11 @@
 		</mdetails>
 		<photo>
 			<entry id="1596" type="" size="">
-				<desc>`रंगभेरी' विमोचन समारोह में यादवेन्द्र शर्मा चन्द्र और निर्मोही वेदव्यास</desc>
+				<desc>`रंगभेरी' विमोचन समारोह में यादवेन्द्र शर्मा चन्द्र, और निर्मोही वेदव्यास</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.441">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52536,7 +52539,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.393">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52551,7 +52554,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.394">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52559,7 +52562,7 @@
 			<entry type="drama">जो राम रची राखा</entry>
 			<entry type="writer">मृणाल पांडे</entry>
 			<entry type="director">देवकृष्ण व्यास</entry>
-			<entry type="date">3 अक्ट्टूबर 1986</entry>
+			<entry type="date">3 अक्टूबर 1986</entry>
 		</mdetails>
 		<photo>
 			<entry id="1586" type="" size="">
@@ -52567,7 +52570,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.395">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52583,7 +52586,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.396">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52598,14 +52601,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.397">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
-			<entry type="troupe">अनुगार कला केन्द्र</entry>
+			<entry type="troupe">अनुराग कला केन्द्र</entry>
 			<entry type="drama">महाराज शेख चिल्ली</entry>
 			<entry type="writer">यादवेन्द्र शर्मा `चन्द्र'</entry>
-			<entry type="director">देवकृष्न व्यास</entry>
+			<entry type="director">देवकृष्ण व्यास</entry>
 			<entry type="date">3-4 नवंबर 1988</entry>
 		</mdetails>
 		<photo>
@@ -52614,7 +52617,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.398">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52633,7 +52636,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.401">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52651,7 +52654,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.402">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52659,7 +52662,7 @@
 			<entry type="drama">आदमी हाजिर है</entry>
 			<entry type="writer">राजानंद</entry>
 			<entry type="director">इकबाल हुसैन, आलोक नन्द</entry>
-			<entry type="date">अक्ट्टूबर 1983</entry>
+			<entry type="date">3 अक्टूबर 1983</entry>
 		</mdetails>
 		<photo>
 			<entry id="1598" type="" size="">
@@ -52667,53 +52670,53 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.403">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
 			<entry type="troupe">आयाम</entry>
-			<entry type="drama">आधा तीतर आधा बटेर</entry>
+			<entry type="drama">आधा तीतर आधा बटेर (हास्य नाटक)</entry>
 			<entry type="director">इकबाल हुसैन</entry>
 			<entry type="event">रंगट समारोह - 1988</entry>
 		</mdetails>
 		<photo>
 			<entry id="1589" type="" size="">
-				<desc>हास्य नाटक</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.404">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
 			<entry type="troupe">आयाम</entry>
 			<entry type="drama">कोलतार की गुडिया</entry>
-			<entry type="writer">लील एकनायके</entry>
+			<entry type="writer">लीला एकनायके</entry>
 			<entry type="translation">मस्तराम कपूर</entry>
 			<entry type="director">इकबाल हुसैन</entry>
-			<entry type="मई - जून">1995</entry>
+			<entry type="date">मई - जून 1995</entry>
 		</mdetails>
 		<photo>
 			<entry id="3801" type="" size="">
-				<desc>मूल श्रीलंकेयी नाटक</desc>
+				<desc>मूल श्रीलंकायी नाटक</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.405">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
 			<entry type="troupe">आयाम</entry>
-			<entry type="drama">गणगौर</entry>
+			<entry type="drama">गणगौर (लोक नाटक)</entry>
 			<entry type="writer">राजानंद</entry>
 		</mdetails>
 		<photo>
 			<entry id="1587" type="" size="">
-				<desc>लोक नाटक</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.406">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52726,7 +52729,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.407">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52734,7 +52737,7 @@
 			<entry type="drama">चौकियां कौन तोड़ेगा</entry>
 			<entry type="writer">राजानंद</entry>
 			<entry type="director">राजानंद</entry>
-			<entry type="date">3-4 अक्ट्टूबर 1982</entry>
+			<entry type="date">3-4 अक्टूबर 1982</entry>
 		</mdetails>
 		<photo>
 			<entry id="1573" type="" size="">
@@ -52745,30 +52748,34 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.408;077.426">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
-			<entry type="troupe">आयाम</entry>
+			<entry type="troupe">आयाम, रंगभारती</entry>
 			<entry type="drama">जुलूस</entry>
-			<entry type="writer">बादल सरकार</entry>
+			<entry type="originaldrama">मिछिल (बंगला)</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">यामा अग्रवाल</entry>
+			<entry type="director">वागीश कुमार सिंह</entry>
+			<entry type="date">1977</entry>
 		</mdetails>
 		<photo>
-			<entry id="1558" type="" size="">
+			<entry id="1558" type="02" size="">
 				<desc>बंगला के `मिछिल' नाटक का अनुवाद</desc>
 			</entry>
-			<entry id="1559" type="" size="">
+			<entry id="1559" type="02" size="">
 				<desc>बंगला के `मिछिल' नाटक का अनुवाद</desc>
 			</entry>
-			<entry id="1560" type="" size="">
+			<entry id="1560" type="02" size="">
 				<desc>बंगला के `मिछिल' नाटक का अनुवाद</desc>
 			</entry>
-			<entry id="1561" type="" size="">
+			<entry id="1561" type="02" size="">
 				<desc>बंगला के `मिछिल' नाटक का अनुवाद</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.409">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52777,7 +52784,7 @@
 			<entry type="writer">क्योको भत्सुओ</entry>
 			<entry type="translation">मस्तराम कपूर</entry>
 			<entry type="director">इकबाल हुसैन</entry>
-			<entry type="date">मई -  जून 1995</entry>
+			<entry type="date">मई - जून 1995</entry>
 		</mdetails>
 		<photo>
 			<entry id="3800" type="" size="">
@@ -52785,7 +52792,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.410">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52800,7 +52807,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.411">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52815,23 +52822,23 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.412">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
 			<entry type="troupe">आयाम</entry>
-			<entry type="drama">भै भै खौ खौ</entry>
+			<entry type="drama">भौ भौ खौ खौ (बाल-नाटक)</entry>
 			<entry type="writer">सर्वेश्वर दयाल सक्सेना</entry>
 			<entry type="director">इकबाल हुसैन</entry>
 			<entry type="date">मई - जून 1995</entry>
 		</mdetails>
 		<photo>
 			<entry id="3802" type="" size="">
-				<desc>बाल-नाटक</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.415">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52847,7 +52854,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.414">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52861,13 +52868,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.416">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
-			<entry type="troupe">जितिज</entry>
+			<entry type="troupe">क्षितिज</entry>
 			<entry type="drama">नमस्कार आज शुक्रवार है</entry>
-			<entry type="writer">रिजवान ज़हीर अस्मान</entry>
+			<entry type="writer">रिज़वान ज़हीर अस्मान</entry>
 		</mdetails>
 		<photo>
 			<entry id="1568" type="" size="">
@@ -52875,7 +52882,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.413">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52891,7 +52898,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.417">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52907,13 +52914,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.418">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
 			<entry type="troupe">क्षितिज</entry>
 			<entry type="drama">यार ! तुम पानी क्यों नहीं बेचते</entry>
-			<entry type="writer">रिज़वान जहीर उस्मान</entry>
+			<entry type="writer">रिज़वान ज़हीर उस्मान</entry>
 			<entry type="date">11 जून 1983</entry>
 		</mdetails>
 		<photo>
@@ -52922,7 +52929,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.419">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52938,14 +52945,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.420">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
-			<entry type="troupe">मरुधरा थिएटर ग्रूप</entry>
+			<entry type="troupe">मरधरा थिएटर ग्रूप</entry>
 			<entry type="drama">बगिया बांछाराम</entry>
 			<entry type="writer">सनोज मित्र</entry>
-			<entry type="translation">सान्तवना निगम</entry>
+			<entry type="translator">सान्तवना निगम</entry>
 			<entry type="director">एस. डी. चौहान</entry>
 		</mdetails>
 		<photo>
@@ -52954,7 +52961,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.422">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -52997,7 +53004,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.424">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -53011,7 +53018,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.427">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -53026,33 +53033,33 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.425">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
 			<entry type="troupe">रंगन</entry>
 			<entry type="drama">शहादत</entry>
-			<entry type="writer">जीन जेनट</entry>
-			<entry type="translation">इन्द्रनारायण मूया</entry>
+			<entry type="writer">ज़ीन जेनट</entry>
+			<entry type="translator">इन्द्रनारायण मूथा</entry>
 			<entry type="director">रूपा पारीक</entry>
 		</mdetails>
 		<photo>
 			<entry id="1592" type="" size="">
-				<desc>डैयावाच पर आधारित</desc>
+				<desc>डैथवाच पर आधारित</desc>
 			</entry>
 			<entry id="1593" type="" size="">
-				<desc>डैयावाच पर आधारित</desc>
+				<desc>डैथवाच पर आधारित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.429">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
 			<entry type="troupe">संकल्प</entry>
-			<entry type="drama">कांचन रंग</entry>
+			<entry type="drama">कांचन रंग (बांग्ला)</entry>
 			<entry type="writer">शम्भु मित्र एवं अमित मैत्र</entry>
-			<entry type="translation">नेमिचन्द्र चैन</entry>
+			<entry type="translator">नेमिचन्द्र चैन</entry>
 			<entry type="director">रेणुका इसरानी</entry>
 			<entry type="event">संकल्प द्वारा आयोजित नाट्य शिविर</entry>
 			<entry type="date">5-6 जुलाई 1983</entry>
@@ -53063,7 +53070,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.430">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -53078,13 +53085,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.431">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
 			<entry type="troupe">संकल्प</entry>
 			<entry type="drama">बरगद बरगद कुत्ता</entry>
-			<entry type="writer">सतीश गर्मा</entry>
+			<entry type="writer">सतीश शर्मा</entry>
 			<entry type="director">मधु आचार्य `आशावादी'</entry>
 		</mdetails>
 		<photo>
@@ -53093,7 +53100,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.432">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -53108,7 +53115,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.433">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -53124,7 +53131,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.434">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
@@ -53139,13 +53146,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.435">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">बीकानेर</entry>
 			<entry type="troupe">सादुल पब्लिक स्कूल</entry>
 			<entry type="drama">शिकायत</entry>
-			<entry type="translation">सुशीला कश्मलकर</entry>
+			<entry type="translator">सुशीला कश्मलकर</entry>
 			<entry type="director">डकबाल हुसैन</entry>
 		</mdetails>
 		<photo>
@@ -53154,7 +53161,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.442">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">भरतपुर</entry>
@@ -53169,7 +53176,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.443">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">भरतपुर</entry>
@@ -53184,7 +53191,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.444">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">भरतपुर</entry>
@@ -53205,7 +53212,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.445">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">भरतपुर</entry>
@@ -53220,7 +53227,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.446">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">भरतपुर</entry>
@@ -53235,7 +53242,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="077.447">
 		<mdetails>
 			<entry type="state">राजस्थान</entry>
 			<entry type="place">भरतपुर</entry>
@@ -57398,7 +57405,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.001">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="drama">फेसिंग नाइटमेअर एलोन (Facing Nightmare Alone)</entry>
@@ -57426,33 +57433,37 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="074.002">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अग्रदूत</entry>
+			<entry type="drama">मंदिर का हाथी</entry>
 		</mdetails>
 		<photo>
 			<entry id="980" type="02" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="981" type="02" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="982" type="02" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="983" type="02" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="984" type="02" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="985" type="02" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="17359" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.003">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अनंत</entry>
@@ -57460,7 +57471,7 @@
 			<entry type="director">आशीष घोष</entry>
 			<entry type="artist">आशीष घोष</entry>
 			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम</entry>
-			<entry type="date">25, 26 दिसंबर 1999</entry>
+			<entry type="date">25-26 दिसंबर 1999</entry>
 		</mdetails>
 		<photo>
 			<entry id="5872" type="01" size="">
@@ -57519,7 +57530,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.004">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अनंत</entry>
@@ -57541,9 +57552,29 @@
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
 				<desc>बाल नाटक</desc>
 			</entry>
+			<entry id="5461" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<desc>बाल नाटक</desc>
+			</entry>
+			<entry id="5462" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<desc>बाल नाटक</desc>
+			</entry>
+			<entry id="5463" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<desc>बाल नाटक</desc>
+			</entry>
+			<entry id="5465" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<desc>बाल नाटक</desc>
+			</entry>
+			<entry id="5562" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<desc>बाल नाटक</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.005">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अनंत</entry>
@@ -57556,29 +57587,36 @@
 		<photo>
 			<entry id="9710" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अंतर्गत प्रस्तुत</desc>
+				<misc>फोटो दिल्ली अनन्त मे रखे गए है ।</misc>
 			</entry>
 			<entry id="9711" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अंतर्गत प्रस्तुत</desc>
+				<misc>फोटो दिल्ली अनन्त मे रखे गए है ।</misc>
 			</entry>
 			<entry id="9712" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अंतर्गत प्रस्तुत</desc>
+				<misc>फोटो दिल्ली अनन्त मे रखे गए है ।</misc>
 			</entry>
 			<entry id="9713" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अंतर्गत प्रस्तुत</desc>
+				<misc>फोटो दिल्ली अनन्त मे रखे गए है ।</misc>
 			</entry>
 			<entry id="9714" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अंतर्गत प्रस्तुत</desc>
+				<misc>फोटो दिल्ली अनन्त मे रखे गए है ।</misc>
 			</entry>
 			<entry id="9715" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अंतर्गत प्रस्तुत</desc>
+				<misc>फोटो दिल्ली अनन्त मे रखे गए है ।</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.006;074.007">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अनंत</entry>
-			<entry type="drama">राजा की खोज</entry>
+			<entry type="drama">राजा की खोज (पंचतंत्र की कथाओं पर आधारित) (कथावाचन शैली में) (बाल नाटक)</entry>
+			<entry type="writer"></entry>
 			<entry type="director">आशीष घोष</entry>
 			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम</entry>
 			<entry type="date">30-10-1999</entry>
@@ -57586,7 +57624,7 @@
 		<photo>
 			<entry id="5780" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
-				<misc>बाल-नाटक</misc>
+				<misc></misc>
 			</entry>
 			<entry id="5781" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
