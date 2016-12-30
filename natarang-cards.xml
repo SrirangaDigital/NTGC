@@ -19296,30 +19296,6 @@
 		<mdetails>
 			<entry type="place">Delhi</entry>
 			<entry type="troupe">Abhiyan</entry>
-			<entry type="drama">Kissa Hakeem Saheb Ka (Hindi)</entry>
-			<entry type="writer">Manoj Mitra (Bangla)</entry>
-			<entry type="translator">Santwana</entry>
-			<entry type="design">Rajinder Nath</entry>
-			<entry type="director">Rajinder Nath</entry>
-			<entry type="asstdirector">Santwana</entry>
-			<entry type="music">Panchanan Pathak</entry>
-			<entry type="artist">Varun Badola (Faqeer), Sanjeev Johri (Hakeem), Shipra Das (Gangamani), Dilip Basu (Shyam), Subhash Gupta (Bakar), S. M. Zaheer (Wali Khan) and others</entry>
-			<entry type="venue">Shri Ram Centre, Delhi</entry>
-			<entry type="date">03-12-1995</entry>
-		</mdetails>
-		<photo>
-			<entry id="4210" type="" size="10.6X10.14">
-				<desc></desc>
-			</entry>
-			<entry id="4211" type="" size="11.7X17.4">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="place">Delhi</entry>
-			<entry type="troupe">Abhiyan</entry>
 			<entry type="drama">Nagmandal (Hindi)</entry>
 			<entry type="writer">Girish Karnad (in kannada)</entry>
 			<entry type="translator">Santwana</entry>
@@ -56168,7 +56144,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="074.010">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
@@ -56176,305 +56152,457 @@
 		</mdetails>
 		<photo>
 			<entry id="989" type="" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.011;074.012">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">अलीबाबा</entry>
-			<entry type="writer">मोहित चटर्जी</entry>
-			<entry type="translation">सान्तवना निगम</entry>
+			<entry type="writer">मोहित चटर्जी (बांग्ला)</entry>
+			<entry type="translator">सांत्वना निगम</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="artist">रंजना गौहर (सकीना), विश्वमोहन वडोला (अलीबाबा), सुधीर आहुजा, सुषमा आहुजा, सुषमा सेठ व अन्य</entry>
+			<entry type="photographer">अविनाश पसरीचा</entry>
+			<entry type="venue">दिल्ली</entry>
+			<entry type="date">1975</entry>
 		</mdetails>
 		<photo>
-			<entry id="990" type="" size="">
-				<desc></desc>
+			<entry id="990" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट,</misc>
+			</entry>
+			<entry id="11800" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट,</misc>
+			</entry>
+			<entry id="13108" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट,</misc>
+			</entry>
+			<entry id="13109" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट,</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.017;074.018">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
-			<entry type="drama">उदवस्त धर्मशाला</entry>
-			<entry type="writer">गोविन्द पुरुषोत्तम देशपांडे</entry>
-			<entry type="translation">वसन्त देव</entry>
+			<entry type="drama">उध्वस्त धर्मशाला</entry>
+			<entry type="writer">गोविन्द पुरुषोत्तम देशपांडे (मराठी)</entry>
+			<entry type="translator">वसन्त देव</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="light">सीतांशु मुखर्जी, सुशील बैनर्गी</entry>
+			<entry type="artist">शैलेन्द्र गोयल (रजिस्ट्रार वेलणकर), जयन्त दास (वाइस चांसलर जाम्भेकर), सुभाष गुप्ता (पी. वाई.), ओम पुरी (श्रीधर कुलकर्णी), रंजना (माधवी), दलीप सूद (बेटा) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
+			<entry type="date">19-05-1977</entry>
 		</mdetails>
 		<photo>
-			<entry id="991" type="" size="">
-				<desc></desc>
+			<entry id="991" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4787-I" type="" size="">
-				<desc></desc>
+			<entry id="4787-I" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4788-I" type="" size="">
-				<desc></desc>
+			<entry id="4788-I" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4789-I" type="" size="">
-				<desc></desc>
+			<entry id="4789-I" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4891" type="" size="">
-				<desc></desc>
+			<entry id="4891" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4892" type="" size="">
-				<desc></desc>
+			<entry id="4892" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4893" type="" size="">
-				<desc></desc>
+			<entry id="4893" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4894" type="" size="">
-				<desc></desc>
+			<entry id="4894" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4895" type="" size="">
-				<desc></desc>
+			<entry id="4895" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4896" type="" size="">
-				<desc></desc>
+			<entry id="4896" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4897" type="" size="">
-				<desc></desc>
+			<entry id="4897" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4898" type="" size="">
-				<desc></desc>
+			<entry id="4898" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4899" type="" size="">
-				<desc></desc>
+			<entry id="4899" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4900" type="" size="">
-				<desc></desc>
+			<entry id="4900" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
-			<entry id="4901" type="" size="">
-				<desc></desc>
+			<entry id="4901" type="02" size="">
+				<desc>सूचना स्रोत - पुस्तक - `उध्वस्त धर्मशाला'/गो. पु. देशपाण्डे</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.019;074.020;074.021">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">एक शून्य बाजीराव</entry>
+			<entry type="writer">चिंतामणि त्र्यम्बक खानोलकर (मराठी)</entry>
+			<entry type="translator">के. एम. सोनटक्के</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="music">दीना नाथ</entry>
+			<entry type="costume">उत्तरा बावकर</entry>
+			<entry type="make-up">के. पी. कुमार</entry>
+			<entry type="stage">के. एम. सोनटक्के</entry>
+			<entry type="light">एस. मुखर्जी एवं ओ. पी. कोहली</entry>
+			<entry type="artist">कुलभूषण खरबन्दा (प्रोड्यूसर), पवन टंडन (नाटककार), साधना भटनागर (प्रभा), वीणा खन्ना (गौरी), अशोक सरीन (अप्पाराव) व अन्य</entry>
+			<entry type="venue">फाइन आर्ट्स थिएटर, दिल्ली</entry>
+			<entry type="date">23-25 फर. 1968</entry>
 		</mdetails>
 		<photo>
-			<entry id="992" type="" size="">
-				<desc></desc>
+			<entry id="992" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 733 एवं पुस्तक `एक शून्य बाजीराव'/पि. त्र्यं. खानोलकर, अनु. कमलाकर सोनटक्के</misc>
+			</entry>
+			<entry id="13110" type="02" size="">
+				<desc>श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 733 एवं पुस्तक `एक शून्य बाजीराव'/पि. त्र्यं. खानोलकर, अनु. कमलाकर सोनटक्के</misc>
+			</entry>
+			<entry id="13111" type="02" size="">
+				<desc>श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 733 एवं पुस्तक `एक शून्य बाजीराव'/पि. त्र्यं. खानोलकर, अनु. कमलाकर सोनटक्के</misc>
+			</entry>
+			<entry id="13112" type="02" size="">
+				<desc>श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. 733 एवं पुस्तक `एक शून्य बाजीराव'/पि. त्र्यं. खानोलकर, अनु. कमलाकर सोनटक्के</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.024;074.025">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">कन्यादान</entry>
-			<entry type="writer">विजय तेंडुलकर</entry>
+			<entry type="writer">विजय तेंदुलकर</entry>
+			<entry type="translator">वसंत देव</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="asstdirection">सांत्वना</entry>
+			<entry type="stage">अशोक भट्टाचार्य</entry>
+			<entry type="light">सितांशु मुखर्जी</entry>
+			<entry type="artist">एस. एम. ज़हीर (नाथ देवालीकर), वीणा मेहता (ज्योति), सुचित्रा गुप्ता (सेवा) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
+			<entry type="date">10-09-1985</entry>
 		</mdetails>
 		<photo>
 			<entry id="993" type="" size="">
-				<desc></desc>
+				<desc>श्री राजिन्दर नाथ एवं श्री नेमिचन्द्र जैन से प्राप्त</desc>
+				<misc>सूचना स्रोत - स्मा - 735</misc>
 			</entry>
 			<entry id="994" type="" size="">
-				<desc></desc>
+				<desc>श्री राजिन्दर नाथ एवं श्री नेमिचन्द्र जैन से प्राप्त</desc>
+				<misc>सूचना स्रोत - स्मा - 735</misc>
+			</entry>
+			<entry id="13107" type="" size="">
+				<desc>श्री राजिन्दर नाथ एवं श्री नेमिचन्द्र जैन से प्राप्त</desc>
+				<misc>सूचना स्रोत - स्मा - 735</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.028">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">कर्फ्यू</entry>
 			<entry type="writer">लक्ष्मीनारायण लाल</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="artist">अशोक शर्मा, सुधा चोपड़ा व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="995" type="" size="">
-				<desc></desc>
+			<entry id="995" type="02" size="8.5X13.2 से. मी.">
+				<desc>राजिन्दर नाथ द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="995-I" type="02" size="10.3X15 से. मी.">
+				<desc>राजिन्दर नाथ द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="995-II" type="02" size="10.1X15.2 से. मी.">
+				<desc>राजिन्दर नाथ द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.029;074.030">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">काल तुझे नमस्कार</entry>
-			<entry type="writer">चिंतामणि खानोलकर</entry>
-			<entry type="director">कुलभूषण खटबंदा</entry>
-			<entry type="artist">कुलभूषण खरबंदा, कीर्ति जैन, पल्लवी मेहता</entry>
+			<entry type="writer">चिंतामणि खानोलकर (मराठी)</entry>
+			<entry type="translator">सरोजनी वर्मा</entry>
+			<entry type="director">कुलभूषण खरबंदा</entry>
+			<entry type="stage">अशोक भट्टाचार्य</entry>
+			<entry type="light">एस. मुखर्जी</entry>
+			<entry type="artist">कुलभूषण खरबंदा, कीर्ति जैन, इला पाण्डे (अरुण), कीमती आनंद, पल्लवी मेहता व अन्य</entry>
+			<entry type="lyricstranslation">सांत्वना निगम</entry>
 		</mdetails>
 		<photo>
-			<entry id="996" type="" size="">
-				<desc></desc>
+			<entry id="996" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्रोत स्मा - 1381</misc>
 			</entry>
-			<entry id="997" type="" size="">
-				<desc></desc>
+			<entry id="997" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्रोत स्मा - 1381</misc>
 			</entry>
-			<entry id="998" type="" size="">
-				<desc></desc>
+			<entry id="998" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्रोत स्मा - 1381</misc>
 			</entry>
-			<entry id="999" type="" size="">
-				<desc></desc>
+			<entry id="999" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्रोत स्मा - 1381</misc>
+			</entry>
+			<entry id="10051" type="02" size="">
+				<desc>संगीत नाटक अकादेमी</desc>
+				<misc>सूचना संदर्भ स्रोत स्मा - 1381</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.032;074.033">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">किस्सा हकीम साहब का</entry>
-			<entry type="writer">मनोज मित्र</entry>
-			<entry type="translation">सान्तवना</entry>
+			<entry type="originaldrama">गल्पो हकीम साहेब (मूल बांग्ला नाम)</entry>
+			<entry type="writer">मनोज मित्र (बांग्ला)</entry>
+			<entry type="translation">सांत्वना (निगम)</entry>
+			<entry type="projection">राजिन्दर नाथ</entry>
 			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="asstdirector">सांत्वना</entry>
+			<entry type="music">पंचानन पाठक</entry>
+			<entry type="artist">एस. एम. ज़हीर (वली खान), सुभाष गुप्ता (बक़र), रश्मि वैद्यलिंगम (मोहर बाई), सुचित्रा गुप्ता (फूफी), वरुण बदोल (फक़ीर), संजीव जोहरि (हकीम), शिप्र दास (गंगमनि), दिलीप बसु (श्याम) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
 			<entry type="date">3 दिसंबर 1995</entry>
 		</mdetails>
 		<photo>
-			<entry id="4210" type="02" size="">
-				<desc></desc>
+			<entry id="4210" type="02" size="10.6X10.14 से. मी.">
+				<desc>सूचना स्रोत - स्मा - 1277</desc>
 			</entry>
-			<entry id="4211" type="02" size="">
-				<desc></desc>
+			<entry id="4211" type="02" size="11.7X17.4 से. मी.">
+				<desc>सूचना स्रोत - स्मा - 1277</desc>
+			</entry>
+			<entry id="21347" type="02" size="">
+				<desc>सूचना स्रोत - स्मा - 1277</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.038">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">गिनी पिग (हिन्दी)</entry>
 			<entry type="writer">मोहित चट्टोपाध्याय (बांग्ला)</entry>
 			<entry type="director">राजिन्दर नाथ</entry>
-			<entry type="translation">सांत्वना निगम</entry>
+			<entry type="translator">सांत्वना निगम</entry>
+			<entry type="artist">कुलभूषण खरबंदा, राजेशखट्टर व अन्य</entry>
+			<entry type="date">1989</entry>
 		</mdetails>
 		<photo>
-			<entry id="10017" type="" size="">
-				<desc>संगीत नाटक अकादमी द्वारा आयोजित नेहरू शताब्दी नाट्य समारोह, 1989 में प्रस्तुत नाटक</desc>
+			<entry id="10017" type="01" size="">
+				<desc>संगीत नाटक अकादमी द्वारा आयोजित नेहरू शताब्दी नाट्य समारोह, 1989 में मंचित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.036;074.037">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">गिनीपिग</entry>
-			<entry type="writer">मोहित चट्टोपाध्याय</entry>
-			<entry type="translation">सान्तवना निगम</entry>
+			<entry type="writer">मोहित चट्टोपाध्याय (बांग्ला)</entry>
+			<entry type="translator">सांत्वना निगम</entry>
 			<entry type="director">राजिन्दर नाथ</entry>
-			<entry type="artist">कुलभूषण खरबन्दा, कीमती आनन्द</entry>
+			<entry type="stage">अशोक भट्टाचार्य</entry>
+			<entry type="light">सीतांशु मुखर्जी</entry>
+			<entry type="make-up">के. पी. कुमार</entry>
+			<entry type="artist">अनिल सहगल (पहला), कुलभूषण खरबन्दा (दूसरा), कीमती आनन्द (तीसरा), किरण बट्ट (चौथा), चेतना तिवारी (लड़की)</entry>
+			<entry type="venue">ए. आई, एक. ए. सी. एस., दिल्ली</entry>
+			<entry type="date">6, 7, 11-14 मई, 1972</entry>
 		</mdetails>
 		<photo>
 			<entry id="1000" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="4790" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4791" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4792" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4793" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
+			</entry>
+			<entry id="4794" type="02" size="">
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="979" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="1001" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="1002" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
+				<misc>श्री सत्येन्द्र तनेजा द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="4790-I" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4791-I" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4792-I" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4793-I" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4794-I" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4875" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4876" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4877" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4878" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4879" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4880" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4881" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4882" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 			<entry id="4883" type="02" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - स्मा - 1384</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.039;074.040;074.041">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">घासीराम कोतवाल</entry>
-			<entry type="writer">विजय तेंडुलकर</entry>
+			<entry type="writer">विजय तेंदुलकर (मराठी)</entry>
+			<entry type="translator">वसंत देव</entry>
 			<entry type="director">राजिंदर नाथ</entry>
+			<entry type="music">मोहन उप्रेती</entry>
+			<entry type="dance">बी. सी. शर्मा</entry>
+			<entry type="stage">अशोक भट्टाचार्य</entry>
+			<entry type="light">एस. मुखर्जी</entry>
+			<entry type="costume">वेंकट</entry>
+			<entry type="mask">वेंकट</entry>
+			<entry type="stagecontent">वेंकट</entry>
+			<entry type="make-up">बरुण दत्त</entry>
+			<entry type="photographer">अविनाश पसरीचा</entry>
+			<entry type="artist">विनोद नागपाल (सूत्रधार), बी. सी. शर्मा (गणेश जी), पल्लवी मेहता (सरस्वती जी), गोविन्द देशपाण्डे (पहला बट्टाचारी), अज़ीज कुरेशी (घड़ी वाला), रामगोपाल बजाज (घासीराम) व अन्य</entry>
+			<entry type="date">1973</entry>
 		</mdetails>
 		<photo>
 			<entry id="1003" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
+			</entry>
+			<entry id="1004" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
+			</entry>
+			<entry id="1005" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="1004-I" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="1012" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
+			</entry>
+			<entry id="1013" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="1013-I" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="1014" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="2200" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="2201" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="1006" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="1007" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
+			</entry>
+			<entry id="1008" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="1009" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="1010" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="1011" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 			<entry id="4316" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
+			</entry>
+			<entry id="13027" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
+			</entry>
+			<entry id="7895" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सं. ना. अ., सूचना स्रोत - स्मा. - 1379</misc>
 			</entry>
 		</photo>
 	</media>
@@ -57616,27 +57744,45 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अनंत</entry>
 			<entry type="drama">राजा की खोज (पंचतंत्र की कथाओं पर आधारित) (कथावाचन शैली में) (बाल नाटक)</entry>
-			<entry type="writer"></entry>
+			<entry type="writer">विष्णु शर्मा (संस्कृत)</entry>
+			<entry type="writer">आशीष घोष (बांग्ला)</entry>
 			<entry type="director">आशीष घोष</entry>
-			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम</entry>
+			<entry type="translation">सफ़दर हाशमी</entry>
+			<entry type="music">अमित सेनगुप्ता</entry>
+			<entry type="artist">इमरान खान (गीदड़), मनोज मेहरा (लोमड़ी), इरशाद खान (शेर), ज्योति राँय (खरगोश) व अन्य</entry>
+			<entry type="sound">चॉयती घोष (कथावाचक)</entry>
+			<entry type="narrator">चॉयती घोष</entry>
+			<entry type="venue">बिपिन चन्द्र पाल सभागार, दिल्ली</entry>
 			<entry type="date">30-10-1999</entry>
 		</mdetails>
 		<photo>
+			<entry id="5464" type="01" size="">
+				<desc>अन्य प्रस्तुति की है ।</desc>
+				<misc>सूचना स्रोत - समाचार कतरन</misc>
+			</entry>
+			<entry id="5563" type="01" size="">
+				<desc>अन्य प्रस्तुति की है ।</desc>
+				<misc>सूचना स्रोत - समाचार कतरन</misc>
+			</entry>
+			<entry id="5564" type="01" size="">
+				<desc>अन्य प्रस्तुति की है ।</desc>
+				<misc>सूचना स्रोत - समाचार कतरन</misc>
+			</entry>
 			<entry id="5780" type="01" size="">
-				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
-				<misc></misc>
+				<desc>नैस्सैंट आर्ट एवं नैच्युरल थिएटर के सहयोग से नटरंग रंगनिरंतर मे अनंत द्वारा प्रस्तुत</desc>
+				<misc>सूचना स्रोत - समाचार कतरन</misc>
 			</entry>
 			<entry id="5781" type="01" size="">
-				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
-				<misc>बाल-नाटक</misc>
+				<desc>नैस्सैंट आर्ट एवं नैच्युरल थिएटर के सहयोग से नटरंग रंगनिरंतर मे अनंत द्वारा प्रस्तुत</desc>
+				<misc>सूचना स्रोत - समाचार कतरन</misc>
 			</entry>
 			<entry id="5782" type="01" size="">
-				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
-				<misc>बाल-नाटक</misc>
+				<desc>नैस्सैंट आर्ट एवं नैच्युरल थिएटर के सहयोग से नटरंग रंगनिरंतर मे अनंत द्वारा प्रस्तुत</desc>
+				<misc>सूचना स्रोत - समाचार कतरन</misc>
 			</entry>
 			<entry id="5783" type="01" size="">
-				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
-				<misc>बाल-नाटक</misc>
+				<desc>नैस्सैंट आर्ट एवं नैच्युरल थिएटर के सहयोग से नटरंग रंगनिरंतर मे अनंत द्वारा प्रस्तुत</desc>
+				<misc>सूचना स्रोत - समाचार कतरन</misc>
 			</entry>
 		</photo>
 	</media>
@@ -57698,21 +57844,30 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.008;074.009">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभिकल्प</entry>
 			<entry type="drama">सुनो शेफाली</entry>
 			<entry type="writer">कुसुम कुमार</entry>
 			<entry type="director">गुलशन कुमार</entry>
-			<entry type="date">1981</entry>
+			<entry type="music">सोगनाथ पवार</entry>
+			<entry type="make-up">आलोक बैनर्जी</entry>
+			<entry type="visualmanagement">आलोक बैनर्जी</entry>
+			<entry type="stage">अजय गुप्ता</entry>
+			<entry type="light">सुरेश अरोडा एवं आलोक बैनर्जी</entry>
+			<entry type="artist">गुलशन कुमार (ज्योतिषाचार्य), स्नेहिल (गेरू), अमिता मिश्रा (शेफाली) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर, बेसमेंट, दिल्ली</entry>
+			<entry type="date">12-15 मई 1981</entry>
 		</mdetails>
 		<photo>
-			<entry id="986" type="" size="">
-				<desc></desc>
+			<entry id="986" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>संदर्भ स्रोत - स्मा - 77</misc>
 			</entry>
-			<entry id="987" type="" size="">
-				<desc></desc>
+			<entry id="987" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>संदर्भ स्रोत - स्मा - 77</misc>
 			</entry>
 		</photo>
 	</media>
