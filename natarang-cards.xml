@@ -57154,22 +57154,33 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.069;074.070">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">बाकी इतिहास</entry>
 			<entry type="writer">बादल सरकार</entry>
-			<entry type="translation">नेमिचन्द्र जैन</entry>
-			<entry type="director">राइन्दर नाथ</entry>
-			<entry type="artist">कुलभूषण खरबन्दा एव. टी. पी. जैन</entry>
+			<entry type="translator">नेमिचन्द्र जैन</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="artist">कुलभूषण खरबन्दा, टी. पी. जैन, ज्योति व्यास</entry>
+			<entry type="date">1968</entry>
 		</mdetails>
 		<photo>
-			<entry id="1021" type="" size="">
-				<desc></desc>
+			<entry id="988" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="1022" type="" size="">
-				<desc></desc>
+			<entry id="1020" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="1021" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="1022" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
@@ -57198,459 +57209,624 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.078;074.079;074.080">
 		<mdetails>
+			<entry type="state">मध्य प्रदेश</entry>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
-			<entry type="drama">लिसिस्ट्राटा</entry>
-			<entry type="director">राजिंदर नाथ</entry>
-			<entry type="event">रजत रंग, भोपाल 1977</entry>
+			<entry type="drama">लिसिस्ट्रैटा (हास्य नाटक)</entry>
+			<entry type="writer">अरिस्टोफिनीस (ग्रीक)</entry>
+			<entry type="translator">राजिन्दर नाथ</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="lyricstranslation">सांत्वना (निगम)</entry>
+			<entry type="stage">अशोक भट्टाचार्य</entry>
+			<entry type="light">सीतांशु मुखर्जी</entry>
+			<entry type="artist">रंजना गौहर (लिसिस्ट्रैटा), पवन सिक्का (कैलोनाइस), अदिति एवं वीणामेहता (दो औरतें), एस. एम. ज़हीर (अधिकारी), मोहिनी माथुर (लम्पितो) व अन्य</entry>
+			<entry type="event">रजत रंग महोत्सव, भोपाल 1977</entry>
+			<entry type="venue">भोपाल, म. प्र.</entry>
+			<entry type="date">05-11-1977</entry>
 		</mdetails>
 		<photo>
 			<entry id="1023" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="1024" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4783-I" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4784-I" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4785-I" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4786-I" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4866" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4867" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4868" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4869" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4870" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4871" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4872" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4873" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 			<entry id="4874" type="02" size="">
-				<desc></desc>
+				<desc>मध्यप्रदेश कला परिषद् के रजत रंग महोत्सव में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित, सूचना स्रोत - स्मा. - 2804</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.084;074.085">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">सारी रात</entry>
+			<entry type="originaldrama">सारा रात्तिर (नाटक का मूल बांग्ला नाम)</entry>
 			<entry type="writer">बादल सरकार</entry>
-			<entry type="director">राजिंदर नाथ</entry>
+			<entry type="translator">प्रतिभा अग्रवाल</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="artist">सुधा चौपड़ा (औरत), टी. पी. जैन (बूढ़ा आदमी) व श्याम अरोड़ा (आदमी)</entry>
+			<entry type="venue">दिल्ली</entry>
+			<entry type="date">1970</entry>
 		</mdetails>
 		<photo>
-			<entry id="1026" type="" size="">
-				<desc></desc>
+			<entry id="1026" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन व श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत समाचार कतरन</misc>
+			</entry>
+			<entry id="18673" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन व श्री राजिन्दर नाथ द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत समाचार कतरन</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.088;074.089;074.090">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">स्टील फ्रेम</entry>
+			<entry type="writer">विनायक पुरोहित (गुजराती)</entry>
+			<entry type="translator">धर्मवीर भारती</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="stage">अशोक भट्टाचार्य</entry>
+			<entry type="light">एस. मुखर्जी</entry>
+			<entry type="make-up">के. पी. कुमार</entry>
+			<entry type="mask">देव महापात्र</entry>
+			<entry type="artist">सुधा चौपड़ा (पद्मा), अनिल सहगल (श्रीराम), सुमन शर्मा (मीना), पल्लवी मेहता (माँ), अनिल सूद (मनू), गोपाल सेठ (अॉफिसर - 1)</entry>
+			<entry type="venue">फाइन आर्ट थियेटर, रफी मार्ग, दिल्ली</entry>
+			<entry type="date">22-24 अक्टू. 1971</entry>
 		</mdetails>
 		<photo>
 			<entry id="1025" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 1025</misc>
+			</entry>
+			<entry id="21327" type="" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 1025</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.091;074.092;074.093">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">स्वप्न संतति</entry>
-			<entry type="writer">देवाशीश मजमुदार</entry>
-			<entry type="director">राजिंदर नाथ</entry>
-			<entry type="translation">सान्त्वाना</entry>
-			<entry type="artist">एस. एम. जहीर, क्षिप्रा दास</entry>
+			<entry type="writer">देवाशीष मजूमदार</entry>
+			<entry type="translation">सांत्वना</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="asstdirector">सांत्वना</entry>
+			<entry type="music">पंचानन पाठक</entry>
+			<entry type="stage">अशोक कुमार पाण्डे</entry>
+			<entry type="light">गिरधारी लाल, सुरेश अरोड़ा</entry>
+			<entry type="sound">सांत्वना, विजय गुप्ता</entry>
+			<entry type="artist">एस. एम. ज़हीर (सूरथ), साँत्रिक बासू (गोबे), नलिनी कमल (पूर्वा), राकेश शर्मा (मैत्रेय), सुभाष गुप्ता (सामी), क्षिप्रा दास व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार</entry>
 			<entry type="date">27-10-1993</entry>
 		</mdetails>
 		<photo>
-			<entry id="3015" type="" size="">
-				<desc></desc>
+			<entry id="3015" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="3016" type="" size="">
-				<desc></desc>
+			<entry id="3016" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4801-I" type="" size="">
-				<desc></desc>
+			<entry id="4801-I" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4805-I" type="" size="">
-				<desc></desc>
+			<entry id="4802-I" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4915" type="" size="">
-				<desc></desc>
+			<entry id="4803-I" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4916" type="" size="">
-				<desc></desc>
+			<entry id="4804-I" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4917" type="" size="">
-				<desc></desc>
+			<entry id="4805-I" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4918" type="" size="">
-				<desc></desc>
+			<entry id="4915" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4919" type="" size="">
-				<desc></desc>
+			<entry id="4916" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4920" type="" size="">
-				<desc></desc>
+			<entry id="4917" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4921" type="" size="">
-				<desc></desc>
+			<entry id="4918" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4922" type="" size="">
-				<desc></desc>
+			<entry id="4919" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4923" type="" size="">
-				<desc></desc>
+			<entry id="4920" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4924" type="" size="">
-				<desc></desc>
+			<entry id="4921" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4925" type="" size="">
-				<desc></desc>
+			<entry id="4922" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4926" type="" size="">
-				<desc></desc>
+			<entry id="4923" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4927" type="" size="">
-				<desc></desc>
+			<entry id="4924" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4928" type="" size="">
-				<desc></desc>
+			<entry id="4925" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4929" type="" size="">
-				<desc></desc>
+			<entry id="4926" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
-			<entry id="4930" type="" size="">
-				<desc></desc>
+			<entry id="4927" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
+			</entry>
+			<entry id="4928" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
+			</entry>
+			<entry id="4929" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
+			</entry>
+			<entry id="4930" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 1241</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.097;074.098">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">हत्या एक आकार की</entry>
 			<entry type="writer">ललित सहगल</entry>
 			<entry type="director">राजिन्दर नाथ</entry>
-			<entry type="artist">कुलभूषण खरबंदा</entry>
+			<entry type="music">जितेन्द्रनाथ कौशल</entry>
+			<entry type="song">शीला भाटिया</entry>
+			<entry type="make-up">के. पी. कुमार</entry>
+			<entry type="stage">बृजमोहन शाह</entry>
+			<entry type="sound">कुलभूषण खरबन्दा</entry>
+			<entry type="artist">कुलभूषण खरबन्दा (शंकित युवक), टी. पी. जैन (पहला व्यक्ति), अशोक सरीन (दूसरा व्यक्ति), श्याम अरोड़ा (अधेड़ व्यक्ति-जज)</entry>
+			<entry type="venue">फाइन आर्ट थिएटर, दिल्ली</entry>
+			<entry type="date">06-08 अक्टू, 1967</entry>
 		</mdetails>
 		<photo>
 			<entry id="1027" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 734</misc>
+			</entry>
+			<entry id="21329" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 734</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.099;074.100">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
-			<entry type="drama">इवाई महाराज</entry>
-			<entry type="writer">देवाशीश मजूमदार</entry>
-			<entry type="translation">सान्तवना</entry>
-			<entry type="director">राजिंदर नाथ</entry>
-			<entry type="venue">श्रीराम सेन्टर तलकक्ष</entry>
+			<entry type="drama">हवाई महाराज</entry>
+			<entry type="writer">देवाशीष मजूमदार (बांग्ला)</entry>
+			<entry type="translator">सांत्वना (निगम)</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="asstdirector">सांत्वना</entry>
+			<entry type="stage">अशोक भट्टाचार्य</entry>
+			<entry type="light">सितांशु मुखर्जी</entry>
+			<entry type="artist">हेम नलिनी (बूढ़ी औरत), देविन्दर चौपड़ा (घीसू), गुरमेल सामी (काका), प्रेम भाटिया (बादल), एस. एम. ज़हीर (मंत्री), ललित परिमू (जनार्दन)</entry>
+			<entry type="venue">श्रीराम सेन्टर सभागार, दिल्ली</entry>
 			<entry type="date">5 दिसं 1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="4816-I" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4816-I" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4817-I" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4817-I" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4818-I" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4818-I" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4819" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4819" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4820" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4820" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4821" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4821" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4822" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4822" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4823" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4823" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4824" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4824" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4825" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4825" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4826" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4826" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4827" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4827" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4828" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4828" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4829" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4829" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4830" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4830" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4831" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4831" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4832" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4832" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4833" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4833" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4834" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4834" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4835" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4835" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4836" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4836" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4837" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4837" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
-			<entry id="4838" type="" size="">
-				<desc>बंगला</desc>
+			<entry id="4838" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
+			</entry>
+			<entry id="13107" type="02" size="">
+				<desc>सूचना स्रोत - स्मा. - 716</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.101;074.102">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अभियान</entry>
 			<entry type="drama">हानूश</entry>
 			<entry type="writer">भीष्म साहनी</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="visualmanagement">अशोक भट्टाचार्य</entry>
+			<entry type="costume">वेंकट</entry>
+			<entry type="artist">रवि वासवानी (हानूश), कल्पना साहनी (यांका), गिरीश माथुर (बूढ़ा लुहार), दलीप सूद (जैकब), सुधीर पारिख (राजा), भूपेन्द्र कुमार (पादरी भाई), सुषमा सेठ (कात्या) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
+			<entry type="date">10-13 मार्च 1977</entry>
 		</mdetails>
 		<photo>
 			<entry id="1028" type="02" size="">
-				<desc></desc>
+				<desc>राजिन्दर नाथ से, प्राप्त</desc>
+				<misc>सूचना स्रोत - पुस्तक - `रंग साक्षी', जयदेव तनेजा, ले.</misc>
 			</entry>
 			<entry id="2923" type="02" size="">
-				<desc></desc>
+				<desc>राजिन्दर नाथ से, प्राप्त</desc>
+				<misc>सूचना स्रोत - पुस्तक - `रंग साक्षी', जयदेव तनेजा, ले.</misc>
 			</entry>
 			<entry id="2924" type="02" size="">
-				<desc></desc>
+				<desc>राजिन्दर नाथ से, प्राप्त</desc>
+				<misc>सूचना स्रोत - पुस्तक - `रंग साक्षी', जयदेव तनेजा, ले.</misc>
+			</entry>
+			<entry id="13018" type="02" size="">
+				<desc>राजिन्दर नाथ से, प्राप्त</desc>
+				<misc>सूचना स्रोत - पुस्तक - `रंग साक्षी', जयदेव तनेजा, ले.</misc>
+			</entry>
+			<entry id="13019" type="02" size="">
+				<desc>राजिन्दर नाथ से, प्राप्त</desc>
+				<misc>सूचना स्रोत - पुस्तक - `रंग साक्षी', जयदेव तनेजा, ले.</misc>
+			</entry>
+			<entry id="21326" type="02" size="">
+				<desc>राजिन्दर नाथ से, प्राप्त</desc>
+				<misc>सूचना स्रोत - पुस्तक - `रंग साक्षी', जयदेव तनेजा, ले.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.104;074.105">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">अलाशिपु</entry>
-			<entry type="drama">महाभारत से</entry>
-			<entry type="director">त्रिपुरारि शर्मा</entry>
-			<entry type="artist">सपना संड, शांति बाई</entry>
+			<entry type="troupe">अलारिपु</entry>
+			<entry type="drama">महाभारत से (पंडवानी)</entry>
+			<entry type="compilation">त्रिपुरारी शर्मा, शांति बाई एवं सपना संद</entry>
+			<entry type="director">त्रिपुरारी शर्मा</entry>
+			<entry type="projection">त्रिपुरारी शर्मा</entry>
+			<entry type="light">यशराज जाधव, अंजु जेटली</entry>
+			<entry type="music">लाखन लाल चेलक</entry>
+			<entry type="artist">सपना संद (द्रोपदी), शांति बाई (भानूमति)</entry>
+			<entry type="cinematographer">गुरविन्दर</entry>
 			<entry type="host">रा. ना. वि. एवं नटरंग प्रतिष्ठान</entry>
+			<entry type="event">एशियन महिला नाट्य निर्देशक समारोह</entry>
+			<entry type="venue">सम्मुख सभागार, दिल्ली</entry>
 			<entry type="date">05-01-2003</entry>
 		</mdetails>
 		<photo>
-			<entry id="7352" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7352" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7353" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7353" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7354" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7354" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7355" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7355" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7356" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7356" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7357" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7357" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7358" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7358" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7359" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7359" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7360" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7360" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7361" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7361" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7362" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7362" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7363" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7363" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7364" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7364" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7365" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7365" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7366" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7366" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7367" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7367" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7368" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7368" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7369" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7369" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7370" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7370" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7371" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7371" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7372" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7372" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7373" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7373" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7374" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7374" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7375" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7375" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7376" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7376" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7377" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7377" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7378" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7378" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7379" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7379" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7380" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7380" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7381" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7381" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7382" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7382" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7383" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7383" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7384" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7384" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7385" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7385" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7386" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7386" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7387" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7387" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7388" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7388" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7389" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7389" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7390" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7390" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
-			<entry id="7391" type="" size="">
-				<desc>पूर्वा कार्यक्रम में मंचित</desc>
+			<entry id="7391" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
+			</entry>
+			<entry id="12534" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
+			</entry>
+			<entry id="12535" type="01" size="">
+				<desc>लाक्षागृह एवं चीरहरण का क्रमश - वर्णन</desc>
+				<misc>न. प्र. व रा. ना. वि. द्वारा आयोजित `एशियन महिला नाट्य निर्देशक समारोहे में मंचित, रा. ना. वि. द्वारा भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.103">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अवध थिएटर ग्रूप</entry>
-			<entry type="drama">एंटिगनी (Antigone)</entry>
-			<entry type="writer">सोफोक्लीज</entry>
+			<entry type="drama">एण्टीगन (Antigone)</entry>
+			<entry type="writer">सोफोक्लीज़</entry>
+			<entry type="translation">इंदुजा अवस्थी/भवानी प्रसाद मिश्र</entry>
 			<entry type="director">कार्तिक अवस्थी</entry>
 			<entry type="music">नाटक अकादमी</entry>
-			<entry type="venue">उत्तर संभागीय नाट्य समारोह, लखनऊ</entry>
+			<entry type="event">उत्तर संभागीय नाट्य समारोह</entry>
+			<entry type="venue">लखनऊ</entry>
 			<entry type="date">अप्रैल 1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="1029" type="" size="">
-				<desc></desc>
+			<entry id="1029" type="02" size="">
+				<desc>सं. ना. अ. द्वारा आयोजित उत्तर संभागीय नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="1030" type="" size="">
-				<desc></desc>
+			<entry id="1030" type="02" size="">
+				<desc>सं. ना. अ. द्वारा आयोजित उत्तर संभागीय नाट्य समारोह में मंचित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.106;074.107">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अवध थिएटर ग्रूप</entry>
-			<entry type="drama">लैला मजनू</entry>
+			<entry type="drama">लैला मजनू (नौटंकी)</entry>
+			<entry type="projection">नाथूराम शर्मा गोड़</entry>
 			<entry type="director">कार्तिक अवस्थी</entry>
-			<entry type="venue">मंजर थिएटर</entry>
-			<entry type="date">06-07, 04-1985</entry>
+			<entry type="music">महोहर स्वरूप, मोहिन्दर शर्मा</entry>
+			<entry type="stage">मोहिन्दर अग्रवाल, अजय कपूर</entry>
+			<entry type="artist">कार्तिक अवस्थी (रंगा), सपना अवस्थी (लैला), मुकुल वर्मा (मजनूं), हेमन्त मिश्रा (लैला के पिता), कमल कौर (लैला की माता) व अन्य</entry>
+			<entry type="venue">मंजर थिएटर, प्रगति मैदान, दिल्ली</entry>
+			<entry type="date">06-07 अप्रैल 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="4186" type="" size="">
-				<desc></desc>
+			<entry id="4186" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत - स्मा. - 249</desc>
 			</entry>
-			<entry id="4187" type="" size="">
-				<desc></desc>
+			<entry id="4187" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत - स्मा. - 249</desc>
 			</entry>
-			<entry id="4188" type="" size="">
-				<desc></desc>
+			<entry id="4188" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत - स्मा. - 249</desc>
 			</entry>
-			<entry id="4189" type="" size="">
-				<desc></desc>
+			<entry id="4189" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत - स्मा. - 249</desc>
 			</entry>
-			<entry id="4190" type="" size="">
-				<desc></desc>
+			<entry id="4190" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत - स्मा. - 249</desc>
 			</entry>
-			<entry id="4191" type="" size="">
-				<desc></desc>
+			<entry id="4191" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत - स्मा. - 249</desc>
 			</entry>
 		</photo>
 	</media>
@@ -57992,50 +58168,88 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.108;074.109;074.110">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अस्मिता</entry>
 			<entry type="drama">अंधा युग</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
-			<entry type="director">अरविन्द गोड़</entry>
+			<entry type="director">अरविन्द गौड़</entry>
+			<entry type="music">संगीता गौड़</entry>
+			<entry type="make-up">दीपक सेठी, जी. एस. बेदी, श्याम कुमार, मुकेश कुमार</entry>
+			<entry type="costume">डी. डी. बट्टूजी</entry>
+			<entry type="stage">एम. गुलजार चंदी</entry>
+			<entry type="light">राहुल दीप, त्रिभुवन, जी. वर्गीज</entry>
+			<entry type="artist">मुकेश शर्मा (प्रहरी-1), असद खान, इकरार खान (कृष्ण) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर, बेसमेंट सभागार, दिल्ली</entry>
+			<entry type="date">27-30 सित. - 01 अक्टू. 1994</entry>
 		</mdetails>
 		<photo>
+			<entry id="3919" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
+			<entry id="3920" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
+			<entry id="3921" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
 			<entry id="4572" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4573" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4574" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4575" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4576" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4577" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4578" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4579" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4580-I" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4581" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
+			<entry id="4582" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
+			<entry id="4583" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
+			<entry id="4584" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4585-I" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
+			<entry id="4586" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
+			<entry id="4587" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
+			<entry id="4588" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
+			</entry>
+			<entry id="4939" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 			<entry id="4967" type="02" size="">
-				<desc></desc>
+				<desc>सूचना संदर्भ स्रोत. - 836</desc>
 			</entry>
 		</photo>
 	</media>
@@ -58059,7 +58273,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.111">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अस्मिता</entry>
@@ -58073,94 +58287,103 @@
 		<photo>
 			<entry id="5843" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>निगेटिव सहित - 26</misc>
 			</entry>
 			<entry id="5844" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>निगेटिव सहित - 26</misc>
 			</entry>
 			<entry id="5845" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>निगेटिव सहित - 26</misc>
 			</entry>
 			<entry id="5846" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>निगेटिव सहित - 26</misc>
 			</entry>
 			<entry id="5847" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>निगेटिव सहित - 26</misc>
 			</entry>
 			<entry id="5848" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>निगेटिव सहित - 26</misc>
 			</entry>
 			<entry id="5849" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>निगेटिव सहित - 26</misc>
 			</entry>
 			<entry id="5850" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>निगेटिव सहित - 26</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.112">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अस्मिता</entry>
 			<entry type="drama">आपरेशन थ्री स्टार</entry>
-			<entry type="writer">डारियो को</entry>
+			<entry type="writer">दारियो फ़ो (इटैलियन)</entry>
 			<entry type="director">अरविन्द गौड़</entry>
 			<entry type="version">अमिताभ श्रीवास्तव</entry>
-			<entry type="venue">श्री राम सेंटर तलघट</entry>
+			<entry type="venue">श्री राम सेंटर तलधट</entry>
 			<entry type="date">1997</entry>
 		</mdetails>
 		<photo>
 			<entry id="4686" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4687" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4688" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4689" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4690" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4691" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4692" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4693" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4694" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4695" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4696" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4696-I" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 			<entry id="4941" type="" size="">
-				<desc></desc>
+				<desc>कॉन्टेकटश्टि उपलब्ध</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.113">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अस्मिता</entry>
 			<entry type="drama">ऑपरेशन थ्री स्टार</entry>
-			<entry type="writer">दारियो फो</entry>
+			<entry type="originaldrama">एकसीडेंटल देथ अॉफ ऐन अनार्किस्ट</entry>
+			<entry type="writer">दारियो फ़ो (इटैलियन)</entry>
 			<entry type="version">अमिताभ श्रीवास्तव</entry>
 			<entry type="director">अरविन्द गौड़</entry>
-			<entry type="lyrics">पीयूष मिश्र</entry>
-			<entry type="music">पीयूष मिश्र</entry>
-			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम</entry>
+			<entry type="lyrics">पीयूष मिश्रा</entry>
+			<entry type="music">पीयूष मिश्रा</entry>
+			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम, दिल्ली</entry>
 			<entry type="date">15-01-2000</entry>
 		</mdetails>
 		<photo>
@@ -58205,29 +58428,59 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.114;074.115">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अस्मिता</entry>
-			<entry type="drama">इक मामूली आदमी</entry>
+			<entry type="drama">एक मामूली आदमी</entry>
+			<entry type="dramatized">अशोक लाल (अकीरा कुरोसावा की फिल्म इकिरु से प्रभावित)</entry>
 			<entry type="director">अरविन्द गौड़</entry>
 			<entry type="writer">अशोक लाल</entry>
+			<entry type="music">संगीता गौड़</entry>
+			<entry type="light">त्रिभुवन</entry>
+			<entry type="artist">दीपक डोब्रियाल, ईश्वरचन्द्र अवस्थी (मामूली आदमी), विष्णुप्रसाद (खरे), सोनू मिश्रा (लक्ष्मी), आशीष शर्मा (उमेश) व अन्य</entry>
+			<entry type="venue">बिपिन चन्द्र पाल सभागार, दिल्ली</entry>
+			<entry type="date">1998</entry>
 		</mdetails>
 		<photo>
-			<entry id="5421" type="01" size="">
-				<desc></desc>
+			<entry id="5421" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
 			</entry>
-			<entry id="5422" type="01" size="">
-				<desc></desc>
+			<entry id="5422" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
 			</entry>
-			<entry id="5423" type="01" size="">
-				<desc></desc>
+			<entry id="5423" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
 			</entry>
-			<entry id="5424" type="02" size="">
-				<desc></desc>
+			<entry id="5424" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
 			</entry>
-			<entry id="5425" type="02" size="">
-				<desc></desc>
+			<entry id="5425" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
+			</entry>
+			<entry id="5459" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
+			</entry>
+			<entry id="5460" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
+			</entry>
+			<entry id="10685" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
+			</entry>
+			<entry id="10686" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
+			</entry>
+			<entry id="10687" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
+			</entry>
+			<entry id="10688" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
+			</entry>
+			<entry id="10689" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
+			</entry>
+			<entry id="10690" type="01;02" size="">
+				<desc>सूचना स. क. `National Herald', Delhi, 07-05-1998</desc>
 			</entry>
 		</photo>
 	</media>
@@ -58250,104 +58503,175 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.116;074.117;074.118">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अस्मिता</entry>
-			<entry type="drama">आनिगुला</entry>
-			<entry type="writer">एलबर्ट कामू</entry>
+			<entry type="drama">कालिगुला</entry>
+			<entry type="originaldrama">द आउट साइडर</entry>
+			<entry type="writer">ऐल्बर्ट कामू (फ्रेंच)</entry>
+			<entry type="translator">शरद् चन्द्र</entry>
 			<entry type="director">अरविन्द गौड़</entry>
-			<entry type="date">1993</entry>
+			<entry type="music">संगीता शर्मा</entry>
+			<entry type="make-up">श्याम कुमार, ब्रद्वन प्रकाश पाण्डे</entry>
+			<entry type="costume">अल्का सैनी</entry>
+			<entry type="stage">मोहिन्दर प्रताप सिंह</entry>
+			<entry type="light">प्रकाश भाटिया</entry>
+			<entry type="photographer">एस. त्यागराजन, मदन गोपाल</entry>
+			<entry type="artist">जैमिनी (कालिगुला), गजराज नागर (हैलिको), श्याम कुमार, के. वी. श्रीवास्तव (बुजुर्ग सामंत) व अन्य</entry>
+			<entry type="venue">दिल्ली</entry>
+			<entry type="date">09-06-1993</entry>
 		</mdetails>
 		<photo>
-			<entry id="4611" type="" size="">
-				<desc></desc>
+			<entry id="3911" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - स्मा. - 1390</desc>
 			</entry>
-			<entry id="4612" type="" size="">
-				<desc></desc>
+			<entry id="3912" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - स्मा. - 1390</desc>
 			</entry>
-			<entry id="4613" type="" size="">
-				<desc></desc>
+			<entry id="4611" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - स्मा. - 1390</desc>
 			</entry>
-			<entry id="4614" type="" size="">
-				<desc></desc>
+			<entry id="4612" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - स्मा. - 1390</desc>
 			</entry>
-			<entry id="4615-I" type="" size="">
-				<desc></desc>
+			<entry id="4613" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - स्मा. - 1390</desc>
 			</entry>
-			<entry id="4958" type="" size="">
-				<desc></desc>
+			<entry id="4614" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - स्मा. - 1390</desc>
+			</entry>
+			<entry id="4615-I" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - स्मा. - 1390</desc>
+			</entry>
+			<entry id="4958" type="02" size="">
+				<desc>सूचना संदर्भ स्रोत. - स्मा. - 1390</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.119;074.120;074.121">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">अस्मिता</entry>
 			<entry type="drama">फोर्ट मार्शल</entry>
 			<entry type="writer">स्वदेश दीपक</entry>
 			<entry type="director">अरविन्द गौड़</entry>
+			<entry type="music">संगीता गौड़</entry>
+			<entry type="costume">हैदर, नरेश व अन्य</entry>
+			<entry type="stage">परवेज, रजत, वर्स व अन्य</entry>
+			<entry type="light">त्रिभुवन</entry>
+			<entry type="stagecontent">मुकेश शिराज व शफीक़ अंसारी</entry>
+			<entry type="artist">कर्नल सूरत सिंह (दीपक ओचानी), मेजर अजय पुरी (दीपक कुमार डोब्रीयाल), श्रीमती कपूर (अपर्णा सिंह) व अन्य</entry>
+			<entry type="venue">बिपिन चन्द्र पाल सभागार, चितरंजन पार्क, दिल्ली</entry>
+			<entry type="date">27-11-1999</entry>
 		</mdetails>
 		<photo>
-			<entry id="4616" type="02" size="">
-				<desc></desc>
+			<entry id="4616" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4617" type="02" size="">
-				<desc></desc>
+			<entry id="4617" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4618" type="02" size="">
-				<desc></desc>
+			<entry id="4618" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4619" type="02" size="">
-				<desc></desc>
+			<entry id="4619" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4620" type="02" size="">
-				<desc></desc>
+			<entry id="4620" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4621" type="02" size="">
-				<desc></desc>
+			<entry id="4621" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4622" type="02" size="">
-				<desc></desc>
+			<entry id="4622" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4623" type="02" size="">
-				<desc></desc>
+			<entry id="4623" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4624" type="02" size="">
-				<desc></desc>
+			<entry id="4624" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4625" type="02" size="">
-				<desc></desc>
+			<entry id="4625" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4641" type="02" size="">
-				<desc></desc>
+			<entry id="4641" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4642" type="02" size="">
-				<desc></desc>
+			<entry id="4642" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4643" type="02" size="">
-				<desc></desc>
+			<entry id="4643" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4644" type="02" size="">
-				<desc></desc>
+			<entry id="4644" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4645" type="02" size="">
-				<desc></desc>
+			<entry id="4645" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4646" type="02" size="">
-				<desc></desc>
+			<entry id="4646" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4647" type="02" size="">
-				<desc></desc>
+			<entry id="4647" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4648" type="02" size="">
-				<desc></desc>
+			<entry id="4648" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4649" type="02" size="">
-				<desc></desc>
+			<entry id="4649" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
-			<entry id="4940" type="02" size="">
-				<desc></desc>
+			<entry id="4940" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
+			</entry>
+			<entry id="5773" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
+			<entry id="5774" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
+			</entry>
+			<entry id="5775" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
+			</entry>
+			<entry id="5776" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
+			</entry>
+			<entry id="5777" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
+			</entry>
+			<entry id="5778" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
+			</entry>
+			<entry id="5779" type="01;02" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `नटरंग रंगनिरंतर' के अंतर्गत प्रस्तुत</desc>
+				<misc>सूचना स्रोत - स्मा. - 3356</misc>
 			</entry>
 		</photo>
 	</media>
