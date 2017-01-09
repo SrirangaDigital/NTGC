@@ -12576,16 +12576,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.429">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">भारतीय जन नाट्य संघ (इप्टा)</entry>
 			<entry type="drama">तारा भवन</entry>
 			<entry type="writer">अबरार अल्वी</entry>
-			<entry type="director">अजीज कुरेशी एवं विनोद वर्मा</entry>
-			<entry type="host">ट्रेड फेथर अथारिटी ऑफ इंडिया</entry>
+			<entry type="director">अजीज कुरैशी एवं विनोद वर्मा</entry>
+			<entry type="host">ट्रेड फेयर अथारिटी ऑफ इंडिया</entry>
 			<entry type="venue">मंजर थिएटर</entry>
-			<entry type="date">6, 7 जून 1985</entry>
+			<entry type="date">6-7 जून 1985</entry>
 		</mdetails>
 		<photo>
 			<entry id="4125" type="" size="">
@@ -17216,11 +17216,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="074.366">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">नाट्य संघ</entry>
-			<entry type="drama">शहरे - मातम (उद्रू)</entry>
+			<entry type="troupe">नाट्य संध</entry>
+			<entry type="drama">शहरे - मातम (उर्दू)</entry>
 			<entry type="writer">लाइक हुसैन</entry>
 			<entry type="director">लाइक हुसैन</entry>
 			<entry type="date">20-08-1987</entry>
@@ -17240,96 +17240,148 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.370;074.371">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">निराकार</entry>
 			<entry type="drama">बाँवला</entry>
-			<entry type="director">अनामिका हस्कर</entry>
+			<entry type="writer">दोस्तोवस्की (रूसी)</entry>
+			<entry type="translator">मनीष सक्सेना</entry>
+			<entry type="director">अनामिका हक्सर</entry>
 			<entry type="music">पुनीता सिंह</entry>
-			<entry type="light">जुलेखा अलाना</entry>
+			<entry type="voice">पुनीता सिंह</entry>
+			<entry type="costume">अंशु</entry>
+			<entry type="stage">अनामिका एवं जी. एन. रोशन</entry>
+			<entry type="light">जुलेखा अल्लाना</entry>
 			<entry type="host">नटरंग प्रतिष्ठान एवं रा. ना. वि.</entry>
-			<entry type="venue">दिल्ली</entry>
+			<entry type="artist">रवीन्द्र साहू (बावला), भवीन गोसैन (रोगोज़ीन), हृदयराम (कर्मचारी), व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
 			<entry type="date">10-01-2003</entry>
 		</mdetails>
 		<photo>
-			<entry id="7478" type="" size="">
-				<desc></desc>
+			<entry id="7478" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7479" type="" size="">
-				<desc></desc>
+			<entry id="7479" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7480" type="" size="">
-				<desc></desc>
+			<entry id="7480" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7481" type="" size="">
-				<desc></desc>
+			<entry id="7481" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7482" type="" size="">
-				<desc></desc>
+			<entry id="7482" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7483" type="" size="">
-				<desc></desc>
+			<entry id="7483" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7484" type="" size="">
-				<desc></desc>
+			<entry id="7484" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7485" type="" size="">
-				<desc></desc>
+			<entry id="7485" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7486" type="" size="">
-				<desc></desc>
+			<entry id="7486" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7487" type="" size="">
-				<desc></desc>
+			<entry id="7487" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7488" type="" size="">
-				<desc></desc>
+			<entry id="7488" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7489" type="" size="">
-				<desc></desc>
+			<entry id="7489" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7490" type="" size="">
-				<desc></desc>
+			<entry id="7490" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7491" type="" size="">
-				<desc></desc>
+			<entry id="7491" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7492" type="" size="">
-				<desc></desc>
+			<entry id="7492" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7493" type="" size="">
-				<desc></desc>
+			<entry id="7493" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7494" type="" size="">
-				<desc></desc>
+			<entry id="7494" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7495" type="" size="">
-				<desc></desc>
+			<entry id="7495" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7496" type="" size="">
-				<desc></desc>
+			<entry id="7496" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7497" type="" size="">
-				<desc></desc>
+			<entry id="7497" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7498" type="" size="">
-				<desc></desc>
+			<entry id="7498" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7499" type="" size="">
-				<desc></desc>
+			<entry id="7499" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7500" type="" size="">
-				<desc></desc>
+			<entry id="7500" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7501" type="" size="">
-				<desc></desc>
+			<entry id="7501" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7502" type="" size="">
-				<desc></desc>
+			<entry id="7502" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
-			<entry id="7503" type="" size="">
-				<desc></desc>
+			<entry id="7503" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
+			</entry>
+			<entry id="18380" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
+			</entry>
+			<entry id="9980" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
+			</entry>
+			<entry id="9981" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
+			</entry>
+			<entry id="12536" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
+			</entry>
+			<entry id="18381" type="01;02" size="">
+				<desc>एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में मंचित</desc>
+				<misc>सूचना संदर्भ स्मारिका</misc>
 			</entry>
 		</photo>
 	</media>
@@ -17349,7 +17401,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.361">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">नया थिएटर</entry>
@@ -17359,13 +17411,13 @@
 		</mdetails>
 		<photo>
 			<entry id="1092" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध</desc>
 			</entry>
 			<entry id="2291" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="2292" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध</desc>
 			</entry>
 			<entry id="2292-1" type="" size="">
 				<desc></desc>
@@ -17397,7 +17449,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.362">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">नाट्यदूथी</entry>
@@ -17409,11 +17461,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="074.376">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">नेशनल फिल्म डिवीजन सेन्टर</entry>
-			<entry type="event">मनोहर सिंह `ये वो मंजिल तो नही' (फिल्म)</entry>
+			<entry type="film">`ये वो मंजिल तो नही' (फिल्म)</entry>
+			<entry type="artist">मनोहर सिंह व अन्य</entry>
+			<entry type="date">1-7 अप्रैल 1994</entry>
 		</mdetails>
 		<photo>
 			<entry id="2505" type="" size="">
@@ -17421,7 +17475,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.377">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">न्यू इंडियन थिएटर</entry>
@@ -17446,7 +17500,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.373">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">निर्वाण कला केन्द्र</entry>
@@ -17562,7 +17616,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.374">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">नेपश्य</entry>
@@ -17582,7 +17636,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.375">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">नेशनल थिएटर ऑफ डीफ</entry>
@@ -17618,7 +17672,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.378">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">न्यू इंडियन थिएटर</entry>
@@ -17638,7 +17692,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.379">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">न्यू इंडियन थिएटर</entry>
@@ -17687,20 +17741,30 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.411;074.412">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">प्रयोग</entry>
-			<entry type="drama">कबिरा खड़ा बाजार में</entry>
-			<entry type="writer">भीस्म साहनी</entry>
-			<entry type="director">एम. क. रैना</entry>
+			<entry type="drama">कबिरा खड़ा बाजार में (पूर्वी)</entry>
+			<entry type="writer">भीष्म साहनी</entry>
+			<entry type="translator">अनीस आज़मी</entry>
+			<entry type="projection">एम. के. रैना</entry>
+			<entry type="director">एम. के. रैना</entry>
+			<entry type="music">पंचानन पाठक</entry>
+			<entry type="make-up">महेश, जलीस</entry>
+			<entry type="light">सुरेश अरोड़ा, अशोक भगत</entry>
+			<entry type="artist">उमेश मल्ला (कबीरा), एन. आर. बरुआ (नूरा), वाणी सुबन्ना (नी**), वेद ढींगरा (जुलाहा), जलीस अहसान (सिकंदर लो**), एस. एन. तिवारी (महन्त) व अन्य</entry>
+			<entry type="venue">रवीन्द्रालय, लखनऊ</entry>
+			<entry type="date">18-09-1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="1099" type="" size="">
-				<desc></desc>
+			<entry id="1099" type="02" size="">
+				<desc>उ. प्र. सं. ना. अ. द्वारा आयोजित राष्ट्रीय नाट्य समारोह में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स्मा. - 2937</misc>
 			</entry>
-			<entry id="1100" type="" size="">
-				<desc></desc>
+			<entry id="1100" type="02" size="">
+				<desc>उ. प्र. सं. ना. अ. द्वारा आयोजित राष्ट्रीय नाट्य समारोह में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, सूचना स्रोत - स्मा. - 2937</misc>
 			</entry>
 		</photo>
 	</media>
@@ -17763,7 +17827,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.383">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">परफॉरमर्स एट वर्क</entry>
@@ -17784,7 +17848,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="074.386">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">परिषद् नाट्य परिक्रमा दल</entry>
@@ -17797,54 +17861,70 @@
 		</mdetails>
 		<photo>
 			<entry id="4234" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.407;074.408">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">पिरोज़ द्रूप</entry>
+			<entry type="troupe">पिरोट्ज़ द्रूप</entry>
 			<entry type="drama">आस्था</entry>
+			<entry type="article">सैफ़ हैदर हसन</entry>
 			<entry type="writer">सैफ़ हैदर हसन</entry>
 			<entry type="director">सईद आलम</entry>
-			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम</entry>
+			<entry type="music">सैफ़ हैदर हसन</entry>
+			<entry type="make-up">कौशिक</entry>
+			<entry type="stage">नीति फूल</entry>
+			<entry type="light">मालिनी कुमार</entry>
+			<entry type="choreography">नमिता मल्होत्रा</entry>
+			<entry type="artist">दिगम्बर (देवदूत), अमित (प्रमोद मितल), विद्याभूषण (एल्बर्ट), नीति (आस्था), राजिन्दर (एल्बर्ट का नौकर)</entry>
+			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम, दिल्ली</entry>
 			<entry type="date">17, 18 अप्रैल 1999</entry>
 		</mdetails>
 		<photo>
 			<entry id="5491" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>पिरोट्ज़ ट्रूप द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5492" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>पिरोट्ज़ ट्रूप द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5493" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>पिरोट्ज़ ट्रूप द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5494" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>पिरोट्ज़ ट्रूप द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5495" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>पिरोट्ज़ ट्रूप द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5496" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>पिरोट्ज़ ट्रूप द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5497" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>पिरोट्ज़ ट्रूप द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5498" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>पिरोट्ज़ ट्रूप द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5499" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+				<misc>पिरोट्ज़ ट्रूप द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.421">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">बहुरूप : भारतेन्दु नाट्योत्सव</entry>
+			<entry type="troupe">बहुरूप</entry>
 			<entry type="drama">घर जोरू लोग</entry>
 			<entry type="writer">साहिद अनवर</entry>
 			<entry type="director">सुमन कुमार</entry>
@@ -17857,7 +17937,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.422">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">बहुमुख</entry>
@@ -17880,7 +17960,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.416">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">प्रयोग</entry>
@@ -17888,20 +17968,20 @@
 		</mdetails>
 		<photo>
 			<entry id="1101" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.418">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">प्रयोग</entry>
 			<entry type="drama">वीरगति</entry>
-			<entry type="writer">असगर वज़ाहत</entry>
+			<entry type="writer">अस़गर वज़ाहत</entry>
 		</mdetails>
 		<photo>
 			<entry id="1102" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -17922,52 +18002,71 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.419;074.420">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">प्रयोग</entry>
 			<entry type="drama">हानूश</entry>
 			<entry type="writer">भीष्म साहनी</entry>
-			<entry type="director">वाणी सुव्लना</entry>
-			<entry type="venue">मंजर थिएटर</entry>
+			<entry type="director">षानी सुबन्ना</entry>
+			<entry type="artist">महेश (हानूशका मित्र), सुदेशना (हानूश की पुत्री), जलीस अहसान (हानूश) अंजलि रैना (कात्या)</entry>
+			<entry type="venue">मंजर थिएटर, प्रगति मैदान, दिल्ली</entry>
 			<entry type="date">27-28 अप्रैल 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="1103" type="" size="">
-				<desc></desc>
+			<entry id="1103" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नि. न०. 14/35, 14/34, 14/33</misc>
 			</entry>
-			<entry id="1104" type="" size="">
-				<desc></desc>
+			<entry id="1104" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नि. न०. 14/35, 14/34, 14/33</misc>
 			</entry>
-			<entry id="1105" type="" size="">
-				<desc></desc>
+			<entry id="1105" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नि. न०. 14/35, 14/34, 14/33</misc>
 			</entry>
-			<entry id="4236" type="" size="">
-				<desc></desc>
+			<entry id="2158" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नि. न०. 14/35, 14/34, 14/33</misc>
 			</entry>
-			<entry id="4237" type="" size="">
-				<desc></desc>
+			<entry id="2206" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नि. न०. 14/35, 14/34, 14/33</misc>
 			</entry>
-			<entry id="4238" type="" size="">
-				<desc></desc>
+			<entry id="4236" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
 			</entry>
-			<entry id="4239" type="" size="">
-				<desc></desc>
+			<entry id="4237" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
 			</entry>
-			<entry id="4240" type="" size="">
-				<desc></desc>
+			<entry id="4238" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नि. न०. 14/35, 14/34, 14/33</misc>
+			</entry>
+			<entry id="4239" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
+			</entry>
+			<entry id="4240" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
+			</entry>
+			<entry id="4241" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
+			</entry>
+			<entry id="4242" type="02" size="">
+				<desc>हानूश की प्रथम प्रस्तुति `अभियान संस्था' द्वारा 18-19 फर., 77 में राजेन्द्रनाथ के निर्देशन में</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="074.427">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">भारतीय कला केन्द्र</entry>
 			<entry type="event">ग्रूप फोटो</entry>
 		</mdetails>
 		<photo>
-			<entry id="16115" type="" size="21.5X28">
-				<desc>भारतीय कला केन्द्र की रामलीला के कलाकार प्रधानमंत्री श्रीमती इदिरा गाँधी के साथ</desc>
+			<entry id="16115" type="02" size="21.5X28 से. मी.">
+				<desc>भारतीय कला केन्द्र की रामलीला के कलाकार प्रधानमंत्री श्रीमती इन्दिरा गाँधी के साथ</desc>
 			</entry>
 		</photo>
 	</media>
@@ -17988,7 +18087,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.423">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">बहरूप</entry>
@@ -18000,7 +18099,7 @@
 		</mdetails>
 		<photo>
 			<entry id="10534" type="01" size="10X15">
-				<desc>Note : (Play based on Lu xuis story ``The true story of Ah-Q"</desc>
+				<desc>Note: (Play based on Lu xuis story ``The true story of Ah-Q")</desc>
 			</entry>
 		</photo>
 	</media>
@@ -18025,7 +18124,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.424">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">बाल भवन</entry>
@@ -18037,45 +18136,45 @@
 		</mdetails>
 		<photo>
 			<entry id="3447" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3448" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3449" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3450" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3451" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3452" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3453" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3480" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3481" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3482" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 			<entry id="3484" type="" size="">
-				<desc></desc>
+				<desc>एलबम में</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.425">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">ब्रेश्टियन मिरर</entry>
-			<entry type="drama">खाई क गोलो जुद्भे</entry>
+			<entry type="drama">खाई क गेलो जुद्भे</entry>
 		</mdetails>
 		<photo>
 			<entry id="1642" type="" size="">
