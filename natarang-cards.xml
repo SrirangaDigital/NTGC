@@ -18070,7 +18070,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.432">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">भूमिका</entry>
@@ -28923,7 +28923,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.455">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
@@ -28938,7 +28938,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.448">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
@@ -28953,31 +28953,71 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.449;074.450;074.451">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
-			<entry type="drama">अजर का रव्वाब</entry>
-			<entry type="writer">बर्नाड शॉ</entry>
-			<entry type="version">बेगम कुदसिया जैदी</entry>
+			<entry type="drama">अज़र का रव्वाब (हिन्दी-उर्दू)</entry>
+			<entry type="originaldrama">पिग मेलियन</entry>
+			<entry type="writer">जाँर्ज बर्नाड शॉ (अँग्रेजी)</entry>
+			<entry type="translator">बेगम कुदसिया ज़ैदी</entry>
+			<entry type="director">टी. पी. जैन व सलीमा रज़ा</entry>
+			<entry type="music">Hugh माइकल</entry>
+			<entry type="make-up">रति बार्योलोम्यू</entry>
+			<entry type="costume">सुषमा मेहरा</entry>
+			<entry type="light">आर. के. ढींगरा</entry>
+			<entry type="stage">सुदेश स्याल</entry>
+			<entry type="artist">अंजू कुमार (खुर्शीद), संतोष कपिला (बेगम बकर अली), कुलभूषण खरबन्दा (फरीद), सलीमा रज़ा (अमरूद वाली हज्जो), अशोक सरीन (फरहत), निगम प्रकाश (अजर) की भूमिका में व अन्य</entry>
+			<entry type="venue">असेम्बली हॉल, माधव रोड़, दिल्ली</entry>
+			<entry type="date">20-21, 27-28 फर. एवं 6-7, 11-14 मार्च 1965</entry>
 		</mdetails>
 		<photo>
-			<entry id="1115" type="" size="">
-				<desc></desc>
+			<entry id="1115" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन एवं सलीमा रज़ा द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्मा. - 1487, नाटक का मूल नाम `पिग मेलियन', नटरंग अंक -3 मे प्रकाशित</misc>
 			</entry>
-			<entry id="1116" type="" size="">
-				<desc></desc>
+			<entry id="1116" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन एवं सलीमा रज़ा द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्मा. - 1487, नाटक का मूल नाम `पिग मेलियन', नटरंग अंक -3 मे प्रकाशित</misc>
+			</entry>
+			<entry id="8964" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन एवं सलीमा रज़ा द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्मा. - 1487, नाटक का मूल नाम `पिग मेलियन', नटरंग अंक -3 मे प्रकाशित</misc>
+			</entry>
+			<entry id="8965" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन एवं सलीमा रज़ा द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्मा. - 1487, नाटक का मूल नाम `पिग मेलियन', नटरंग अंक -3 मे प्रकाशित</misc>
+			</entry>
+			<entry id="8966" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन एवं सलीमा रज़ा द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्मा. - 1487, नाटक का मूल नाम `पिग मेलियन', नटरंग अंक -3 मे प्रकाशित</misc>
+			</entry>
+			<entry id="15097" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन एवं सलीमा रज़ा द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्मा. - 1487, नाटक का मूल नाम `पिग मेलियन', नटरंग अंक -3 मे प्रकाशित</misc>
+			</entry>
+			<entry id="15098" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन एवं सलीमा रज़ा द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्मा. - 1487, नाटक का मूल नाम `पिग मेलियन', नटरंग अंक -3 मे प्रकाशित</misc>
+			</entry>
+			<entry id="15099" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन एवं सलीमा रज़ा द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्मा. - 1487, नाटक का मूल नाम `पिग मेलियन', नटरंग अंक -3 मे प्रकाशित</misc>
+			</entry>
+			<entry id="15100" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन एवं सलीमा रज़ा द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना संदर्भ स्मा. - 1487, नाटक का मूल नाम `पिग मेलियन', नटरंग अंक -3 मे प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.447">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यवनिका</entry>
 			<entry type="drama">अंधों का हाथी</entry>
 			<entry type="writer">शरद जोशी</entry>
 			<entry type="director">सेवक नैयर</entry>
-			<entry type="artist">संजीव गुप्ता, राजकुमार</entry>
+			<entry type="artist">संजीव गुप्ता, राजकुमार बहरुपिया व अन्य</entry>
 			<entry type="venue">अभिमंच सभागार, जम्मू</entry>
 			<entry type="date">17-02-1996</entry>
 		</mdetails>
@@ -29008,26 +29048,29 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.463">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
 			<entry type="drama">लोअर डेप्थ</entry>
 			<entry type="writer">मौक्सिम गोर्की</entry>
+			<entry type="translator">रेखा कौशिक/सूर्यमोहन कुलश्रेष्ठ</entry>
+			<entry type="director">एम. के. रैना</entry>
 		</mdetails>
 		<photo>
 			<entry id="1121" type="" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="1122" type="" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 			<entry id="1123" type="" size="">
-				<desc></desc>
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.464">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
@@ -29095,25 +29138,38 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.456">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
 			<entry type="drama">द गवर्ममेंट इन्स्पेक्टर</entry>
+			<entry type="writer">गोगोल</entry>
 			<entry type="director">निगम प्रकाश</entry>
 			<entry type="artist">सलीम रज़ा, टी. पी. जैन व अन्य</entry>
 			<entry type="date">1964</entry>
 		</mdetails>
 		<photo>
+			<entry id="1113" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1114" type="02" size="">
+				<desc></desc>
+			</entry>
 			<entry id="8971" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="15213" type="02" size="">
 				<desc></desc>
 			</entry>
 			<entry id="8972" type="02" size="">
 				<desc></desc>
 			</entry>
+			<entry id="15212" type="02" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.457">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
@@ -29122,42 +29178,48 @@
 		</mdetails>
 		<photo>
 			<entry id="1117" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.458;074.459">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
-			<entry type="drama">बलमजी तुम आगे मै पीछे</entry>
-			<entry type="writer">हरपिन्दर पुरी</entry>
-			<entry type="director">हरपिन्दर पुरी</entry>
-			<entry type="venue">मंजर थिएटर</entry>
+			<entry type="drama">बलमजी तुम आगे मैं पीछे</entry>
+			<entry type="writer">इरपिन्दर पुरी</entry>
+			<entry type="director">इरपिन्दर पुरी</entry>
+			<entry type="music">अविजित दत्त</entry>
+			<entry type="make-up">जॉय माइकल</entry>
+			<entry type="costume">अंजलि कपिला, सिंथिया</entry>
+			<entry type="stage">अफसर हुसैन</entry>
+			<entry type="light">अविजित दत्त</entry>
+			<entry type="artist">कामिनी गुप्ता (ललिता), सुचित्रा गुप्ता (पुष्पा), अमिता उद्गाता (लक्ष्मी), अंजलि कपिला (औरत-1), वंदना प्रसाद (वंदना), तिशा कपूर (मंजु) व अन्य</entry>
+			<entry type="venue">मंजर थिएटर, प्रगति मैदान, दिल्ली</entry>
 			<entry type="date">18-19 मई 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="4169" type="" size="">
-				<desc></desc>
+			<entry id="4169" type="02" size="">
+				<desc>सूचना स्मा. - 143 से</desc>
 			</entry>
-			<entry id="4170" type="" size="">
-				<desc></desc>
+			<entry id="4170" type="02" size="">
+				<desc>सूचना स्मा. - 143 से</desc>
 			</entry>
-			<entry id="4171" type="" size="">
-				<desc></desc>
+			<entry id="4171" type="02" size="">
+				<desc>सूचना स्मा. - 143 से</desc>
 			</entry>
-			<entry id="4173" type="" size="">
-				<desc></desc>
+			<entry id="4173" type="02" size="">
+				<desc>सूचना स्मा. - 143 से</desc>
 			</entry>
-			<entry id="4174" type="" size="">
-				<desc></desc>
+			<entry id="4174" type="02" size="">
+				<desc>सूचना स्मा. - 143 से</desc>
 			</entry>
-			<entry id="4175" type="" size="">
-				<desc></desc>
+			<entry id="4175" type="02" size="">
+				<desc>सूचना स्मा. - 143 से</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.465">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
@@ -29182,20 +29244,22 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.466">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
 			<entry type="drama">व्यक्तिगत</entry>
 			<entry type="writer">लक्ष्मीनारायण लाल</entry>
+			<entry type="artist">मोना चावला, रवि वासवानी</entry>
 		</mdetails>
 		<photo>
-			<entry id="1118" type="" size="">
-				<desc></desc>
+			<entry id="1118" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.467">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">यात्रिक</entry>
@@ -29216,12 +29280,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.469">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">युनिटी थिएटर</entry>
 			<entry type="drama">लुक बैक इन एंगर</entry>
-			<entry type="writer">जान आस्बर्न</entry>
+			<entry type="writer">जॉन आस्बर्न</entry>
 			<entry type="director">इब्राहिम अल्काजी</entry>
 			<entry type="artist">मनोहर सिंह</entry>
 		</mdetails>
@@ -29825,24 +29889,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.445">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">माडर्नाट्स</entry>
+			<entry type="troupe">मॉडर्नाइट्ज</entry>
 			<entry type="drama">शाबास अनारकली</entry>
 			<entry type="writer">सुरेन्द्र गुलाटी</entry>
-			<entry type="director">दीनानाथ</entry>
+			<entry type="director">दीना नाथ</entry>
+			<entry type="artist">किशोर कुमार कपूर (बख्तियार), प्राण तलवार (सलीम), रेणु जुनेजा (दिलाराम), कीमती आनन्द (हकीम हमाम), राजेन्द्र वर्मा (मानसिंह), अग्निहोत्री (बीखल) व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="1111" type="" size="">
-				<desc></desc>
+			<entry id="1111" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1112" type="" size="">
-				<desc></desc>
+			<entry id="1112" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.446">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">मिराण्डा हाउस</entry>
@@ -29859,29 +29924,37 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.440;074.441">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">मंचरंग</entry>
 			<entry type="drama">दिल्ली ऊंचा सुनती है</entry>
 			<entry type="writer">कुसुम कुमार</entry>
 			<entry type="director">त्रिपुरारी शर्मा, रवि शर्मा</entry>
-			<entry type="date">सितम्बर 1981</entry>
+			<entry type="music">अमिताभ दासगुप्ता</entry>
+			<entry type="make-up">नरेश खरे</entry>
+			<entry type="stage">एच. जे. एस. वालिया</entry>
+			<entry type="light">गिरधारी लाल</entry>
+			<entry type="artist">रवि शर्मा (माधो सिंह), सुचित्रा गुप्ता (कमला), संगीत (नीति), अनिल कोचर (चिकित्सालय कर्मचारी), ॠतु ग्रोवर (अलका, स्त्री चिकित्सक), व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
+			<entry type="date">22-23, 28-30 सितम्बर 1981</entry>
 		</mdetails>
 		<photo>
-			<entry id="1219" type="" size="">
-				<desc></desc>
+			<entry id="1219" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्मा. - 345 से</misc>
 			</entry>
-			<entry id="1220" type="" size="">
-				<desc></desc>
+			<entry id="1220" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्मा. - 345 से</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.442">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">महाराष्ट्र इन्फॉरमेशन सेन्टर</entry>
-			<entry type="drama">गाठ आहे मझायाशी</entry>
+			<entry type="drama">गाठ आहे मझयाशी</entry>
 			<entry type="writer">वसन्त कानेटकर</entry>
 		</mdetails>
 		<photo>
@@ -29890,7 +29963,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.443">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">महाराष्ट्र इन्फॉरमेशन सेंटर</entry>
@@ -29902,7 +29975,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.444">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">माडर्नाइट्स</entry>
@@ -29945,7 +30018,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.470">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रंगभूमि</entry>
@@ -29960,11 +30033,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.471">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रंग भूमि</entry>
-			<entry type="drama">ओयेलो</entry>
+			<entry type="drama">ओथेलो</entry>
 			<entry type="director">प्रकाश भाटिया</entry>
 			<entry type="date">दिसंबर 1995</entry>
 		</mdetails>
@@ -29974,27 +30047,40 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.472;074.474;074.475;074.476">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">रंगमंच</entry>
+			<entry type="troupe">रंगमंच (रंगवसुन्धरा)</entry>
 			<entry type="drama">त्रिशंकु</entry>
-			<entry type="writer">बी. एम. शाह</entry>
-			<entry type="director">बी. एम. शाह</entry>
+			<entry type="writer">बृज मोहन शाह</entry>
+			<entry type="director">बृज मोहन शाह</entry>
+			<entry type="music">अनिल सहगल</entry>
+			<entry type="voice">अनिल सहगल</entry>
+			<entry type="make-up">शर्मा</entry>
+			<entry type="costume">चमन बग्गा</entry>
+			<entry type="light">राज कुमार</entry>
+			<entry type="stage">बृजमोहन शाह</entry>
+			<entry type="mask">एच. के. वर्मा</entry>
+			<entry type="artist">चमन बग्गा (निर्देशक-सूत्रधार), शंकर तयाल (राजा), सुधीर आहूजा (नेता), मधु शर्मा (युवती), बनवारी तनेजा (चपरासी) व अन्य</entry>
+			<entry type="venue">त्रिवेणी गार्डन थियेटर, दिल्ली</entry>
+			<entry type="date">10-12 अक्टूबर 1969</entry>
 		</mdetails>
 		<photo>
-			<entry id="1224" type="" size="">
-				<desc></desc>
+			<entry id="1224" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 370 एवं नटरंग सयुक्तांक 10-11 पृष्ठ 72</misc>
 			</entry>
-			<entry id="1225" type="" size="">
-				<desc></desc>
+			<entry id="1225" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 370 एवं नटरंग सयुक्तांक 10-11 पृष्ठ 72</misc>
 			</entry>
-			<entry id="1226" type="" size="">
-				<desc></desc>
+			<entry id="1226" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 370 एवं नटरंग सयुक्तांक 10-11 पृष्ठ 72</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.473">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रंगवसुन्धरा</entry>
