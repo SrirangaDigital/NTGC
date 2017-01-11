@@ -29192,6 +29192,7 @@
 			<entry type="music">अविजित दत्त</entry>
 			<entry type="make-up">जॉय माइकल</entry>
 			<entry type="costume">अंजलि कपिला, सिंथिया</entry>
+			<entry type="material">अंजलि कपिला, सिंथिया</entry>
 			<entry type="stage">अफसर हुसैन</entry>
 			<entry type="light">अविजित दत्त</entry>
 			<entry type="artist">कामिनी गुप्ता (ललिता), सुचित्रा गुप्ता (पुष्पा), अमिता उद्गाता (लक्ष्मी), अंजलि कपिला (औरत-1), वंदना प्रसाद (वंदना), तिशा कपूर (मंजु) व अन्य</entry>
@@ -29992,29 +29993,44 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.477;074.478;074.479">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रंगवसुन्धरा</entry>
 			<entry type="drama">नागमण्डल</entry>
-			<entry type="writer">गिरीश कारनाड</entry>
-			<entry type="translation">अनामिका</entry>
+			<entry type="writer">गिरीश कारनाड (अँग्रेजी)</entry>
+			<entry type="translator">अनामिका</entry>
+			<entry type="projection">सत्यव्रत राउत</entry>
 			<entry type="director">सत्यव्रत राउत</entry>
-			<entry type="venue">श्रीराम सेंटर</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="make-up">अनूप हजारिका</entry>
+			<entry type="costume">विभा सैफ चौधरी, सीमा श्रीवास्तव</entry>
+			<entry type="light">महेश चन्द्र</entry>
+			<entry type="stage">सत्यव्रत राउत एवं माधवेन्दर रंजन</entry>
+			<entry type="material">सत्यव्रत राउत एवं माधवेन्दर रंजन</entry>
+			<entry type="choreography">भूमिकेश्वर सिंह</entry>
+			<entry type="song">देवेन्द्रराज अंकुर एवं ब. व. कारंत</entry>
+			<entry type="photography">एस. त्यागराजन, रमेश सल्होत्र</entry>
+			<entry type="artist">सुभाष चोपड़ा (आदमी), सुब्रत बोस, जगमोहन सिंह, कमल किशोर (ज्योतियाँ), माधवेन्दर रंजन (कपन्ना), अनूप हजारिका (अपन्ना) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
 			<entry type="date">27-28 दिस. 1993</entry>
 		</mdetails>
 		<photo>
 			<entry id="2207" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>संदर्भ सूचना स्मा. - 1205 से</misc>
 			</entry>
 			<entry id="2208" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>संदर्भ सूचना स्मा. - 1205 से</misc>
 			</entry>
 			<entry id="2209" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>संदर्भ सूचना स्मा. - 1205 से</misc>
 			</entry>
 			<entry id="2210" type="02" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>संदर्भ सूचना स्मा. - 1205 से</misc>
 			</entry>
 		</photo>
 	</media>
@@ -47287,12 +47303,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="01" cid="074.519">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="photo">आशीष विद्यार्थी</entry>
-			<entry type="event">एकल अभिनय - धिग धिग छा</entry>
+			<entry type="drama">एकल अभिनय - धिग धिग छा</entry>
 			<entry type="writer">मकरंद देशपांडे</entry>
 			<entry type="artist">आशीष विद्यार्थी</entry>
 			<entry type="venue">अभिमंच</entry>
@@ -47372,6 +47388,9 @@
 				<desc></desc>
 			</entry>
 			<entry id="2358" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4219" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -48119,18 +48138,20 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.521">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="drama">प्रेत</entry>
-			<entry type="photo">इब्राहीम अलकाजी</entry>
+			<entry type="photo">इब्राहिम अल्काजी</entry>
 			<entry type="writer">इब्सन</entry>
 			<entry type="translation">नेमिचन्द्र जैन</entry>
-			<entry type="director">इब्राहीम अलकाजी</entry>
+			<entry type="director">इब्राहिम अल्काजी</entry>
+			<entry type="artist">उषा बैनर्जी व गोविन्द प्रसाद</entry>
+			<entry type="date">1966-1967</entry>
 		</mdetails>
 		<photo>
-			<entry id="1743" type="" size="">
+			<entry id="1743" type="02" size="">
 				<desc>द घोस्ट्स का अनुवाद</desc>
 			</entry>
 		</photo>
@@ -49298,12 +49319,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="074.513">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="photo">धर्मवीर भारती</entry>
 			<entry type="event">दीक्षांत समारोह</entry>
+			<entry type="date">23-03-1996</entry>
 		</mdetails>
 		<photo>
 			<entry id="4056" type="" size="">
@@ -49311,12 +49333,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.522">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="photo">नसीरुद्दीन शाह</entry>
-			<entry type="event">एकल अभिनय - बडे भाई साहब</entry>
+			<entry type="drama">एकल अभिनय - बडे भाई साहब</entry>
 			<entry type="writer">प्रेमचंद</entry>
 			<entry type="artist">नसीरुद्दीन शाह</entry>
 			<entry type="venue">अभिमंच</entry>
@@ -49812,27 +49834,27 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="074.517">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="event">एकल अभिनय - दुपहरिया</entry>
+			<entry type="event">दोपहरियां (एकल अभिनय)</entry>
 			<entry type="artist">पंकज कपूर</entry>
 			<entry type="venue">अभिमंच सभागार, रा. ना. वि. दिल्ली</entry>
 			<entry type="date">26-03-1996</entry>
 		</mdetails>
 		<photo>
-			<entry id="4057" type="" size="">
+			<entry id="4057" type="02" size="">
 				<desc>दीक्षांत समारोह में आयोजित नाटक</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="01" cid="074.515">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="photo">पीयूष मिश्र</entry>
-			<entry type="event">एकल अभिनय - दुविधा</entry>
+			<entry type="drama">एकल अभिनय - दुविधा</entry>
 			<entry type="artist">पीयूष मिश्र</entry>
 			<entry type="venue">अभिमंच</entry>
 			<entry type="date">24-03-1996</entry>
@@ -50622,7 +50644,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="074.514">
 		<mdetails>
 			<entry type="state">दिल्ली</entry>
 			<entry type="place">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -50756,18 +50778,18 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="01" cid="074.545">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="photo">लक्ष्मण देशपांडे</entry>
-			<entry type="event">एकल अभिनय - वरहद नाघले लंदनाला</entry>
+			<entry type="drama">एकल अभिनय - वरहद नाघले लंदनाला</entry>
 			<entry type="artist">लक्ष्मण देशपांडे</entry>
-			<entry type="venue">अभिमंच</entry>
+			<entry type="venue">अभिमंच सभागार, रा. ना. वि.</entry>
 			<entry type="date">25-03-1996</entry>
 		</mdetails>
 		<photo>
-			<entry id="4062" type="" size="">
+			<entry id="4062" type="02" size="">
 				<desc>दीक्षांत समारोह में आयोजित नाटक</desc>
 			</entry>
 		</photo>
@@ -60550,7 +60572,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.486.1">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -60632,12 +60654,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.486.2">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">अपने अपने अजनबी</entry>
-			<entry type="writer">स. ही. बात्स्यायन</entry>
+			<entry type="drama">अपने अपने अजनबी  (हिन्दी)</entry>
+			<entry type="writer">स. ही. वात्स्यायन (उपन्यास)</entry>
 			<entry type="director">देवेन्द्र राज अंकुर</entry>
 			<entry type="version">देवेन्द्र राज अंकुर</entry>
 			<entry type="artist">प्रतिमा काज़मी</entry>
@@ -60648,11 +60670,20 @@
 			<entry type="date">1989</entry>
 		</mdetails>
 		<photo>
+			<entry id="8390" type="" size="">
+				<desc>न. प्र.</desc>
+			</entry>
 			<entry id="8391" type="" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="8392" type="" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
+			</entry>
+			<entry id="8393" type="" size="">
+				<desc>न. प्र.</desc>
+			</entry>
+			<entry id="8394" type="" size="">
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -60680,47 +60711,114 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.490;074.491;074.492">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="drama">आषाढ़ का एक दिन</entry>
 			<entry type="writer">मोहन राकेश</entry>
+			<entry type="music">इब्राहिम अलकाज़ी</entry>
 			<entry type="director">इब्राहिम अलकाज़ी</entry>
+			<entry type="backstagemusic">ब. व. कारंत</entry>
+			<entry type="artist">ओम शिवपुरी (कालिदास), मीना विलियम्स (अंबिका), सुधा शर्मा (मल्लिका), अरुण अग्निहोत्री (विलोम), शंकर बिहारी लाल (मातुल), सुरेन्द्र कौशिक (निक्षेप), हरपाल टिवाणा (दंतुल), सई परांजपये (प्रियगुमंजरी), मीना पेठे, ज्योति व्यास व अन्य</entry>
+			<entry type="make-up">इंदु घोष</entry>
+			<entry type="costume">कोकिला भवानी</entry>
+			<entry type="light">जी. एस. मराठे</entry>
+			<entry type="book">रंगसाक्षी-जयदेव तनेजा</entry>
+			<entry type="venue">मुक्ताकाश प्रेक्षागृह, रा. ना. वि., कैलाश कॉलोनी, 15-A, दिल्ली</entry>
+			<entry type="date">07-14 दिसंबर 1962</entry>
 		</mdetails>
 		<photo>
-			<entry id="1662" type="" size="">
-				<desc></desc>
+			<entry id="1662" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="1663" type="" size="">
-				<desc></desc>
+			<entry id="1663" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="1664" type="" size="">
-				<desc></desc>
+			<entry id="1664" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="1665" type="" size="">
-				<desc></desc>
+			<entry id="1665" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="1666" type="" size="">
-				<desc></desc>
+			<entry id="1666" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="1667" type="" size="">
-				<desc></desc>
+			<entry id="11729" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="1668" type="" size="">
-				<desc></desc>
+			<entry id="1667" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="1669" type="" size="">
-				<desc></desc>
+			<entry id="1668" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="2216" type="" size="">
-				<desc></desc>
+			<entry id="11728" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="4219" type="" size="">
-				<desc></desc>
+			<entry id="1669" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
-			<entry id="4221" type="" size="">
-				<desc></desc>
+			<entry id="11665" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="11044" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1
+			<entry id="11731" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="2216" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="2357" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="2358" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="4219" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="4221" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="8735" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="11730" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="11729" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="11726" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
+			</entry>
+			<entry id="11727" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक - 1 में प्रकाशित, सूचना स्रोत नटरंग अंक - 1</misc>
 			</entry>
 		</photo>
 	</media>
@@ -60769,15 +60867,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.493">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="drama">ऊपर की मंजिल का पुरुष</entry>
+			<entry type="artist">कमलाकर सोनटक्के (पुरुष)</entry>
 		</mdetails>
 		<photo>
-			<entry id="1672" type="" size="">
-				<desc></desc>
+			<entry id="1672" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -60801,7 +60900,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.494">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -60812,12 +60911,13 @@
 			<entry type="date">28-08-2004</entry>
 		</mdetails>
 		<photo>
-			<entry id="8537" type="" size="">
+			<entry id="8537" type="01" size="">
 				<desc>राजस्थान (अलवर) अलवर (राजस्थान) में आयोजित कार्यशाला में तैयार `एक था गधा' की प्रस्तुति</desc>
+				<misc>न. प्र.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.495.0">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -60826,7 +60926,7 @@
 			<entry type="director">देवेन्द्र राज अंकुर</entry>
 			<entry type="story">कोलाज-3</entry>
 			<entry type="venue">अभिमंच</entry>
-			<entry type="date">7-12 मई 1996</entry>
+			<entry type="date">07-12 मई 1996</entry>
 		</mdetails>
 		<photo>
 			<entry id="3994" type="" size="">
@@ -60837,11 +60937,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.496">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">द ऎडिंग मशीन</entry>
+			<entry type="drama">द ऐडिंग मशीन</entry>
 			<entry type="writer">इल्मर राइस</entry>
 			<entry type="director">बैरी जॉन</entry>
 		</mdetails>
@@ -60854,10 +60954,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.497">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नात्य विद्यालय</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="drama">कितनी कैदे</entry>
 			<entry type="writer">मृदुला गर्ग</entry>
 			<entry type="director">निवेदिता भार्गव</entry>
@@ -60870,7 +60970,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.498">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -60906,7 +61006,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.500">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -60922,16 +61022,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.501">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">घर-धूसरा</entry>
+			<entry type="drama">घर-घुसरा</entry>
 			<entry type="writer">मनोहर चौहान</entry>
 			<entry type="director">देवेन्द्र राज अंकुर</entry>
 			<entry type="story">कोलाज-3</entry>
 			<entry type="venue">अभिमंच</entry>
-			<entry type="date">7-12 मई 1996</entry>
+			<entry type="date">07-12 मई 1996</entry>
 		</mdetails>
 		<photo>
 			<entry id="4054" type="" size="">
@@ -60939,7 +61039,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.503">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61132,7 +61232,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.504">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61147,7 +61247,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.505">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61166,70 +61266,87 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.507;074.508;074.509;074.510">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">तीन टके का स्वंग</entry>
-			<entry type="writer">बर्टोल्ट ब्रेश्ट</entry>
-			<entry type="director">फ्रिट्ज बेनेबिट्ज</entry>
+			<entry type="drama">तीन टके का स्वांग (उर्दू)</entry>
+			<entry type="writer">बर्टोल्ट ब्रेख़्त (जर्मनी)</entry>
+			<entry type="translator">सुरेखा सीकरी</entry>
+			<entry type="lyricstranslation">शीला भाटिया</entry>
+			<entry type="director">फ्रिट्ज बेनेविट्ज़</entry>
+			<entry type="asstdirector">अमाल अल्काजी</entry>
+			<entry type="music">वनराज भाटिया</entry>
+			<entry type="costume">अमाल अल्काजी</entry>
+			<entry type="make-up">इब्राहिम अल्काजी</entry>
+			<entry type="stage">गोवर्धन पांचाल व अन्य</entry>
+			<entry type="stagecontent">देव महापात्र, देवेन्द्र राज अंकुर, प्रेमा कारंत व अन्य</entry>
+			<entry type="light">जी. एन. दासगुप्ता, महेशचन्द्र व अन्य</entry>
+			<entry type="artist">मनोहर सिंह (मैकेथ-Macheath), एम. के. रैना (पिकम व भिखारी), नादिरा ज़हीर (बब्बर) (सिलिया पिकम-Celia Peachum), उत्तरा बावकर (पॉली), कीर्ति जैन (डौली), देवेन्द्र राज अंकुर (कॉन्स्टेबल व भिखारी) व अन्य</entry>
+			<entry type="book">भारतीय रंगकोश-प्रतिभा अग्रवाल</entry>
+			<entry type="venue">दिल्ली</entry>
+			<entry type="date">अक्टूबर 1970</entry>
 		</mdetails>
 		<photo>
 			<entry id="2221" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="2477" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="2418" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="2927" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="2928" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="2929" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="2930" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="2931" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="2932" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="3051" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="3052" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="3082" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 			<entry id="3083" type="" size="">
 				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
-				<misc>मनोहर सिंह द्वारा भेंट</misc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
+			</entry>
+			<entry id="18630" type="" size="">
+				<desc>मूल जर्मन नाटक के अंग्रेजी अनुवाद थ्री पैनी ओपेरा का हिन्दी अनुवाद</desc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नटरंग अंक - में प्रकाशित, निगेटिव उपलब्ध, सूचना स्रोत स्मा. - 494</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.511">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61237,7 +61354,7 @@
 			<entry type="writer">फणीश्वरनाथ</entry>
 			<entry type="director">देवेन्द्र राज अंकुर</entry>
 			<entry type="story">कोलाज-4</entry>
-			<entry type="date">7-12 मई 1996</entry>
+			<entry type="date">07-12 मई 1996</entry>
 		</mdetails>
 		<photo>
 			<entry id="4004" type="" size="">
@@ -61306,7 +61423,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.512">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61314,7 +61431,7 @@
 			<entry type="writer">मन्नू भंडारी</entry>
 			<entry type="director">देवेन्द्र राज अंकुर</entry>
 			<entry type="story">कोलाज-4</entry>
-			<entry type="date">7-12 मई 1996</entry>
+			<entry type="date">07-12 मई 1996</entry>
 		</mdetails>
 		<photo>
 			<entry id="4010" type="" size="">
@@ -61322,7 +61439,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.516">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61566,22 +61683,29 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.523">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">बुरेफसे मोहब्बत में</entry>
+			<entry type="drama">बुरे फँसे मोहब्बत में</entry>
+			<entry type="artist">उत्तरा बावकर (रज्जी), सविता बजाज (रीता), कमलाकर सोनटक्के (मनहर)</entry>
 		</mdetails>
 		<photo>
-			<entry id="1746" type="" size="">
-				<desc></desc>
+			<entry id="1744" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1747" type="" size="">
-				<desc></desc>
+			<entry id="1745" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="1746" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
+			</entry>
+			<entry id="1747" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.525">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61621,7 +61745,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.524">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61632,135 +61756,162 @@
 		</mdetails>
 		<photo>
 			<entry id="8371" type="02" size="">
-				<desc></desc>
+				<desc>छात्र प्रस्तुति, न. प्र.</desc>
 			</entry>
 			<entry id="8369" type="02" size="">
-				<desc></desc>
+				<desc>छात्र प्रस्तुति, न. प्र.</desc>
 			</entry>
 			<entry id="8370" type="02" size="">
-				<desc></desc>
+				<desc>छात्र प्रस्तुति, न. प्र.</desc>
+			</entry>
+			<entry id="22585" type="02" size="">
+				<desc>छात्र प्रस्तुति, न. प्र.</desc>
+			</entry>
+			<entry id="22586" type="02" size="">
+				<desc>छात्र प्रस्तुति, न. प्र.</desc>
+			</entry>
+			<entry id="22587" type="02" size="">
+				<desc>छात्र प्रस्तुति, न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.528">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">भीष्म विजय</entry>
+			<entry type="drama">भीष्म विजय (यक्षगान शैली)</entry>
+			<entry type="director">कोटा शिवराम कारंत एवं ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
-			<entry id="1757" type="" size="">
-				<desc></desc>
+			<entry id="1757" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1758" type="" size="">
-				<desc></desc>
+			<entry id="1758" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1759" type="" size="">
-				<desc></desc>
+			<entry id="1759" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1760" type="" size="">
-				<desc></desc>
+			<entry id="1760" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1761" type="" size="">
-				<desc></desc>
+			<entry id="1761" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1762" type="" size="">
-				<desc></desc>
+			<entry id="1762" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1763" type="" size="">
-				<desc></desc>
+			<entry id="1763" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1764" type="" size="">
-				<desc></desc>
+			<entry id="1764" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1765" type="" size="">
-				<desc></desc>
+			<entry id="1765" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1766" type="" size="">
-				<desc></desc>
+			<entry id="1766" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1767" type="" size="">
-				<desc></desc>
+			<entry id="1767" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.529;074.530">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">भूरवे नाविक</entry>
+			<entry type="drama">भूखे नाविक (हिन्दी)</entry>
 			<entry type="writer">वृंदावन दंडवते</entry>
+			<entry type="translator">उत्तरा बावकर व भानू भारती</entry>
 			<entry type="director">कीर्ति जैन</entry>
+			<entry type="music">राजेन्द्र गुप्ता</entry>
+			<entry type="light">शरद व्यास एवं प्रदीप कुमार</entry>
+			<entry type="artist">जयदेव हट्टंगड़ी (सुखता), राजेन्द्र जसपाल (मंझोला), नसीरुद्दीन शाह (मोटा), राजन सब्बरवाल (दकिया), एस. ए. कादरी (बावची)</entry>
+			<entry type="venue">स्टुडियो थिएटर, रवीन्द्र भवन, दिल्ली</entry>
 		</mdetails>
 		<photo>
-			<entry id="1768" type="" size="">
-				<desc></desc>
+			<entry id="1768" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 829</misc>
 			</entry>
-			<entry id="1769" type="" size="">
-				<desc></desc>
+			<entry id="1769" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 829</misc>
 			</entry>
-			<entry id="1770" type="" size="">
-				<desc></desc>
+			<entry id="1770" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 829</misc>
 			</entry>
-			<entry id="1771" type="" size="">
-				<desc></desc>
+			<entry id="1771" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 829</misc>
 			</entry>
-			<entry id="1772" type="" size="">
-				<desc></desc>
+			<entry id="1772" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 829</misc>
 			</entry>
-			<entry id="1773" type="" size="">
-				<desc></desc>
+			<entry id="1773" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 829</misc>
 			</entry>
-			<entry id="1774" type="" size="">
-				<desc></desc>
+			<entry id="1774" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 829</misc>
 			</entry>
-			<entry id="1775" type="" size="">
-				<desc></desc>
+			<entry id="1775" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 829</misc>
 			</entry>
-			<entry id="1776" type="" size="">
-				<desc></desc>
+			<entry id="1776" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - स्मा. - 829</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.532">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="drama">मत्तविलासम्</entry>
 			<entry type="director">कुमार वर्मा</entry>
-			<entry type="artist">देवासोमा (अपराजिता मेहंदीरत्ता), पशुपत (मुरारी), पपालिक (पंकज एम. बैरी)</entry>
+			<entry type="artist">देवासोमा (अपराजिता मेहंदीरत्ता), पशुपत (मुरारी), कपालिक (पंकज एम. बैरी)</entry>
 			<entry type="venue">चंडीगढ़</entry>
 			<entry type="date">12-11-1982</entry>
 		</mdetails>
 		<photo>
 			<entry id="8336" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.531">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="drama">मत्तविलास</entry>
 			<entry type="writer">महेन्द्र विक्रम</entry>
 			<entry type="director">देवेन्द्र राज अंकुर</entry>
-			<entry type="translation">नेमिचन्द्र जैन, उर्मि गुप्ता</entry>
+			<entry type="translator">नेमिचन्द्र जैन, उर्मि गुप्ता</entry>
 			<entry type="artist">अनामिका हक्सर (खड़ी हुई)</entry>
 			<entry type="date">1978-1979</entry>
 		</mdetails>
 		<photo>
 			<entry id="8395" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="8396" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="8397" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="8398" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
+			</entry>
+			<entry id="20854" type="02" size="">
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -61807,7 +61958,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.533">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61818,6 +61969,39 @@
 			<entry type="date">1964</entry>
 		</mdetails>
 		<photo>
+			<entry id="1777" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1778" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1779" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1780" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1781" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1782" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1783" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1784" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1785" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1786" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
+			<entry id="1787" type="" size="">
+				<desc>शांता गांधी द्वारा भेंट</desc>
+			</entry>
 			<entry id="3342" type="" size="">
 				<desc>शांता गांधी द्वारा भेंट</desc>
 			</entry>
@@ -61949,7 +62133,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.534">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -61962,6 +62146,7 @@
 			</entry>
 			<entry id="1789" type="" size="">
 				<desc>संस्कृत के `मृच्छकटिक' का रूपान्तर</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 			<entry id="1790" type="" size="">
 				<desc>संस्कृत के `मृच्छकटिक' का रूपान्तर</desc>
@@ -62041,7 +62226,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.536">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -62052,15 +62237,15 @@
 		</mdetails>
 		<photo>
 			<entry id="4000" type="" size="">
-				<desc></desc>
+				<desc>सीन वर्क</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.537">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">यहाँ संशहर को देखो</entry>
+			<entry type="drama">यहाँ से शहर को देखो</entry>
 			<entry type="writer">बर्टोल्ट ब्रेस्ट</entry>
 			<entry type="director">स्वानंद किरकरे</entry>
 			<entry type="venue">स्टुडियो थिएटर</entry>
@@ -62068,7 +62253,7 @@
 		</mdetails>
 		<photo>
 			<entry id="4070" type="" size="">
-				<desc>कविताओ की नाट्य प्रस्तुति</desc>
+				<desc>कविताओं की नाट्य प्रस्तुति</desc>
 			</entry>
 		</photo>
 	</media>
@@ -62089,16 +62274,17 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.538">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="drama">रसास्वादन</entry>
 			<entry type="artist">किरण सहगल व अन्य</entry>
+			<entry type="event">व्याख्यान, प्रदर्शन तथा कार्यशाला</entry>
 		</mdetails>
 		<photo>
 			<entry id="3551" type="" size="">
-				<desc>व्याख्यान, प्रदर्शन तथा कर्यशाला</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
@@ -62177,31 +62363,52 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.542;074.543;074.544">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">लोमड़ खान का वेश</entry>
+			<entry type="drama">लोमड़ खान का वेश (भवई तत्वों के साथ)</entry>
+			<entry type="writer">बेन जाँन्सन (अँग्रेजी)</entry>
+			<entry type="translation">रामेश्वर प्रेम</entry>
+			<entry type="version">तृतीय वर्ष छात्र</entry>
+			<entry type="projection">बंसी कौल</entry>
 			<entry type="director">बंसी कौल</entry>
+			<entry type="music">चिमनलाल नायक, लोकेन्द्र त्रिवेदी व अन्य</entry>
+			<entry type="costume">विजय दलवी, सी. के. थॉमस व अन्य</entry>
+			<entry type="stage">क़मरूज़्ज़मान चौधरी</entry>
+			<entry type="light">एच. एस. वालिया व अन्य</entry>
+			<entry type="singer">जयतीर्थ जोशी, पापिया बसु, हफीज़ खान व अन्य</entry>
+			<entry type="artist">महेश वशिष्ठ (लोमड़ खान), लोकेन्द्र त्रिवेदी (कौवानाथ), हफीज़ खान (दिलजानी), अखिलेश खन्ना (शिखरानन्द) व अन्य</entry>
+			<entry type="date">1980</entry>
 		</mdetails>
 		<photo>
 			<entry id="1808" type="" size="">
-				<desc></desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित लोकरंग 1980 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="1809" type="" size="">
-				<desc></desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित लोकरंग 1980 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="1810" type="" size="">
-				<desc></desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित लोकरंग 1980 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="1811" type="" size="">
-				<desc></desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित लोकरंग 1980 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="1812" type="" size="">
-				<desc></desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित लोकरंग 1980 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="1813" type="" size="">
-				<desc></desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित लोकरंग 1980 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="7948" type="" size="">
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा आयोजित लोकरंग 1980 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
@@ -62734,20 +62941,20 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.535">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="drama">त्रिधारा-मुद्राराक्षस</entry>
-			<entry type="writer">विशाखादत्त</entry>
+			<entry type="writer">विशाखदत्त</entry>
 			<entry type="director">रीता गांगुली</entry>
 			<entry type="date">1995</entry>
 		</mdetails>
 		<photo>
-			<entry id="3557" type="" size="">
+			<entry id="3557" type="01" size="">
 				<desc></desc>
 			</entry>
-			<entry id="3558" type="" size="">
+			<entry id="3558" type="01" size="">
 				<desc></desc>
 			</entry>
 		</photo>
