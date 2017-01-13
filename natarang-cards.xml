@@ -60598,35 +60598,54 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.006;075.007;075.008">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाटय विद्यालय रंगमंडल</entry>
-			<entry type="drama">अग्नि और बरखा</entry>
-			<entry type="writer">गिरीश करनाड</entry>
-			<entry type="translation">रामगोपाल बजाज</entry>
+			<entry type="drama">अग्नि और बरखा  (हिन्दी)</entry>
+			<entry type="originaldrama">अग्नि मत्तु मले (नाटक का मूल कन्नड़ नाम)</entry>
+			<entry type="writer">गिरीश करनाड (कन्नड़)</entry>
+			<entry type="translator">रामगोपाल बजाज</entry>
+			<entry type="projection">प्रसन्ना</entry>
 			<entry type="director">प्रसन्ना</entry>
+			<entry type="asstdirector">मुकेश तिवारी</entry>
 			<entry type="music">ब. व. कारंत</entry>
+			<entry type="costume">डौली तिवारी (आहलुवालिया)</entry>
+			<entry type="make-up">श्रीवर्धन त्रिवेदी व सीताराम पांचाल</entry>
+			<entry type="light">सुरेश भारद्वाज</entry>
+			<entry type="artist">यशपाल शर्मा, समीप सिंह (अरवसु), एहसान खान, श्रीवर्धन त्रिपाठी (परवसु), हरविन्दर कौर, वाइलेट एन. तिवारी (विशाखा), मुकेश तिवारी, ज्ञान प्रकाश (यवक़ी, सूत्रधार) व अन्य</entry>
 			<entry type="date">28-03-1996</entry>
 		</mdetails>
 		<photo>
-			<entry id="3971" type="" size="">
-				<desc></desc>
+			<entry id="3971-2c" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
 			</entry>
-			<entry id="3972" type="" size="">
-				<desc></desc>
+			<entry id="3972" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
 			</entry>
-			<entry id="3980" type="" size="">
-				<desc></desc>
+			<entry id="3980-2c" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
 			</entry>
-			<entry id="4001" type="" size="">
-				<desc></desc>
+			<entry id="4001" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
 			</entry>
-			<entry id="3971/1" type="" size="">
-				<desc></desc>
+			<entry id="3971/1" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
 			</entry>
-			<entry id="3980/1" type="" size="">
-				<desc></desc>
+			<entry id="3980/1" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
+			</entry>
+			<entry id="8737" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
+			</entry>
+			<entry id="8738" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
+			</entry>
+			<entry id="8739" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
+			</entry>
+			<entry id="8740" type="02" size="">
+				<desc>सूचना स्रोत स्मा.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -62253,16 +62272,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.632">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष छात्र</entry>
 			<entry type="drama">मुद्रिका रहस्य</entry>
 			<entry type="writer">शरद जोशी</entry>
 			<entry type="director">देवेन्द्र राज अंकुर</entry>
 			<entry type="story">कोलाज-3</entry>
 			<entry type="venue">अभिमंच</entry>
-			<entry type="date">7-12 मई 1996</entry>
+			<entry type="date">07-12 मई 1996</entry>
 		</mdetails>
 		<photo>
 			<entry id="3984" type="" size="">
@@ -62400,25 +62419,38 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.639;074.640">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">लोक शाकुंतल</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष</entry>
+			<entry type="drama">लोक शाकुंतल (हिन्दी)</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
+			<entry type="translator">एस. बालूराव, अक्षर के. वी. एवं अतुल तिवारी</entry>
 			<entry type="director">के. वी. सुबन्ना</entry>
+			<entry type="version">के. वी. सुबन्ना</entry>
+			<entry type="artist">हेमा सिंह (शकुन्तला), चिदांबर राव जाम्बे (दुष्यंत), वामन केन्द्रे राव (विदूषक), अनामिका हक्सर एवं हिमानी भट्ट (हंसपादिका) व अन्य</entry>
+			<entry type="book">रंग साक्षी-जयदेव तनेजा (सूचना स्रोत पुस्तक)</entry>
+			<entry type="venue">रा. ना. वि.</entry>
+			<entry type="date">09-05-1982</entry>
 		</mdetails>
 		<photo>
-			<entry id="1804" type="" size="">
-				<desc></desc>
+			<entry id="1804" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1805" type="" size="">
-				<desc></desc>
+			<entry id="1805" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1806" type="" size="">
-				<desc></desc>
+			<entry id="1806-2c" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1807" type="" size="">
-				<desc></desc>
+			<entry id="1807" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="10922" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="17292" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -63840,10 +63872,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.625">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष</entry>
 			<entry type="drama">पाप और प्रकाश</entry>
 			<entry type="writer">लियो टालस्टाय</entry>
 			<entry type="translation">जैनेन्द्र कुमार</entry>
@@ -63863,128 +63895,200 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.634;074.635;074.636">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">पतुम्मा की बकरी (ज़रा बड़ा बशीर के अंतर्गत)</entry>
-			<entry type="director">निर्देशक</entry>
-			<entry type="artist">अभिलाषा पिल्लाई</entry>
-		</mdetails>
-		<photo>
-			<entry id="14646" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-			<entry id="14647" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-			<entry id="14648" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-			<entry id="14649" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-			<entry id="14650" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-			<entry id="14651" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-			<entry id="14652" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-			<entry id="14653" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-			<entry id="14654" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-			<entry id="14655" type="01" size="12.5X17.5">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">बाल्यकाल सखी (ज़रा बड़ा बशीर के अंतर्गत)</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष छात्र</entry>
+			<entry type="drama">पतुम्मा की बकरी (मेरे नाना का एक हाथी था) (ज़रा बड़ा बशीर के अंतर्गत प्रस्तुत) (हिन्दी)</entry>
+			<entry type="writer">वैक्कम मोहम्मद बशीर</entry>
+			<entry type="dramatized">राजेश तेलंग</entry>
+			<entry type="compilation">राजेश तेलंग</entry>
+			<entry type="song">राजेश तेलंग</entry>
 			<entry type="director">अभिलाष पिल्लई</entry>
+			<entry type="asstdirector">हरीश खन्ना</entry>
+			<entry type="make-up">रोशन एन. जी.</entry>
+			<entry type="stagecontent">रोशन एन. जी.</entry>
+			<entry type="music">वी. चन्द्रन</entry>
+			<entry type="voice">वी. चन्द्रन</entry>
+			<entry type="costume">अदिति विश्वास</entry>
+			<entry type="light">गौतम मजुमदार</entry>
+			<entry type="technicalsupport">हिमांशु बी. जोशी</entry>
+			<entry type="cinematographer">एस. त्यागराजन एवं दीपक कुमार</entry>
+			<entry type="artist">पापारी मेधी (Papari Medhi) (कंजुपतम्मा), काजल मुंडु (बप्पा), बी. राजेश (निसार अहमद), मानवेन्द्र त्रिपाठी (सूफी गायक), अजित, जगन्नाथ (बकरी) व अन्य</entry>
+			<entry type="venue">अभिमंच सभागार, दिल्ली</entry>
+			<entry type="date">21-25 अक्टूबर 2009</entry>
 		</mdetails>
 		<photo>
-			<entry id="14659" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14646" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14660" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14647" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14661" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14648" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14662" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14649" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14663" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14650" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14664" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14651" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14665" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14652" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14666" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14653" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14667" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14654" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+			<entry id="14655" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई से न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.628;074.629;074.630">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">विश्व प्रसिद्ध नाक (ज़र बड़ा बशीर के अंतर्गत)</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष छात्र</entry>
+			<entry type="drama">बाल्यकाल सखी  (हिन्दी) (ज़रा बड़ा बशीर के अंतर्गत)</entry>
+			<entry type="writer">वैक्कम मुहम्मद बशीर (मलयालम)</entry>
+			<entry type="dramatized">राजेश तेलंग</entry>
+			<entry type="compilation">राजेश तेलंग</entry>
+			<entry type="song">राजेश तेलंग</entry>
 			<entry type="director">अभिलाष पिल्लई</entry>
+			<entry type="asstdirector">हरीश खन्ना</entry>
+			<entry type="make-up">रोशन एन. जी.</entry>
+			<entry type="stagecontent">रोशन एन. जी.</entry>
+			<entry type="light">गौतम मजुमदार</entry>
+			<entry type="music">वी. चन्द्रन</entry>
+			<entry type="voice">वी. चन्द्रन</entry>
+			<entry type="costume">अदिति विश्वास</entry>
+			<entry type="technicalsupport">हिमांशु बी. जोशी</entry>
+			<entry type="cinematographer">एस. त्यागराजन एवं दीपक कुमार</entry>
+			<entry type="artist">मानवेन्द्र कुमार त्रिपाठी (मजीद), ॠतु शर्मा (सुहरा), दुर्वेश, शाहजहॉ (अध्यापक) व अन्य</entry>
+			<entry type="venue">अभिमंच सभागार, दिल्ली</entry>
+			<entry type="date">21-25 अक्टूबर 2009</entry>
 		</mdetails>
 		<photo>
-			<entry id="14656" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14659" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14657" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14660" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
-			<entry id="14658" type="01" size="12.5X17.5">
-				<desc></desc>
+			<entry id="14661" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+			<entry id="14662" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+			<entry id="14663" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+			<entry id="14664" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+			<entry id="14665" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+			<entry id="14666" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+			<entry id="14667" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.641;074.642;074.643">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">द फादर</entry>
-			<entry type="writer">स्ट्रिन्डबर्ग</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष छात्र</entry>
+			<entry type="drama">विश्व प्रसिद्ध नाक  (हिन्दी) (ज़रा बड़ा बशीर के अंतर्गत)</entry>
+			<entry type="writer">वैक्कम मोहम्मद बशीर</entry>
+			<entry type="dramatized">राजेश तेलंग</entry>
+			<entry type="compilation">राजेश तेलंग</entry>
+			<entry type="song">राजेश तेलंग</entry>
+			<entry type="director">अभिलाष पिल्लई</entry>
+			<entry type="asstdirector">हरीश खन्ना</entry>
+			<entry type="costume">अदिति विश्वास</entry>
+			<entry type="make-up">रोशन एन. जी.</entry>
+			<entry type="stagecontent">रोशन एन. जी.</entry>
+			<entry type="light">गौतम मजुमदार</entry>
+			<entry type="technicalsupport">हिमांशु बी. जोशी</entry>
+			<entry type="cinematographer">एस. त्यागराजन एवं दीपक कुमार</entry>
+			<entry type="artist">जगन्नाथ सेठ (लंबी नाक वाला), संजय कुमार सिंह (डॉक्टर-1), मानस प्रतिम नियोग (डॉक्टर-2), अजित सिंह पलावत (रेडियो उद्घोषक) व अन्य</entry>
+			<entry type="venue">अभिमंच सभागार, दिल्ली</entry>
+			<entry type="date">21-25 अक्टूबर 2009</entry>
+		</mdetails>
+		<photo>
+			<entry id="14656" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+			<entry id="14657" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+			<entry id="14658" type="01" size="12.5X17.5 से. मी.">
+				<desc>श्री अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 4031</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="074.626">
+		<mdetails>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष</entry>
+			<entry type="drama">द फादर (हिन्दी)</entry>
+			<entry type="writer">स्ट्रिन्डबर्ग (स्विडिश)</entry>
+			<entry type="translator">आलोक चटर्जी/सतीश कौशिक/मोहन महर्षि</entry>
 			<entry type="director">प्रसन्ना</entry>
+			<entry type="artist">आशीष विद्यार्थी</entry>
 			<entry type="date">1989-1990</entry>
 		</mdetails>
 		<photo>
-			<entry id="8399" type="" size="">
-				<desc></desc>
+			<entry id="3823" type="02" size="">
+				<desc>न. प्र.</desc>
 			</entry>
-			<entry id="8400" type="" size="">
-				<desc></desc>
+			<entry id="8399" type="02" size="">
+				<desc>न. प्र.</desc>
 			</entry>
-			<entry id="8401" type="" size="">
-				<desc></desc>
+			<entry id="8400" type="02" size="">
+				<desc>न. प्र.</desc>
+			</entry>
+			<entry id="8401" type="02" size="">
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.631">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष</entry>
 			<entry type="drama">मदर करेज</entry>
 			<entry type="writer">ब्रैख्ट</entry>
 			<entry type="director">कोनाई</entry>
@@ -63992,32 +64096,32 @@
 		</mdetails>
 		<photo>
 			<entry id="8348" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="8349" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="8350" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="8351" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="8352" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.633">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नात्य विद्यालय</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय  - तृतीय वर्ष</entry>
 			<entry type="drama">मुर्गाबी</entry>
 			<entry type="writer">हेनरिक इब्सन</entry>
 			<entry type="translation">यशपाल</entry>
 			<entry type="director">अनुराधा कपूर</entry>
 			<entry type="venue">ए. ना. वि. स्टूडियो नं. 2, नई दिल्ली</entry>
-			<entry type="date">3-10 दिसंबर 1999</entry>
+			<entry type="date">03-10 दिसंबर 1999</entry>
 		</mdetails>
 		<photo>
 			<entry id="6004" type="" size="">
@@ -64058,10 +64162,10 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.637">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष</entry>
 			<entry type="drama">राजा</entry>
 			<entry type="writer">रवीन्द्र नाथ ठाकुर</entry>
 			<entry type="director">के. एन. पणिक्कर</entry>
@@ -64069,34 +64173,34 @@
 			<entry type="date">1989-1990</entry>
 		</mdetails>
 		<photo>
-			<entry id="8353" type="" size="">
-				<desc></desc>
+			<entry id="8353" type="02" size="">
+				<desc>छाद प्रस्तुत, न. प्र.</desc>
 			</entry>
-			<entry id="8337" type="" size="">
-				<desc></desc>
+			<entry id="8337" type="02" size="">
+				<desc>छाद प्रस्तुत, न. प्र.</desc>
 			</entry>
-			<entry id="8409" type="" size="">
-				<desc></desc>
+			<entry id="8409" type="02" size="">
+				<desc>छाद प्रस्तुत, न. प्र.</desc>
 			</entry>
-			<entry id="8412" type="" size="">
-				<desc></desc>
+			<entry id="8412" type="02" size="">
+				<desc>छाद प्रस्तुत, न. प्र.</desc>
 			</entry>
-			<entry id="8411" type="" size="">
-				<desc></desc>
+			<entry id="8411" type="02" size="">
+				<desc>छाद प्रस्तुत, न. प्र.</desc>
 			</entry>
-			<entry id="8410" type="" size="">
-				<desc></desc>
+			<entry id="8410" type="02" size="">
+				<desc>छाद प्रस्तुत, न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.644">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">शाही शिकार</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय - तृतीय वर्ष छात्र</entry>
+			<entry type="drama">शाही शिफार</entry>
 			<entry type="writer">बैरी जॉन (Barry John)</entry>
 			<entry type="director">बैरी जॉन (Barry John)</entry>
-			<entry type="event">रा. ना. वि. की प्रस्तुति</entry>
+			<entry type="presentation">रा. ना. वि. की प्रस्तुति</entry>
 			<entry type="date">1989-1990</entry>
 		</mdetails>
 		<photo>
@@ -64114,7 +64218,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.001.0">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
@@ -64154,24 +64258,33 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.001.3;075.001.4">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">अंधायुग</entry>
+			<entry type="drama">अंधा युग  (हिन्दी)</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
-			<entry type="director">इब्राहीम अलकाजी</entry>
+			<entry type="director">इब्राहिम अल्काज़ी</entry>
+			<entry type="music">वनराज भाटिया</entry>
+			<entry type="costume">रोशन अल्काज़ी</entry>
+			<entry type="stage">इब्राहिम अल्काज़ी</entry>
+			<entry type="light">जी. एन. दासगुप्ता</entry>
+			<entry type="artist">नीलम मानसिंह चौधरी, पंकज कपूर, अजित वाच्छानी, राजेश विवेक, राज बब्बर, के. के. रैना, सुरेखा सीकरी, उत्तरा बावकर, मनोहर सिंह, ओम शिवपुरी व अन्य</entry>
+			<entry type="venue">पुराना किला, दिल्ली</entry>
 			<entry type="date">1974</entry>
 		</mdetails>
 		<photo>
-			<entry id="1256" type="" size="">
-				<desc>काबुकी शैली</desc>
+			<entry id="1256" type="02" size="">
+				<desc>काबुकी शैली में मंचन</desc>
 			</entry>
-			<entry id="1257" type="" size="">
-				<desc>काबुकी शैली</desc>
+			<entry id="1257" type="02" size="">
+				<desc>काबुकी शैली में मंचन</desc>
 			</entry>
-			<entry id="1830" type="" size="">
-				<desc>काबुकी शैली</desc>
+			<entry id="1830-2c" type="02" size="">
+				<desc>काबुकी शैली में मंचन</desc>
+			</entry>
+			<entry id="22584" type="02" size="">
+				<desc>काबुकी शैली में मंचन</desc>
 			</entry>
 		</photo>
 	</media>
@@ -64189,28 +64302,58 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.002;075.003;075.004">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">अंधायुग</entry>
+			<entry type="drama">अंधा युग (हिन्दी)</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
 			<entry type="director">एम. के. रैना</entry>
+			<entry type="music">पंचानन पाठक</entry>
+			<entry type="stage">एम. के. रैना</entry>
+			<entry type="stagecontent">एम. के. रैना</entry>
+			<entry type="costumedesign">एम. के. रैना</entry>
+			<entry type="costume">डोली आहलुवालिया एवं सीमा विश्वास</entry>
+			<entry type="light">जी. एन. दासगुप्ता एवं जी. एस. मराठे</entry>
+			<entry type="sound">ओम शिवपुरी (कृष्णा), मनोहर सिंह (व्यास), पंचानन पाठक (बलराम)</entry>
+			<entry type="artist">वी. के. शर्मा (विदूर), सुरेन्द्र प्रसाद (धृतराष्ट्र), उत्तरा बावकर (गाँधारी), वागीश कुमार (कृपाचार्य), जी. पी. नामदेव (अश्वत्थामा), लोकेन्द्र त्रिवेदी (युयुत्स) व अन्य</entry>
+			<entry type="book">रंगयात्रा, रा. ना. वि. रंगमण्डल (सूचना स्रोत पुस्तक)</entry>
 			<entry type="date">1986</entry>
 		</mdetails>
 		<photo>
-			<entry id="1258" type="" size="">
+			<entry id="1258" type="01;02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1259" type="" size="">
+			<entry id="1259" type="01;02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1260" type="" size="">
+			<entry id="1260" type="01;02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1831" type="01;02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10259" type="01;02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10260" type="01;02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10261-2c" type="01;02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10262" type="01;02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10263" type="01;02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10264" type="01;02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.005">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
@@ -64218,7 +64361,7 @@
 			<entry type="writer">चन्द्रशेखर कम्बार</entry>
 			<entry type="translation">रामगोपाल बजाज</entry>
 			<entry type="director">भानु भारती</entry>
-			<entry type="venue">श्री राम सेंटर</entry>
+			<entry type="venue">श्रीराम सेंटर</entry>
 			<entry type="date">19-10-1996</entry>
 		</mdetails>
 		<photo>
@@ -64261,7 +64404,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.011">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
@@ -64277,14 +64420,15 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.013">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
 			<entry type="drama">अपने - अपने अजनबी</entry>
-			<entry type="writer">स. ही. बात्स्यायन</entry>
+			<entry type="writer">स. ही. वात्स्यायन</entry>
 			<entry type="version">देवेन्द्र राज अंकुर</entry>
 			<entry type="director">देवेन्द्र राज अंकुर</entry>
+			<entry type="artist">प्रतिमा काजमी, हेमा सहाय व अन्य</entry>
 			<entry type="date">09-12-1989</entry>
 		</mdetails>
 		<photo>
@@ -64296,13 +64440,22 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.014;075.015">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">आइन्स्टाइन</entry>
+			<entry type="drama">आइनस्टाइन  (हिन्दी)</entry>
 			<entry type="writer">मोहन महर्षि</entry>
 			<entry type="director">मोहन महर्षि</entry>
+			<entry type="music">लेस्वन जेसेन्स्की</entry>
+			<entry type="costume">डौली आहलुवालिया</entry>
+			<entry type="make-up">सईद इलयास</entry>
+			<entry type="stage">मोहन महर्षि</entry>
+			<entry type="light">अशोक सागर भगत</entry>
+			<entry type="choreography">शैरन लॉअन</entry>
+			<entry type="artist">ज़ाकिर हुसैन (एलबर्ट आइनस्टाइन), हरविन्दर कौर (बाल आइनस्टाइन), यशपाल शर्मा (जवान आइनस्टाइन), राजेश सिंह, हिमांशु बी. जोशी (वैज्ञानिक)</entry>
+			<entry type="venue">दिल्ली</entry>
+			<entry type="date">1994</entry>
 		</mdetails>
 		<photo>
 			<entry id="3834" type="" size="">
@@ -64343,13 +64496,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.009;075.010">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">आजर का ख्वाब</entry>
+			<entry type="drama">अज़र का ख्वाब (हिन्दी)</entry>
 			<entry type="writer">दुदसिया जैदी</entry>
+			<entry type="writer">बर्नाड शॉ</entry>
 			<entry type="director">भानु भारती</entry>
+			<entry type="compilation">कुदसिया जैदी</entry>
+			<entry type="article">कुदसिया जैदी</entry>
+			<entry type="music">भारती शर्मा, लोकेन्द्र त्रिवेदी</entry>
+			<entry type="voice">भारती शर्मा, लोकेन्द्र त्रिवेदी</entry>
+			<entry type="costume">मोना चाबला</entry>
+			<entry type="make-up">गजेन्द्र नायक, भारती शर्मा</entry>
+			<entry type="stage">बापी बोस</entry>
+			<entry type="stagecontent">बापी बोस</entry>
+			<entry type="light">जी. एस. मराठे</entry>
+			<entry type="artist">नीलिमा शर्मा (खुर्शीद), नूतन सूर्या (बेग़म बकर), हिमानी शिवपुरी (अमरुवाली हज्जो), जी. पी. नामदेव (अज़र) व अन्य</entry>
+			<entry type="venue">दिल्ली</entry>
 			<entry type="date">18-05-1988</entry>
 		</mdetails>
 		<photo>
@@ -64437,27 +64602,51 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.018;075.019;075.020">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">आधे - अधूरे</entry>
+			<entry type="drama">आधे - अधूरे (हिन्दी)</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">त्रिपुरारी शर्मा</entry>
+			<entry type="music">पियूष मिश्रा</entry>
+			<entry type="costume">अनिला सिंह</entry>
+			<entry type="make-up">नीलिमा शर्मा, विवेक मिश्रा</entry>
+			<entry type="stage">त्रिपुरारी शर्मा</entry>
+			<entry type="light">रामगोपाल बजाज, राघव प्रकाश</entry>
+			<entry type="artist">रविन्द्र खानविलकर (पाँचों पुरुष), अलका अमीन (बड़ी लड़की), रवि कौशल (बड़ा लड़का), मंदाकिनी गोस्वामी (छोटी लड़की), प्रतिमा काज़मी (सावित्री) व अन्य</entry>
+			<entry type="photography">एस. त्यागराजन व लक्ष्मण</entry>
+			<entry type="venue">दिल्ली</entry>
 			<entry type="date">दिसंबर 1992</entry>
 		</mdetails>
 		<photo>
-			<entry id="2308" type="" size="">
-				<desc></desc>
+			<entry id="2307" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, सूचना स्रोत - रंगयात्रा-II/रा. ना. वि.</misc>
 			</entry>
-			<entry id="2309" type="" size="">
-				<desc></desc>
+			<entry id="2308" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, सूचना स्रोत - रंगयात्रा-II/रा. ना. वि.</misc>
 			</entry>
-			<entry id="2310" type="" size="">
-				<desc></desc>
+			<entry id="2309" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, सूचना स्रोत - रंगयात्रा-II/रा. ना. वि.</misc>
 			</entry>
-			<entry id="2311" type="" size="">
-				<desc></desc>
+			<entry id="2310" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, सूचना स्रोत - रंगयात्रा-II/रा. ना. वि.</misc>
+			</entry>
+			<entry id="2311" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, सूचना स्रोत - रंगयात्रा-II/रा. ना. वि.</misc>
+			</entry>
+			<entry id="2312" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, सूचना स्रोत - रंगयात्रा-II/रा. ना. वि.</misc>
+			</entry>
+			<entry id="2360" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, सूचना स्रोत - रंगयात्रा-II/रा. ना. वि.</misc>
 			</entry>
 		</photo>
 	</media>
@@ -64476,11 +64665,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.021;075.022;075.023">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">आफ़ताब फ़ैजाबादी</entry>
+			<entry type="drama">आफ़ताब फ़ैजाबादी (उर्दू)</entry>
 			<entry type="writer">सिरानो दे बर्जेटक</entry>
 			<entry type="translation">एगिल किप्सटे</entry>
 			<entry type="director">एगिल किप्सटे</entry>
@@ -66246,18 +66435,20 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="074.627">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">बाकी इतिहास</entry>
-			<entry type="writer">बादल सरकार</entry>
-			<entry type="director">रोबिन दास</entry>
-			<entry type="date">3-6 अगस्त 1995</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल - तृतीय वर्ष छात्र</entry>
+			<entry type="drama">बाकी इतिहास (हिन्दी)</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">नेमिचन्द्र जैन</entry>
+			<entry type="director">रॉबिन दास</entry>
+			<entry type="venue">एवान - ए. गालिब सभागार, दिल्ली</entry>
+			<entry type="date">03-06 अगस्त 1995</entry>
 		</mdetails>
 		<photo>
-			<entry id="3543" type="" size="">
-				<desc>अन्तिम वर्ष के छात्रों द्वारा प्रस्तुत स्थान, ऎवान-ए-गालिब सभागार, दिल्ली</desc>
+			<entry id="3543" type="02" size="9.6X13.2 से. मी.">
+				<desc>अन्तिम वर्ष के छात्रों द्वारा प्रस्तुत स्थान</desc>
 			</entry>
 		</photo>
 	</media>
