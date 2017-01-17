@@ -19647,19 +19647,19 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.093;075.094">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय : रंगमण्डल</entry>
 			<entry type="drama">जस्मा ओड़न (हिन्दी)</entry>
 			<entry type="writer">शांता गाँधी</entry>
-			<entry type="translation">शांता गाँधी</entry>
+			<entry type="translator">शांता गाँधी</entry>
 			<entry type="director">शांता गाँधी</entry>
 			<entry type="assttranslator">श्याम परमार</entry>
 			<entry type="set">गोवर्धन पांचाल</entry>
 			<entry type="light">जी. एन. दासगुप्ता</entry>
 			<entry type="music">सुशील चौधरी</entry>
-			<entry type="artist">कवि रतन शर्मा (रंगला), प्रतिभा मतकरी (नर्तकी), कमलाकर सोनटक्के (इन्द्र देव), कीर्ति बी. ठाकर (लालदेव), उत्तरा बावकर (हीरा परी), अमल अल्काजी (नीलमपरी), एम. के. रैना (दालो), सविता बजाज (डाली), कमलाकर सोनटक्के (राजा), अमल अल्काजी (वधु की तरफ से), प्रेमा कारंत, श्यामा जैन उत्तरा बावकर (वर की तरफ से)</entry>
+			<entry type="artist">कवि रतन शर्मा (रंगला), प्रतिभा मतकरी (नर्तकी), कमलाकर सोनटक्के (इन्द्र देव), कीर्ति बी. ठाकर (लालदेव), उत्तरा बावकर (हीरा परी), अमाल अल्काजी (नीलमपरी), एम. के. रैना (दालो), सविता बजाज (डाली), कमलाकर सोनटक्के (राजा), अमाल अल्काजी (वधु की तरफ से), प्रेमा कारंत, श्यामा जैन उत्तरा बावकर (वर की तरफ से)</entry>
 			<entry type="date">अप्रैल 1968</entry>
 		</mdetails>
 		<photo>
@@ -19774,7 +19774,7 @@
 			<entry id="8382" type="" size="">
 				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
 			</entry>
-			<entry id="8383" type="" size="">
+			<entry id="8393" type="" size="">
 				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
 			</entry>
 			<entry id="11657" type="" size="">
@@ -19805,6 +19805,27 @@
 				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
 			</entry>
 			<entry id="2439" type="" size="">
+				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
+			</entry>
+			<entry id="22489-2c" type="" size="">
+				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
+			</entry>
+			<entry id="22490" type="" size="">
+				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
+			</entry>
+			<entry id="22491" type="" size="">
+				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
+			</entry>
+			<entry id="22492" type="" size="">
+				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
+			</entry>
+			<entry id="22493" type="" size="">
+				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
+			</entry>
+			<entry id="22494" type="" size="">
+				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
+			</entry>
+			<entry id="22495" type="" size="">
 				<desc>शांता गाँधी, मनोहर सिंह व उत्तर बावकर द्वारा भेंट</desc>
 			</entry>
 		</photo>
@@ -47436,696 +47457,752 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.072">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="photo">इब्राहीम अलकाजी</entry>
-			<entry type="drama">किंग लियर</entry>
-			<entry type="writer">शेक्सपियर</entry>
-			<entry type="director">इब्राहीम अलकाजी</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
+			<entry type="photo">इब्राहीम अल्काजी</entry>
+			<entry type="drama">किंग लियर (हिन्दी)</entry>
+			<entry type="writer">विलियम शेक्सपियर (अँग्रेजी)</entry>
+			<entry type="translator">ए. एस. मजनूं गोरखपुरी</entry>
+			<entry type="director">इब्राहिम अल्काजी</entry>
+			<entry type="stage">इब्राहिम अल्काजी</entry>
+			<entry type="music">जे. एन. कौशल</entry>
+			<entry type="artist">ओम शिवपुरी (लियर), मोहन महर्षि (सामंत),राम गोपाल बजाज व अन्य</entry>
+			<entry type="date">1964</entry>
 		</mdetails>
 		<photo>
-			<entry id="1796" type="" size="">
+			<entry id="13665-2c" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1797" type="" size="">
+			<entry id="1796" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1798" type="" size="">
+			<entry id="1797" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1799" type="" size="">
+			<entry id="1798" type="02" size="">
+				<desc>निगेटिव नं. 9/7</desc>
+			</entry>
+			<entry id="1799" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1800" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="2226" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11731" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11732" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11733" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11734" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="2227" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1800" type="" size="">
+			<entry id="2228" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2226" type="" size="">
+			<entry id="2229" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2227" type="" size="">
+			<entry id="2230" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2228" type="" size="">
+			<entry id="2231" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2229" type="" size="">
+			<entry id="2232" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2230" type="" size="">
+			<entry id="2233" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2231" type="" size="">
+			<entry id="2234" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2232" type="" size="">
+			<entry id="2235" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2233" type="" size="">
+			<entry id="2236" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2234" type="" size="">
+			<entry id="2237" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2235" type="" size="">
+			<entry id="2238" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2236" type="" size="">
+			<entry id="2239" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2237" type="" size="">
+			<entry id="2240" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2238" type="" size="">
+			<entry id="2241" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2239" type="" size="">
+			<entry id="2242" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2240" type="" size="">
+			<entry id="2243" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2241" type="" size="">
+			<entry id="2244" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2242" type="" size="">
+			<entry id="2245" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2243" type="" size="">
+			<entry id="2246" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2244" type="" size="">
+			<entry id="2247" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2245" type="" size="">
+			<entry id="2248" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2246" type="" size="">
+			<entry id="2249" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2247" type="" size="">
+			<entry id="2250" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2248" type="" size="">
+			<entry id="2251" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2249" type="" size="">
+			<entry id="2252" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2250" type="" size="">
+			<entry id="2253" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2251" type="" size="">
+			<entry id="2254" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2252" type="" size="">
+			<entry id="2255" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2253" type="" size="">
+			<entry id="2256" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2254" type="" size="">
+			<entry id="2257" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2255" type="" size="">
+			<entry id="2258" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2256" type="" size="">
+			<entry id="2259" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2257" type="" size="">
+			<entry id="2260" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2258" type="" size="">
+			<entry id="2261" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2259" type="" size="">
+			<entry id="2262" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2260" type="" size="">
+			<entry id="2263" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2261" type="" size="">
+			<entry id="2264" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2262" type="" size="">
+			<entry id="2265" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2263" type="" size="">
+			<entry id="2266" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2264" type="" size="">
+			<entry id="2267" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2265" type="" size="">
+			<entry id="2268" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2266" type="" size="">
+			<entry id="2269" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2267" type="" size="">
+			<entry id="2270" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2268" type="" size="">
+			<entry id="2271" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2269" type="" size="">
+			<entry id="2272" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2270" type="" size="">
+			<entry id="2273" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2271" type="" size="">
+			<entry id="2274" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2272" type="" size="">
+			<entry id="2275" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2273" type="" size="">
+			<entry id="2276" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2274" type="" size="">
+			<entry id="2277" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2275" type="" size="">
+			<entry id="2278" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2276" type="" size="">
+			<entry id="2279" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2277" type="" size="">
+			<entry id="2280" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2278" type="" size="">
+			<entry id="2281" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2279" type="" size="">
+			<entry id="2282" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2280" type="" size="">
+			<entry id="2283" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2281" type="" size="">
+			<entry id="2284" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2282" type="" size="">
+			<entry id="2285" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2283" type="" size="">
+			<entry id="2286" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2284" type="" size="">
+			<entry id="2287" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2285" type="" size="">
+			<entry id="2288" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2286" type="" size="">
+			<entry id="2289" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2287" type="" size="">
+			<entry id="2290" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2288" type="" size="">
+			<entry id="2291" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2289" type="" size="">
+			<entry id="2292" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2290" type="" size="">
+			<entry id="2293" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2291" type="" size="">
+			<entry id="2294" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2292" type="" size="">
+			<entry id="2295" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2293" type="" size="">
+			<entry id="2296" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2294" type="" size="">
+			<entry id="2297" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2295" type="" size="">
+			<entry id="2298" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2296" type="" size="">
+			<entry id="2299" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2297" type="" size="">
+			<entry id="2300" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2298" type="" size="">
+			<entry id="2301" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2299" type="" size="">
+			<entry id="2302" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2300" type="" size="">
+			<entry id="2303" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2301" type="" size="">
+			<entry id="2304" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2302" type="" size="">
+			<entry id="2305" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2303" type="" size="">
+			<entry id="2306" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2304" type="" size="">
+			<entry id="2307" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2305" type="" size="">
+			<entry id="2308" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2306" type="" size="">
+			<entry id="2309" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2307" type="" size="">
+			<entry id="2310" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2308" type="" size="">
+			<entry id="2311" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2309" type="" size="">
+			<entry id="2312" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2310" type="" size="">
+			<entry id="2313" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2311" type="" size="">
+			<entry id="2314" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2312" type="" size="">
+			<entry id="2315" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2313" type="" size="">
+			<entry id="2316" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2314" type="" size="">
+			<entry id="2317" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2315" type="" size="">
+			<entry id="2318" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2316" type="" size="">
+			<entry id="2319" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2317" type="" size="">
+			<entry id="2320" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2318" type="" size="">
+			<entry id="2321" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2319" type="" size="">
+			<entry id="2322" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2320" type="" size="">
+			<entry id="2323" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2321" type="" size="">
+			<entry id="2324" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2322" type="" size="">
+			<entry id="2325" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2323" type="" size="">
+			<entry id="2326" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2324" type="" size="">
+			<entry id="2327" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2325" type="" size="">
+			<entry id="2328" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2326" type="" size="">
+			<entry id="2329" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2327" type="" size="">
+			<entry id="2330" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2328" type="" size="">
+			<entry id="2331" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2329" type="" size="">
+			<entry id="2332" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2330" type="" size="">
+			<entry id="2333" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2331" type="" size="">
+			<entry id="2334" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2332" type="" size="">
+			<entry id="2335" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2333" type="" size="">
+			<entry id="2336" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2334" type="" size="">
+			<entry id="2337" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2335" type="" size="">
+			<entry id="2338" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2336" type="" size="">
+			<entry id="2339" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2337" type="" size="">
+			<entry id="2340" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2338" type="" size="">
+			<entry id="2341" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2339" type="" size="">
+			<entry id="2342" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2340" type="" size="">
+			<entry id="2343" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2341" type="" size="">
+			<entry id="2344" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2342" type="" size="">
+			<entry id="2345" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2343" type="" size="">
+			<entry id="2346" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2344" type="" size="">
+			<entry id="2347" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2345" type="" size="">
+			<entry id="2348" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2346" type="" size="">
+			<entry id="2349" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2347" type="" size="">
+			<entry id="2350" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2348" type="" size="">
+			<entry id="2351" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2349" type="" size="">
+			<entry id="2352" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2350" type="" size="">
+			<entry id="2353" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2351" type="" size="">
+			<entry id="2354" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2352" type="" size="">
+			<entry id="2355" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2353" type="" size="">
+			<entry id="2356" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2354" type="" size="">
+			<entry id="2357" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2355" type="" size="">
+			<entry id="2358" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2356" type="" size="">
+			<entry id="2359" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2357" type="" size="">
+			<entry id="2360" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2358" type="" size="">
+			<entry id="2361" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2359" type="" size="">
+			<entry id="2362" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2360" type="" size="">
+			<entry id="2363" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2361" type="" size="">
+			<entry id="2364" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2362" type="" size="">
+			<entry id="2365" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2363" type="" size="">
+			<entry id="2366" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2364" type="" size="">
+			<entry id="2367" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2365" type="" size="">
+			<entry id="2368" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2366" type="" size="">
+			<entry id="2369" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2367" type="" size="">
+			<entry id="2370" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2368" type="" size="">
+			<entry id="2371" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2369" type="" size="">
+			<entry id="2372" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2370" type="" size="">
+			<entry id="2373" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2371" type="" size="">
+			<entry id="2374" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2372" type="" size="">
+			<entry id="2375" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2373" type="" size="">
+			<entry id="2376" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2374" type="" size="">
+			<entry id="2377" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2375" type="" size="">
+			<entry id="2378" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2376" type="" size="">
+			<entry id="2379" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2377" type="" size="">
+			<entry id="2380" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2378" type="" size="">
+			<entry id="2381" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2379" type="" size="">
+			<entry id="2382" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2380" type="" size="">
+			<entry id="2383" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2381" type="" size="">
+			<entry id="2384" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2382" type="" size="">
+			<entry id="2385" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2383" type="" size="">
+			<entry id="2386" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2384" type="" size="">
+			<entry id="2387" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2385" type="" size="">
+			<entry id="2388" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2386" type="" size="">
+			<entry id="2389" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2387" type="" size="">
+			<entry id="2390" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2388" type="" size="">
+			<entry id="2391" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2389" type="" size="">
+			<entry id="2392" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2390" type="" size="">
+			<entry id="2393" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2391" type="" size="">
+			<entry id="2394" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2392" type="" size="">
+			<entry id="2395" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2393" type="" size="">
+			<entry id="2396" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2394" type="" size="">
+			<entry id="2397" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2395" type="" size="">
+			<entry id="2398" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2396" type="" size="">
+			<entry id="2399" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2397" type="" size="">
+			<entry id="2400" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2398" type="" size="">
+			<entry id="2401" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2399" type="" size="">
+			<entry id="2402" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2400" type="" size="">
+			<entry id="2403" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2401" type="" size="">
+			<entry id="2404" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2402" type="" size="">
+			<entry id="2405" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2403" type="" size="">
+			<entry id="2406" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2404" type="" size="">
+			<entry id="2407" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2405" type="" size="">
+			<entry id="2408" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2406" type="" size="">
+			<entry id="2409" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2407" type="" size="">
+			<entry id="2410" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2408" type="" size="">
+			<entry id="2411" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2409" type="" size="">
+			<entry id="2412" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2410" type="" size="">
+			<entry id="2413" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2411" type="" size="">
+			<entry id="2414" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2412" type="" size="">
+			<entry id="2415" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2413" type="" size="">
+			<entry id="2416" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2414" type="" size="">
+			<entry id="2417" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2415" type="" size="">
+			<entry id="2418" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2416" type="" size="">
+			<entry id="2419" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2417" type="" size="">
+			<entry id="2420" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2418" type="" size="">
+			<entry id="2421" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2419" type="" size="">
+			<entry id="2422" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2420" type="" size="">
+			<entry id="2423" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2421" type="" size="">
+			<entry id="2424" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2422" type="" size="">
+			<entry id="2425" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2423" type="" size="">
+			<entry id="2426-3c" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2424" type="" size="">
+			<entry id="14473" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2425" type="" size="">
+			<entry id="14474" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.107">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
 			<entry type="drama">तुगलक</entry>
-			<entry type="photo">इब्राहीम अलकाजी</entry>
+			<entry type="photo">इब्राहिम अल्काजी</entry>
 			<entry type="writer">गिरीश कारनाड़</entry>
 			<entry type="translation">ब. व. कारंत</entry>
-			<entry type="director">इब्राहीम अलकाजी</entry>
+			<entry type="director">ओम शिवपुरी</entry>
+			<entry type="stage">इब्राहिम अल्काजी</entry>
+			<entry type="artist">ओम शिवपुरी, सुधा शिवपुरी, राम गोपाल बजाज व अन्य</entry>
+			<entry type="date">1966</entry>
 		</mdetails>
 		<photo>
-			<entry id="1700" type="" size="">
+			<entry id="1700" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="1707" type="" size="">
+			<entry id="1701" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="1708" type="" size="">
+			<entry id="1702" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="1709" type="" size="">
+			<entry id="1703" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="1710" type="" size="">
+			<entry id="1704" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="1711" type="" size="">
+			<entry id="1706" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="1712" type="" size="">
+			<entry id="1707" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="1713" type="" size="">
+			<entry id="1708" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="2222" type="" size="">
+			<entry id="1709" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="1318" type="" size="">
+			<entry id="1710" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="3092" type="" size="">
+			<entry id="1711" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="3093" type="" size="">
+			<entry id="1712" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="3094" type="" size="">
+			<entry id="1713" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="3095" type="" size="">
+			<entry id="2222" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="3096" type="" size="">
+			<entry id="2223" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="3097" type="" size="">
+			<entry id="1707-2c" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="3098" type="" size="">
+			<entry id="14475" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
-			<entry id="3099" type="" size="">
+			<entry id="1318" type="02" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
+			<entry id="3092" type="02" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
+			<entry id="3093" type="02" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
+			<entry id="3094" type="02" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
+			<entry id="3095" type="02" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
+			<entry id="3096" type="02" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
+			<entry id="3097" type="02" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
+			<entry id="3098" type="02" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
+			<entry id="3099" type="02" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
 		</photo>
@@ -48164,14 +48241,22 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.115;075.116;075.117">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">दान्तों की मौत</entry>
-			<entry type="photo">इब्राहीम अलकाजी</entry>
-			<entry type="writer">जार्ज बुखनर</entry>
-			<entry type="director">इब्राहीम अलकाजी</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
+			<entry type="drama">दान्तों की मौत (हिन्दी)</entry>
+			<entry type="photo">इब्राहिम अल्काजी</entry>
+			<entry type="writer">ज्योर्ज बुखनर</entry>
+			<entry type="translator">जे. एन. कौशल</entry>
+			<entry type="director">इब्राहिम अल्काजी</entry>
+			<entry type="music">इब्राहिम अल्काज़ी</entry>
+			<entry type="costume">रोशन अल्काज़ी</entry>
+			<entry type="costume">टी. आर. बक्शी, रोहिणी ओका (हट्टंगणी), नीलम मानसिंह चौधरी सरेष्ठ (श्रेष्ठ) टक्कर</entry>
+			<entry type="stage">Brian Currah</entry>
+			<entry type="stageassistant">बंसी कौल, जयदेव हट्टंगणी, प्रदीप कुमार, शरद व्यास, एस. ए. क़ादरी</entry>
+			<entry type="light">Brian Currah</entry>
+			<entry type="lightassistant">जी. एन. दासगुप्ता, भानू भारती, एस. ए. कादरी</entry>
 		</mdetails>
 		<photo>
 			<entry id="1715" type="" size="">
@@ -48220,6 +48305,24 @@
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
 			<entry id="3118" type="" size="">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="5524-3c" type="" size="">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="5525-3c" type="" size="">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="5526-3c" type="" size="">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="5527-3c" type="" size="">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="5528-2c" type="" size="">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="5529-2c" type="" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
 		</photo>
@@ -48441,81 +48544,152 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.095;075.096">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">जाग उठा है रायगढ़</entry>
-			<entry type="photo">इब्राहीम अलकाजी</entry>
-			<entry type="writer">वसंत कानेटकर</entry>
-			<entry type="director">इब्राहीम अलकाजी</entry>
-			<entry type="date">1977</entry>
+			<entry type="drama">जाग उठा है रायगढ़ (हिन्दी)</entry>
+			<entry type="photo">इब्राहिम अल्काजी</entry>
+			<entry type="writer">वसंत कानेटकर (मराठी)</entry>
+			<entry type="translation">वसंत देव</entry>
+			<entry type="director">इब्राहिम अल्काजी</entry>
+			<entry type="music">प्रेम मटियानी</entry>
+			<entry type="costume">उत्तरा बावकर, सुरेखा सीकरी व ममता गुप्ता</entry>
+			<entry type="light">विजय कविश</entry>
+			<entry type="stage">रॉबिन दास</entry>
+			<entry type="artist">मनोहर सिंह (शिवाजी), उत्तरा बावकर (सौएराबाई), सुरेखा सीकरी, ममता गुप्ता (यशुबाई), अनुपम खेर, अनंग देसाई (सैनिक), के. के. रैना (शंभु राजा) व अन्य</entry>
+			<entry type="book">रंगयात्रा-1, रा. ना. वि. व रंगसाक्षी-जयदेव तनेजा, ले. (सूचना स्रोत पुस्तकों)</entry>
+			<entry type="venue">श्रीराम कला केन्द्र, दिल्ली</entry>
+			<entry type="date">15-04-1977</entry>
 		</mdetails>
 		<photo>
-			<entry id="2481" type="" size="">
+			<entry id="2481" type="02" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
-			<entry id="2485" type="" size="">
+			<entry id="2485" type="02" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
-			<entry id="2504" type="" size="">
+			<entry id="2504" type="02" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
-			<entry id="3084" type="" size="">
+			<entry id="3084" type="02" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.098;075.099;075.100">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">जूलियस सीज़र</entry>
-			<entry type="photo">इब्राहीम अलकाजी</entry>
-			<entry type="writer">शेक्सपियर</entry>
-			<entry type="translation">अरविंद कुमार</entry>
-			<entry type="director">इब्राहीम अलकाजी</entry>
+			<entry type="drama">जूलियस सीज़र (हिन्दी) (काव्य नाटक)</entry>
+			<entry type="photo">इब्राहिम अल्काजी</entry>
+			<entry type="writer">शेक्सपियर (अँग्रेजी)</entry>
+			<entry type="translator">अरविंद कुमार/शांति स्वरूप रावत</entry>
+			<entry type="director">इब्राहिम अल्काजी</entry>
+			<entry type="stage">इब्राहिम अल्काजी</entry>
+			<entry type="music">इब्राहिम अल्काजी</entry>
+			<entry type="costume">रोशन अल्काजी</entry>
+			<entry type="make-up">सुरेश शेट्टी, ए. पी. सी. अरेक्कल</entry>
+			<entry type="light">सीतांशु मुखर्जी</entry>
+			<entry type="artist">श्रीवल्लभ व्यास (जूलियस सीज़र), हेमा सिंह (कैलपूर्णिया) (सीज़र की पत्नी), बापी बोस (अॉक्टेवियस सीज़र), सौरभ शुक्ला (सिसैरो), सुरेश शेट्टी (कास्का), हेमंत पाण्डे (पब्लियस) व अन्य</entry>
+			<entry type="book">रंगयात्रा/रा. ना. वि. (सूचना स्रोत पुस्तक)</entry>
+			<entry type="venue">रा. ना. वि.</entry>
 			<entry type="date">5 जनवरी 1992</entry>
 		</mdetails>
 		<photo>
-			<entry id="1306" type="" size="">
+			<entry id="1306" type="01;02" size="">
+				<desc>प्रथम प्रदर्शन</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="1307" type="01;02" size="">
+				<desc>प्रथम प्रदर्शन</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="1308" type="01;02" size="">
+				<desc>प्रथम प्रदर्शन</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="1309" type="01;02" size="">
+				<desc>प्रथम प्रदर्शन</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="1310" type="01;02" size="">
+				<desc>प्रथम प्रदर्शन</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="1311" type="01;02" size="">
+				<desc>प्रथम प्रदर्शन</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="1312" type="01;02" size="">
+				<desc>प्रथम प्रदर्शन</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="1313" type="01;02" size="">
+				<desc>प्रथम प्रदर्शन</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="10271" type="01;02" size="">
 				<desc>प्रथम प्रदर्शन</desc>
 			</entry>
-			<entry id="1307" type="" size="">
+			<entry id="10272" type="01;02" size="">
 				<desc>प्रथम प्रदर्शन</desc>
 			</entry>
-			<entry id="1308" type="" size="">
+			<entry id="10273" type="01;02" size="">
 				<desc>प्रथम प्रदर्शन</desc>
 			</entry>
-			<entry id="1309" type="" size="">
+			<entry id="10274" type="01;02" size="">
 				<desc>प्रथम प्रदर्शन</desc>
 			</entry>
-			<entry id="1310" type="" size="">
+			<entry id="10275" type="01;02" size="">
 				<desc>प्रथम प्रदर्शन</desc>
 			</entry>
-			<entry id="1311" type="" size="">
+			<entry id="10276" type="01;02" size="">
 				<desc>प्रथम प्रदर्शन</desc>
 			</entry>
-			<entry id="1312" type="" size="">
-				<desc>प्रथम प्रदर्शन</desc>
-			</entry>
-			<entry id="1313" type="" size="">
+			<entry id="10277" type="01;02" size="">
 				<desc>प्रथम प्रदर्शन</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.103">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
 			<entry type="drama">द ट्रोजन वूमैन (The Trojen Women)</entry>
-			<entry type="photo">इब्राहीम अलकाजी</entry>
-			<entry type="writer">यूरिपीडीज</entry>
-			<entry type="director">इब्राहीम अलकाजी</entry>
+			<entry type="photo">इब्राहिम अल्काजी</entry>
+			<entry type="writer">यूरिपीडिज</entry>
+			<entry type="director">इब्राहिम अल्काजी</entry>
+			<entry type="translator">जे. एन. कौशल</entry>
+			<entry type="artist">सुधा शिवपुरी, रोहिणी हट्टंगणी व अन्य</entry>
 			<entry type="date">1966</entry>
 		</mdetails>
 		<photo>
-			<entry id="2419" type="" size="">
+			<entry id="13869" type="02" size="10.1X15.1 से. मी.">
+				<desc></desc>
+			</entry>
+			<entry id="13871" type="02" size="10.1X15.1 से. मी.">
+				<desc></desc>
+			</entry>
+			<entry id="2419" type="02" size="10.1X15.1 से. मी.">
+				<desc></desc>
+			</entry>
+			<entry id="1696" type="02" size="10.1X15.1 से. मी.">
+				<desc></desc>
+			</entry>
+			<entry id="22568" type="02" size="10.1X15.1 से. मी.">
+				<desc></desc>
+			</entry>
+			<entry id="22569" type="02" size="10.1X15.1 से. मी.">
+				<desc></desc>
+			</entry>
+			<entry id="22570" type="02" size="10.1X15.1 से. मी.">
+				<desc></desc>
+			</entry>
+			<entry id="22571" type="02" size="10.1X15.1 से. मी.">
+				<desc></desc>
+			</entry>
+			<entry id="22572" type="02" size="10.1X15.1 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -65349,14 +65523,16 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.068">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">काठ की गाडी</entry>
-			<entry type="director">त्रिपुरारी शर्मा एवं रति बारथोलोमा</entry>
-			<entry type="host">ट्रेड फेथर अथारिटी ऑफ इंडिया</entry>
-			<entry type="venue">मंजर थिएटर</entry>
+			<entry type="drama">काठ की गाड़ी (हिन्दी)</entry>
+			<entry type="drama">त्रिपुरारी शर्मा, रति बार्थोलोमियो</entry>
+			<entry type="director">त्रिपुरारी शर्मा एवं रति बार्थोलोमियो</entry>
+			<entry type="host">ट्रेड फेयर अथारिटी ऑफ इंडिया</entry>
+			<entry type="artist">श्रीवल्लभ व्यास, सीमा विश्वास, हेमा सिंह, हनुयादव व अन्य</entry>
+			<entry type="venue">मंजर थिएटर, प्रगति मैदान, दिल्ली</entry>
 			<entry type="date">31-03-1985</entry>
 		</mdetails>
 		<photo>
@@ -65381,41 +65557,72 @@
 			<entry id="4111" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4306" type="" size="">
+			<entry id="7899" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4306-4c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="4307" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4308" type="" size="">
+			<entry id="4308-3c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="4309" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4310" type="" size="">
+			<entry id="4309-3c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4311" type="" size="">
+			<entry id="4310-2c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4311-2c" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.073;075.074">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">कैदे हयात्</entry>
+			<entry type="drama">कैदे हयात (हिन्दी)</entry>
 			<entry type="writer">सुरेन्द्र वर्मा</entry>
-			<entry type="director">रामगोपाल बजाज</entry>
+			<entry type="director">राम गोपाल बजाज</entry>
+			<entry type="music">महेन्द्र शर्मा</entry>
+			<entry type="costume">डौली आहलुवालिया</entry>
+			<entry type="make-up">सुरेश शेट्टी</entry>
+			<entry type="stage">बापी बोस</entry>
+			<entry type="light">बापी बोस</entry>
+			<entry type="artist">नूतन सूर्या (आपा), हिमानी शिवपुरी (उमराव), श्रीवल्लभ व्यास, अमित बनर्जी (मिर्ज़ा), सीमा विश्वास (कतिबा), प्रेम लता (नसीबन) व अन्य</entry>
+			<entry type="venue">दिल्ली</entry>
 			<entry type="date">17-12-1989</entry>
 		</mdetails>
 		<photo>
-			<entry id="1280" type="" size="">
-				<desc></desc>
+			<entry id="1280" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1281" type="" size="">
-				<desc></desc>
+			<entry id="1281" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="10334" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="10335" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="10336" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="10337" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="10338" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="10339" type="01;02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -65465,48 +65672,81 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्याल्य रंगमंडल</entry>
-			<entry type="drama">खूबसूरत बहू</entry>
-			<entry type="writer">नाग बोडस</entry>
-			<entry type="director">रंजीत कपूर</entry>
-			<entry type="date">12-17 मई 1992</entry>
-		</mdetails>
-		<photo>
-			<entry id="1282" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="1283" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="1284" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="1285" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="1286" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.075;075.076;075.077">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">घासीराम कोतवाल</entry>
-			<entry type="writer">विजय तेंदुलकर</entry>
+			<entry type="drama">खूबसूरत बहू (हिन्दी)</entry>
+			<entry type="writer">नाग बोडस</entry>
+			<entry type="director">रंजीत कपूर</entry>
+			<entry type="asstdirector">महेश पाटील</entry>
+			<entry type="music">रंजीत कपूर</entry>
+			<entry type="musicassistant">महेन्द्र शर्मा</entry>
+			<entry type="costume">सीमा भार्गव</entry>
+			<entry type="make-up">सुरेश शेट्टी, नीलिमा शर्मा</entry>
+			<entry type="stage">प्रसन्ना</entry>
+			<entry type="light">अशोक सागर भगत</entry>
+			<entry type="mask">ए. सी. पी. अरेक्कल</entry>
+			<entry type="choreography">सोनार चाँद</entry>
+			<entry type="photography">एस. त्यागराजन</entry>
+			<entry type="artist">प्रतिमा काज़मी (चाची), सीमा बोस (सुमन), हेमा सिंह, सीमा भार्गव (बसंती), सौरभ शुक्ला (मंटोला) व अन्य</entry>
+			<entry type="date">12-17 मई 1982</entry>
+		</mdetails>
+		<photo>
+			<entry id="1282" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</misc>
+			</entry>
+			<entry id="1283" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</misc>
+			</entry>
+			<entry id="1284" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</misc>
+			</entry>
+			<entry id="1285" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</misc>
+			</entry>
+			<entry id="1286" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="075.078">
+		<mdetails>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
+			<entry type="drama">घासीराम कोतवाल (हिन्दी)</entry>
+			<entry type="writer">विजय तेंदुलकर (मराठी)</entry>
 			<entry type="translation">वसंत देव</entry>
 			<entry type="director">राजिन्दर नाथ</entry>
 			<entry type="music">मोहन उप्रेती</entry>
+			<entry type="artist">राम गोपाल बजाज, रवि कौशल, अखिलेश खन्ना</entry>
+			<entry type="date">19 मई 1993</entry>
 		</mdetails>
 		<photo>
-			<entry id="4032" type="" size="">
+			<entry id="2510" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4033" type="" size="">
+			<entry id="2511" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4032" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4033" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11806" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11807" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11808" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -65530,40 +65770,76 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.079;075.080;075.081">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">चंद्रमासिंह उर्फ चमकू</entry>
-			<entry type="writer">लू सुन</entry>
+			<entry type="drama">चंद्रमा सिंह उर्फ चमकू (हिन्दी)</entry>
+			<entry type="writer">लू शुन (चीनी कथा)</entry>
 			<entry type="version">भानु भारती</entry>
 			<entry type="director">भानु भारती</entry>
+			<entry type="asstdirector">उत्तरा बावकर</entry>
+			<entry type="music">भानु भारती, लोकेन्द्र त्रिवेदी एवं नूतन सूर्या</entry>
+			<entry type="costume">सुरेश शेट्टी</entry>
+			<entry type="stage">चंचल</entry>
+			<entry type="light">वसंत जोसलकर</entry>
+			<entry type="make-up">सुरेन्द्र प्रसाद</entry>
+			<entry type="photography">एस. त्यागराजन</entry>
+			<entry type="artist">रघुवीर यादव (चमकू), श्रीवल्लभ व्यास (तिलंगा-1), गोविन्द नामदेव (तिलंगा-2), वागीश कुमार सिंह (पुजारी), अनंग देसाई (बाबू साहेब), डौली आहलुवालिया (बाबू साहेब की पत्नी), सीमा विश्वास, हेमा सिंह, नूतन सूर्या, उत्तरा बावकर, सुरेखा सीकरी (नन्स) व अन्य</entry>
 			<entry type="date">15-22 अक्टूबर 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="1287" type="" size="">
-				<desc></desc>
+			<entry id="1287" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
 			</entry>
-			<entry id="1288" type="" size="">
-				<desc></desc>
+			<entry id="1288" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
 			</entry>
-			<entry id="1289" type="" size="">
-				<desc></desc>
+			<entry id="1289" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
 			</entry>
-			<entry id="1290" type="" size="">
-				<desc></desc>
+			<entry id="1290" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
 			</entry>
-			<entry id="1291" type="" size="">
-				<desc></desc>
+			<entry id="1291" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
 			</entry>
-			<entry id="1292" type="" size="">
-				<desc></desc>
+			<entry id="1292" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
 			</entry>
-			<entry id="1293" type="" size="">
-				<desc></desc>
+			<entry id="1293" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
 			</entry>
-			<entry id="1294" type="" size="">
-				<desc></desc>
+			<entry id="1294" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
+			</entry>
+			<entry id="16173" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
+			</entry>
+			<entry id="16174" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
+			</entry>
+			<entry id="16175" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
+			</entry>
+			<entry id="16176" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
+			</entry>
+			<entry id="16177" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>N.S.D.</misc>
 			</entry>
 		</photo>
 	</media>
@@ -65612,7 +65888,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.082">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
@@ -65629,12 +65905,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.083">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
 			<entry type="drama">चुकायेंगे नही</entry>
-			<entry type="writer">हारियो को</entry>
+			<entry type="writer">डारियो फो</entry>
 			<entry type="director">भानु भारती</entry>
 			<entry type="version">अमिताभ श्रीवास्तव</entry>
 		</mdetails>
@@ -65644,20 +65920,46 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.084;075.085">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">चेरी का बगीचा</entry>
-			<entry type="writer">अंतोन चेखव</entry>
-			<entry type="director">रिचर्ड शेखनर</entry>
-			<entry type="date">1993</entry>
+			<entry type="drama">चेरी का बगीचा (हिन्दी)</entry>
+			<entry type="writer">एण्टोन चेखव (रुसी)</entry>
+			<entry type="translator">राजेन्द्र यादव</entry>
+			<entry type="director">रिचर्ड शेखनर (Richard Schechner)</entry>
+			<entry type="costume">अमाल अल्लाना</entry>
+			<entry type="make-up">युवराज शर्मा</entry>
+			<entry type="artist">वागीश कुमार सिंह, जी. पी. नामदेव (व्यापारी), ललित मोहन (क्लर्क), सुरेखा सीकरी, उत्तरा बावकर (बगीचे की मालकिव), हेमा सहाय, नूतन सूर्या (गोद ली हुई पुत्रियाँ) व अन्य</entry>
+			<entry type="book">रंगयात्रा-1 (सूचना स्रोत पुस्तक)</entry>
+			<entry type="date">1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="2416" type="" size="">
+			<entry id="2416" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="2417" type="" size="">
+			<entry id="2417" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11671" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11672" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11673" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="11674" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="18647" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="18648" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="18649" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -65691,36 +65993,67 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.086;075.087;075.088">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">चौपड़ा कमाल नौकर जमाल</entry>
-			<entry type="writer">बर्टोल्ट ब्रैश्ट</entry>
-			<entry type="translation">अनिल चौधरी</entry>
-			<entry type="director">फ्रिट्ज वेनेविट्ज</entry>
+			<entry type="drama">चौपड़ा कमाल नौकर ज़माल (हिन्दी)</entry>
+			<entry type="writer">बर्टोल्ट ब्रैख्त (रुसी)</entry>
+			<entry type="translator">अनिल चौधरी</entry>
+			<entry type="director">फ्रिट्ज बेनेविट्ज</entry>
+			<entry type="asstdirector">अनिल चौधरी</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="song">अनिल चौधरी</entry>
+			<entry type="musicassistant">रघुवीर यादव, ज्ञान शिवपुरी</entry>
+			<entry type="light">वसंत जोसलकर व प्रेममटियानी</entry>
+			<entry type="costume">मधु मालती मेहता</entry>
+			<entry type="costumeassistant">डौली आहलुवालिया व अशोक नीलेश</entry>
+			<entry type="stage">रॉबिन दास</entry>
+			<entry type="stagecontent">रॉबिन दास</entry>
+			<entry type="artist">मधु मालती मेहता (फूलमती), अनंग देसाई (जज), पंकज कपूर (चौपड़ा), अमिताभ श्रीवास्तव (वेटर), के. के. रैना (जमाल), उत्तरा बावकर (चंपा), डौली आहलुवालिया (हरजीत कौर), नूतन सूर्या (शांति) व अन्य</entry>
+			<entry type="book">रंगयात्रा-1 (सूचना स्रोत पुस्तक, रा. ना. वि.)</entry>
+			<entry type="venue">रा. ना. वि., दिल्ली</entry>
+			<entry type="date">12-16 दिसंबर 1979</entry>
 		</mdetails>
 		<photo>
-			<entry id="1295" type="" size="">
-				<desc></desc>
+			<entry id="1295-2c" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1296" type="" size="">
-				<desc></desc>
+			<entry id="1296" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1297" type="" size="">
-				<desc></desc>
+			<entry id="1297" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1298" type="" size="">
-				<desc></desc>
+			<entry id="1298" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1299" type="" size="">
-				<desc></desc>
+			<entry id="1299" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1300" type="" size="">
-				<desc></desc>
+			<entry id="1300" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="2218" type="" size="">
-				<desc></desc>
+			<entry id="2218-2c" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="14128" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="14129" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="14130" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="14131" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="14132" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="14133" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -65754,11 +66087,11 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.092">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">जनाजे दाँत का अस्पताल</entry>
+			<entry type="drama">जनाने दाँत का अस्पताल</entry>
 			<entry type="writer">बलराज पंडित</entry>
 			<entry type="director">बलराज पंडित</entry>
 			<entry type="date">1976</entry>
@@ -65799,27 +66132,35 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.097">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">जिल्ले सुहानी</entry>
+			<entry type="drama">ज़िल्ले सुहानी (हिन्दी)</entry>
 			<entry type="writer">नन्दकिशोर आचार्य</entry>
 			<entry type="director">राजेन्द्र गुप्ता</entry>
-			<entry type="date">2003</entry>
+			<entry type="music">काजल घोष</entry>
+			<entry type="stage">निसार अल्लाना</entry>
+			<entry type="light">निसार अल्लाना</entry>
+			<entry type="artist">सुभाष चन्द्र (मुबारक), जगत सिंह रावत (हसन), टीकम जोशी (हिस्सामुद्दीन) व अन्य</entry>
+			<entry type="date">2003;27-02-2006</entry>
 		</mdetails>
 		<photo>
-			<entry id="16897" type="" size="">
+			<entry id="16897" type="01" size="">
 				<desc>रा. ना. वि. द्वारा न. प्र. को भेंट</desc>
+				<misc>राष्ट्रीय नाट्य विद्यालय से प्राप्त, सूचना स्रोत - </misc>
 			</entry>
-			<entry id="16898" type="" size="">
+			<entry id="16898" type="01" size="">
 				<desc>रा. ना. वि. द्वारा न. प्र. को भेंट</desc>
+				<misc>राष्ट्रीय नाट्य विद्यालय से प्राप्त, सूचना स्रोत - </misc>
 			</entry>
-			<entry id="16899" type="" size="">
+			<entry id="16899" type="01" size="">
 				<desc>रा. ना. वि. द्वारा न. प्र. को भेंट</desc>
+				<misc>राष्ट्रीय नाट्य विद्यालय से प्राप्त, सूचना स्रोत - </misc>
 			</entry>
-			<entry id="16900" type="" size="">
+			<entry id="16900" type="01" size="">
 				<desc>रा. ना. वि. द्वारा न. प्र. को भेंट</desc>
+				<misc>राष्ट्रीय नाट्य विद्यालय से प्राप्त, सूचना स्रोत - </misc>
 			</entry>
 		</photo>
 	</media>
@@ -65897,13 +66238,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.104">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
 			<entry type="drama">तमचा खाँ की गजब दास्तान</entry>
 			<entry type="writer">बर्टोल्ट ब्रेख्ट</entry>
-			<entry type="translation">नियाज हैदर एवं शाम जैदी</entry>
+			<entry type="translation">नियाज हैदर एवं शमा जैदी</entry>
 			<entry type="director">बंसी कौल</entry>
 			<entry type="music">संजय उपाध्याय</entry>
 		</mdetails>
@@ -65944,7 +66285,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.106">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
@@ -65953,6 +66294,12 @@
 			<entry type="date">1981</entry>
 		</mdetails>
 		<photo>
+			<entry id="1837" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1838" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="2479" type="" size="">
 				<desc></desc>
 			</entry>
@@ -66010,66 +66357,107 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.110;075.111;075.112">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">तुगलक</entry>
+			<entry type="drama">तुगलक (उर्दू)</entry>
 			<entry type="writer">गिरीश कारनाड</entry>
+			<entry type="translator">सुरेखा सीकरी एवं के. के. नैयर</entry>
 			<entry type="director">प्रसन्ना</entry>
+			<entry type="asstdirector">विजय कश्यप</entry>
+			<entry type="music">ब. व. कारंत व प्रसन्ना</entry>
+			<entry type="stage">प्रसन्ना</entry>
+			<entry type="property">प्रसन्ना</entry>
+			<entry type="costume">उत्तरा बावकर</entry>
+			<entry type="light">जी. एस. मराठे</entry>
+			<entry type="artist">मनोहर सिंह (तुगलक), रघुवीर यादव (आजम), उत्तरा बावकर (सौतेली मॉ), जी. पी. नामदेव (शहाबुद्दीन), नूतन सूर्या (हिन्दू महिला)</entry>
+			<entry type="book">रंगयात्रा/रा. ना. वि. (सूचना स्रोत पुस्तक)</entry>
 			<entry type="date">1982</entry>
 		</mdetails>
 		<photo>
-			<entry id="1319" type="" size="">
-				<desc></desc>
+			<entry id="1319-2c" type="02" size="">
+				<desc>गिरीश कर्नाड द्वारा कन्नड़ से अँग्रेजी अनुवाद का उर्दू अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं मनोहर सिंह द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="1320" type="" size="">
-				<desc></desc>
+			<entry id="1320-2c" type="02" size="">
+				<desc>गिरीश कर्नाड द्वारा कन्नड़ से अँग्रेजी अनुवाद का उर्दू अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं मनोहर सिंह द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="3099" type="02" size="">
+				<desc>गिरीश कर्नाड द्वारा कन्नड़ से अँग्रेजी अनुवाद का उर्दू अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं मनोहर सिंह द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="3098-3c" type="02" size="">
+				<desc>गिरीश कर्नाड द्वारा कन्नड़ से अँग्रेजी अनुवाद का उर्दू अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं मनोहर सिंह द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="3095" type="02" size="">
+				<desc>गिरीश कर्नाड द्वारा कन्नड़ से अँग्रेजी अनुवाद का उर्दू अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं मनोहर सिंह द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="21803" type="02" size="">
+				<desc>गिरीश कर्नाड द्वारा कन्नड़ से अँग्रेजी अनुवाद का उर्दू अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं मनोहर सिंह द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="21804" type="02" size="">
+				<desc>गिरीश कर्नाड द्वारा कन्नड़ से अँग्रेजी अनुवाद का उर्दू अनुवाद</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं मनोहर सिंह द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.113.0;075.113.1;075.113.2">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">थैंकू बाबा लोचन दास</entry>
+			<entry type="drama">थैंकू बाबा लोचन दास (हिन्दी)</entry>
 			<entry type="writer">नाग बोडस</entry>
-			<entry type="director">बी. एम. शाह</entry>
+			<entry type="director">बृज मोहन शाह</entry>
+			<entry type="asstdirector">सीताराम पांचाल</entry>
 			<entry type="music">पंचानन पाठक</entry>
+			<entry type="costume">अश्विनी गिरी</entry>
+			<entry type="make-up">श्रीवर्धन त्रिवेदी, मंदाकिनी गोस्वामी व अन्य</entry>
+			<entry type="stage">बृज मोहन शाह</entry>
+			<entry type="light">चितरंजन गिरी</entry>
+			<entry type="choreography">शशधर आचार्य</entry>
+			<entry type="artist">श्रीवर्धन त्रिवेदी (दिलावर उर्फ दिलवारी), मंदाकिनी गोस्वामी (चमेली जान), हरविन्दर कौर (गुल्लो), हिमांशु बी. जोशी (आदमी-2) व अन्य</entry>
+			<entry type="book">रंगयात्रा-II (सूचना स्रोत पुस्तक)</entry>
+			<entry type="venue">दिल्ली</entry>
+			<entry type="date">02-06-1996</entry>
 		</mdetails>
 		<photo>
-			<entry id="3973" type="" size="">
+			<entry id="3973" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="3974" type="" size="">
+			<entry id="3974" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="3975" type="" size="">
+			<entry id="3975" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4036" type="" size="">
+			<entry id="4036" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4037" type="" size="">
+			<entry id="4037" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.114">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">भ्री पैनी ओपेरा</entry>
-			<entry type="writer">बर्टोल्ट बैस्ट</entry>
+			<entry type="drama">थ्री पैनी ओपेरा</entry>
+			<entry type="writer">बर्टोल्ट ब्रैख्त</entry>
 			<entry type="director">फ्रिट्ज बेनेविट्ज</entry>
 			<entry type="date">1970</entry>
 		</mdetails>
 		<photo>
 			<entry id="2418" type="" size="">
-				<desc>मूल जर्मन नाटक का अंग्रेजी अनुवाद थ्रीपैनी औरा</desc>
+				<desc>मूल जर्मन नाटक का अंग्रेजी अनुवाद थ्रीपैनी ओपेरा</desc>
 			</entry>
 			<entry id="2477" type="" size="">
-				<desc>मूल जर्मन नाटक का अंग्रेजी अनुवाद थ्रीपैनी औरा</desc>
+				<desc>मूल जर्मन नाटक का अंग्रेजी अनुवाद थ्रीपैनी ओपेरा</desc>
 			</entry>
 		</photo>
 	</media>
