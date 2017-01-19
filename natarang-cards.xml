@@ -48763,23 +48763,46 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.167;075.168">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">बीवियों का मदरसा</entry>
-			<entry type="photo">इब्राहीम अलकाजी</entry>
-			<entry type="writer">मोलियर</entry>
-			<entry type="director">इब्राहीम अलकाजी</entry>
+			<entry type="drama">बीवियों का मदरसा (हिन्दी)</entry>
+			<entry type="originaldrama">स्कूल अॉफ वाइब्स</entry>
+			<entry type="photo">इब्राहिम अल्काज़ी</entry>
+			<entry type="writer">मोलियर (फ्रेंच)</entry>
+			<entry type="translation">बलराज पण्डित</entry>
+			<entry type="director">इब्राहिम अल्काज़ी</entry>
+			<entry type="music">इब्राहिम अल्काज़ी</entry>
+			<entry type="stage">इब्राहिम अल्काज़ी</entry>
+			<entry type="costume">उत्तरा बावकर, सुरेखा सीकरी</entry>
+			<entry type="costumeassistant">सुमन तिवारी</entry>
+			<entry type="artist">रंजीत कपूर, राजेश विवेक, उत्तरा बावकर, सुरेखा सीकरी, सुधीर कुलकर्णी, राज़ा बुंदेला, जी. एस. मराठे, विजय कश्यप, मनोहर सिंह व अन्य</entry>
+			<entry type="date">1976</entry>
 		</mdetails>
 		<photo>
-			<entry id="2470" type="" size="">
+			<entry id="2470" type="02" size="10.3X15 से. मी., 19.2X29.2 से. मी., 19.9X29.4 से. मी.">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
-			<entry id="2487" type="" size="">
+			<entry id="2487" type="02" size="10.3X15 से. मी., 19.2X29.2 से. मी., 19.9X29.4 से. मी.">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
-			<entry id="3123" type="" size="">
+			<entry id="3123-2c" type="02" size="10.3X15 से. मी., 19.2X29.2 से. मी., 19.9X29.4 से. मी.">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="13864" type="02" size="10.3X15 से. मी., 19.2X29.2 से. मी., 19.9X29.4 से. मी.">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="13865" type="02" size="10.3X15 से. मी., 19.2X29.2 से. मी., 19.9X29.4 से. मी.">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="13866" type="02" size="10.3X15 से. मी., 19.2X29.2 से. मी., 19.9X29.4 से. मी.">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="13867" type="02" size="10.3X15 से. मी., 19.2X29.2 से. मी., 19.9X29.4 से. मी.">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="13868" type="02" size="10.3X15 से. मी., 19.2X29.2 से. मी., 19.9X29.4 से. मी.">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
 		</photo>
@@ -61815,73 +61838,91 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.143;075.144">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">पांचवा सवार</entry>
+			<entry type="drama">पांचवा सवार (हिन्दी)</entry>
 			<entry type="writer">बलराज पण्डित</entry>
+			<entry type="director">बलराज पण्डित</entry>
+			<entry type="projection">बलराज पण्डित</entry>
+			<entry type="music">ज्योति देशपाण्डे</entry>
+			<entry type="artist">मनोहर सिंह (बूढ़ा आदमी, राजनीतिज्ञ, छात्र व पिता), राजेन्द्र गुप्त (बूढ़ा आदमी, जवान आदमी), बलराज पण्डित (राजनीतिज्ञ, छात्र, बूढ़ा आदमी) राजेश विवेक, नसीरुद्दीन शाह व अन्य</entry>
+			<entry type="venue">स्टूडियो थिएटर, रवीन्द्र भवन</entry>
+			<entry type="date">1973</entry>
 		</mdetails>
 		<photo>
-			<entry id="1723" type="" size="">
-				<desc></desc>
+			<entry id="1723" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1724" type="" size="">
-				<desc></desc>
+			<entry id="1724" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1725" type="" size="">
-				<desc></desc>
+			<entry id="1725" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1726" type="" size="">
-				<desc></desc>
+			<entry id="1726" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1727" type="" size="">
-				<desc></desc>
+			<entry id="1727" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1728" type="" size="">
-				<desc></desc>
+			<entry id="1728" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1729" type="" size="">
-				<desc></desc>
+			<entry id="1729" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1730" type="" size="">
-				<desc></desc>
+			<entry id="1730-2c" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1731" type="" size="">
-				<desc></desc>
+			<entry id="1731" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1732" type="" size="">
-				<desc></desc>
+			<entry id="1732" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1733" type="" size="">
-				<desc></desc>
+			<entry id="1733" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1734" type="" size="">
-				<desc></desc>
+			<entry id="1734" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1735" type="" size="">
-				<desc></desc>
+			<entry id="1735" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1736" type="" size="">
-				<desc></desc>
+			<entry id="1736" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1737" type="" size="">
-				<desc></desc>
+			<entry id="1737" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1738" type="" size="">
-				<desc></desc>
+			<entry id="1738" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1739" type="" size="">
-				<desc></desc>
+			<entry id="1739" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1740" type="" size="">
-				<desc></desc>
+			<entry id="1740" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1741" type="" size="">
-				<desc></desc>
+			<entry id="1741" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="1742" type="" size="">
-				<desc></desc>
+			<entry id="1742" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+			</entry>
+			<entry id="3024" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+			</entry>
+			<entry id="3025" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+			</entry>
+			<entry id="3049" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+			</entry>
+			<entry id="3050" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -61959,24 +62000,44 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.154;075.155;075.156">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">द फूल</entry>
-			<entry type="writer">एडवर्ड बॉड</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
+			<entry type="drama">द फूल (हिन्दी)</entry>
+			<entry type="writer">एडवर्ड बोंड</entry>
+			<entry type="translator">वी. के. शर्मा, सुरेखा सीकरी, प्रेम मटियानी, रंजीत कपूर एवं अमिताभ श्रीवास्तव</entry>
 			<entry type="director">बैरी जॉन</entry>
+			<entry type="asstdirector">युवराज शर्मा, जी. पी. नामदेव</entry>
+			<entry type="music">प्रेम मटियानी, नूतन</entry>
+			<entry type="voice">प्रेम मटियानी, नूतन</entry>
+			<entry type="costume">अनिला सिंह</entry>
+			<entry type="costumeassistant">डौली आहलुवालिया, अमित मिश्रा व अन्य</entry>
+			<entry type="make-up">इंदु भूषण घोष</entry>
+			<entry type="light">जी. एस. मराठे</entry>
+			<entry type="artist">रघुवीर यादव (जॉन), पंकज कपूर (दारकी), सुरेखा सीकरी (पैटी), उत्तरा बावकर (मैरी), राजेश विवेक (पीटर) व अन्य</entry>
+			<entry type="book">रंगयात्रा/रा. ना. वि., रंगमंडल (सूचना स्रोत पुस्तक)</entry>
+			<entry type="venue">दिल्ली</entry>
 			<entry type="date">1979</entry>
 		</mdetails>
 		<photo>
-			<entry id="1839" type="" size="">
-				<desc></desc>
+			<entry id="1839" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1840" type="" size="">
-				<desc></desc>
+			<entry id="1840" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="1841" type="" size="">
-				<desc></desc>
+			<entry id="1841" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="2483" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="2846" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="17542" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -62015,17 +62076,145 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.162;075.163;075.164;075.165">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
-			<entry type="drama">बरनम वन</entry>
-			<entry type="writer">शेक्सपीयर</entry>
+			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
+			<entry type="drama">बरनम वन (यक्षगान शैली से प्रभावित)</entry>
+			<entry type="writer">शेक्सपियर</entry>
 			<entry type="director">ब. व. कारंत</entry>
+			<entry type="translator">रघुवीर सहाय</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="musicassistant">ज्ञान शिवपुरी</entry>
+			<entry type="stage">रॉबिन दास व बसंत जोसलकर</entry>
+			<entry type="costume">रॉबिन दास व बसंत जोसलकर</entry>
+			<entry type="stagecontent">रॉबिन दास व बसंत जोसलकर</entry>
+			<entry type="light">जी. एस. मराठे, सुरेखा सीकरी</entry>
+			<entry type="make-up">इंदू भूषण घोष</entry>
+			<entry type="artist">जी. पी. नामदेव (संदेशवाहक), पंकज कपूर (मैल्कम), रघुवीर यादव (डोनल्बेन), के. के. रैना (मैकबैथ), राजेश विवेक व अन्य</entry>
+			<entry type="book">रंगयात्रा/रा. ना. वि., रंगमंडल (सूचना स्रोत पुस्तक)</entry>
+			<entry type="date">1979</entry>
 		</mdetails>
 		<photo>
-			<entry id="7892" type="" size="">
-				<desc></desc>
+			<entry id="1647" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1648" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1860" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1861-2c" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1863" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1864" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1865" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1866-3c" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1867" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1868" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="1869-2c" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="2225" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="2227" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="3836" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="8180" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="8753" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="8754" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="8755" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="8756" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="8757" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="8758" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="8759" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="16194" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="16195" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="16196" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="16197" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="16198" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="18671" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="7892" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
+			</entry>
+			<entry id="7820" type="02" size="">
+				<desc>नाटक की वेशभूषा एशियाई देशों (बाली, जापान, कम्बोडिया, बर्मा व इण्डोनेशिया) की पारम्परिक नाट्य वेशभूषा पर आधारित</desc>
+				<misc>श्री नेमिचन्द्र जैन एवं श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट, नटरंग अंक में प्रकाशित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -66906,72 +67095,112 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.148;075.149">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">पैर तले की जमीन</entry>
+			<entry type="drama">पैर तले की ज़मीन (हिन्दी)</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">रंजीत कपूर</entry>
+			<entry type="music">रंजीत कपूर</entry>
+			<entry type="musicassistant">सौरभ शुक्ला, ओम प्रकाश</entry>
+			<entry type="costume">मधु मालती कपूर</entry>
+			<entry type="make-up">नीलमा शर्मा, विवेक मिश्रा</entry>
+			<entry type="stage">बापी बोस</entry>
+			<entry type="light">बापी बोस</entry>
+			<entry type="photography">एस. त्यागराजन एवं लक्ष्मण</entry>
+			<entry type="artist">मधु मालती कपूर (नज़मा), महेन्द्र शर्मा (अब्दुल्ला), सौरभ शुक्ला (झुनझुनवाला), बापी बोस (अयूब) व अन्य</entry>
+			<entry type="book">रंगयात्रा-II/रा. ना. वि., रंगमंडल (सूचना स्रोत पुस्तक)</entry>
 		</mdetails>
 		<photo>
-			<entry id="2295" type="" size="">
-				<desc></desc>
+			<entry id="2295" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="2296" type="" size="">
-				<desc></desc>
+			<entry id="2296" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="2297" type="" size="">
-				<desc></desc>
+			<entry id="2297" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="2298" type="" size="">
-				<desc></desc>
+			<entry id="2298" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
-			<entry id="2299" type="" size="">
-				<desc></desc>
+			<entry id="2299" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+			</entry>
+			<entry id="2362" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.150">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">प्रतिबिम्ब</entry>
+			<entry type="drama">प्रतिबिम्ब (हिन्दी)</entry>
 			<entry type="writer">महेश एलकुंचवार</entry>
-			<entry type="director">चितरंजन गिरि</entry>
+			<entry type="director">चितरंजन गिरी</entry>
 			<entry type="host">इंडिया इंटरनेशनल ट्रेड फेथर में इंडिया ट्रेड प्रमोशन द्वारा आयोजित</entry>
+			<entry type="stage">निखिलेश शर्मा</entry>
+			<entry type="artist">सीमा बोस, गौर, (कनुप्रिया (राधा)), चितरंजन गिरी, विवेक मिश्रा (कनु (कृष्णा)), सतीश गौतम (राधा छाया)</entry>
 			<entry type="venue">शाकुन्तलम थिएटर, दिल्ली</entry>
+			<entry type="date">1994</entry>
 		</mdetails>
 		<photo>
-			<entry id="3547" type="" size="">
-				<desc></desc>
+			<entry id="3547-3c" type="01;02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
 			</entry>
-			<entry id="4042" type="" size="">
-				<desc></desc>
+			<entry id="4042-2c" type="01;02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
 			</entry>
-			<entry id="4043" type="" size="">
-				<desc></desc>
+			<entry id="4043-2c" type="01;02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+			</entry>
+			<entry id="7871" type="01;02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+			</entry>
+			<entry id="7872" type="01;02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+			</entry>
+			<entry id="7874" type="01;02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+			</entry>
+			<entry id="7878" type="01;02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.151;075.152;075.153">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">फूजीयामा</entry>
-			<entry type="writer">चिंगेज ऎटामेटोव और कलताई महाम्मेजानोव</entry>
-			<entry type="translation">भीष्म साहनी</entry>
+			<entry type="drama">फूजीयामा (हिन्दी)</entry>
+			<entry type="writer">चिंगिज ऐत्मतोव और कालताय मोहम्मेजनोव (रुसी)</entry>
+			<entry type="translator">भीष्म साहनी</entry>
 			<entry type="director">प्रसन्ना</entry>
+			<entry type="asstdirector">श्रीवल्लभ व्यास</entry>
+			<entry type="projection">प्रसन्ना</entry>
+			<entry type="stage">प्रसन्ना</entry>
+			<entry type="music">रंजीत कपूर</entry>
+			<entry type="make-up">सुरेश शेट्टी, नीलिमा शर्मा</entry>
+			<entry type="costume">बानी शरद प्रसन्ना</entry>
+			<entry type="light">सुरेश भारद्वाज</entry>
+			<entry type="artist">रवि खानविलकर/अमित बैनर्जी/जितेन्द्र शास्त्री (माम्बेत), लोकेन्द्र त्रिवेदी/सुरेश शेट्टी (ओसिफबाई), हिमानी शिवपुरी/सीमा बोस (गुलजान), हेमा सिंह (अनवार) व अन्य</entry>
+			<entry type="venue">दिल्ली</entry>
+			<entry type="date">1985-1986</entry>
 		</mdetails>
 		<photo>
-			<entry id="1857" type="" size="">
-				<desc></desc>
+			<entry id="1857" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, पूर्ण सूचना स्मा. - 1865 में उपलब्ध</misc>
 			</entry>
-			<entry id="1858" type="" size="">
-				<desc></desc>
+			<entry id="1858" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, पूर्ण सूचना स्मा. - 1865 में उपलब्ध</misc>
 			</entry>
-			<entry id="1859" type="" size="">
-				<desc></desc>
+			<entry id="1859" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित, पूर्ण सूचना स्मा. - 1865 में उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
@@ -66993,64 +67222,89 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.157;075.158">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">बंद गली का आखिरी मकान</entry>
+			<entry type="drama">बंद गली का आखिरी मकान (हिन्दी)</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
 			<entry type="director">देवेन्द्रराज अंकुर</entry>
+			<entry type="projection">देवेन्द्रराज अंकुर</entry>
+			<entry type="stage">देवेन्द्रराज अंकुर</entry>
 			<entry type="music">संजय उपाध्याय</entry>
+			<entry type="stageassistant">सुरेश शर्मा, हिमांशु बी. जोशी</entry>
+			<entry type="costume">हिमांशु बी जोशी, गुरुशरण कौर व अन्य</entry>
+			<entry type="make-up">मंदाकिनी गौसेन, पंकज झा</entry>
+			<entry type="light">सुरेश भारद्वाज</entry>
+			<entry type="artist">चितरंजन गिरी (मुंशी जी), मंदाकिनी गोसेन, अंजु जेटली (बिरजा), महेन्द्र (हरि राम), हिमांशु बी. जोशी (वकील, महात्मा, वैद्य), व अन्य</entry>
 			<entry type="date">24-03-1996</entry>
 		</mdetails>
 		<photo>
-			<entry id="3976" type="" size="">
-				<desc></desc>
+			<entry id="3976" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</desc>
 			</entry>
-			<entry id="3977" type="" size="">
-				<desc></desc>
+			<entry id="3977" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</desc>
 			</entry>
-			<entry id="3978" type="" size="">
-				<desc></desc>
+			<entry id="3978" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</desc>
 			</entry>
-			<entry id="4044" type="" size="">
-				<desc></desc>
+			<entry id="4044" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</desc>
 			</entry>
-			<entry id="4045" type="" size="">
-				<desc></desc>
+			<entry id="4045" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि. रंगमंडल</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.159;075.160">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">बकरी</entry>
+			<entry type="drama">बकरी (हिन्दी)</entry>
 			<entry type="writer">सर्वेश्वर दयाल सक्सेना</entry>
-			<entry type="director">ज्योतिदेश पाण्डे</entry>
+			<entry type="director">ज्योति देशपाण्डे</entry>
+			<entry type="artist">अनिल चौधरी (नट), सुरेखा सीकरी (नटी), मनोहर सिंह (दुर्जन सिंह), भानु भारती (करमवीर, सत्यवीर), बलराज पण्डित (सिपाही), उत्तरा बावकर (युवती) व अन्य</entry>
+			<entry type="date">1973</entry>
 		</mdetails>
 		<photo>
-			<entry id="2497" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="2497-2c" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती उत्तरा बावकर द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="2499" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="11652" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती उत्तरा बावकर द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="3119" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="2499" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
 			</entry>
-			<entry id="3120" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="3119" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="3120-3c" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्री मनोहर सिंह द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="18650" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
+			</entry>
+			<entry id="16178" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
+			</entry>
+			<entry id="16179" type="02" size="">
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.161">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">बड्e. न खेले छोटे खेल</entry>
+			<entry type="drama">बड़े न खेले छोटे खेल</entry>
 			<entry type="writer">डारियो फ़ो</entry>
-			<entry type="translation">श्री बल्लभ व्यास</entry>
+			<entry type="translation">श्री वल्लभ व्यास</entry>
 			<entry type="director">रोबिन दास</entry>
 			<entry type="date">28-31 मई 1996</entry>
 		</mdetails>
@@ -67204,7 +67458,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.166">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
