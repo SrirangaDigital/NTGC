@@ -1838,7 +1838,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.327;075.328">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troup">विदूषक</entry>
@@ -1882,7 +1882,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.324">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विकल्प</entry>
@@ -1940,7 +1940,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.325">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विकल्प</entry>
@@ -1972,7 +1972,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.326">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विदूषक</entry>
@@ -1989,7 +1989,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.329">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विदूषक</entry>
@@ -2021,7 +2021,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.337;075.338">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विवादी</entry>
@@ -2034,13 +2034,22 @@
 			<entry type="date">06-01-2003</entry>
 		</mdetails>
 		<photo>
+			<entry id="7932" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="7933" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7934" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="7935" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9486" type="" size="">
+			<entry id="7946" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="9486-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="9487" type="" size="">
@@ -2079,7 +2088,7 @@
 			<entry id="9507" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9508" type="" size="">
+			<entry id="9508-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="9509" type="" size="">
@@ -2097,13 +2106,13 @@
 			<entry id="9513" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9514" type="" size="">
+			<entry id="9514-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="9515" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9516" type="" size="">
+			<entry id="9516-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="9517" type="" size="">
@@ -2112,30 +2121,30 @@
 			<entry id="9518" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9519" type="" size="">
+			<entry id="9519-2c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9520" type="" size="">
+			<entry id="9520-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="9521" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9522" type="" size="">
+			<entry id="9522-3c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9523" type="" size="">
+			<entry id="9523-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="9524" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="9525" type="" size="">
+			<entry id="9525-2c" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.340">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विवादी</entry>
@@ -2164,7 +2173,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.330">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विदूषक</entry>
@@ -2177,7 +2186,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.331">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विदूषक</entry>
@@ -2206,7 +2215,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.332">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विदूषक रंगश्री</entry>
@@ -2286,7 +2295,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.348">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">शतरूप</entry>
@@ -2306,7 +2315,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.345">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विस्मय</entry>
@@ -2354,7 +2363,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.343;075.344">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विस्मय</entry>
@@ -2428,7 +2437,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.346">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विस्मय</entry>
@@ -2444,19 +2453,19 @@
 			<entry id="7660" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="7661" type="" size="">
+			<entry id="7661-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="7662" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="7663" type="" size="">
+			<entry id="7663-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="7664" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="7665" type="" size="">
+			<entry id="7665-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="7666" type="" size="">
@@ -2477,21 +2486,33 @@
 			<entry id="7671" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="7672" type="" size="">
+			<entry id="7672-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="7673" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="7674" type="" size="">
+			<entry id="7674-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="7675" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="9984" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10840" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10841" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="17295" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.347">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">विस्मय</entry>
@@ -15729,7 +15750,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.313;075.314;075.315">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">लिटिल थिएटर ग्रूप</entry>
@@ -15744,7 +15765,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.316">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">लिटिल थिएटर ग्रूप</entry>
@@ -15757,7 +15778,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.306;075.307">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">लिटिल थिएटर ग्रूप</entry>
@@ -15773,7 +15794,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.308">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">लिटिल थिएटर ग्रूप</entry>
@@ -15788,7 +15809,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.309">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">लिटिल थिएटर ग्रूप</entry>
@@ -15801,7 +15822,7 @@
 			<entry id="1138" type="" size="">
 				<desc>बाल नाटक</desc>
 			</entry>
-			<entry id="1139" type="" size="">
+			<entry id="1139-2c" type="" size="">
 				<desc>बाल नाटक</desc>
 			</entry>
 		</photo>
@@ -15824,7 +15845,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.317;075.318">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">लिटिल थिएटर ग्रूप</entry>
@@ -15837,7 +15858,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.319">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">लिटिल थिएटर ग्रूप</entry>
@@ -15852,7 +15873,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.320;075.321">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">लिटिल थिएटर ग्रूप रेपर्टरी</entry>
@@ -15866,7 +15887,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.322">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">लेडी श्रीराम कॉलेज</entry>
@@ -21698,7 +21719,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.267">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21717,7 +21738,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.270">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21732,7 +21753,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.265">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21747,7 +21768,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.266">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21765,7 +21786,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.268">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21788,9 +21809,39 @@
 			<entry id="5790" type="01" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
 			</entry>
+			<entry id="5791" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5792" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5793" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5794" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5795" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5796" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5797" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5798" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5799" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5800" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.269">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21805,7 +21856,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.275">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21819,7 +21870,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.276">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21833,7 +21884,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.271">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21847,7 +21898,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.272">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21861,7 +21912,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.273">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21875,7 +21926,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.274">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21887,7 +21938,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.281">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21902,7 +21953,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.282">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21916,7 +21967,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.277">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21946,7 +21997,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.278">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -21990,7 +22041,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.280">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22007,7 +22058,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.286">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22022,7 +22073,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.287">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22036,7 +22087,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.283">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22065,7 +22116,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.285">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22078,7 +22129,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.288">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22092,7 +22143,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.294">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22107,7 +22158,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.289">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22117,10 +22168,22 @@
 			<entry type="date">नवम्बर 1997</entry>
 		</mdetails>
 		<photo>
-			<entry id="5011" type="" size="">
+			<entry id="5011-2c" type="" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
 			</entry>
 			<entry id="5428" type="" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5469-2c" type="" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5470" type="" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5471-2c" type="" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5490" type="" size="">
 				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
 			</entry>
 		</photo>
@@ -22146,7 +22209,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.290">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22160,7 +22223,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.291">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22244,7 +22307,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.293">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22262,9 +22325,21 @@
 			<entry id="5468" type="01" size="">
 				<desc></desc>
 			</entry>
+			<entry id="17288" type="01" size="">
+				<desc></desc>
+			</entry>
+			<entry id="17289" type="01" size="">
+				<desc></desc>
+			</entry>
+			<entry id="17290" type="01" size="">
+				<desc></desc>
+			</entry>
+			<entry id="17291" type="01" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="075.300">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रेपान इंटरनेशनल स्कूल</entry>
@@ -22274,20 +22349,20 @@
 		</mdetails>
 		<photo>
 			<entry id="10226" type="01" size="17X12.5">
-				<desc>???? मारवाड द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<desc>उत्कर्ष मारवाड द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
 			<entry id="10227" type="01" size="17X12.5">
-				<desc>???? मारवाड द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<desc>उत्कर्ष मारवाड द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
 			<entry id="10228" type="01" size="17X12.5">
-				<desc>???? मारवाड द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<desc>उत्कर्ष मारवाड द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
 			<entry id="10229" type="01" size="17X12.5">
-				<desc>???? मारवाड द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<desc>उत्कर्ष मारवाड द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.296">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22302,7 +22377,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.297">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22320,7 +22395,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.298">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका</entry>
@@ -22334,7 +22409,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.299">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">रुचिका : म्यूज़िक थिएटर वर्कशाप</entry>
@@ -23320,7 +23395,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.349">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर : द्वितीय वर्ष</entry>
@@ -23341,7 +23416,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.350">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर : द्वितीय वर्ष</entry>
@@ -48845,7 +48920,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.232;075.233">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
@@ -48856,6 +48931,12 @@
 			<entry type="date">1972</entry>
 		</mdetails>
 		<photo>
+			<entry id="1817" type="" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
+			<entry id="8826-2c" type="" size="">
+				<desc>मनोहर सिंह द्वार भेंट</desc>
+			</entry>
 			<entry id="2411" type="" size="">
 				<desc>मनोहर सिंह द्वार भेंट</desc>
 			</entry>
@@ -63532,7 +63613,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.236;075.237;075.238;075.239">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय</entry>
@@ -63556,7 +63637,13 @@
 			<entry id="1822" type="" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
+			<entry id="2412-3c" type="" size="">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
 			<entry id="3053" type="" size="">
+				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			</entry>
+			<entry id="2906-2c" type="" size="">
 				<desc>मनोहर सिंह द्वारा भेंट</desc>
 			</entry>
 			<entry id="3080" type="" size="">
@@ -69540,7 +69627,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.226;075.227;075.228">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
@@ -69552,13 +69639,64 @@
 			<entry type="artist">राधावल्लभ प्यास, हिमानी शिवपुरी व अन्य</entry>
 		</mdetails>
 		<photo>
+			<entry id="1924" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1925-2c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1926" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1927" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1928" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1929-3c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="3831" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="3832" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="3833" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4684" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7876" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7877" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7951-5c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7964-2c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8864" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10278" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10279" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="10571" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="10572" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="10573" type="" size="">
+			<entry id="10573-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="10574" type="" size="">
@@ -69579,9 +69717,12 @@
 			<entry id="10579" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="18631" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.229">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
@@ -69591,6 +69732,9 @@
 		</mdetails>
 		<photo>
 			<entry id="1910" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22592" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -69628,7 +69772,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.234;075.235">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
@@ -69665,6 +69809,12 @@
 				<desc></desc>
 			</entry>
 			<entry id="2486" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="16172" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="18644" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -69708,7 +69858,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.240;075.241;075.242">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
@@ -69732,6 +69882,9 @@
 				<desc></desc>
 			</entry>
 			<entry id="1923" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10542" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -69788,7 +69941,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.249">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नात्य विद्यालय थिएटर इन एजुकेशन कल्पनी</entry>
@@ -69807,7 +69960,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.250">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय थिएटर इन एजुकेशन कल्पनी</entry>
@@ -69824,7 +69977,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.251">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय (थियेटर इन एज्युकेशन)</entry>
@@ -69837,7 +69990,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.252">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नात्य विद्यालय एवं थिएटर इन एजुकेशन कंपनी</entry>
@@ -69856,7 +70009,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.253">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय थिएटर इन एजुकेशन कंपनी</entry>
@@ -69871,7 +70024,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.254">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय थिएटर इन एजुकेशन कंपनी</entry>
@@ -69888,7 +70041,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.261">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय थिएटर इन एजुकेशन कंपनी तथा केम्ब्रिज स्कूल</entry>
@@ -69904,7 +70057,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.262">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय थिएटर इन एजुकेशन कंपनी तथा केम्ब्रिज स्कूल</entry>
@@ -69920,7 +70073,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.263">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय थिएटर इन एजुकेशन कंपनी तथा केम्ब्रिज स्कूल</entry>
@@ -69935,7 +70088,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.260">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय थिएटर इन एजुकेशन कम्पनी, सेटरडे क्लब</entry>
@@ -69955,7 +70108,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.255">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय थिएटर इन एजुकेशन कम्पनी, सेटरडे क्लब</entry>
@@ -69969,7 +70122,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.257">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय थिएटर इन एजुकेशन कम्पनी, सेटरडे क्लब</entry>
@@ -69986,7 +70139,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.256">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय : थिएटर इन एजुकेशन कम्पनी, सेटरडे क्लब</entry>
@@ -70002,7 +70155,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.258">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय : थिएटा इन एजुकेशन कम्पनी, सेटरडे क्लब</entry>
@@ -70025,7 +70178,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.259">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नात्य विद्यालय : थिएटर इन एजुकेशन कम्पनी, सेटरडे क्लब</entry>
@@ -70042,7 +70195,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="075.248">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय चिल्ड्रेन थिएटर वर्कशाप</entry>
@@ -70054,7 +70207,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.264">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय एवं एशियन थिएटर इन्स्टीट्यूट</entry>
