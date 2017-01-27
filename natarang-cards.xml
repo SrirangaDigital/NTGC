@@ -7352,7 +7352,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.371">
 		<mdetails>
 			<entry type="state">बिहार</entry>
 			<entry type="drama">निलही कोढी</entry>
@@ -15917,7 +15917,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.377">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -15933,7 +15933,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="076.378">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -15952,7 +15952,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.373">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="troupe">आर्यन थिएटर</entry>
@@ -15966,13 +15966,13 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.375">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
 			<entry type="troupe">आर्यन थिएटर</entry>
 			<entry type="drama">ईमा केइथेल [मणिपुरी]</entry>
-			<entry type="writer">एन. महेन्द्र,</entry>
+			<entry type="writer">एन. महेन्द्र</entry>
 			<entry type="editorial">एन. प्रेमचन्द</entry>
 			<entry type="director">एन. प्रेमचन्द</entry>
 			<entry type="date">07-11 1987</entry>
@@ -15989,7 +15989,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.374">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16004,7 +16004,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.376">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16026,7 +16026,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.404">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16041,7 +16041,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.410">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16070,7 +16070,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.379">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16088,7 +16088,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.380">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16112,7 +16112,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.381">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16130,7 +16130,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.409">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16160,7 +16160,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.434">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16170,12 +16170,15 @@
 			<entry type="director">रतन थैयम</entry>
 		</mdetails>
 		<photo>
+			<entry id="10027" type="" size="">
+				<desc>संगीत नाटक अकादमी द्वारा आयोजित नेहरु शताब्दी नाट्य समारोह में प्रस्तुत नाटक (1989)</desc>
+			</entry>
 			<entry id="10028" type="" size="">
 				<desc>संगीत नाटक अकादमी द्वारा आयोजित नेहरु शताब्दी नाट्य समारोह में प्रस्तुत नाटक (1989)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.417">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16190,9 +16193,12 @@
 			<entry id="40" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="12700" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.422">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16211,6 +16217,9 @@
 			<entry id="43" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="12720" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="44" type="" size="">
 				<desc></desc>
 			</entry>
@@ -16223,12 +16232,24 @@
 			<entry id="47" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="12655" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="48" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="12653" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="12654" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="12658" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.423">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16248,7 +16269,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.428">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16284,7 +16305,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.446">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16298,7 +16319,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.447">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16316,7 +16337,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.435">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16328,6 +16349,12 @@
 			<entry type="date">17-03-2001</entry>
 		</mdetails>
 		<photo>
+			<entry id="20461-2c" type="01" size="">
+				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+			</entry>
+			<entry id="20462" type="01" size="">
+				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+			</entry>
 			<entry id="10280" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
 			</entry>
@@ -16351,7 +16378,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.430">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16430,9 +16457,12 @@
 			<entry id="9846" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मणिपुरी में प्रस्तुत</desc>
 			</entry>
+			<entry id="22609" type="01" size="">
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मणिपुरी में प्रस्तुत</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.443">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16458,7 +16488,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.445">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16482,7 +16512,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.464">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16501,7 +16531,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.465;076.466">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16540,7 +16570,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.448">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16567,7 +16597,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.462">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16581,7 +16611,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.463">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16604,7 +16634,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.467;076.468">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -16662,11 +16692,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.469">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
 			<entry type="troupe">मणिपुर स्टेट कला एकेडमी वर्कशॉप</entry>
+			<entry type="drama">अंधायुग</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
 			<entry type="director">सांख्य इथोतोम्बी</entry>
 			<entry type="date">1974</entry>
@@ -16680,7 +16711,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.470">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
@@ -35062,7 +35093,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.474">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">अम्विकापुर : इप्टा</entry>
@@ -35072,12 +35103,15 @@
 			<entry type="date">जुलाई, 1995</entry>
 		</mdetails>
 		<photo>
+			<entry id="1547" type="" size="">
+				<desc>हावई फास्ट के उपन्यास स्पाटकिस का नाट्यांतर</desc>
+			</entry>
 			<entry id="3794" type="" size="">
 				<desc>हावई फास्ट के उपन्यास स्पाटकिस का नाट्यांतर</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.475">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">इन्दौर</entry>
@@ -35087,9 +35121,12 @@
 			<entry id="2061" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="18040" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.485">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">उज्जैन</entry>
@@ -35106,7 +35143,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.487">
 		<mdetails>
 			<entry type="state">मध्यप्रदेशा</entry>
 			<entry type="place">उज्जैन</entry>
@@ -35162,7 +35199,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.528">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">ग्वालियर</entry>
@@ -35181,7 +35218,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.523">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">ग्वालियर</entry>
@@ -35198,7 +35235,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.534">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">ग्वालियर</entry>
@@ -35213,21 +35250,22 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.547">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">जबलपुर</entry>
 			<entry type="troupe">बाल नाट्य चेतना शिविर</entry>
 			<entry type="drama">गिरगिट (बाल नाटक)</entry>
 			<entry type="writer">सर्वेश्वर दयाल सक्सेना</entry>
+			<entry type="date">12 जुलाई 1991</entry>
 		</mdetails>
 		<photo>
-			<entry id="2808" type="02" size="12 जुलाई 1991">
+			<entry id="2808" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.548">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">जबलपुर</entry>
@@ -35242,7 +35280,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.552">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">जबलपुर</entry>
@@ -35262,9 +35300,18 @@
 			<entry id="5048" type="" size="">
 				<desc>संगीत नाटक अकादेमी, राष्ट्रीय नाट्य समारोह - 1989</desc>
 			</entry>
+			<entry id="17980" type="" size="">
+				<desc>संगीत नाटक अकादेमी, राष्ट्रीय नाट्य समारोह - 1989</desc>
+			</entry>
+			<entry id="17981" type="" size="">
+				<desc>संगीत नाटक अकादेमी, राष्ट्रीय नाट्य समारोह - 1989</desc>
+			</entry>
+			<entry id="17982" type="" size="">
+				<desc>संगीत नाटक अकादेमी, राष्ट्रीय नाट्य समारोह - 1989</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.556">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">जबलपुर</entry>
@@ -35274,12 +35321,15 @@
 			<entry type="director">प्रगति पांडेय</entry>
 		</mdetails>
 		<photo>
+			<entry id="10624" type="01" size="10X15">
+				<desc></desc>
+			</entry>
 			<entry id="10611" type="01" size="10X15">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.558">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">जबलपुर</entry>
@@ -35311,7 +35361,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.560">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">जबलपुर</entry>
@@ -35327,7 +35377,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.565">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">दुर्ग</entry>
@@ -35354,7 +35404,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="076.569">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">पचमढ़ी</entry>
@@ -35369,7 +35419,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.570">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">पचमढ़ी</entry>
@@ -35402,7 +35452,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.576">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">बैतूल</entry>
@@ -35425,7 +35475,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.574">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">बैतुल</entry>
@@ -35440,7 +35490,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.636">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35476,7 +35526,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.678.1">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35500,7 +35550,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.585">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35514,6 +35564,9 @@
 		</mdetails>
 		<photo>
 			<entry id="3793" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10597" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -35551,7 +35604,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.586">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35561,6 +35614,15 @@
 			<entry type="date">मार्च 1991</entry>
 		</mdetails>
 		<photo>
+			<entry id="2097" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="2098" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="2099" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="2100" type="" size="">
 				<desc></desc>
 			</entry>
@@ -35569,7 +35631,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.587">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35588,7 +35650,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.588">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35606,7 +35668,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.613">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35623,7 +35685,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.614">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35640,7 +35702,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.615">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35659,7 +35721,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="076.616">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35677,7 +35739,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="076.618">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35693,7 +35755,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.619">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35706,52 +35768,18 @@
 			<entry id="2331" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="99" cid="">
-		<mdetails>
-			<entry type="state">मध्यप्रदेश</entry>
-			<entry type="place">भोपाल</entry>
-			<entry type="troupe">दोस्त</entry>
-			<entry type="event">विविध - ध्रुवस्वामिनी की संगीत ग्रूप</entry>
-			<entry type="music">आमोद सिंह</entry>
-			<entry type="venue">संगीत नाटक अकादमी परिचमी क्षेत्र समारोह 1991</entry>
-		</mdetails>
-		<photo>
 			<entry id="2332" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="99" cid="">
-		<mdetails>
-			<entry type="state">मध्यप्रदेश</entry>
-			<entry type="place">भोपाल</entry>
-			<entry type="troupe">दोस्त</entry>
-			<entry type="event">प्रभात गांगुली का व्याख्यान</entry>
-			<entry type="date">1991 जून</entry>
-		</mdetails>
-		<photo>
 			<entry id="2333" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="99" cid="">
-		<mdetails>
-			<entry type="state">मध्यप्रदेश</entry>
-			<entry type="place">भोपाल</entry>
-			<entry type="troupe">दोस्त</entry>
-			<entry type="event">एक्टिंग वर्कशॉप, आलोक चटर्जी</entry>
-			<entry type="date">जनवरि 1992</entry>
-		</mdetails>
-		<photo>
 			<entry id="2334" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.620">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -35766,7 +35794,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.621">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36282,7 +36310,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.624">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36298,7 +36326,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.625">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36312,7 +36340,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.626">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36324,9 +36352,12 @@
 			<entry id="409" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="2346" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.627">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36340,7 +36371,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.628">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36356,6 +36387,9 @@
 				<desc></desc>
 			</entry>
 			<entry id="412" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="20932" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -36375,7 +36409,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.630">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36384,12 +36418,30 @@
 			<entry type="writer">सोफोक्लीज</entry>
 		</mdetails>
 		<photo>
+			<entry id="21974" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21975" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21976" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21977" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21978" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21979" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="489" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.632">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36464,7 +36516,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.637;076.638;076.639">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36478,10 +36530,10 @@
 			<entry id="416" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="417" type="" size="">
+			<entry id="417-2c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="418" type="" size="">
+			<entry id="418-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="419" type="" size="">
@@ -36490,13 +36542,61 @@
 			<entry id="420" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="421" type="" size="">
+			<entry id="421-2c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="422" type="" size="">
+			<entry id="422-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="423" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="3659" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8110" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8113" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8117" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8119" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7828-2c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7773" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7788" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7789" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7793" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7799" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7800" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7801" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7802" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7815" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7845" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -36527,7 +36627,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.640">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36544,9 +36644,15 @@
 			<entry id="8418" type="02" size="">
 				<desc></desc>
 			</entry>
+			<entry id="21961" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21962" type="02" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.641">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36562,7 +36668,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.642">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36589,7 +36695,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.643">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36613,9 +36719,24 @@
 			<entry id="4933" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="21816" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8689" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8690" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7936" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7911" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.644">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36654,7 +36775,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.645;076.646;076.647;076.648">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36676,9 +36797,24 @@
 			<entry id="474" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="18137" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="18138" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="18139" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="18140" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7835-2c" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.649;076.650">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36705,7 +36841,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.651">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36720,9 +36856,18 @@
 			<entry id="483" type="" size="">
 				<desc>बुंदेली नाटक</desc>
 			</entry>
+			<entry id="20971" type="" size="">
+				<desc>बुंदेली नाटक</desc>
+			</entry>
+			<entry id="20972" type="" size="">
+				<desc>बुंदेली नाटक</desc>
+			</entry>
+			<entry id="20948" type="" size="">
+				<desc>बुंदेली नाटक</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.652;076.653">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36760,7 +36905,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.654;076.655">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36783,6 +36928,12 @@
 				<desc></desc>
 			</entry>
 			<entry id="488" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10240" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21950" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -36827,7 +36978,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.657">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36882,7 +37033,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.660">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36898,7 +37049,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.661;076.662;076.663">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36929,7 +37080,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.664">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36942,9 +37093,33 @@
 			<entry id="479" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="22024" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22025" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22026" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22027" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22028" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22029" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22030" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22031" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.665">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36961,7 +37136,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.666">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36986,7 +37161,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.667;076.668;076.669">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -36997,7 +37172,70 @@
 			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
-			<entry id="478" type="" size="">
+			<entry id="478-2c" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7770" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7771" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7776" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7778" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7779" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7787" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7833" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7834" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7835" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="7844" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18654" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18655" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18656" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18657" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18658" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18659" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18660" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18661" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18662" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="18663" type="" size="">
+				<desc>दो कहानियों पर आधारित</desc>
+			</entry>
+			<entry id="8419" type="" size="">
 				<desc>दो कहानियों पर आधारित</desc>
 			</entry>
 		</photo>
@@ -37021,7 +37259,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.670;076.671;076.672">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37032,10 +37270,34 @@
 			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
-			<entry id="424" type="" size="">
+			<entry id="424-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="425" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4282-2c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4283-2c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4284-2c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4285-2c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4286" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7780" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7781" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7782" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -37088,7 +37350,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.673;076.674;076.675">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37100,10 +37362,67 @@
 			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
+			<entry id="431" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="432" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="433" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="434-2c" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="435" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="436" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="437" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="438-2c" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7819" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7839" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7840" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7769" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7772" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7774" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7775" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7790" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7791" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="7792" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
 			<entry id="8142" type="" size="">
 				<desc>बुंदेल</desc>
 			</entry>
 			<entry id="8177" type="" size="">
+				<desc>बुंदेल</desc>
+			</entry>
+			<entry id="8420" type="" size="">
 				<desc>बुंदेल</desc>
 			</entry>
 			<entry id="7912" type="" size="">
@@ -37151,7 +37470,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.676">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37180,7 +37499,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.677">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37197,9 +37516,12 @@
 			<entry id="16791" type="02" size="6.5X6.5">
 				<desc>श्रीमती रशिम वाजपेयी द्वारा भेंट</desc>
 			</entry>
+			<entry id="16792" type="02" size="6.5X6.5">
+				<desc>श्रीमती रशिम वाजपेयी द्वारा भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.678.0">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37216,9 +37538,21 @@
 			<entry id="494" type="" size="">
 				<desc>ब्लड वैंडिंग पर आधारित</desc>
 			</entry>
+			<entry id="10783" type="" size="">
+				<desc>ब्लड वैंडिंग पर आधारित</desc>
+			</entry>
+			<entry id="10784" type="" size="">
+				<desc>ब्लड वैंडिंग पर आधारित</desc>
+			</entry>
+			<entry id="10786" type="" size="">
+				<desc>ब्लड वैंडिंग पर आधारित</desc>
+			</entry>
+			<entry id="10787" type="" size="">
+				<desc>ब्लड वैंडिंग पर आधारित</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.658;076.659">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37234,6 +37568,30 @@
 				<desc></desc>
 			</entry>
 			<entry id="482" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4080" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4081" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4082" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4083" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4084" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4085" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4086" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4087" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -37253,7 +37611,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.679">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37311,7 +37669,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.683;076.684;076.685">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37322,6 +37680,21 @@
 			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
+			<entry id="7777" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7783" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7816" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7818" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="8131" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
 			<entry id="8134" type="" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
 			</entry>
@@ -37336,7 +37709,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.680">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37352,7 +37725,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.686">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37368,9 +37741,18 @@
 			<entry id="3660" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="21892" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21893" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21894" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.688">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38560,7 +38942,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.571">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">विलासपुर</entry>
@@ -38575,6 +38957,15 @@
 				<desc></desc>
 			</entry>
 			<entry id="4218" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10972" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10959" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10960" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
