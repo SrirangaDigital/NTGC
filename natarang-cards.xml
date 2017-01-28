@@ -36754,7 +36754,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.699">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37766,7 +37766,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.689;076.690;076.691">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37779,7 +37779,7 @@
 			<entry type="artist">विपिन शर्मा, माधुरी दीक्षित, दिनेश दुबे, जदूमणि, ओमप्रकाश मौर्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="448" type="" size="">
+			<entry id="448-2c" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
 			<entry id="449" type="" size="">
@@ -37788,7 +37788,10 @@
 			<entry id="450" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
-			<entry id="439" type="" size="">
+			<entry id="435" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="439-2c" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
 			<entry id="442" type="" size="">
@@ -37797,7 +37800,16 @@
 			<entry id="453" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
+			<entry id="8422" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="8423" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
 			<entry id="454" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="2253-2c" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
 			<entry id="2253-I" type="" size="">
@@ -37809,7 +37821,28 @@
 			<entry id="451" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
-			<entry id="456" type="" size="">
+			<entry id="456-2c" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="7794" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="7795" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="7796" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="7797" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="7798" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="7836" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="7837" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
 			<entry id="7908" type="" size="">
@@ -37821,16 +37854,19 @@
 			<entry id="8109" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
-			<entry id="8149" type="" size="">
+			<entry id="8149-2c" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
 			<entry id="8150" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
-			<entry id="440" type="" size="">
+			<entry id="440-3c" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
-			<entry id="441" type="" size="">
+			<entry id="441-2c" type="" size="">
+				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			</entry>
+			<entry id="442" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
 			<entry id="443" type="" size="">
@@ -37842,10 +37878,10 @@
 			<entry id="445" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
-			<entry id="446" type="" size="">
+			<entry id="446-3c" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
-			<entry id="452" type="" size="">
+			<entry id="452-2c" type="" size="">
 				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
 			</entry>
 			<entry id="455" type="" size="">
@@ -37853,7 +37889,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.692;076.693;076.694">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37865,15 +37901,15 @@
 			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
-			<entry id="8118" type="" size="">
+			<entry id="7784" type="" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
 			</entry>
-			<entry id="8135" type="" size="">
+			<entry id="8417-2c" type="" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.695;076.696;076.697">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37883,7 +37919,7 @@
 			<entry type="director">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
-			<entry id="463" type="" size="">
+			<entry id="463-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="464" type="" size="">
@@ -37892,11 +37928,53 @@
 			<entry id="465" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="466" type="" size="">
+			<entry id="466-3c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="467" type="" size="">
+			<entry id="10788-3c" type="" size="">
 				<desc></desc>
+			</entry>
+			<entry id="467-3c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7827" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7829" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7830" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7831" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7832" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7841" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7842" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7843" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="8118" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="7717" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="10789" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="1066-3c" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+			</entry>
+			<entry id="8135" type="" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -38019,7 +38097,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.702">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38038,9 +38116,18 @@
 			<entry id="8179" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="10254" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10255" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10256" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.704">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38055,7 +38142,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.705;076.706">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश्र</entry>
 			<entry type="place">भोपाल</entry>
@@ -38084,7 +38171,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.707">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38097,7 +38184,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.708">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38113,7 +38200,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.709">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38129,7 +38216,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.710">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38145,7 +38232,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.711">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38160,7 +38247,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.713">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38200,7 +38287,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.724">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38229,7 +38316,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.725">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38238,7 +38325,7 @@
 			<entry type="director">दनबारी पाल</entry>
 		</mdetails>
 		<photo>
-			<entry id="12411" type="02" size="">
+			<entry id="12411-2c" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से भेंट CD के प्रिंटआऊट (CD - 821)</desc>
 			</entry>
 			<entry id="12412" type="02" size="">
@@ -38259,12 +38346,12 @@
 			<entry id="12417" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से भेंट CD के प्रिंटआऊट (CD - 821)</desc>
 			</entry>
-			<entry id="12418" type="02" size="">
+			<entry id="12418-2c" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से भेंट CD के प्रिंटआऊट (CD - 821)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.727">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38280,7 +38367,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.769">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38301,7 +38388,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.736">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38312,12 +38399,21 @@
 			<entry type="director">बंसी कौल</entry>
 		</mdetails>
 		<photo>
+			<entry id="20946" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="20968" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22320" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="4971" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.745">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38333,7 +38429,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.748;076.749;076.750">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38343,7 +38439,7 @@
 			<entry type="director">अंजना पुरी</entry>
 		</mdetails>
 		<photo>
-			<entry id="12419" type="01" size="">
+			<entry id="12419-2c" type="01" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
 			</entry>
 			<entry id="12420" type="01" size="">
@@ -38355,12 +38451,12 @@
 			<entry id="12422" type="01" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
 			</entry>
-			<entry id="12423" type="01" size="">
+			<entry id="12423-2c" type="01" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.751">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38376,7 +38472,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.752;076.753;076.754">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38385,19 +38481,19 @@
 			<entry type="director">बंसी कौल</entry>
 		</mdetails>
 		<photo>
-			<entry id="12465" type="" size="">
+			<entry id="12465-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="12466" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12467" type="" size="">
+			<entry id="12467-6c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="12468" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12469" type="" size="">
+			<entry id="12469-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="12470" type="" size="">
@@ -38406,10 +38502,10 @@
 			<entry id="12471" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12472" type="" size="">
+			<entry id="12472-4c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12473" type="" size="">
+			<entry id="12473-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="12474" type="" size="">
@@ -38430,22 +38526,22 @@
 			<entry id="12479" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12480" type="" size="">
+			<entry id="12480-2c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12481" type="" size="">
+			<entry id="12481-4c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12482" type="" size="">
+			<entry id="12482-2c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12483" type="" size="">
+			<entry id="12483-2c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12484" type="" size="">
+			<entry id="12484-4c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12485" type="" size="">
+			<entry id="12485-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="12486" type="" size="">
@@ -38454,31 +38550,31 @@
 			<entry id="12487" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12488" type="" size="">
+			<entry id="12488-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="12489" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12490" type="" size="">
+			<entry id="12490-2c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12491" type="" size="">
+			<entry id="12491-4c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12492" type="" size="">
+			<entry id="12492-2c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12493" type="" size="">
+			<entry id="12493-5c" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12494" type="" size="">
+			<entry id="12494-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="12495" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12496" type="" size="">
+			<entry id="12496-2c" type="" size="">
 				<desc></desc>
 			</entry>
 			<entry id="12497" type="" size="">
@@ -38499,12 +38595,18 @@
 			<entry id="12502" type="" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12503" type="" size="">
+			<entry id="12503-2c" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="19230" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="19231" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.762;076.763;076.764">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38513,7 +38615,7 @@
 			<entry type="director">बंसी कौल</entry>
 		</mdetails>
 		<photo>
-			<entry id="12432c2" type="02" size="">
+			<entry id="12432-2c" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
 			</entry>
 			<entry id="12433" type="02" size="">
@@ -38585,7 +38687,7 @@
 			<entry id="12455" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
 			</entry>
-			<entry id="12456" type="02" size="">
+			<entry id="12456-2c" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
 			</entry>
 			<entry id="12457" type="02" size="">
@@ -38593,7 +38695,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.757;076.758;076.759;076.760">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38782,9 +38884,114 @@
 			<entry id="12405" type="01" size="12.6X17.7">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
+			<entry id="19177" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19178" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19179" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19180" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19181" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19182" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19183" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19184" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19185" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19186" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19187" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19188" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19189" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19190" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19191" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19192" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19193" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19194" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19195" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19196" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19197" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19198" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19199" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19200" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19201" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19202" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19203" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19204" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19205" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19401" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19402" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19403" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19404" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19405" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
+			<entry id="19406" type="01" size="12.6X17.7">
+				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.777">
 		<mdetails>
 			<entry type="state">मध्य प्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38801,7 +39008,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.779">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38820,7 +39027,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.780">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38830,6 +39037,24 @@
 			<entry type="director">बंसी कौल</entry>
 		</mdetails>
 		<photo>
+			<entry id="7952" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7953" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7954" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7955" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7956" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7956c3" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="9987c2" type="" size="">
 				<desc></desc>
 			</entry>
@@ -38848,9 +39073,12 @@
 			<entry id="9992c2" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="9987" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.785">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -38970,7 +39198,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.824">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">हरदा</entry>
@@ -38984,7 +39212,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="02" cid="076.825">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">होरंगाबाद</entry>
@@ -39000,12 +39228,12 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.834">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">कोल्हापुर</entry>
 			<entry type="troupe">प्रत्यय हौशी नाट्यकला केन्द्र</entry>
-			<entry type="drama">राजा लिअर्</entry>
+			<entry type="drama">राजा लिअर</entry>
 			<entry type="writer">शेक्सपियर</entry>
 			<entry type="translation">विंदा करंदीकर (मराठी)</entry>
 			<entry type="director">शरद भुयाड़िया</entry>
@@ -39023,7 +39251,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.833">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">कोल्हापुर</entry>
@@ -39076,7 +39304,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.839">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39088,7 +39316,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.840">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39106,7 +39334,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.841">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39123,7 +39351,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.842">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39139,7 +39367,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.843">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39154,7 +39382,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.844">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39166,7 +39394,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.845">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39178,7 +39406,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.846">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39192,7 +39420,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.847">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39207,7 +39435,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.835">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39221,14 +39449,14 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.851;076.852;076.853">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
 			<entry type="troupe">थिएटर अकादमी</entry>
 			<entry type="drama">घासीराम कोतवाल (मराठी)</entry>
 			<entry type="writer">विजय तेंदुलकर</entry>
-			<entry type="director">जब्बार पटेल्</entry>
+			<entry type="director">जब्बार पटेल</entry>
 			<entry type="artist">मोहन अगाशे व अन्य</entry>
 			<entry type="venue">मंजर थियेटर, दिल्ली</entry>
 			<entry type="date">02-03-1985</entry>
@@ -39258,15 +39486,24 @@
 			<entry id="4318" type="" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
+			<entry id="10419-3c" type="" size="">
+				<desc>समकालीन नाट्य समारोह में मंचित</desc>
+			</entry>
 			<entry id="10670" type="" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
 			<entry id="16942" type="" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
+			<entry id="17276" type="" size="">
+				<desc>समकालीन नाट्य समारोह में मंचित</desc>
+			</entry>
+			<entry id="17296" type="" size="">
+				<desc>समकालीन नाट्य समारोह में मंचित</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.857;076.858">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39292,7 +39529,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.859">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39321,7 +39558,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.862">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39348,7 +39585,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.850">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39366,7 +39603,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.856">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39387,7 +39624,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.860">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39401,9 +39638,15 @@
 			<entry id="2190" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="17268" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="17269" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.861">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39417,7 +39660,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.863">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39436,7 +39679,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.836">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">नागपुर</entry>
@@ -39453,7 +39696,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.864">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39467,7 +39710,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.865">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39490,7 +39733,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.866;076.867">
 		<mdetails>
 			<entry type="state">महाराष्ट्र</entry>
 			<entry type="place">पुणे</entry>
@@ -39506,6 +39749,21 @@
 				<desc>नवें भारत रंग महोत्सव में मंचित कीर्ति जैन से प्राप्त सी. डी. परि-सं. 569 के प्रिन्ट्स</desc>
 			</entry>
 			<entry id="15646" type="" size="">
+				<desc>नवें भारत रंग महोत्सव में मंचित कीर्ति जैन से प्राप्त सी. डी. परि-सं. 569 के प्रिन्ट्स</desc>
+			</entry>
+			<entry id="7785" type="" size="">
+				<desc>नवें भारत रंग महोत्सव में मंचित कीर्ति जैन से प्राप्त सी. डी. परि-सं. 569 के प्रिन्ट्स</desc>
+			</entry>
+			<entry id="7786" type="" size="">
+				<desc>नवें भारत रंग महोत्सव में मंचित कीर्ति जैन से प्राप्त सी. डी. परि-सं. 569 के प्रिन्ट्स</desc>
+			</entry>
+			<entry id="7803" type="" size="">
+				<desc>नवें भारत रंग महोत्सव में मंचित कीर्ति जैन से प्राप्त सी. डी. परि-सं. 569 के प्रिन्ट्स</desc>
+			</entry>
+			<entry id="8127" type="" size="">
+				<desc>नवें भारत रंग महोत्सव में मंचित कीर्ति जैन से प्राप्त सी. डी. परि-सं. 569 के प्रिन्ट्स</desc>
+			</entry>
+			<entry id="8138" type="" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित कीर्ति जैन से प्राप्त सी. डी. परि-सं. 569 के प्रिन्ट्स</desc>
 			</entry>
 		</photo>
