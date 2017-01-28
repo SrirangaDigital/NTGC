@@ -70324,7 +70324,7 @@
 			<entry type="contentconcept">इब्राहिम अल्काज़ी, तरसीम लाल</entry>
 			<entry type="light">सीतांशु मुखर्जी</entry>
 			<entry type="artist">सौरभ शुक्ला (संभाशिव शास्त्री), प्रतिमा काज़मी (अम्बा), सुनील कुमार सिंह (पुत्र), नीलिमा शर्मा (भागीरथी), श्रीवल्लभ व्यास (राजा बिज्जाला), रवि खानविलकर (बासवन्ना), सीमा बिस्वास (ब्राह्मण की पत्नी) व अन्य</entry>
-			<entry type="book">रंगयात्रा-II, रा. ना. वि. रंगमंडल (सूचना स्रोत पुस्तक)</entry>
+			<entry type="book">रंगयात्रा-II, रा. ना. वि., रंगमंडल (सूचना स्रोत पुस्तक)</entry>
 			<entry type="venue">रा. ना. वि.</entry>
 			<entry type="date">2 जनवरी 1992</entry>
 		</mdetails>
@@ -70374,35 +70374,41 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय, रंगमंडल</entry>
-			<entry type="drama">स्स गंधर्व</entry>
-			<entry type="writer">माणी मधुकर</entry>
+			<entry type="drama">रस गंधर्व (हिन्दी)</entry>
+			<entry type="writer">मणि मधुकर</entry>
 			<entry type="director">भानु भारती</entry>
+			<entry type="music">उत्तरा बावकर, ज्योति देशपाण्डे</entry>
+			<entry type="costume">सुरेखा सीकरी</entry>
+			<entry type="make-up">इंदु भूषण घोष व मनोहर सिंह</entry>
+			<entry type="stage">भानु भारती</entry>
+			<entry type="artist">सुरेखा सीकरी (पहला क़ैदी), बलराज पण्डित (दूसरा क़ैदी), ज्योति देशपाण्डे (चौथा क़ैदी), मनोहर सिंह (लेखक, अफसर, सेतरी), उत्तरा बावकर (युवती), भाबु भारती (निर्देशक) व अन्य</entry>
+			<entry type="book">रंगयात्रा, रा. ना. वि., रंगमंडल (सूचना स्रोत पुस्तक)</entry>
 			<entry type="date">1974</entry>
 		</mdetails>
 		<photo>
-			<entry id="1794" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="1794" type="02" size="">
+				<desc>मनोहर सिंह व उत्तरा बावकर द्वारा भेंट</desc>
 			</entry>
-			<entry id="1795-2c" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="1795-2c" type="02" size="">
+				<desc>मनोहर सिंह व उत्तरा बावकर द्वारा भेंट</desc>
 			</entry>
-			<entry id="2446-4c" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="2446-4c" type="02" size="">
+				<desc>मनोहर सिंह व उत्तरा बावकर द्वारा भेंट</desc>
 			</entry>
-			<entry id="2476" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="2476" type="02" size="">
+				<desc>मनोहर सिंह व उत्तरा बावकर द्वारा भेंट</desc>
 			</entry>
-			<entry id="3090" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="3090" type="02" size="">
+				<desc>मनोहर सिंह व उत्तरा बावकर द्वारा भेंट</desc>
 			</entry>
-			<entry id="2446/1/11" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="2446/1/11" type="02" size="">
+				<desc>मनोहर सिंह व उत्तरा बावकर द्वारा भेंट</desc>
 			</entry>
-			<entry id="15078" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="15078" type="02" size="">
+				<desc>मनोहर सिंह व उत्तरा बावकर द्वारा भेंट</desc>
 			</entry>
-			<entry id="15079" type="" size="">
-				<desc>मनोहर सिंह द्वारा भेंट</desc>
+			<entry id="15079" type="02" size="">
+				<desc>मनोहर सिंह व उत्तरा बावकर द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -70589,60 +70595,68 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
-			<entry type="drama">रास्ते</entry>
-			<entry type="writer">गोविंद पुरुषोत्तम देशपाण्डे</entry>
-			<entry type="translation">ज्योति सुभाष</entry>
+			<entry type="drama">रास्ते (हिन्दी)</entry>
+			<entry type="writer">गोविंद पुरुषोत्तम देशपाण्डे (मराठी)</entry>
+			<entry type="translator">ज्योति सुभाष</entry>
+			<entry type="projection">सत्यदेव दुबे</entry>
 			<entry type="director">सत्यदेव दुबे</entry>
-			<entry type="director">सत्यदेव दुबे</entry>
-			<entry type="date">1996</entry>
+			<entry type="asstdirector">अंजु जेटली</entry>
+			<entry type="costume">अश्विनी गिरी</entry>
+			<entry type="make-up">श्रीवर्धन त्रिवेदी, सीताराम पांचाल व अन्य</entry>
+			<entry type="stage">सत्यदेव दुबे</entry>
+			<entry type="light">पराग सर्माहा, समीप सिंह व महेन्द्र</entry>
+			<entry type="lightassistant">हिमांशु बी. जोशी व अन्य</entry>
+			<entry type="artist">हरविन्दर कौर, वायलेट एन. तिवारी (दुर्गा), श्रीवर्धन त्रिवेदी, चितरंजन गिरी (माधव), मुकेश तिवारी, एहसान खान (गंगाधर) व अन्य</entry>
+			<entry type="book">रंगयात्रा-II, रा. ना. वि. (सूचना स्रोत पुस्तक)</entry>
+			<entry type="date">16-23 दिसंबर 1996</entry>
 		</mdetails>
 		<photo>
-			<entry id="3539" type="01" size="">
+			<entry id="3539" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="4026" type="01" size="">
+			<entry id="4026" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="4027-2c" type="01" size="">
+			<entry id="4027-2c" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="4050-3c" type="01" size="">
+			<entry id="4050-3c" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="4051" type="01" size="">
+			<entry id="4051" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8413-2c" type="01" size="">
+			<entry id="8413-2c" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8414" type="01" size="">
+			<entry id="8414" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8415" type="01" size="">
+			<entry id="8415" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8416" type="01" size="">
+			<entry id="8416" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8741-2c" type="01" size="">
+			<entry id="8741-2c" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8742-2c" type="01" size="">
+			<entry id="8742-2c" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8743-2c" type="01" size="">
+			<entry id="8743-2c" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8744" type="01" size="">
+			<entry id="8744" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8745-2c" type="01" size="">
+			<entry id="8745-2c" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8746-4c" type="01" size="">
+			<entry id="8746-4c" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
-			<entry id="8747-2c" type="01" size="">
+			<entry id="8747-2c" type="01;02" size="">
 				<desc>रा. ना. वि. से भेंट</desc>
 			</entry>
 		</photo>
@@ -70654,130 +70668,177 @@
 			<entry type="drama">लहरों के राजहंस (हिन्दी)</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">कीर्ति जैन</entry>
-			<entry type="artist">सीमा विश्वास, जितेन्द्र व अन्य</entry>
-			<entry type="venue">श्रीराम सेंटर सभागार</entry>
+			<entry type="music">भास्कर चन्दावरकर</entry>
+			<entry type="costume">डौली आहलुवालिया</entry>
+			<entry type="costumeassistant">गुरशरण कौर, प्रेमलता व अन्य</entry>
+			<entry type="make-up">नीलिमा शर्मा, विवेक मिश्रा</entry>
+			<entry type="stage">एम. के. रैना</entry>
+			<entry type="light">अशोक सागर भगत</entry>
+			<entry type="photography">एस. त्यागराजन एवं लक्ष्मण</entry>
+			<entry type="artist">सीमा विश्वास (सुंदरी), जितेन्द्र शास्त्री (नंद), नीलिमा शर्मा (अलका), विवेक मिश्रा (श्वेतांग), प्रेम लता (निहारिका) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
 			<entry type="date">19-12-1992</entry>
 		</mdetails>
 		<photo>
 			<entry id="2230" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="2313" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="2314" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="2315" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="2316" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="2318" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="2363" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="3818" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="3819" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="3820" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="3821" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="3822" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="3829" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5890" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5891" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5892" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5893" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5894" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5895" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5896" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5897" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5898" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5899" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5900" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5901" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5902" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5903" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5904" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5905" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5906" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="5907" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="15044" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="15045" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="15046" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="15047" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="15048" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="15049" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="15050" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="15051" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 			<entry id="15052" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत - रंगयात्रा-II/रा. ना. वि., रंगमंडल</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
