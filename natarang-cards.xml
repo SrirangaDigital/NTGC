@@ -23765,7 +23765,7 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर द्वितीय वर्ष</entry>
-			<entry type="drama">जॉच-पड़ताल</entry>
+			<entry type="drama">जाँच-पड़ताल</entry>
 			<entry type="writer">संजय सहाय</entry>
 			<entry type="music">राजेश सिंह</entry>
 			<entry type="director">राजेश सिंह</entry>
@@ -24921,41 +24921,42 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
-			<entry type="drama">कवि कहानी</entry>
-			<entry type="writer">बादल सरकार</entry>
+			<entry type="drama">कवि कहानी (हिन्दी)</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
 			<entry type="director">सबिना मेहता सूद</entry>
+			<entry type="artist">राजिन्दर नाथ, सीमा भार्गव, प्रतिमा काज़मी</entry>
 			<entry type="date">01-01-1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="13291" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="13291" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
-			<entry id="13292" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="13292" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
-			<entry id="13293" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="13293" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
-			<entry id="13294" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="13294" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
-			<entry id="13295" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="13295" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
-			<entry id="13296" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="13296" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
-			<entry id="13297" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="13297" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
-			<entry id="13298" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="13298" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
-			<entry id="1150" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="1150" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
-			<entry id="1151" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+			<entry id="1151" type="02" size="12.6X17.7 से. मी.">
+				<desc>श्रीराम सेंटर से प्राप्त सीडी के प्रिंट्स</desc>
 			</entry>
 		</photo>
 	</media>
@@ -25142,70 +25143,80 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
-			<entry type="drama">गधे की वापसी</entry>
+			<entry type="drama">गधे की वापसी (हिन्दी)</entry>
+			<entry type="writer">कृष्ण चन्दर (उर्दू) (उपन्यास)</entry>
+			<entry type="projection">मुश्ताक काक</entry>
 			<entry type="director">मुश्ताक काक</entry>
+			<entry type="dramatized">अनूप त्रिवेदी</entry>
+			<entry type="music">राजिन्दर शर्मा `नानू'</entry>
+			<entry type="costume">गीता कुम्हे</entry>
+			<entry type="stage">श्रीकांत वर्मा</entry>
+			<entry type="make-up">श्रीकांत वर्मा</entry>
+			<entry type="light">नरेश कुमार चन्द्र व रवीन्द्र मिश्रा</entry>
+			<entry type="artist">श्रीकांत (गधा, सूत्रधार व जुम्मन), गीता कुम्हे (अम्मा व महिला पुलिस), सोनू (डॉक्टर व सेठ भूरीमल), अंबरीश के. सक्सेना (घीसू, सट्टेबाज, सुमन)</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
 			<entry type="date">02-02-2006</entry>
 		</mdetails>
 		<photo>
-			<entry id="14313" type="" size="">
-				<desc></desc>
+			<entry id="14313" type="01" size="">
+				<desc><misc>सूचना स्रोत स्मा. - 3820</misc></desc>
 			</entry>
-			<entry id="14314" type="" size="">
-				<desc></desc>
+			<entry id="14314" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14315" type="" size="">
-				<desc></desc>
+			<entry id="14315" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14316" type="" size="">
-				<desc></desc>
+			<entry id="14316" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14317" type="" size="">
-				<desc></desc>
+			<entry id="14317" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14318" type="" size="">
-				<desc></desc>
+			<entry id="14318" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14319" type="" size="">
-				<desc></desc>
+			<entry id="14319" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14320" type="" size="">
-				<desc></desc>
+			<entry id="14320" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14321" type="" size="">
-				<desc></desc>
+			<entry id="14321" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14322" type="" size="">
-				<desc></desc>
+			<entry id="14322" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14323" type="" size="">
-				<desc></desc>
+			<entry id="14323" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14324" type="" size="">
-				<desc></desc>
+			<entry id="14324" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14325" type="" size="">
-				<desc></desc>
+			<entry id="14325" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14326" type="" size="">
-				<desc></desc>
+			<entry id="14326" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14327" type="" size="">
-				<desc></desc>
+			<entry id="14327" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14328" type="" size="">
-				<desc></desc>
+			<entry id="14328" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14329" type="" size="">
-				<desc></desc>
+			<entry id="14329" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14330" type="" size="">
-				<desc></desc>
+			<entry id="14330" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14331" type="" size="">
-				<desc></desc>
+			<entry id="14331" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
-			<entry id="14332" type="" size="">
-				<desc></desc>
+			<entry id="14332" type="01" size="">
+				<desc>सूचना स्रोत स्मा. - 3820</desc>
 			</entry>
 		</photo>
 	</media>
@@ -25214,27 +25225,34 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
 			<entry type="drama">गोदान</entry>
-			<entry type="natyantre">प्रतिभाअग्रवाल</entry>
+			<entry type="dramatized">प्रतिभा अग्रवाल</entry>
 			<entry type="director">देवेन्द्र राज अंकुर</entry>
+			<entry type="date">02-03-1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="2236" type="" size="">
+			<entry id="2236" type="02" size="">
 				<desc>प्रेमचन्द्र के उपन्यास गोदान का नाट्यान्तर</desc>
+				<misc>श्रीराम सेंटर से प्राप्त, निगेटिव उपलब्ध</misc>
 			</entry>
-			<entry id="13286" type="" size="">
+			<entry id="13286" type="02" size="">
 				<desc>प्रेमचन्द्र के उपन्यास गोदान का नाट्यान्तर</desc>
+				<misc>श्रीराम सेंटर से प्राप्त</misc>
 			</entry>
-			<entry id="13287" type="" size="">
+			<entry id="13287" type="02" size="">
 				<desc>प्रेमचन्द्र के उपन्यास गोदान का नाट्यान्तर</desc>
+				<misc>श्रीराम सेंटर से प्राप्त</misc>
 			</entry>
-			<entry id="13288" type="" size="">
+			<entry id="13288" type="02" size="">
 				<desc>प्रेमचन्द्र के उपन्यास गोदान का नाट्यान्तर</desc>
+				<misc>श्रीराम सेंटर से प्राप्त</misc>
 			</entry>
-			<entry id="13289" type="" size="">
+			<entry id="13289" type="02" size="">
 				<desc>प्रेमचन्द्र के उपन्यास गोदान का नाट्यान्तर</desc>
+				<misc>श्रीराम सेंटर से प्राप्त</misc>
 			</entry>
-			<entry id="13290" type="" size="">
+			<entry id="13290" type="02" size="">
 				<desc>प्रेमचन्द्र के उपन्यास गोदान का नाट्यान्तर</desc>
+				<misc>श्रीराम सेंटर से प्राप्त</misc>
 			</entry>
 		</photo>
 	</media>
@@ -25242,45 +25260,64 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
-			<entry type="drama">कैमलूप की मछलियाँ (पंजाबी)</entry>
-			<entry type="writer">आत्मजीत</entry>
+			<entry type="drama">कैमलूप की मछलियाँ (हिन्दी)</entry>
+			<entry type="writer">आत्मजीत (पंजाबी)</entry>
+			<entry type="translation">तरसेम गुजराल</entry>
+			<entry type="projection">मुश्ताक काक</entry>
 			<entry type="director">मुश्ताक काक</entry>
+			<entry type="asstdirector">राजेश सिंह</entry>
+			<entry type="music">बबली श्रीवास्तव</entry>
+			<entry type="costume">अनुराग व पुष्पा श्रीवास्तव</entry>
+			<entry type="make-up">श्रीकांत, करुणा पाण्डे</entry>
+			<entry type="stage">चेतन त्यागी एवं दीपक पाण्डे</entry>
+			<entry type="light">रवीन्द्र मिश्रा</entry>
 			<entry type="venue">श्रीराम सेंटर सभागार</entry>
 			<entry type="date">26-09-2002</entry>
 		</mdetails>
 		<photo>
-			<entry id="16737" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16737" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16738" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16738" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16739" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16739" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16740" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16740" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16741" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16741" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16742" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16742" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16743" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16743" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16744" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16744" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16745" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16745" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16746" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16746" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
-			<entry id="16747" type="" size="">
-				<desc>श्रीराम सेंटर से प्राप्त सीडी परि. सं. 1278 के प्रिन्टस</desc>
+			<entry id="16747" type="01;02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 3825</misc>
 			</entry>
 		</photo>
 	</media>
@@ -25288,57 +25325,83 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
-			<entry type="drama">क्या करेगा काज़ी</entry>
-			<entry type="writer">बैरी जान</entry>
+			<entry type="drama">क्या करेगा काज़ी (हिन्दी)</entry>
+			<entry type="writer">ब्यूमार्चेस</entry>
+			<entry type="projection">बैरी जॉन</entry>
+			<entry type="director">बैरी जॉन</entry>
+			<entry type="costume">सिंधु भगिया</entry>
+			<entry type="stage">सुधीर पारीख</entry>
+			<entry type="light">महेश वशिष्ठ</entry>
+			<entry type="voice">सुरेश अरोड़ा</entry>
+			<entry type="song">सुरेश अरोड़ा</entry>
+			<entry type="artist">अजय जैन (विजय माथुर), ललित बहल (फख़्रु), बृजमोहन व्यास (चायवाला), (हवलदार), सीमा भार्गव (बरखा), प्रतिमा काज़मी (लक्ष्मी) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
+			<entry type="date">15-04-1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="1156" type="" size="">
-				<desc></desc>
+			<entry id="1156" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="1157" type="" size="">
-				<desc></desc>
+			<entry id="1157" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13273" type="" size="">
-				<desc></desc>
+			<entry id="13273" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13274" type="" size="">
-				<desc></desc>
+			<entry id="13274" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13275" type="" size="">
-				<desc></desc>
+			<entry id="13275" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13276" type="" size="">
-				<desc></desc>
+			<entry id="13276" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13277" type="" size="">
-				<desc></desc>
+			<entry id="13277" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13278" type="" size="">
-				<desc></desc>
+			<entry id="13278" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13279" type="" size="">
-				<desc></desc>
+			<entry id="13279" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13280" type="" size="">
-				<desc></desc>
+			<entry id="13280" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13281" type="" size="">
-				<desc></desc>
+			<entry id="13281" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13282" type="" size="">
-				<desc></desc>
+			<entry id="13282" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13283" type="" size="">
-				<desc></desc>
+			<entry id="13283" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13284" type="" size="">
-				<desc></desc>
+			<entry id="13284" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="13285" type="" size="">
-				<desc></desc>
+			<entry id="13285" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="12272" type="" size="">
-				<desc></desc>
+			<entry id="12272" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
@@ -25405,12 +25468,12 @@
 			<entry type="director">अवतार साहनी</entry>
 			<entry type="asstdirector">भूपेश जोशी</entry>
 			<entry type="music">अनिल मिश्रा</entry>
-			<entry type="singer">अनिल मिश्रा</entry>
-			<entry type="light">अवतार साहनी</entry>
-			<entry type="costume">श्रीकांत वर्मा</entry>
-			<entry type="set">श्रीकांत वर्मा</entry>
+			<entry type="song">अनिल मिश्रा</entry>
+			<entry type="lightingdesign">अवतार साहनी</entry>
+			<entry type="make-up">श्रीकांत वर्मा</entry>
+			<entry type="stage">श्रीकांत वर्मा</entry>
 			<entry type="venue">श्रीराम सेंटर मुख्य सभागार</entry>
-			<entry type="date">11-14 अक्टू. 2007</entry>
+			<entry type="date">11-14 अक्टूबर 2007</entry>
 		</mdetails>
 		<photo>
 			<entry id="11089" type="01" size="">
@@ -25437,73 +25500,104 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमण्डल</entry>
-			<entry type="drama">चेखव की दुनिया</entry>
+			<entry type="drama">चेखव की दुनिया (हिन्दी) (हास्य)</entry>
+			<entry type="writer">एण्टोन चेखव (लघु कथाएँ)</entry>
+			<entry type="translation">रंजीत कपूर</entry>
+			<entry type="projection">रंजीत कपूर</entry>
 			<entry type="director">रंजीत कपूर</entry>
+			<entry type="music">रंजीत कपूर</entry>
+			<entry type="costume">राजेश तिवारी</entry>
+			<entry type="make-up">मीना श्रीवास्तव</entry>
+			<entry type="stage">रमेश खन्ना, मनोज शर्मा व संजीव बक्शी</entry>
+			<entry type="light">सुरेश अरोड़ा व गिरधारी लाल</entry>
+			<entry type="artist">विजय शुक्ला (लेखक (चेखव)), दिव्यांशु दत्ता, प्रीतपाल सिंह (इवान), विभा चौधरी (पत्नी), विजय शुक्ला (पीटर, एण्टोन, लेखक) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
 			<entry type="date">24-03-1992</entry>
 		</mdetails>
 		<photo>
 			<entry id="13481" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13482" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13483" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13484" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13485" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13486" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13487" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13488" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13489" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13490" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13491" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13492" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13493" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13494" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13495" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13496" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13497" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13498" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13499" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="13500" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 			<entry id="1155" type="02" size="">
-				<desc>श्रीराम सेंटर से प्राप्त</desc>
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 790</misc>
 			</entry>
 		</photo>
 	</media>
@@ -25537,7 +25631,7 @@
 	<media aid="01" cid="075.408">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">श्रीराम सेंटर</entry>
+			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
 			<entry type="drama">गोर्की की नजर से (चेखव कटघरे में)</entry>
 			<entry type="director">सुब्रो भट्टाचार्य</entry>
 			<entry type="date">23-04-1997</entry>
@@ -25571,7 +25665,7 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
 			<entry type="drama">चाणक्य प्रपंच</entry>
-			<entry type="director">सी. आर. ज्म्बे</entry>
+			<entry type="director">सी. आर. जम्बे</entry>
 			<entry type="date">18-01-1990</entry>
 		</mdetails>
 		<photo>
@@ -25729,46 +25823,68 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
-			<entry type="drama">जनपथ किस</entry>
+			<entry type="drama">जनपथ किस (हिन्दी) (रोमैंटिक फैंटसी)</entry>
+			<entry type="writer">अखिलेश झा (उपन्यास)</entry>
+			<entry type="dramatized">रंजीत कपूर</entry>
+			<entry type="projection">रंजीत कपूर</entry>
 			<entry type="director">रंजीत कपूर</entry>
+			<entry type="stage">रंजीत कपूर</entry>
+			<entry type="music">विजय, ज़फर व अन्य</entry>
+			<entry type="costume">विभा चौधरी व विभांशु वैभव</entry>
+			<entry type="make-up">फ्लोरा बोस व प्रीतपाल सिंह संधु</entry>
+			<entry type="light">गिरधारी लाल व सुरेश अरोड़ा</entry>
+			<entry type="artist">विजय शुक्ला, मनोज शर्मा (अरुण व सदानंद), फ्लोरा बोस, मीना श्रीवास्तव (मीरा, माँ), विभांशु वैभव (पिता) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
 			<entry type="date">10-09-1991</entry>
 		</mdetails>
 		<photo>
 			<entry id="13437" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="13438" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="13439" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="13440" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="13441" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="13442" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="15379" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="15380" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="15381" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="15382" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="15383" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 			<entry id="15384" type="02" size="">
 				<desc>सेंटर से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1356</misc>
 			</entry>
 		</photo>
 	</media>
@@ -25822,62 +25938,65 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
-			<entry type="drama">चोर निकल के भागा</entry>
+			<entry type="drama">चोर निकल के भागा (हिन्दी)</entry>
+			<entry type="writer">मृणाल पाण्डे</entry>
 			<entry type="director">राजिन्दर नाथ</entry>
-			<entry type="venue">मंजर थिएटर</entry>
-			<entry type="date">11, 12 मई 1985</entry>
+			<entry type="artist">ज्ञानेश मिश्रा (मास्टर गेंदालाल), प्रतिमा काज़मी (पत्नी शरीफा), मंजुल वर्मा, संजीव सहाय, मनोज शर्मा नीलिमा शर्मा व अन्य</entry>
+			<entry type="book">रंग साक्षी (सूचना स्रोत पुस्तक)</entry>
+			<entry type="venue">मंजर थिएटर, प्रगति मैदान, दिल्ली</entry>
+			<entry type="date">11-12 मई 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="4192" type="" size="">
-				<desc></desc>
+			<entry id="4192" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="4193" type="" size="">
-				<desc></desc>
+			<entry id="4193" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="4194" type="" size="">
-				<desc></desc>
+			<entry id="4194" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="4195" type="" size="">
-				<desc></desc>
+			<entry id="4195" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="4196" type="" size="">
-				<desc></desc>
+			<entry id="4196" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="4197" type="" size="">
-				<desc></desc>
+			<entry id="4197" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13219" type="" size="">
-				<desc></desc>
+			<entry id="13219" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13220" type="" size="">
-				<desc></desc>
+			<entry id="13220" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13221" type="" size="">
-				<desc></desc>
+			<entry id="13221" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13222" type="" size="">
-				<desc></desc>
+			<entry id="13222" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13223" type="" size="">
-				<desc></desc>
+			<entry id="13223" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13224" type="" size="">
-				<desc></desc>
+			<entry id="13224" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13225" type="" size="">
-				<desc></desc>
+			<entry id="13225" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13226" type="" size="">
-				<desc></desc>
+			<entry id="13226" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13227" type="" size="">
-				<desc></desc>
+			<entry id="13227" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13228" type="" size="">
-				<desc></desc>
+			<entry id="13228" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
-			<entry id="13229" type="" size="">
-				<desc></desc>
+			<entry id="13229" type="02" size="">
+				<desc>मंजर थिएटर नाट्योत्सव (व्यापार मेला प्राधिकरण द्वारा आयोजित) में मंचित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -25885,114 +26004,160 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
-			<entry type="drama">छायानट</entry>
-			<entry type="writer">उत्पल दत्त</entry>
+			<entry type="drama">छायानट (हिन्दी)</entry>
+			<entry type="writer">उत्पल दत्त (बांग्ला)</entry>
+			<entry type="translation">कृष्ण कुमार</entry>
+			<entry type="director">बृज मोहन शाह</entry>
+			<entry type="asstdirector">सुंदर लाल छाबड़ा</entry>
+			<entry type="stage">सुंदर लाल छाबड़ा</entry>
+			<entry type="visualmanagement">बृज मोहन शाह</entry>
+			<entry type="music">देवानन्द पासवान</entry>
+			<entry type="costume">रचना जोशी व विनीता टण्डन</entry>
+			<entry type="make-up">देवानन्द पासवान</entry>
+			<entry type="light">राम कुमार व राजिन्दर नेगी</entry>
+			<entry type="artist">प्रकाश चतुर्वेदी, रचना जोशी, शबनम साहनी, संजय सिंह व अन्य</entry>
+			<entry type="date">31-12-1996</entry>
 		</mdetails>
 		<photo>
-			<entry id="3905" type="" size="">
-				<desc></desc>
+			<entry id="3905" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="3906" type="" size="">
-				<desc></desc>
+			<entry id="3906" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14086-2c" type="" size="">
-				<desc></desc>
+			<entry id="14086-2c" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14087" type="" size="">
-				<desc></desc>
+			<entry id="14087" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14088" type="" size="">
-				<desc></desc>
+			<entry id="14088" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14089" type="" size="">
-				<desc></desc>
+			<entry id="14089" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14090" type="" size="">
-				<desc></desc>
+			<entry id="14090" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14091" type="" size="">
-				<desc></desc>
+			<entry id="14091" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14092" type="" size="">
-				<desc></desc>
+			<entry id="14092" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14093" type="" size="">
-				<desc></desc>
+			<entry id="14093" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14094" type="" size="">
-				<desc></desc>
+			<entry id="14094" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14095-2c" type="" size="">
-				<desc></desc>
+			<entry id="14095-2c" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14609" type="" size="">
-				<desc></desc>
+			<entry id="14609" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14610" type="" size="">
-				<desc></desc>
+			<entry id="14610" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14611" type="" size="">
-				<desc></desc>
+			<entry id="14611" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14612" type="" size="">
-				<desc></desc>
+			<entry id="14612" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14613" type="" size="">
-				<desc></desc>
+			<entry id="14613" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14614" type="" size="">
-				<desc></desc>
+			<entry id="14614" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14615" type="" size="">
-				<desc></desc>
+			<entry id="14615" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14616" type="" size="">
-				<desc></desc>
+			<entry id="14616" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14617" type="" size="">
-				<desc></desc>
+			<entry id="14617" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14618" type="" size="">
-				<desc></desc>
+			<entry id="14618" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14619" type="" size="">
-				<desc></desc>
+			<entry id="14619" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14620" type="" size="">
-				<desc></desc>
+			<entry id="14620" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14621" type="" size="">
-				<desc></desc>
+			<entry id="14621" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14622" type="" size="">
-				<desc></desc>
+			<entry id="14622" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14623" type="" size="">
-				<desc></desc>
+			<entry id="14623" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14624" type="" size="">
-				<desc></desc>
+			<entry id="14624" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14625" type="" size="">
-				<desc></desc>
+			<entry id="14625" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14626" type="" size="">
-				<desc></desc>
+			<entry id="14626" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14627" type="" size="">
-				<desc></desc>
+			<entry id="14627" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14628" type="" size="">
-				<desc></desc>
+			<entry id="14628" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14629" type="" size="">
-				<desc></desc>
+			<entry id="14629" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14630" type="" size="">
-				<desc></desc>
+			<entry id="14630" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
-			<entry id="14631" type="" size="">
-				<desc></desc>
+			<entry id="14631" type="02" size="">
+				<desc>श्रीराम सेंटर से प्राप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत वीडियो - 1056</misc>
 			</entry>
 		</photo>
 	</media>
@@ -26111,175 +26276,245 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
-			<entry type="drama">जाँच पड़ताल</entry>
+			<entry type="drama">जाँच पड़ताल (हिन्दी) (हास्य नाटक)</entry>
 			<entry type="writer">संजय सहाय</entry>
 			<entry type="director">सुरेश शर्मा</entry>
+			<entry type="asstdirector">राजेश तिवारी</entry>
+			<entry type="costume">विनीता टण्डन, राजेन्द्र नेगी</entry>
+			<entry type="make-up">अनवर उल्लाह, राम कुमार</entry>
+			<entry type="stage">सत्यव्रत राऊत</entry>
+			<entry type="light">रवीन्द्र मिश्रा</entry>
+			<entry type="music">मोहन उप्रेती</entry>
+			<entry type="artist">मयार (राजेश शर्मा), राजेश तिवारी (कुमार), मीना वैभव, रचना जोशी (इमर्तीदेवी), विनीता टण्डन (बेबी), अनवर उल्लाह (स्कूल इंस्पैक्टर), राजेन्द्र नेगी (कोतवाल) (पोस्टमैन)</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार</entry>
 			<entry type="date">16-19 जनवरि 1997</entry>
 		</mdetails>
 		<photo>
 			<entry id="3907" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="3908" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13168" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13169" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13170" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13171" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13172" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13173" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13174" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13175" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13176" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13177" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13178" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13179" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13180" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13181" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13182" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13183" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13184" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13185" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13186" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13187" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13188" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13189" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13190" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13191" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13192" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13193" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13194" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13195" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13196" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13197" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13198" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13199" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13200" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13201" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13202" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 			<entry id="13203" type="02" size="">
-				<desc>श्रीराम सेंटर से प्ताप्त</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी 1278 के प्रिंट्स</desc>
+				<misc>गोगोल के रूसी नाटक `द गवर्नमेंट इंस्पैक्टर' पर आधारित, सूचना स्रोत वीडियो - 1065-I</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="075.426;075.427;075.428">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">श्रीराम सेंटर रंगमंडल</entry>
-			<entry type="drama">जिस लाहौर नहीं देख्या (हिन्दी)</entry>
+			<entry type="drama">जिस लाहौर नहीं देख्या ओ जनम्याई नईं (उर्दू)</entry>
 			<entry type="writer">असगर वजाहत</entry>
 			<entry type="director">हबीब तनवीर</entry>
+			<entry type="projection">हबीब तनवीर</entry>
+			<entry type="music">हबीब तनवीर</entry>
+			<entry type="musicassistant">मनोज ज़फर</entry>
+			<entry type="costume">फ्लोरा, गीता व विभांशु</entry>
+			<entry type="make-up">विभांशु, मनोज</entry>
+			<entry type="stage">हबीब तनवीर</entry>
+			<entry type="stage">पवन, ज़फर, ज़ल्फी व कालीप्रसाद</entry>
+			<entry type="light">गिरधारी लाल, सुरेश अरोड़ा</entry>
+			<entry type="artist">मनोज शर्मा (सि. मिर्ज़ा), फ्लोरा बोस (हमीदा बेगम), वाणी सिंह (तन्नो) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
+			<entry type="date">26-09-1990</entry>
 		</mdetails>
 		<photo>
 			<entry id="16558" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16559" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16560" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16561" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16562" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16563" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16564" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16565" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16566" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16567" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16568" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16569" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 			<entry id="16570" type="02" size="12.5X17.5">
-				<desc>श्रीराम सेंटर से प्ताप्त CD, परि. सं. 1278 के प्रिंट्स</desc>
+				<desc>श्रीराम सेंटर से प्ताप्त फोटो सीडी परि. सं. 1278 के प्रिंट्स</desc>
+				<misc>सूचना स्रोत स्मा. - 666, समाचार कतरन (श्रीराम सेंटर फॉर परफर्मिंग आर्ट्स क्लिपिंग नं. 53)</misc>
 			</entry>
 		</photo>
 	</media>
