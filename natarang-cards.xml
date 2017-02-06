@@ -2839,14 +2839,16 @@
 	<media aid="01" cid="075.538">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">अनीक</entry>
-			<entry type="conceptdesign">आलेख</entry>
+			<entry type="concept">तड़ितमित्र</entry>
+			<entry type="design">तड़ितमित्र</entry>
+			<entry type="article">तड़ितमित्र</entry>
 			<entry type="director">तड़ितमित्र</entry>
-			<entry type="set">अंजन बोस, सुदिप्तो व अदर्स</entry>
-			<entry type="music">सुभासीष साहा</entry>
+			<entry type="set">अंजन बोस, सुदिप्तो दे एण्ड अदर्स</entry>
+			<entry type="music">सुभाशीष साहा</entry>
 			<entry type="light">सुमित्रा दास गुप्ता</entry>
-			<entry type="artist">आलोक चटर्जी, सभा बोस, अदर्स</entry>
+			<entry type="artist">आलोक चटर्जी, रुमा बोस, अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13886" type="" size="">
@@ -2863,15 +2865,17 @@
 	<media aid="01" cid="075.539">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">आत्मदाहो</entry>
-			<entry type="conceptdesign">आलेख</entry>
+			<entry type="concept">तड़ितमित्र</entry>
+			<entry type="design">तड़ितमित्र</entry>
+			<entry type="article">तड़ितमित्र</entry>
 			<entry type="director">तड़ितमित्र</entry>
 			<entry type="set">अंजन बोस</entry>
-			<entry type="light">अमिषेक विखास</entry>
-			<entry type="music">सुभाशीष साध, सत्यकाम मुखर्जी</entry>
-			<entry type="costume">रूमा बोस</entry>
-			<entry type="artist">दीपांकर खान, रूमा बोस, अदर्स</entry>
+			<entry type="light">अभिषेक बिश्वास</entry>
+			<entry type="music">सुभाशीष साहा, सत्यकाम मुखर्जी</entry>
+			<entry type="costume">रुमा बोस</entry>
+			<entry type="artist">दीपांकर खान, रुमा बोस, अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="138902" type="" size="">
@@ -2955,15 +2959,16 @@
 	<media aid="01" cid="075.541">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">केनवास्से कनकाबोती</entry>
-			<entry type="conceptdesign">आलेख</entry>
+			<entry type="article">तड़ित मित्र</entry>
+			<entry type="design">तड़ित मित्र</entry>
 			<entry type="director">तड़ित मित्र</entry>
-			<entry type="light">अभिशेक विखास</entry>
-			<entry type="music">गैतम सेनगुप्ता</entry>
+			<entry type="light">अभिषेक बिश्वास</entry>
+			<entry type="music">गौतम सेनगुप्ता</entry>
 			<entry type="set">अन्जन एवं राना</entry>
-			<entry type="costume">कमा बोस</entry>
-			<entry type="artist">शर्मिला, गांगुली, अदर्स</entry>
+			<entry type="costume">रुमा बोस</entry>
+			<entry type="artist">शर्मिला, प्रणव गांगुली, अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13917" type="" size="">
@@ -2990,10 +2995,10 @@
 	<media aid="01" cid="075.568">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">ए स्टिल जवाल-ए-आजिम</entry>
-			<entry type="writer">तड़िन मित्र</entry>
-			<entry type="director">तड़िन मित्र</entry>
+			<entry type="writer">तड़ित मित्र</entry>
+			<entry type="director">तड़ित मित्र</entry>
 			<entry type="venue">एल. टी. जी. ऑडिटोरियम, दिल्ली</entry>
 			<entry type="date">अगस्त 2007</entry>
 		</mdetails>
@@ -3011,13 +3016,15 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">उपाशल्या</entry>
-			<entry type="conceptdesign">आलेख</entry>
+			<entry type="concept">तड़ितमित्र</entry>
+			<entry type="design">तड़ितमित्र</entry>
+			<entry type="article">तड़ितमित्र</entry>
 			<entry type="director">तड़ितमित्र</entry>
 			<entry type="set">अनजन बोस</entry>
-			<entry type="light">अभिषेक बिखास</entry>
+			<entry type="light">अभिषेक बिश्वास</entry>
 			<entry type="music">सुभाशीष साहा</entry>
-			<entry type="costume">रूमा बोस</entry>
-			<entry type="artist">रूमा बोस, शर्मिला, अदर्स</entry>
+			<entry type="costume">रुमा बोस</entry>
+			<entry type="artist">रुमा बोस, शर्मिला, अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13891" type="" size="">
@@ -3032,19 +3039,25 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
-			<entry type="drama">गर्भ (हिन्दी - खोरया)</entry>
+			<entry type="drama">गर्भ (हिन्दी - खोरथा)</entry>
 			<entry type="writer">तोरित मित्र (बांग्ला)</entry>
+			<entry type="translator">दीपांकर खान एवं श्रीमोयी दासगुप्ता</entry>
 			<entry type="director">तोरित मित्र (बांग्ला)</entry>
-			<entry type="translation">दीपांकर खान एवं श्रीमोयी दासगुप्ता</entry>
 			<entry type="music">अर्नब दासगुप्ता</entry>
-			<entry type="set">अंजन बोस एवं राजेश पाण्डे</entry>
+			<entry type="stage">अंजन बोस एवं राजेश पाण्डे</entry>
 			<entry type="light">प्रोबल सेनगुप्ता</entry>
-			<entry type="costume">तोरित मित्रा एवं रूमा बोस</entry>
+			<entry type="costume">तोरित मित्र एवं रुमा बोस</entry>
 			<entry type="makeup">हरि खुलिया</entry>
+			<entry type="topic">तोरित मित्र</entry>
+			<entry type="projection">तोरित मित्र</entry>
+			<entry type="artist">अंजन बोस, श्रीमोयी दासगुप्ता, राना मित्रा व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर</entry>
+			<entry type="date">05-12-2011</entry>
 		</mdetails>
 		<photo>
 			<entry id="16922" type="" size="">
-				<desc></desc>
+				<desc>भारतेन्दु नाट्योत्सव में मंचित</desc>
+				<misc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
@@ -3068,12 +3081,11 @@
 	<media aid="01" cid="075.544">
 		<mdetails>
 			<entry type="place">दिली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">गर्वोज़</entry>
 			<entry type="article">दीपांकर खान</entry>
 			<entry type="director">देबाशीष चौधरी</entry>
 			<entry type="artist">अशोक घोष, गौतम सेनगुप्ता व अदर्स</entry>
-			<entry type="date">00-00-0000</entry>
 		</mdetails>
 		<photo>
 			<entry id="13904" type="" size="">
@@ -3088,7 +3100,7 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
-			<entry type="drama">गॊपार आमशाप (सोलो)</entry>
+			<entry type="drama">गोपार आभिशाप (सोलो)</entry>
 			<entry type="artist">श्रीमोई दासगुप्ता</entry>
 		</mdetails>
 		<photo>
@@ -3103,15 +3115,16 @@
 	<media aid="01" cid="075.546">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">जनमांतर (सोलो)</entry>
 			<entry type="article">तड़ित मित्र</entry>
-			<entry type="conceptdesign">तड़ित मित्र</entry>
+			<entry type="concept">तड़ित मित्र</entry>
+			<entry type="design">तड़ित मित्र</entry>
 			<entry type="director">तड़ित मित्र</entry>
-			<entry type="light">अभिषेक बिखास</entry>
-			<entry type="set">अभिषेक बिखास</entry>
-			<entry type="costume">रूमा बोस, तड़ित मित्र</entry>
-			<entry type="artist">रूमा बोस `इंदुमति' के किरदार में</entry>
+			<entry type="light">अभिषेक बिश्वास</entry>
+			<entry type="set">अभिषेक बिश्वास</entry>
+			<entry type="costume">रुमा बोस, तड़ित मित्र</entry>
+			<entry type="artist">रुमा बोस `इंदुमति' के किरदार में</entry>
 		</mdetails>
 		<photo>
 			<entry id="13893" type="" size="">
@@ -3131,41 +3144,42 @@
 			<entry type="projection">तोरित मित्रा</entry>
 			<entry type="article">तोरित मित्रा</entry>
 			<entry type="director">तोरित मित्रा</entry>
-			<entry type="translation">श्रीमोथी दासगुप्ता एवं अंजन बोस</entry>
+			<entry type="translator">श्रीमोयी दासगुप्ता एवं अंजन बोस</entry>
 			<entry type="music">बृंदा मित्रा</entry>
 			<entry type="light">प्रोबोल सेनगुप्ता</entry>
-			<entry type="costume">तोरित मित्रा एवं रूमा बोस</entry>
+			<entry type="costume">तोरित मित्रा एवं रुमा बोस</entry>
 			<entry type="makeup">हरि खुलिया</entry>
 			<entry type="stage">अंजन बोस</entry>
-			<entry type="artist">दिपांकर खान, रूमा बोस, अंजन बोस व अन्य</entry>
+			<entry type="artist">दिपांकर खान, रुमा बोस, अंजन बोस व अन्य</entry>
 			<entry type="venue">लिटिल थियेटर सभागार, दिल्ली</entry>
 			<entry type="date">28-03-2010</entry>
 		</mdetails>
 		<photo>
 			<entry id="16930" type="" size="">
-				<desc>संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="16931" type="" size="">
-				<desc>संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="16932" type="" size="">
-				<desc>संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
 	<media aid="01" cid="075.553">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">न इन्यते</entry>
 			<entry type="article">तड़ित मित्र</entry>
-			<entry type="conceptdesign">तड़ित मित्र</entry>
+			<entry type="concept">तड़ित मित्र</entry>
+			<entry type="design">तड़ित मित्र</entry>
 			<entry type="director">तड़ित मित्र</entry>
-			<entry type="translation">अंजन बोस, श्रीमोती दासगुप्ता</entry>
+			<entry type="translator">अंजन बोस, श्रीमोई दासगुप्ता</entry>
 			<entry type="set">अंजन बोस, राजेश पाण्डे</entry>
-			<entry type="music">श्री मोती दास गुप्ता</entry>
+			<entry type="music">श्रीमोई दासगुप्ता</entry>
 			<entry type="costume">तड़ित मित्र</entry>
-			<entry type="artist">राजेश पाण्डे, रानामित्र व अदर्स</entry>
+			<entry type="artist">राजेश पाण्डे, राना मित्र व अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13896" type="" size="">
@@ -3179,15 +3193,15 @@
 	<media aid="01" cid="075.554">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">निदान</entry>
 			<entry type="script">तड़ित मित्र</entry>
 			<entry type="design">तड़ित मित्र</entry>
 			<entry type="director">तड़ित मित्र</entry>
 			<entry type="set">गुरमुख सिंह, अनिल सिंह</entry>
-			<entry type="light">सोमित्रा दास गुप्ता, अभिशेक विश्वास</entry>
+			<entry type="light">सोमित्रा दास गुप्ता, अभिशेष बिश्वास</entry>
 			<entry type="costume">तड़ित मित्र</entry>
-			<entry type="artist">राना मित्रा, कल्पना भावन एण्ड अदर्स</entry>
+			<entry type="artist">राना मित्रा, कल्पना भावल एण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13918" type="" size="">
@@ -3198,15 +3212,16 @@
 	<media aid="01" cid="075.547">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">ज़वाल - ए - आजिम</entry>
-			<entry type="article">तड़ितमित्र</entry>
-			<entry type="conceptdesign">तड़ितमित्र</entry>
-			<entry type="director">तड़ितमित्र</entry>
+			<entry type="article">तड़ित मित्र</entry>
+			<entry type="design">तड़ित मित्र</entry>
+			<entry type="concept">तड़ित मित्र</entry>
+			<entry type="director">तड़ित मित्र</entry>
 			<entry type="set">अंजन बोस</entry>
 			<entry type="light">सोमित्रा दास</entry>
 			<entry type="music">तृप्ति दास</entry>
-			<entry type="artist">राणामित्र, दीपांकर खान, रूमा बोस अण्ड अदर्स</entry>
+			<entry type="artist">राणामित्र, दीपांकर खान, रुमा बोस अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13892" type="" size="">
@@ -3226,14 +3241,14 @@
 	<media aid="01" cid="075.550">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">जागोर</entry>
-			<entry type="article">तड़ितमित्र</entry>
-			<entry type="design">तड़ितमित्र</entry>
-			<entry type="director">तड़ितमित्र</entry>
-			<entry type="set">तड़ितमित्र</entry>
-			<entry type="light">सोमित्र दास गुप्ता, अभिशेक विखास</entry>
-			<entry type="artist">राना मित्र, रूमा बोस अण्ड अदर्स</entry>
+			<entry type="article">तड़ित मित्र</entry>
+			<entry type="design">तड़ित मित्र</entry>
+			<entry type="director">तड़ित मित्र</entry>
+			<entry type="set">तड़ित मित्र</entry>
+			<entry type="light">सोमित्र दास गुप्ता, अभिषेक विखास</entry>
+			<entry type="artist">राना मित्र, रुमा बोस अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13906" type="" size="">
@@ -3247,16 +3262,16 @@
 	<media aid="01" cid="075.551">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">दक्षिणपथ</entry>
 			<entry type="article">तड़ितमित्र</entry>
 			<entry type="design">तड़ितमित्र</entry>
 			<entry type="director">तड़ितमित्र</entry>
 			<entry type="set">विवेक करमाकर</entry>
 			<entry type="music">प्रसनजीत गांगुली</entry>
-			<entry type="light">तुषार मित्र, भाधवी करमाकर</entry>
-			<entry type="costume">तड़ितमित्र, रूमा बोस</entry>
-			<entry type="artist">इन्द्रजीत दास, देबाशीश चौधरी, गांगुली अण्ड अदर्स</entry>
+			<entry type="light">तुषार मित्र, माधवी करमाकर</entry>
+			<entry type="costume">तड़ितमित्र, रुमा बोस</entry>
+			<entry type="artist">इन्द्रजीत दास, देबाशीश चौधरी, प्रणव गांगुली अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13900" type="" size="">
@@ -3270,16 +3285,17 @@
 	<media aid="01" cid="075.552">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">देवनमपिया</entry>
 			<entry type="script">तड़ितमित्र</entry>
-			<entry type="conceptdesign">तड़ितमित्र</entry>
-			<entry type="costume">तड़ितमित्र</entry>
+			<entry type="concept">तड़ितमित्र</entry>
+			<entry type="design">तड़ितमित्र</entry>
 			<entry type="director">तड़ितमित्र</entry>
+			<entry type="costume">तड़ितमित्र</entry>
 			<entry type="music">सुभाशीष साहा</entry>
 			<entry type="set">अन्जन बोस</entry>
-			<entry type="light">सुमित्रा दासगुप्ता, अभिषेक विखास</entry>
-			<entry type="artist">दीपांकर खान, राना मित्र, रूमा बोस अण्ड अदर्स</entry>
+			<entry type="light">सुमित्रा दासगुप्ता, अभिषेक बिश्वास</entry>
+			<entry type="artist">दीपांकर खान, राना मित्र, रुमा बोस अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13908" type="" size="">
@@ -3314,16 +3330,16 @@
 	<media aid="01" cid="075.555">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">बहुब्रीहि</entry>
 			<entry type="concept">तड़ितमित्र</entry>
 			<entry type="article">तड़ितमित्र</entry>
 			<entry type="design">तड़ितमित्र</entry>
 			<entry type="director">तड़ितमित्र</entry>
 			<entry type="set">अनजन बोस, सुदिप्तो डे</entry>
-			<entry type="music">सुभाशीSअ साहा</entry>
+			<entry type="music">सुभाशीष साहा</entry>
 			<entry type="light">सुमित्रा दास गुप्ता</entry>
-			<entry type="costume">रूमा बोस, श्रीमोई दासगुप्ता</entry>
+			<entry type="costume">रुमा बोस, श्रीमोई दासगुप्ता</entry>
 			<entry type="artist">श्रीमोई दासगुप्ता, दीपांकर खान अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
@@ -3344,35 +3360,35 @@
 			<entry type="projection">तोरित मित्रा</entry>
 			<entry type="director">तोरित मित्रा</entry>
 			<entry type="music">अर्नब दासगुप्ता</entry>
-			<entry type="light">श्रीमोथी दासगुप्ता</entry>
+			<entry type="light">श्रीमोयी दासगुप्ता</entry>
 			<entry type="stage">अंजन बोस एवं राजेश पाण्डे</entry>
-			<entry type="costume">तोरित मित्रा एवं रूमा बोस</entry>
+			<entry type="costume">तोरित मित्रा एवं रुमा बोस</entry>
 			<entry type="makeup">जयदीप ठाकुर</entry>
-			<entry type="artist">रूमा बोस, रूबी दासगुप्ता, राना मित्रा, निलांजन गुप्ता एवं अन्य</entry>
+			<entry type="artist">रुमा बोस, रूबी दासगुप्ता, राना मित्रा, निलांजन गुहा एवं अन्य</entry>
 			<entry type="venue">लिटिल थियेटर समागार, दिल्ली</entry>
 			<entry type="date">25-04-2012</entry>
 		</mdetails>
 		<photo>
 			<entry id="16917" type="" size="">
-				<desc>सन्सप्तक (रोमा बोस) से नीलांजन गुप्ता द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) से नीलांजन गुहा द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
 			<entry id="16918" type="" size="">
-				<desc>सन्सप्तक (रोमा बोस) से नीलांजन गुप्ता द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) से नीलांजन गुहा द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
 			<entry id="16919" type="" size="">
-				<desc>सन्सप्तक (रोमा बोस) से नीलांजन गुप्ता द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) से नीलांजन गुहा द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
 	<media aid="01" cid="075.563">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">रिटर्न ऑफ गोडोट</entry>
 			<entry type="article">तड़ितमित्र</entry>
 			<entry type="design">तड़ितमित्र</entry>
 			<entry type="director">तड़ितमित्र</entry>
-			<entry type="artist">अनिर्बेन चौधरी, रानामित्र, अंजन बोस अण्ड अदर्स</entry>
+			<entry type="artist">अनिर्बेन चौधरी, राना मित्र, अंजन बोस अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13919" type="" size="">
@@ -3384,21 +3400,21 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
-			<entry type="drama">मैकबैथ - मैकवैथ (हिन्दी)</entry>
+			<entry type="drama">मैकबैथ - मैकबैथ (हिन्दी)</entry>
 			<entry type="writer">शेक्सपियर</entry>
-			<entry type="article">तोरितमित्रा</entry>
-			<entry type="director">तोरितमित्रा</entry>
+			<entry type="article">तोरित मित्रा</entry>
+			<entry type="director">तोरित मित्रा</entry>
 			<entry type="music">अर्नव दासगुप्ता</entry>
 			<entry type="makeup">हरि खोलिया</entry>
-			<entry type="artist">दिपांकर खान, रूमा बोस आदि</entry>
+			<entry type="artist">दिपांकर खान, रुमा बोस आदि</entry>
 			<entry type="date">2010</entry>
 		</mdetails>
 		<photo>
 			<entry id="16933" type="" size="">
-				<desc>संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="16934" type="" size="">
-				<desc>संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -3407,18 +3423,18 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">मैटामार्फोसिस (Metamorphosis) (एकल)</entry>
-			<entry type="writer">रूमा बोस</entry>
-			<entry type="artist">रूमा बोस</entry>
-			<entry type="director">रूमा बोस</entry>
+			<entry type="writer">रुमा बोस</entry>
+			<entry type="director">रुमा बोस</entry>
 			<entry type="music">अर्नब दासगुप्ता, दिपीत पॉल एवं प्रोबोल</entry>
-			<entry type="light">रूमा बोस</entry>
+			<entry type="light">रुमा बोस</entry>
 			<entry type="stage">तोरित मित्रा एवं अंजन बोस</entry>
+			<entry type="artist">रुमा बोस</entry>
 			<entry type="venue">बिपिन चन्द्रपाल सभागार, दिल्ली</entry>
 			<entry type="date">27-08-2011</entry>
 		</mdetails>
 		<photo>
 			<entry id="16923" type="" size="">
-				<desc>संसप्तक (रूमा बोस) द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -3427,17 +3443,17 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">Setsumei (Kaifiyat) (कैफियत)</entry>
-			<entry type="writer">श्रीमोथी दासगुप्ता</entry>
-			<entry type="artist">श्रीमोथी दासगुप्ता</entry>
-			<entry type="music">अर्वब दासगुप्ता, दिपीत पॉल एवं प्रोबोल</entry>
-			<entry type="light">रूमा बोस</entry>
+			<entry type="writer">श्रीमोयी दासगुप्ता</entry>
+			<entry type="music">अर्नब दासगुप्ता, दिपीत पॉल एवं प्रोबोल</entry>
+			<entry type="light">रुमा बोस</entry>
 			<entry type="stage">तोरित मित्रा एवं अंजन बोस</entry>
+			<entry type="artist">श्रीमोयी दासगुप्ता</entry>
 			<entry type="venue">बिपिन चन्द्रपाल सभागार, दिल्ली</entry>
 			<entry type="date">27-08-2011</entry>
 		</mdetails>
 		<photo>
 			<entry id="16924" type="" size="">
-				<desc>संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -3446,12 +3462,12 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">मेकबेथ - मेकबेथ</entry>
-			<entry type="article">तिड़ितमित्र</entry>
-			<entry type="director">तिड़ितमित्र</entry>
-			<entry type="light">अभिषेक विखास</entry>
+			<entry type="article">तड़ितमित्र</entry>
+			<entry type="director">तड़ितमित्र</entry>
+			<entry type="light">अभिषेक बिश्वास</entry>
 			<entry type="set">अभिषेक, अंजन</entry>
-			<entry type="costume">रूमा बोस, तिड़ितमित्र</entry>
-			<entry type="artist">रूमा बोस, अंजन बोस अण्ड अदर्स</entry>
+			<entry type="costume">रुमा बोस, तड़ितमित्र</entry>
+			<entry type="artist">रुमा बोस, अंजन बोस अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13889" type="" size="">
@@ -3486,12 +3502,18 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">रिटर्न ऑफ गोडो (हिन्दी)</entry>
+			<entry type="writer">तोरित मित्रा (बाँग्ला), सैमुअल बैकंट (मूल लेखक)</entry>
+			<entry type="translator">अंजन बोस एवं श्रीमोयी दासगुप्ता</entry>
+			<entry type="director">तोरित मित्रा</entry>
+			<entry type="costume">इंद्रजीत दास</entry>
+			<entry type="light">शशि गुहा</entry>
+			<entry type="artist">सुधांशु जैन, नीलांजन गुहा, अर्नब दासगुप्ता, श्रीमोयी दासगुप्ता व अन्य</entry>
 			<entry type="venue">मुक्तधारा सभागार, दिल्ली</entry>
 			<entry type="date">07-07-2012</entry>
 		</mdetails>
 		<photo>
 			<entry id="16935" type="" size="">
-				<desc>ग्रीष्म कार्यशाला में मंचित संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
+				<desc>ग्रीष्म कार्यशाला में मंचित, संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -3499,39 +3521,39 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
-			<entry type="drama">वांसासी जिरनानी (बॉग्ला)</entry>
+			<entry type="drama">वांसासी जिरनानी (बाँग्ला)</entry>
 			<entry type="topic">तोरित मित्र</entry>
 			<entry type="writer">तोरित मित्र</entry>
 			<entry type="projection">अंजन बोस</entry>
 			<entry type="director">अंजन बोस</entry>
-			<entry type="music">अर्वब दासगुप्ता, शशि गुहा</entry>
+			<entry type="music">अर्नब दासगुप्ता, शशि गुहा</entry>
 			<entry type="light">अंजन बोस एवं शशि गुहा</entry>
-			<entry type="costume">श्रीमोथी दासगुप्ता</entry>
+			<entry type="costume">श्रीमोयी दासगुप्ता</entry>
 			<entry type="stage">राना मित्रा</entry>
-			<entry type="artist">श्रीमोथी दासगुप्ता, अभिनव सव्यसाची</entry>
+			<entry type="artist">श्रीमोयी दासगुप्ता, अभिनव सव्यसाची एवं इन्द्रजीत दास</entry>
 			<entry type="venue">मुक्तधारा समागार</entry>
 			<entry type="date">09, 10 अप्रैल 2011</entry>
 		</mdetails>
 		<photo>
 			<entry id="16928" type="" size="">
-				<desc>संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 			<entry id="16929" type="" size="">
-				<desc>संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
+				<desc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
 	<media aid="01" cid="075.567">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">सितार निरबासन</entry>
 			<entry type="article">तड़ित मित्र</entry>
 			<entry type="design">तड़ित मित्र</entry>
-			<entry type="light">अभिषेक बिखास</entry>
+			<entry type="light">अभिषेक बिश्वास</entry>
 			<entry type="music">छोटे खान साहब</entry>
-			<entry type="costume">रूमा बोस</entry>
-			<entry type="artist">रूमा बोस, अण्ड अदर्स</entry>
+			<entry type="costume">रुमा बोस</entry>
+			<entry type="artist">रुमा बोस, अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13916" type="" size="">
@@ -3542,16 +3564,17 @@
 	<media aid="01" cid="075.569">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">हन्यमान</entry>
-			<entry type="conceptdesign">तड़ित मित्र</entry>
+			<entry type="concept">तड़ित मित्र</entry>
+			<entry type="design">तड़ित मित्र</entry>
 			<entry type="article">तड़ित मित्र</entry>
 			<entry type="director">तड़ित मित्र</entry>
 			<entry type="set">राना मित्र</entry>
-			<entry type="light">अभिषेक विखास</entry>
-			<entry type="costume">रूमा बोस, कल्पना भोवाल</entry>
+			<entry type="light">अभिषेक बिश्वास</entry>
+			<entry type="costume">रुमा बोस, कल्पना भोवाल</entry>
 			<entry type="music">बापी राय</entry>
-			<entry type="artist">रूमा बोस, राना मित्र अण्ड अदर्स</entry>
+			<entry type="artist">रुमा बोस, राना मित्र अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13898" type="" size="">
@@ -3565,7 +3588,7 @@
 	<media aid="01" cid="075.570">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सनसप्तक</entry>
+			<entry type="troupe">संसप्तक</entry>
 			<entry type="drama">हरी भरी ख्वाहिश (हिन्दी)</entry>
 			<entry type="concept">तड़ितमित्र</entry>
 			<entry type="design">तड़ितमित्र</entry>
@@ -3575,7 +3598,7 @@
 			<entry type="light">सुमित्रा दास गुप्ता</entry>
 			<entry type="music">अनुपम मजुमदार</entry>
 			<entry type="costume">तड़ितमित्र</entry>
-			<entry type="artist">दीपांकर खान, रूमा बोस अण्ड अदर्स</entry>
+			<entry type="artist">दीपांकर खान, रुमा बोस अण्ड अदर्स</entry>
 		</mdetails>
 		<photo>
 			<entry id="13911" type="" size="">
@@ -21736,30 +21759,40 @@
 			<entry type="state">पंजाब</entry>
 			<entry type="place">अमृतसर</entry>
 			<entry type="troupe">रंगटोली (प्रस्तुति)</entry>
-			<entry type="drama">बुहे बारियां (पंजाबी)</entry>
-			<entry type="writer">अमृता प्रतिभ, अजीत कौर, के. एस. दुग्गल</entry>
+			<entry type="drama">बुहे बारियाँ (पंजाबी)</entry>
+			<entry type="writer">अमृता प्रीतम, अजीत कौर, करतार सिंह दुग्गल, वीना वर्मा</entry>
 			<entry type="director">एम. के. रैना</entry>
-			<entry type="venue">सम्मुख</entry>
-			<entry type="date">05 अप्रैल</entry>
+			<entry type="stage">एम. के. रैना</entry>
+			<entry type="light">महावीर भुल्लर</entry>
+			<entry type="costume">पूनम रामपाल</entry>
+			<entry type="artist">नीता मोहिन्द्रा (एकल अभिनय)</entry>
+			<entry type="venue">सम्मुख सभागार, दिल्ली</entry>
+			<entry type="date">05 अप्रैल 2004</entry>
 		</mdetails>
 		<photo>
-			<entry id="10296" type="" size="">
+			<entry id="10296" type="01" size="10X15 से. मी.">
 				<desc>दिल्ली : ए. ना. वि. 6th भारत रंग महोत्सव</desc>
+				<misc>समसामयिक लघु कथाओं पर आधारित, छठे भारंगम, 2004 में मंचित, रा. ना. वि. द्वारा आयोजित</misc>
 			</entry>
-			<entry id="10297" type="" size="">
+			<entry id="10297" type="01" size="10X15 से. मी.">
 				<desc>दिल्ली : ए. ना. वि. 6th भारत रंग महोत्सव</desc>
+				<misc>समसामयिक लघु कथाओं पर आधारित, छठे भारंगम, 2004 में मंचित, रा. ना. वि. द्वारा आयोजित</misc>
 			</entry>
-			<entry id="10298" type="" size="">
+			<entry id="10298" type="01" size="10X15 से. मी.">
 				<desc>दिल्ली : ए. ना. वि. 6th भारत रंग महोत्सव</desc>
+				<misc>समसामयिक लघु कथाओं पर आधारित, छठे भारंगम, 2004 में मंचित, रा. ना. वि. द्वारा आयोजित</misc>
 			</entry>
-			<entry id="10299" type="" size="">
+			<entry id="10299" type="01" size="10X15 से. मी.">
 				<desc>दिल्ली : ए. ना. वि. 6th भारत रंग महोत्सव</desc>
+				<misc>समसामयिक लघु कथाओं पर आधारित, छठे भारंगम, 2004 में मंचित, रा. ना. वि. द्वारा आयोजित</misc>
 			</entry>
-			<entry id="10300" type="" size="">
+			<entry id="10300" type="01" size="10X15 से. मी.">
 				<desc>दिल्ली : ए. ना. वि. 6th भारत रंग महोत्सव</desc>
+				<misc>समसामयिक लघु कथाओं पर आधारित, छठे भारंगम, 2004 में मंचित, रा. ना. वि. द्वारा आयोजित</misc>
 			</entry>
-			<entry id="10301" type="" size="">
+			<entry id="10301" type="01" size="10X15 से. मी.">
 				<desc>दिल्ली : ए. ना. वि. 6th भारत रंग महोत्सव</desc>
+				<misc>समसामयिक लघु कथाओं पर आधारित, छठे भारंगम, 2004 में मंचित, रा. ना. वि. द्वारा आयोजित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -21768,9 +21801,10 @@
 			<entry type="state">पंजाब</entry>
 			<entry type="place">अमृतसर</entry>
 			<entry type="troupe">रंगटोली</entry>
-			<entry type="drama">बहु वारियाँ (पंजाबी लघु कथा)</entry>
+			<entry type="drama">बहु बारियाँ (पंजाबी लघु कथा)</entry>
+			<entry type="writer">अमृता प्रीतम, अजीत कौर, करतार सिंह दुग्गल, वीना वर्मा</entry>
 			<entry type="director">एम. के. रैना</entry>
-			<entry type="venue">ग्लाइन आर्टस अकादमी, कोलकाता</entry>
+			<entry type="venue">फाइन आर्ट्स अकादमी, कोलकाता</entry>
 		</mdetails>
 		<photo>
 			<entry id="14272" type="" size="">
@@ -21787,7 +21821,7 @@
 			<entry type="writer">एरियल डौर्फमैन</entry>
 			<entry type="director">एम. के. रैना</entry>
 			<entry type="venue">श्रीराम सेंटर</entry>
-			<entry type="date">2-5 अप्रैल 2002</entry>
+			<entry type="date">02-05 अप्रैल 2002</entry>
 		</mdetails>
 		<photo>
 			<entry id="9792" type="01" size="">
@@ -21818,9 +21852,9 @@
 			<entry type="state">पंजाब</entry>
 			<entry type="place">कपूरथला</entry>
 			<entry type="troupe">हिन्दी विभाग गवर्नमेंट कालेज</entry>
-			<entry type="drama">सूर्य की अंतिम किरण से सूर्य की पहली किरण तक</entry>
+			<entry type="drama">सूर्य की अंतिम किरण से सूर्य की पहली फिरण तक</entry>
 			<entry type="writer">सुरेन्द्र वर्मा</entry>
-			<entry type="date">6-7 जुलाई 1976</entry>
+			<entry type="date">06-07 जुलाई 1976</entry>
 		</mdetails>
 		<photo>
 			<entry id="947" type="" size="">
@@ -21840,7 +21874,7 @@
 			<entry type="place">पटियाला</entry>
 			<entry type="troupe">रंग दर्पण</entry>
 			<entry type="drama">एक था गधा</entry>
-			<entry type="writer">शर्द जोशी</entry>
+			<entry type="writer">शरद जोशी</entry>
 			<entry type="date">27-28 मार्च 1983</entry>
 		</mdetails>
 		<photo>
@@ -21854,7 +21888,7 @@
 			<entry type="state">पंजाब</entry>
 			<entry type="place">पटियाला</entry>
 			<entry type="troupe">रंगदर्पण</entry>
-			<entry type="drama">गुह बाई स्वामी</entry>
+			<entry type="drama">गुड बाई स्वामी</entry>
 			<entry type="writer">सुशील कुमार सिंह</entry>
 		</mdetails>
 		<photo>
@@ -21868,7 +21902,7 @@
 			<entry type="state">पंजाब</entry>
 			<entry type="place">पटियाला</entry>
 			<entry type="troupe">गवर्नमेंट आयुर्वेदिक कालेज</entry>
-			<entry type="drama">जमाना</entry>
+			<entry type="drama">ज़माना</entry>
 			<entry type="writer">रमेश मेहता</entry>
 			<entry type="director">हरजीत कैंथ</entry>
 			<entry type="date">13-10-1976</entry>
@@ -21915,13 +21949,14 @@
 			<entry type="state">पंजाब</entry>
 			<entry type="place">पटियाला</entry>
 			<entry type="troupe">पंजाब नाट्यशाला</entry>
-			<entry type="drama">चेतना</entry>
+			<entry type="drama">चेतना (पंजाबी नाटक)</entry>
+			<entry type="originaldrama">रक्त कमल</entry>
 			<entry type="director">जगजीत सरीन</entry>
 			<entry type="date">फरवरी - अप्रैल 1977</entry>
 		</mdetails>
 		<photo>
 			<entry id="952" type="" size="">
-				<desc>लक्ष्मीनारायण लाल के नाटक `रक्त कमल' का अनुवाद [पंजाबी नाटक]</desc>
+				<desc>लक्ष्मीनारायण लाल के नाटक `रक्त कमल' का अनुवाद </desc>
 			</entry>
 		</photo>
 	</media>
@@ -22861,18 +22896,23 @@
 		<photo>
 			<entry id="1184" type="" size="">
 				<desc>`पावर आफ डार्कनेस'</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 			<entry id="1185" type="" size="">
 				<desc>`पावर आफ डार्कनेस'</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 			<entry id="1186" type="" size="">
 				<desc>`पावर आफ डार्कनेस'</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 			<entry id="1187" type="" size="">
 				<desc>`पावर आफ डार्कनेस'</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 			<entry id="1188" type="" size="">
 				<desc>`पावर आफ डार्कनेस'</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -22889,7 +22929,7 @@
 				<desc></desc>
 			</entry>
 			<entry id="1190" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -22904,10 +22944,10 @@
 		</mdetails>
 		<photo>
 			<entry id="1179" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 			<entry id="1180" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -22921,7 +22961,7 @@
 		</mdetails>
 		<photo>
 			<entry id="1191" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 			<entry id="1192" type="" size="">
 				<desc></desc>
@@ -22989,7 +23029,7 @@
 				<desc></desc>
 			</entry>
 			<entry id="1183" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -23026,10 +23066,11 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संभव</entry>
 			<entry type="drama">यह आदमी यह चाहे</entry>
+			<entry type="date">मई 1984</entry>
 		</mdetails>
 		<photo>
 			<entry id="1181" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -23043,13 +23084,13 @@
 		</mdetails>
 		<photo>
 			<entry id="1197" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 			<entry id="1198" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 			<entry id="1199" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -23058,7 +23099,7 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संभव</entry>
 			<entry type="drama">होली नही खेलता</entry>
-			<entry type="writer">चशपाल</entry>
+			<entry type="writer">यशपाल</entry>
 			<entry type="director">विपिन शर्मा</entry>
 			<entry type="date">जनवरी 1985</entry>
 		</mdetails>
@@ -23067,7 +23108,7 @@
 				<desc></desc>
 			</entry>
 			<entry id="1201" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध</desc>
 			</entry>
 		</photo>
 	</media>
@@ -23100,14 +23141,16 @@
 			<entry type="writer">शंभू मित्र</entry>
 			<entry type="translation">नेमिचन्द्र जैन</entry>
 			<entry type="director">ब. व. कारन्त</entry>
-			<entry type="artist">सरकार पटेल विद्यालय के शिक्षकीं के साथ</entry>
+			<entry type="artist">सरदार पटेल विद्यालय के शिक्षकीं के साथ</entry>
 		</mdetails>
 		<photo>
 			<entry id="3574" type="" size="">
 				<desc>ब. व. कारन्त द्वारा भेंट</desc>
+				<misc>निगेटिव उपलब्ध</misc>
 			</entry>
 			<entry id="3575" type="" size="">
 				<desc>ब. व. कारन्त द्वारा भेंट</desc>
+				<misc>निगेटिव उपलब्ध</misc>
 			</entry>
 		</photo>
 	</media>
@@ -23123,6 +23166,7 @@
 		<photo>
 			<entry id="3628" type="" size="">
 				<desc>ब. व. कारंत द्वारा भेंट</desc>
+				<misc>निगेटिव सहित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -23305,6 +23349,8 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">साधना कला केन्द्र</entry>
 			<entry type="drama">काला राजा</entry>
+			<entry type="artist">दीपक कुमार (गुल)</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
 			<entry type="date">08-02-1991</entry>
 		</mdetails>
 		<photo>
@@ -23316,7 +23362,7 @@
 	<media aid="01" cid="075.585">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">आवन मल्लिक स्कूल</entry>
+			<entry type="troupe">सावन मल्लिक स्कूल</entry>
 			<entry type="drama">दास्तान-ए-नसीरुद्दीन</entry>
 		</mdetails>
 		<photo>
@@ -23387,7 +23433,7 @@
 	<media aid="01" cid="075.581">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सर्वद्वारा आर्टस</entry>
+			<entry type="troupe">सर्वद्वारा आर्ट्स</entry>
 			<entry type="drama">अंधकार</entry>
 			<entry type="writer">उदयसिंह बघेल</entry>
 			<entry type="director">उदयसिंह बघेल</entry>
@@ -23402,7 +23448,7 @@
 	<media aid="01" cid="075.582">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">सर्वहारा आर्टस</entry>
+			<entry type="troupe">सर्वहारा आर्ट्स</entry>
 			<entry type="drama">बाशिन्दे</entry>
 			<entry type="writer">उदयसिंह बघेल</entry>
 			<entry type="director">उदयसिंह बघेल</entry>
@@ -23410,15 +23456,15 @@
 		</mdetails>
 		<photo>
 			<entry id="2288" type="" size="">
-				<desc>साहित्यकला परिषद के 8 वें युव महोत्सव</desc>
+				<desc>साहित्यकला परिषद के 8 वें युवा महोत्सव</desc>
 				<misc>सुरेन्द्रवर्मा और मंजुल भगत की कहानियों का रूपान्तर</misc>
 			</entry>
 			<entry id="2289" type="" size="">
-				<desc>साहित्यकला परिषद के 8 वें युव महोत्सव</desc>
+				<desc>साहित्यकला परिषद के 8 वें युवा महोत्सव</desc>
 				<misc>सुरेन्द्रवर्मा और मंजुल भगत की कहानियों का रूपान्तर</misc>
 			</entry>
 			<entry id="2290" type="" size="">
-				<desc>साहित्यकला परिषद के 8 वें युव महोत्सव</desc>
+				<desc>साहित्यकला परिषद के 8 वें युवा महोत्सव</desc>
 				<misc>सुरेन्द्रवर्मा और मंजुल भगत की कहानियों का रूपान्तर</misc>
 			</entry>
 		</photo>
@@ -23428,26 +23474,29 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">साक्षी कला मंच</entry>
 			<entry type="drama">महारथी</entry>
-			<entry type="writer">विभांश, वभव</entry>
+			<entry type="writer">विभांशु, वॅभव</entry>
 			<entry type="director">कृष्णकान्त</entry>
 			<entry type="date">25-03-1991</entry>
 		</mdetails>
 		<photo>
 			<entry id="1209" type="" size="">
-				<desc>संगीत नाटक अकादमी समारोह</desc>
+				<desc>संगीत नाटक अकादमी समारोह 1990</desc>
+				<misc>निगेटिव सं. 9/9</misc>
 			</entry>
 			<entry id="1210" type="" size="">
-				<desc>संगीत नाटक अकादमी समारोह</desc>
+				<desc>संगीत नाटक अकादमी समारोह 1990</desc>
+				<misc>निगेटिव सं. 9/9</misc>
 			</entry>
 			<entry id="2239" type="" size="">
-				<desc>संगीत नाटक अकादमी समारोह</desc>
+				<desc>संगीत नाटक अकादमी समारोह 1990</desc>
+				<misc>निगेटिव सं. 9/9</misc>
 			</entry>
 		</photo>
 	</media>
 	<media aid="01" cid="075.586">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">साहित्य कला परिषद</entry>
+			<entry type="troupe">साहित्य कला परिषद्</entry>
 			<entry type="drama">अब तुम्हारे हवाले वतन साथियों</entry>
 			<entry type="writer">नीरज वाहल</entry>
 			<entry type="director">शिव गुप्ता</entry>
@@ -23462,8 +23511,8 @@
 	<media aid="01" cid="075.587">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">साहित्य कला परिषद</entry>
-			<entry type="drama">इतिहास हमे भी कहते हैं</entry>
+			<entry type="troupe">साहित्य कला परिषद्</entry>
+			<entry type="drama">इतिहास इसे भी कहते हैं</entry>
 			<entry type="writer">युवराज शर्मा</entry>
 			<entry type="director">युवराज शर्मा</entry>
 			<entry type="music">राजेश मैथ्यू</entry>
@@ -23471,7 +23520,7 @@
 		</mdetails>
 		<photo>
 			<entry id="4228" type="" size="">
-				<desc>स्वतंत्रता की 50 वीं वर्षगांठ के अवसर पर आजादी की कहानी, नई पीढी की जवानी नट-खट उत्सव का एक दृश्य</desc>
+				<desc>स्वतंत्रता की 50 वीं वर्षगांठ के अवसर पर आजादी की कहानी, नई पीढ़ी की जबानी नट-खट उत्सव का एक दृश्य</desc>
 			</entry>
 		</photo>
 	</media>
@@ -23504,7 +23553,7 @@
 		</mdetails>
 		<photo>
 			<entry id="4227" type="" size="">
-				<desc>स्वतंत्रता की 50 वीं वर्षगांठ के अवसर पर आजादी की कहानी, नई पीढी की जवानी नट-खट उत्सव का एक दृश्य</desc>
+				<desc>स्वतंत्रता की 50 वीं वर्षगांठ के अवसर पर आजादी की कहानी, नई पीढ़ी की जबानी नट-खट उत्सव का एक दृश्य</desc>
 			</entry>
 		</photo>
 	</media>
@@ -23523,22 +23572,22 @@
 			<entry type="voice">ओम पुरी (कृष्ण), गोविन्द नामदेव (व्यास)</entry>
 		</mdetails>
 		<photo>
-			<entry id="16220" type="01" size="12.5X17.5">
+			<entry id="16220" type="01" size="12.5X17.5 से. मी.">
 				<desc>भानु भारती (रमा यादव) द्वारा न. प्र. को. भेंट</desc>
 			</entry>
-			<entry id="16221" type="01" size="12.5X17.5">
+			<entry id="16221" type="01" size="12.5X17.5 से. मी.">
 				<desc>भानु भारती (रमा यादव) द्वारा न. प्र. को. भेंट</desc>
 			</entry>
-			<entry id="16222" type="01" size="12.5X17.5">
+			<entry id="16222" type="01" size="12.5X17.5 से. मी.">
 				<desc>भानु भारती (रमा यादव) द्वारा न. प्र. को. भेंट</desc>
 			</entry>
-			<entry id="16223" type="01" size="12.5X17.5">
+			<entry id="16223" type="01" size="12.5X17.5 से. मी.">
 				<desc>भानु भारती (रमा यादव) द्वारा न. प्र. को. भेंट</desc>
 			</entry>
-			<entry id="16224" type="01" size="12.5X17.5">
+			<entry id="16224" type="01" size="12.5X17.5 से. मी.">
 				<desc>भानु भारती (रमा यादव) द्वारा न. प्र. को. भेंट</desc>
 			</entry>
-			<entry id="16225" type="01" size="12.5X17.5">
+			<entry id="16225" type="01" size="12.5X17.5 से. मी.">
 				<desc>भानु भारती (रमा यादव) द्वारा न. प्र. को. भेंट</desc>
 			</entry>
 		</photo>
@@ -23561,38 +23610,45 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">हिन्दुस्तानी थियेटर</entry>
-			<entry type="drama">शकुन्तला</entry>
-			<entry type="writer">कालिदास</entry>
+			<entry type="drama">शकुन्तला (हिन्दी)</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
+			<entry type="article">नियाज़ हैदर</entry>
+			<entry type="artdirector">एम. एस. सथ्यू</entry>
+			<entry type="choreography">नरेन्द्र शर्मा</entry>
+			<entry type="music">ज्योर्तीन्द्र मोइत्रा</entry>
+			<entry type="artist">अर्चना मोहन (शकुंतला), अशोक सरीन (दुष्यंत), उमा शर्मा एवं नसीम मखनूर (सखी), (प्रियंवदा एवं अनसूया), शंकर यादव (मधुआरा)</entry>
+			<entry type="venue">फाइन आर्ट एण्ड क्राफ्ट सोसायटी</entry>
+			<entry type="date">06 नवंबर 1959</entry>
 		</mdetails>
 		<photo>
-			<entry id="1086" type="" size="">
+			<entry id="1086" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="8153" type="" size="">
+			<entry id="8153" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1202" type="" size="">
+			<entry id="1202" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1203" type="" size="">
+			<entry id="1203" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1204" type="" size="">
+			<entry id="1204" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1205" type="" size="">
+			<entry id="1205" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1206" type="" size="">
+			<entry id="1206" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1207" type="" size="">
+			<entry id="1207" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="1208" type="" size="">
+			<entry id="1208" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="18277" type="" size="">
+			<entry id="18277" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -23600,8 +23656,8 @@
 	<media aid="01" cid="075.588">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">राष्ट्रीय कला परिषद्, बाल रंगमंच कार्याशाल</entry>
-			<entry type="drama">जूता आविष्कार</entry>
+			<entry type="troupe">राष्ट्रीय कला परिषद्, बाल रंगमंच कार्यशाल</entry>
+			<entry type="drama">जूता आविष्कार (बाल नाटक)</entry>
 			<entry type="writer">हेमेन्द्र भाटिया</entry>
 			<entry type="music">प्रियदर्शन पाठक</entry>
 			<entry type="director">सुशील भोले</entry>
@@ -23609,8 +23665,8 @@
 			<entry type="date">जून 1996</entry>
 		</mdetails>
 		<photo>
-			<entry id="10530" type="" size="9X12.5">
-				<desc>साहित्य कला परिषद् बाल रंगमंच कार्यशाला में ``नटखट उत्सव' के अन्तर्गत जून 1996 में मंचित - बाल नाटक</desc>
+			<entry id="10530" type="" size="9X12.5 से. मी.">
+				<desc>साहित्य कला परिषद् बाल रंगमंच कार्यशाला में ``नटखट उत्सव' के अन्तर्गत जून 1996 में मंचित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -23619,9 +23675,9 @@
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">सृजन</entry>
 			<entry type="drama">अलीबाबा</entry>
-			<entry type="director">पंकज एस. विनम्</entry>
+			<entry type="director">पंकज एस. विनम्र</entry>
 			<entry type="venue">मंज़र थियेटर</entry>
-			<entry type="host">आयोजक ट्रेड फेयर अथोरिटी ऑफ इंडिया (भारतीय व्यापार मेला प्राधिकरण)</entry>
+			<entry type="host">ट्रेड फेयर अथोरिटी ऑफ इंडिया (भारतीय व्यापार मेला प्राधिकरण)</entry>
 			<entry type="date">15-06-1985</entry>
 		</mdetails>
 		<photo>
@@ -23673,7 +23729,7 @@
 		</mdetails>
 		<photo>
 			<entry id="1215" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -23681,13 +23737,13 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">स्टेजडोर</entry>
-			<entry type="drama">वन फ्लू ओवर दि कूज नेस्ट (one flew over the cuckoos nest)</entry>
+			<entry type="drama">वन फ्लू ओवर दि कुकूज नेस्ट (one flew over the cuckoos nest)</entry>
 			<entry type="writer">मालविका राजकोटिया और ए. आर. हुसैन</entry>
 			<entry type="director">आमिर रज़ा हाश्मी</entry>
 		</mdetails>
 		<photo>
 			<entry id="1248" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -35564,34 +35620,35 @@
 			</entry>
 		</video>
 	</media>
-	<media aid="01" cid="077.451;075.598">
+	<media aid="01" cid="075.598;077.451">
 		<mdetails>
 			<entry type="state">हरियाणा, पंजाब</entry>
 			<entry type="place">अंबाला</entry>
-			<entry type="troupe">अंकुर आर्टस्</entry>
+			<entry type="troupe">अंकुर आर्ट्स</entry>
 			<entry type="drama">आषाढ़ का एक दिन</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">ज्ञान जौरसिया</entry>
+			<entry type="artist">सुनयना (मल्लिका), आरती दयाल (अम्बिका), राजीव रायज़ादा (कालिदास) व अन्य</entry>
 			<entry type="date">1979</entry>
 		</mdetails>
 		<photo>
-			<entry id="2027" type="" size="">
-				<desc></desc>
+			<entry id="2027" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2028" type="" size="">
-				<desc></desc>
+			<entry id="2028" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2029" type="" size="">
-				<desc></desc>
+			<entry id="2029" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2030" type="" size="">
-				<desc></desc>
+			<entry id="2030" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2031" type="" size="">
-				<desc></desc>
+			<entry id="2031" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2032" type="" size="">
-				<desc></desc>
+			<entry id="2032" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
