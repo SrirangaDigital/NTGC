@@ -31850,7 +31850,7 @@
 			<entry type="troupe">अदाकार</entry>
 			<entry type="drama">रजनीगन्धा</entry>
 			<entry type="writer">धनंजय वैरागी</entry>
-			<entry type="translation">प्रतिभा अग्रवाल</entry>
+			<entry type="translator">प्रतिभा अग्रवाल</entry>
 		</mdetails>
 		<photo>
 			<entry id="779" type="" size="">
@@ -31912,7 +31912,7 @@
 		</mdetails>
 		<photo>
 			<entry id="864" type="" size="">
-				<desc>सिंहासन खाली है के साप्ताहिक उद्घाटन समारोह में स्वागत करते हुए संगीत कला मंदिर के संयोजक श्री कृष्ण चंद बांगड़ी स्वागत करते हुए |</desc>
+				<desc>सिंहासन खाली है के साप्ताहिक उद्घाटन समारोह में स्वागत करते हुए संगीत कला मंदिर के संयोजक श्री कृष्ण चंद बांगड़ी स्वागत करते हुए ।</desc>
 			</entry>
 		</photo>
 	</media>
@@ -31923,7 +31923,7 @@
 			<entry type="troupe">अनामिका</entry>
 			<entry type="drama">ईदगाह</entry>
 			<entry type="writer">प्रेमचन्द</entry>
-			<entry type="natyaroopantar">विमल लाठ</entry>
+			<entry type="dramatized">विमल लाठ</entry>
 		</mdetails>
 		<photo>
 			<entry id="835" type="" size="">
@@ -31975,6 +31975,8 @@
 			<entry type="drama">आधे - अधूरे</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">श्यामानंद जालान</entry>
+			<entry type="stage">खालिद चौधरी</entry>
+			<entry type="artist">यामा अग्रवाल, प्रतिभा अग्रवाल, कल्याण चटर्जी, किशन कुमार</entry>
 			<entry type="date">24-07-1970</entry>
 		</mdetails>
 		<photo>
@@ -31993,28 +31995,31 @@
 			<entry type="troupe">अनामिका</entry>
 			<entry type="drama">आषाढ़ का एक दिन</entry>
 			<entry type="writer">मोहन राकेश</entry>
+			<entry type="director">श्यामानन्द जालान</entry>
+			<entry type="artist">श्यामानन्द जालान (कालिदास), सुनीता रल्लीन (मल्लिका) व अन्य</entry>
+			<entry type="date">1960</entry>
 		</mdetails>
 		<photo>
-			<entry id="802" type="" size="">
-				<desc></desc>
+			<entry id="802" type="02" size="">
+				<desc>नेमिचन्द्र जैन</desc>
 			</entry>
-			<entry id="2159" type="" size="">
-				<desc></desc>
+			<entry id="2159" type="02" size="">
+				<desc>नेमिचन्द्र जैन</desc>
 			</entry>
-			<entry id="2160" type="" size="">
-				<desc></desc>
+			<entry id="2160" type="02" size="">
+				<desc>नेमिचन्द्र जैन</desc>
 			</entry>
-			<entry id="8173" type="" size="">
-				<desc></desc>
+			<entry id="8173" type="02" size="">
+				<desc>नेमिचन्द्र जैन</desc>
 			</entry>
-			<entry id="2181" type="" size="">
-				<desc></desc>
+			<entry id="2181" type="02" size="">
+				<desc>नेमिचन्द्र जैन</desc>
 			</entry>
-			<entry id="2344" type="" size="">
-				<desc></desc>
+			<entry id="2344" type="02" size="">
+				<desc>नेमिचन्द्र जैन</desc>
 			</entry>
-			<entry id="8427" type="" size="">
-				<desc></desc>
+			<entry id="8427" type="02" size="">
+				<desc>नेमिचन्द्र जैन</desc>
 			</entry>
 		</photo>
 	</media>
@@ -32045,15 +32050,24 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">अनामिका</entry>
-			<entry type="drama">घर और बाहर</entry>
-			<entry type="lecture">रवीन्द्र नाथ ठाकुर</entry>
-			<entry type="director">श्यामानन्द जालान</entry>
+			<entry type="drama">घर और बाहर (हिन्दी)</entry>
+			<entry type="writer">रवीन्द्र नाथ ठाकुर (बांग्ला उपन्यास)</entry>
 			<entry type="version">प्रतिभा अग्रवाल (हिन्दी)</entry>
-			<entry type="artist">श्यामानन्द जालान, उत्तमराम नागर</entry>
+			<entry type="director">श्यामानन्द जालान</entry>
+			<entry type="asstdirector">बद्रीप्रसाद तिवारी</entry>
+			<entry type="artdirector">खालिद चौधरी</entry>
+			<entry type="music">रविकुमार किचलू</entry>
+			<entry type="make-up">शचिनन्दन घोष</entry>
+			<entry type="stage">चन्द्रकुमार सरावगी व अन्य</entry>
+			<entry type="light">श्यामानन्द जालान व तापस सेन</entry>
+			<entry type="artist">श्यामानन्द जालान (संदीप), प्रतिभा अग्रवाल (विमला), बद्रीप्रसाद तिवारी (निखिलेश), कुसुम गुप्ता (मंझली), उत्तमराम नागर (चन्द्रनाथ) व अन्य</entry>
+			<entry type="venue">फाईन आर्ट्स थिएटर, दिल्ली</entry>
+			<entry type="date">26-28 नवंबर 1961</entry>
 		</mdetails>
 		<photo>
 			<entry id="8429" type="02" size="">
 				<desc>नाट्य शोध संस्थान, कोलकाता द्वारा प्राप्त फोटो</desc>
+				<misc>संगीत नाटक अकादेमी द्वारा आयोजित रवीन्द्र शतवार्षिकी उत्सव, 1961 में मंचित, सूचना स्रोत स्मा.</misc>
 			</entry>
 		</photo>
 	</media>
@@ -32081,7 +32095,7 @@
 			<entry type="troupe">अनामिका</entry>
 			<entry type="drama">एवमं इन्द्रजीत</entry>
 			<entry type="writer">बादल सरकार</entry>
-			<entry type="translation">प्रतिभा अग्रवाल</entry>
+			<entry type="translator">प्रतिभा अग्रवाल</entry>
 			<entry type="director">श्यामानंद जालान</entry>
 			<entry type="date">1968</entry>
 		</mdetails>
@@ -32119,7 +32133,7 @@
 			<entry type="troupe">अनामिका</entry>
 			<entry type="drama">कांचन रंग</entry>
 			<entry type="writer">शंभु मित्र एवं अमित मैत्र</entry>
-			<entry type="translation">नेमिचन्द्र जैन</entry>
+			<entry type="translator">नेमिचन्द्र जैन</entry>
 		</mdetails>
 		<photo>
 			<entry id="887" type="" size="">
@@ -32153,7 +32167,7 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">अनामिका</entry>
-			<entry type="drama">मादा कैक्ट्स</entry>
+			<entry type="drama">मादा कैक्टस</entry>
 			<entry type="writer">लक्ष्मीनारायण लाल</entry>
 			<entry type="director">श्यामानंद जालान</entry>
 			<entry type="date">1965</entry>
@@ -32170,7 +32184,7 @@
 	<media aid="01" cid="076.047">
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
-			<entry type="place">कोलकाता</entry>
+			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">अनामिका</entry>
 			<entry type="drama">लहरों के राजहंस</entry>
 			<entry type="writer">मोहन राकेश</entry>
@@ -32179,7 +32193,7 @@
 		</mdetails>
 		<photo>
 			<entry id="8428" type="02" size="">
-				<desc>नाट्य शोध संस्थान, कोलकाता द्वारा प्राप्त फोटो</desc>
+				<desc>नाट्य शोध संस्थान, कलकत्ता द्वारा प्राप्त फोटो</desc>
 			</entry>
 		</photo>
 	</media>
@@ -32204,17 +32218,28 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">अनामिका</entry>
-			<entry type="drama">नये हाथ</entry>
+			<entry type="drama">नये हाथ (हिन्दी)</entry>
+			<entry type="writer">विनोद रस्तोगी</entry>
+			<entry type="director">बद्री प्रसाद तिवारी</entry>
+			<entry type="presentation">श्यामानन्द जालान</entry>
+			<entry type="light">तापस सेन</entry>
+			<entry type="artist">श्यामानंद जालान व अन्य</entry>
+			<entry type="book">Shyamanand Jalan: A Pictorial, Tribute-Dr. Madhuchhandra Chatterjee (सूचना पुस्तक)</entry>
+			<entry type="venue">कलकत्ता</entry>
+			<entry type="date">1957</entry>
 		</mdetails>
 		<photo>
-			<entry id="815" type="" size="">
-				<desc></desc>
+			<entry id="815" type="02" size="">
+				<desc>इस नाटक की दूसरी प्रस्तुति दिल्ली में सं. ना. अ. द्वारा आयोजित भारतीय नाट्य प्रतियोगिता में हुई ।</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="816" type="" size="">
-				<desc></desc>
+			<entry id="816" type="02" size="">
+				<desc>इस नाटक की दूसरी प्रस्तुति दिल्ली में सं. ना. अ. द्वारा आयोजित भारतीय नाट्य प्रतियोगिता में हुई ।</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="817" type="" size="">
-				<desc></desc>
+			<entry id="817" type="02" size="">
+				<desc>इस नाटक की दूसरी प्रस्तुति दिल्ली में सं. ना. अ. द्वारा आयोजित भारतीय नाट्य प्रतियोगिता में हुई ।</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
@@ -32224,7 +32249,7 @@
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">अनामिका</entry>
 			<entry type="dance">बड़े घर की बेटी</entry>
-			<entry type="natyaroopantar">विमल लाठ</entry>
+			<entry type="dramatized">विमल लाठ</entry>
 			<entry type="director">प्रदीप अरोड़ा</entry>
 		</mdetails>
 		<photo>
@@ -32265,36 +32290,36 @@
 	<media aid="01" cid="076.055">
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
-			<entry type="place">कोलकाता</entry>
+			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">अनामिका</entry>
 			<entry type="drama">हम हिन्दूस्तानी हैं</entry>
 			<entry type="writer">आर. जी. आनन्द</entry>
-			<entry type="director">श्यामानन्द जलान</entry>
-			<entry type="artist">प्रतिभा अग्रपाल, श्यामानन्द जालान तथा अन्य</entry>
+			<entry type="director">श्यामानन्द जालान</entry>
+			<entry type="artist">प्रतिभा अग्रवाल, श्यामानन्द जालान तथा अन्य</entry>
 		</mdetails>
 		<photo>
 			<entry id="8425" type="02" size="">
-				<desc>नाट्य शोध संस्थान, कोलकाता द्वारा प्राप्त फोटो</desc>
+				<desc>नाट्य शोध संस्थान, कलकत्ता द्वारा प्राप्त फोटो</desc>
 			</entry>
 			<entry id="8426" type="02" size="">
-				<desc>नाट्य शोध संस्थान, कोलकाता द्वारा प्राप्त फोटो</desc>
+				<desc>नाट्य शोध संस्थान, कलकत्ता द्वारा प्राप्त फोटो</desc>
 			</entry>
 		</photo>
 	</media>
 	<media aid="01" cid="076.057.1">
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
-			<entry type="place">कोलकाता</entry>
+			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">कलकत्ता रिपर्टरी थियेटर</entry>
-			<entry type="drama">गैलिलियो (बंग्ला)</entry>
-			<entry type="writer">बर्टोल्ड ब्रेख्त</entry>
+			<entry type="drama">गैलिलियो (बांग्ला)</entry>
+			<entry type="writer">बर्टोल्ड ब्रेख़्त</entry>
 			<entry type="translation">मोहित चट्टोपाध्याय</entry>
 			<entry type="artist">शंभु मित्र</entry>
 			<entry type="venue">रवीन्द्र सदन</entry>
 			<entry type="date">1980</entry>
 		</mdetails>
 		<photo>
-			<entry id="9302" type="02" size="24X17.5">
+			<entry id="9302" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -32304,40 +32329,57 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">अनामिका</entry>
-			<entry type="drama">शुतुरमुर्ग</entry>
-			<entry type="writer">जानदेव अग्निहोत्री</entry>
+			<entry type="drama">शुतुरमुर्ग (हिन्दी)</entry>
+			<entry type="writer">ज्ञानदेव अग्निहोत्री</entry>
 			<entry type="director">श्यामानंद जालान</entry>
+			<entry type="asstdirector">श्याम केजड़ीवाल</entry>
+			<entry type="visualmanagement">खालिद चौधरी</entry>
+			<entry type="costume">खालिद चौधरी</entry>
+			<entry type="music">रवि किचलू</entry>
+			<entry type="light">तापस सेन</entry>
+			<entry type="artist">श्यामानंद जालान (राजा), अमर गुप्ता (मामूली राम), श्याम केजड़ीवाल, उत्तमराम नागर (अन्नमंत्री), चेतना तिवारी (रानी), अरुणा कपूर (दासी), विमल लाठ (विरोधीलाल) व अन्य</entry>
+			<entry type="date">10-12 अप्रैल 1968</entry>
 		</mdetails>
 		<photo>
-			<entry id="820-2c" type="" size="">
-				<desc></desc>
+			<entry id="820-2c" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="821" type="" size="">
-				<desc></desc>
+			<entry id="821" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="822" type="" size="">
-				<desc></desc>
+			<entry id="822" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="2163" type="" size="">
-				<desc></desc>
+			<entry id="2163" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="2164" type="" size="">
-				<desc></desc>
+			<entry id="2164" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="10416" type="" size="">
-				<desc></desc>
+			<entry id="10416" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="8424" type="" size="">
-				<desc></desc>
+			<entry id="8424" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="10416-2c" type="" size="">
-				<desc></desc>
+			<entry id="10416-2c" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="17245" type="" size="">
-				<desc></desc>
+			<entry id="17245" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="17246" type="" size="">
-				<desc></desc>
+			<entry id="17246" type="02" size="">
+				<desc>द लिटिल थियेटर ग्रुप के तत्वाधान में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, नाट्य शोध संस्थान से प्राप्त, सूचना स्रोत स्मा.</misc>
 			</entry>
 		</photo>
 	</media>
@@ -32347,7 +32389,8 @@
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">अनामिका</entry>
 			<entry type="drama">सच्चाई क्या है</entry>
-			<entry type="writer">लुहे जी पिरांविलो</entry>
+			<entry type="writer">लुई डी पिरांविलो</entry>
+			<entry type="translation">प्रतिभा अग्रवाल</entry>
 			<entry type="director">प्रतिभा अग्रवाल</entry>
 		</mdetails>
 		<photo>
@@ -32384,7 +32427,7 @@
 			<entry type="troupe">अनामिका</entry>
 			<entry type="drama">सुहाग के नूपुर</entry>
 			<entry type="writer">अमृतलाल नागर</entry>
-			<entry type="artist">डा. प्रतिभा अग्रवाल (चेलम्मा के चरित्र में) एवं कुंसुम गुप्ता (माधवी के चरित्र में) अरुणा कपूर (कन्नगी के चरित्र में) एवं उत्तमनागर (मासातुवान चेट्टियार के चरित्र में)</entry>
+			<entry type="artist">डा. प्रतिभा अग्रवाल (चेलम्मा के चरित्र में) एवं कुंसुम गुप्ता (माधवी के चरित्र में) अरुणा कपूर (कन्नगी के चरित्र में) एवं उत्तम नागर (मासातुवान चेट्टियार के चरित्र में)</entry>
 		</mdetails>
 		<photo>
 			<entry id="827" type="02" size="">
@@ -32403,10 +32446,10 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">चेतन</entry>
-			<entry type="drama">मरीच संवाद</entry>
+			<entry type="drama">मारीच संवाद</entry>
 			<entry type="writer">अरुण मुखर्जी</entry>
 			<entry type="director">अरुण मुखर्जी</entry>
-			<entry type="venue">कोलकाता</entry>
+			<entry type="venue">कलकत्ता</entry>
 			<entry type="date">1973</entry>
 		</mdetails>
 		<photo>
@@ -32423,7 +32466,7 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">चेतन</entry>
-			<entry type="drama">मरीच संवाद</entry>
+			<entry type="drama">मारीच संवाद</entry>
 			<entry type="director">अरुण मुखर्जी</entry>
 			<entry type="venue">मंजर थिएटर</entry>
 			<entry type="date">06-03-1985</entry>
@@ -32453,7 +32496,7 @@
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
-			<entry type="troupe">दारयारी</entry>
+			<entry type="troupe">चारयारी</entry>
 			<entry type="drama">प्रायश्चित</entry>
 			<entry type="writer">द्विजेन्द्र लाल राय</entry>
 			<entry type="director">सुनीति बोस</entry>
@@ -32507,7 +32550,7 @@
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
-			<entry type="troupe">थारयारि</entry>
+			<entry type="troupe">चारयारि</entry>
 			<entry type="drama">समुद्र अतल</entry>
 		</mdetails>
 		<photo>
@@ -32578,7 +32621,7 @@
 			<entry type="troupe">चेतन</entry>
 			<entry type="drama">पूतुल नाचेर इतिकथा</entry>
 			<entry type="writer">मणिक बंद्योपाद्याय</entry>
-			<entry type="natyantre">अरुण मुखर्जी</entry>
+			<entry type="dramatized">अरुण मुखर्जी</entry>
 			<entry type="director">अरुण मुखर्जी</entry>
 		</mdetails>
 		<photo>
@@ -32593,7 +32636,7 @@
 	<media aid="01" cid="076.079">
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
-			<entry type="place">कोलकाता</entry>
+			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">नंदीकार</entry>
 			<entry type="drama">चोख ग्यालो (बांग्ला)</entry>
 			<entry type="director">गौतम हलदर</entry>
@@ -32602,25 +32645,25 @@
 		</mdetails>
 		<photo>
 			<entry id="15694" type="01" size="">
-				<desc>नवें भारंगम में मंचित कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
+				<desc>नवें भारंगम में मंचित, कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
 			</entry>
 			<entry id="15695" type="01" size="">
 				<desc>नवें भारंगम में मंचित कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
 			</entry>
 			<entry id="15696" type="01" size="">
-				<desc>नवें भारंगम में मंचित कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
+				<desc>नवें भारंगम में मंचित, कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
 			</entry>
 			<entry id="15697" type="01" size="">
-				<desc>नवें भारंगम में मंचित कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
+				<desc>नवें भारंगम में मंचित, कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
 			</entry>
 			<entry id="15698" type="01" size="">
-				<desc>नवें भारंगम में मंचित कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
+				<desc>नवें भारंगम में मंचित, कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
 			</entry>
 			<entry id="15699" type="01" size="">
-				<desc>नवें भारंगम में मंचित कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
+				<desc>नवें भारंगम में मंचित, कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
 			</entry>
 			<entry id="15700" type="01" size="">
-				<desc>नवें भारंगम में मंचित कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
+				<desc>नवें भारंगम में मंचित, कीर्ति जैन से प्राप्त सीडी, परि. सं. 569 के प्रिन्ट्स</desc>
 			</entry>
 		</photo>
 	</media>
@@ -32628,7 +32671,7 @@
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
-			<entry type="troupe">नांदिकार</entry>
+			<entry type="troupe">नांदीकार</entry>
 			<entry type="drama">नाट्यकार संधनि छह चरित्र</entry>
 			<entry type="director">अजितेश बन्द्योपाध्याय</entry>
 			<entry type="date">17-18 फरवरी 1986</entry>
@@ -32674,7 +32717,7 @@
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
-			<entry type="troupe">थिएटर वर्कशाप</entry>
+			<entry type="troupe">थिएटर वर्कशॉप</entry>
 			<entry type="drama">चाक भांगा मोधू</entry>
 			<entry type="writer">मनोज मित्र</entry>
 			<entry type="director">विभास चक्रवर्ती</entry>
@@ -32691,7 +32734,7 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">थियेटर सेन्टर</entry>
-			<entry type="drama">लौबडेफ़</entry>
+			<entry type="drama">लैबडेफ़</entry>
 			<entry type="writer">चितरंजन घोष</entry>
 		</mdetails>
 		<photo>
@@ -32704,16 +32747,22 @@
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
-			<entry type="troupe">नांदिकार</entry>
-			<entry type="drama">एंटीजोन</entry>
-			<entry type="writer">सोफोक्लीज</entry>
-			<entry type="translation">जीन आनुई</entry>
-			<entry type="director">रन्द्रप्रसाद सेनगुप्ता</entry>
+			<entry type="troupe">नांदीकार</entry>
+			<entry type="drama">एंटीगन (बांग्ला)</entry>
+			<entry type="writer">सोफोक्लीज़/ज्या अनुई (फ्रेंच/ग्रीक)</entry>
+			<entry type="translator">वसी खान/स्वाति सेन गुप्ता/इंदुजा अवस्थी/भवानी प्रसाद मिश्र (कोई एल.)</entry>
+			<entry type="director">रुद्र प्रसाद सेनगुप्ता</entry>
 			<entry type="date">16-02-1986</entry>
 		</mdetails>
 		<photo>
-			<entry id="799" type="" size="">
-				<desc></desc>
+			<entry id="799" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="17242" type="02" size="">
+				<desc>श्री सत्येन्द्र तनेजा द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="17243" type="02" size="">
+				<desc>श्री सत्येन्द्र तनेजा द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -32723,7 +32772,7 @@
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">पंचम वैदिक</entry>
 			<entry type="drama">नाथवती अनाथवत</entry>
-			<entry type="writer">सांवली मित्र</entry>
+			<entry type="director">सांवली मित्र</entry>
 			<entry type="event">सातवें राष्ट्रीय नाट्य समारोह</entry>
 			<entry type="date">अक्टूबर 1985</entry>
 		</mdetails>
@@ -32750,143 +32799,188 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">पंचम वैदिक</entry>
-			<entry type="drama">पुतुल खेला</entry>
-			<entry type="director">सांवली मित्र</entry>
+			<entry type="drama">पुतुल खेला (हिन्दी)</entry>
+			<entry type="writer">हेनरिक इब्सन</entry>
+			<entry type="director">सॉवली मित्र</entry>
 			<entry type="music">तरित भट्टाचार्य</entry>
-			<entry type="light">सुदिप स्पनायल</entry>
-			<entry type="venue">दिल्ली</entry>
-			<entry type="host">ए. ना. वि. एवं नटरंग प्रतिष्ठान : पूर्वा</entry>
+			<entry type="light">सुदीप सन्याल</entry>
+			<entry type="artist">सॉवली मित्र (बुलू), बासुदत्त रॉय (तपन), प्रीति मुखोपाध्याय (डॉ रॉय), दुर्गा भट्टाचार्य (आई), बनिता रॉय (रीना), जयंतकर (हेमंत) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
+			<entry type="host">रा. ना. वि. एवं नटरंग प्रतिष्ठान : पूर्वा</entry>
 			<entry type="date">08-01-2003</entry>
 		</mdetails>
 		<photo>
-			<entry id="7943-2c" type="" size="">
-				<desc></desc>
+			<entry id="7943-2c" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7928" type="" size="">
-				<desc></desc>
+			<entry id="7928" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7926" type="" size="">
-				<desc></desc>
+			<entry id="7926" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7927" type="" size="">
-				<desc></desc>
+			<entry id="7927" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7357" type="" size="">
-				<desc></desc>
+			<entry id="7357" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7358" type="" size="">
-				<desc></desc>
+			<entry id="7358" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7359" type="" size="">
-				<desc></desc>
+			<entry id="7359" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7360" type="" size="">
-				<desc></desc>
+			<entry id="7360" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7361" type="" size="">
-				<desc></desc>
+			<entry id="7361" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7362" type="" size="">
-				<desc></desc>
+			<entry id="7362" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7363" type="" size="">
-				<desc></desc>
+			<entry id="7363" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7364" type="" size="">
-				<desc></desc>
+			<entry id="7364" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7365" type="" size="">
-				<desc></desc>
+			<entry id="7365" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7366" type="" size="">
-				<desc></desc>
+			<entry id="7366" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7367" type="" size="">
-				<desc></desc>
+			<entry id="7367" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9357" type="" size="">
-				<desc></desc>
+			<entry id="9357" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9358" type="" size="">
-				<desc></desc>
+			<entry id="9358" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9359" type="" size="">
-				<desc></desc>
+			<entry id="9359" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9360" type="" size="">
-				<desc></desc>
+			<entry id="9360" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9361" type="" size="">
-				<desc></desc>
+			<entry id="9361" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9362" type="" size="">
-				<desc></desc>
+			<entry id="9362" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9363" type="" size="">
-				<desc></desc>
+			<entry id="9363" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9364" type="" size="">
-				<desc></desc>
+			<entry id="9364" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9365" type="" size="">
-				<desc></desc>
+			<entry id="9365" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9366" type="" size="">
-				<desc></desc>
+			<entry id="9366" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9367" type="" size="">
-				<desc></desc>
+			<entry id="9367" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9495" type="" size="">
-				<desc></desc>
+			<entry id="9495" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9496" type="" size="">
-				<desc></desc>
+			<entry id="9496" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9497" type="" size="">
-				<desc></desc>
+			<entry id="9497" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9498" type="" size="">
-				<desc></desc>
+			<entry id="9498" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9499" type="" size="">
-				<desc></desc>
+			<entry id="9499" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9500" type="" size="">
-				<desc></desc>
+			<entry id="9500" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9501" type="" size="">
-				<desc></desc>
+			<entry id="9501" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9502" type="" size="">
-				<desc></desc>
+			<entry id="9502" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="9503" type="" size="">
-				<desc></desc>
+			<entry id="9503" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7644/I" type="" size="">
-				<desc></desc>
+			<entry id="7644/I" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7645" type="" size="">
-				<desc></desc>
+			<entry id="7645" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7646" type="" size="">
-				<desc></desc>
+			<entry id="7646" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="7647" type="" size="">
-				<desc></desc>
+			<entry id="7647" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="10979" type="" size="">
-				<desc></desc>
+			<entry id="10979" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="12529" type="" size="">
-				<desc></desc>
+			<entry id="12529" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="12530" type="" size="">
-				<desc></desc>
+			<entry id="12530" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
-			<entry id="12531" type="" size="">
-				<desc></desc>
+			<entry id="12531" type="01" size="">
+				<desc>रा. ना. वि. एवं नटरंग प्रतिष्ठान द्वारा आयोजित पूर्वा नाट्य समारोह में मंचित</desc>
+				<misc>सूचना स्रोत स्मा. -</misc>
 			</entry>
 		</photo>
 	</media>
@@ -32894,14 +32988,14 @@
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
-			<entry type="troupe">नन्दीकर</entry>
+			<entry type="troupe">नांदीकार</entry>
 			<entry type="drama">मुद्राराक्षस (बांग्ला)</entry>
 			<entry type="director">अजितेश बंद्योपाध्याय</entry>
 			<entry type="artist">शम्भु मित्र (चाणक्य के रोल में)</entry>
 			<entry type="date">1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="9301" type="02" size="24X17.5">
+			<entry id="9301" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -32910,14 +33004,14 @@
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
-			<entry type="troupe">नांदिकार</entry>
+			<entry type="troupe">नांदीकार</entry>
 			<entry type="drama">मोनयोमी आमेर मोनयोमी (बांग्ला)</entry>
 			<entry type="writer">अंतोन चेखोव</entry>
-			<entry type="director">अजितेश बन्दोपाध्याय</entry>
+			<entry type="director">अजितेश बंद्योपाध्याय</entry>
 		</mdetails>
 		<photo>
 			<entry id="799" type="" size="">
-				<desc>द चोरी ऑरचई (The Cherry Orchard) का रूपांतरण</desc>
+				<desc>द चेरी ऑरचर्ड (The Cherry Orchard) का रूपांतरण</desc>
 			</entry>
 		</photo>
 	</media>
@@ -32940,7 +33034,7 @@
 	<media aid="01" cid="076.085">
 		<mdetails>
 			<entry type="state">पश्चिम बंगाल</entry>
-			<entry type="place">कोलकाता</entry>
+			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">पंचम वैदिक</entry>
 			<entry type="drama">दशचक्र (बांग्ला)</entry>
 			<entry type="writer">हैनरिक इबसन</entry>
@@ -32948,17 +33042,17 @@
 			<entry type="director">शंभु मित्र</entry>
 			<entry type="artist">शंभु मित्र</entry>
 			<entry type="venue">रवीन्द्र सदन</entry>
-			<entry type="date">1985</entry>
+			<entry type="date">1952</entry>
 		</mdetails>
 		<photo>
-			<entry id="9291" type="02" size="24X17.5">
-				<desc></desc>
+			<entry id="9291" type="02" size="24X17.5 से. मी.">
+				<desc>तृप्ति द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="9292" type="02" size="24X17.5">
-				<desc></desc>
+			<entry id="9292" type="02" size="24X17.5 से. मी.">
+				<desc>तृप्ति द्वारा न. प्र. को भेंट</desc>
 			</entry>
-			<entry id="9293" type="02" size="24X17.5">
-				<desc></desc>
+			<entry id="9293" type="02" size="24X17.5 से. मी.">
+				<desc>तृप्ति द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -32997,7 +33091,7 @@
 			<entry type="troupe">पंचम वैदिक</entry>
 			<entry type="drama">राजा</entry>
 			<entry type="writer">रवीन्द्रनाथ टैगोर</entry>
-			<entry type="date">8-14 मई 1987</entry>
+			<entry type="date">08-14 मई 1987</entry>
 		</mdetails>
 		<photo>
 			<entry id="791" type="" size="">
@@ -33016,35 +33110,36 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">पदातिक</entry>
-			<entry type="drama">आधे - अधूरे</entry>
+			<entry type="drama">आधे - अधूरे (हिन्दी)</entry>
 			<entry type="writer">मोहन राकेश</entry>
-			<entry type="director">स्यामानंद जालान</entry>
+			<entry type="director">श्यामानंद जालान</entry>
+			<entry type="artist">श्यामानंद जालान, चेतना जालान, प्रदीप रॉय व नन्दिनी चैटर्जी व अन्य</entry>
 			<entry type="date">1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="8174" type="" size="">
-				<desc></desc>
+			<entry id="8174" type="01;02" size="">
+				<desc>नेहरु शताब्दी नाट्य समारोह में मंचित, सं. ना. अ.</desc>
 			</entry>
-			<entry id="8208" type="" size="">
-				<desc></desc>
+			<entry id="8208" type="01;02" size="">
+				<desc>नेहरु शताब्दी नाट्य समारोह में मंचित, सं. ना. अ.</desc>
 			</entry>
-			<entry id="2169" type="" size="">
-				<desc></desc>
+			<entry id="2169" type="01;02" size="">
+				<desc>नेहरु शताब्दी नाट्य समारोह में मंचित, सं. ना. अ.</desc>
 			</entry>
-			<entry id="2170" type="" size="">
-				<desc></desc>
+			<entry id="2170" type="01;02" size="">
+				<desc>नेहरु शताब्दी नाट्य समारोह में मंचित, सं. ना. अ.</desc>
 			</entry>
-			<entry id="8175" type="" size="">
-				<desc></desc>
+			<entry id="8175" type="01;02" size="">
+				<desc>नेहरु शताब्दी नाट्य समारोह में मंचित, सं. ना. अ.</desc>
 			</entry>
-			<entry id="2171-3c" type="" size="">
-				<desc></desc>
+			<entry id="2171-3c" type="01;02" size="">
+				<desc>नेहरु शताब्दी नाट्य समारोह में मंचित, सं. ना. अ.</desc>
 			</entry>
-			<entry id="2345" type="" size="">
-				<desc></desc>
+			<entry id="2345" type="01;02" size="">
+				<desc>नेहरु शताब्दी नाट्य समारोह में मंचित, सं. ना. अ.</desc>
 			</entry>
-			<entry id="17244" type="" size="">
-				<desc></desc>
+			<entry id="17244" type="01;02" size="">
+				<desc>नेहरु शताब्दी नाट्य समारोह में मंचित, सं. ना. अ.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -33114,7 +33209,7 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">पदातिक</entry>
-			<entry type="drama">हजार चौरासी की मॉ</entry>
+			<entry type="drama">हजार चौरासी की माँ</entry>
 			<entry type="writer">महाश्वेता देवी</entry>
 			<entry type="event">राष्ट्रीय हिन्दी नाटक समारोह</entry>
 			<entry type="date">1980</entry>
@@ -49326,7 +49421,7 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">पदातिक डांस सेन्टर</entry>
-			<entry type="dance">नृत्य - फ्लाइट आफ बर्डस</entry>
+			<entry type="dance">फ्लाइट अॉफ बर्डस</entry>
 		</mdetails>
 		<photo>
 			<entry id="3726" type="" size="">
@@ -49374,7 +49469,7 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">पदातिक डांस सेन्टर</entry>
-			<entry type="dance">नृत्य - समानान्तर</entry>
+			<entry type="dance">समानान्तर</entry>
 		</mdetails>
 		<photo>
 			<entry id="3729" type="" size="">
