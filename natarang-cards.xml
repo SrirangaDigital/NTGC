@@ -33375,7 +33375,7 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">पीपलस लिटिल थिएटर</entry>
-			<entry type="drama">बुरो शलिकेर धरे रोग</entry>
+			<entry type="drama">बुरो शलिकेर धरे रोंग</entry>
 		</mdetails>
 		<photo>
 			<entry id="758" type="" size="">
@@ -33423,7 +33423,7 @@
 			<entry type="troupe">बहुरूपी</entry>
 			<entry type="drama">किनू कहारेर थियेटर</entry>
 			<entry type="writer">मनोज मित्र</entry>
-			<entry type="director">कुमर राय</entry>
+			<entry type="director">कुमार राय</entry>
 			<entry type="date">19-09-1988</entry>
 		</mdetails>
 		<photo>
@@ -33454,7 +33454,7 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">बहुरूपी</entry>
-			<entry type="drama">गौंडार</entry>
+			<entry type="drama">गैंडार</entry>
 			<entry type="director">तृप्ति मित्रा</entry>
 		</mdetails>
 		<photo>
@@ -33494,18 +33494,19 @@
 			<entry type="drama">डाकघर (बांग्ला)</entry>
 			<entry type="writer">रवीन्द्रनाथ ठाकुर</entry>
 			<entry type="director">तृप्ति मित्र</entry>
-			<entry type="artist">शंभु मित्र</entry>
+			<entry type="photography">निमाई घोष</entry>
+			<entry type="artist">शंभु मित्र, चेताली घोषाल, श्रीचेत चक्रवर्ती</entry>
 			<entry type="venue">न्यू एम्पायर</entry>
 			<entry type="date">1957</entry>
 		</mdetails>
 		<photo>
-			<entry id="773" type="02" size="24X17.5">
+			<entry id="773" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="4934" type="02" size="24X17.5">
+			<entry id="4934" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="9300" type="02" size="24X17.5">
+			<entry id="9300" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -33538,15 +33539,15 @@
 			<entry type="writer">रवीन्द्रनाथ ठाकुर</entry>
 			<entry type="editorial">शंभु मित्र</entry>
 			<entry type="director">शंभु मित्र</entry>
-			<entry type="artist">शंभु मित्र</entry>
+			<entry type="artist">शंभु मित्र, तृप्ति मित्र व अन्य</entry>
 			<entry type="venue">श्री रंगम</entry>
 			<entry type="date">1951</entry>
 		</mdetails>
 		<photo>
-			<entry id="9294" type="02" size="24X17.5">
+			<entry id="9294" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="9295" type="02" size="24X17.5">
+			<entry id="9295" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -33565,10 +33566,10 @@
 			<entry type="date">1960</entry>
 		</mdetails>
 		<photo>
-			<entry id="9295" type="02" size="24X17.5">
+			<entry id="9295" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="9296" type="02" size="24X17.5">
+			<entry id="9296" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -33584,10 +33585,10 @@
 		</mdetails>
 		<photo>
 			<entry id="5551" type="" size="">
-				<desc>गोविंद विद्यार्थी से प्राप्त</desc>
+				<desc>गोविंद विद्यार्थी से प्राप्त, न. प्र.</desc>
 			</entry>
 			<entry id="5549" type="" size="">
-				<desc>गोविंद विद्यार्थी से प्राप्त</desc>
+				<desc>गोविंद विद्यार्थी से प्राप्त, न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -33610,25 +33611,27 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">बहुरूपी</entry>
-			<entry type="drama">पगला घोड़ा</entry>
+			<entry type="drama">पगला घोड़ा (बांग्ला)</entry>
 			<entry type="writer">बादल सरकार</entry>
 			<entry type="director">शम्भु मित्र</entry>
+			<entry type="artist">कुमार, देबातोष रॉय घोष, कालिप्रसाद घोष, सांति दास</entry>
+			<entry type="date">1971</entry>
 		</mdetails>
 		<photo>
-			<entry id="866" type="" size="">
-				<desc></desc>
+			<entry id="866" type="02" size="">
+				<desc>नाट्य शोध संस्थान से प्राप्त</desc>
 			</entry>
-			<entry id="2167" type="" size="">
-				<desc></desc>
+			<entry id="2167" type="02" size="">
+				<desc>नाट्य शोध संस्थान से प्राप्त</desc>
 			</entry>
-			<entry id="8444" type="" size="">
-				<desc></desc>
+			<entry id="8444" type="02" size="">
+				<desc>नाट्य शोध संस्थान से प्राप्त</desc>
 			</entry>
-			<entry id="8445" type="" size="">
-				<desc></desc>
+			<entry id="8445" type="02" size="">
+				<desc>नाट्य शोध संस्थान से प्राप्त</desc>
 			</entry>
-			<entry id="8446" type="" size="">
-				<desc></desc>
+			<entry id="8446" type="02" size="">
+				<desc>नाट्य शोध संस्थान से प्राप्त</desc>
 			</entry>
 		</photo>
 	</media>
@@ -33654,9 +33657,10 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">बहुरूपी</entry>
-			<entry type="drama">दशचक्र</entry>
+			<entry type="drama">दशचक्र (बांग्ला)</entry>
 			<entry type="writer">इब्सन</entry>
 			<entry type="director">शंभु मित्र (बांग्ला रूपांतर)</entry>
+			<entry type="version">शंभु मित्र (बांग्ला रूपांतर)</entry>
 		</mdetails>
 		<photo>
 			<entry id="4674" type="" size="">
@@ -33666,7 +33670,7 @@
 				<desc></desc>
 			</entry>
 			<entry id="4935" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध 16/23</desc>
 			</entry>
 			<entry id="4011" type="" size="">
 				<desc></desc>
@@ -33741,7 +33745,7 @@
 			<entry type="troupe">बहुरूपी</entry>
 			<entry type="drama">मृच्छकटिक</entry>
 			<entry type="writer">शूद्रक</entry>
-			<entry type="director">कुमर राय</entry>
+			<entry type="director">कुमार राय</entry>
 			<entry type="date">1980</entry>
 		</mdetails>
 		<photo>
@@ -33761,16 +33765,22 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">बहुरूपी</entry>
-			<entry type="drama">थदि और एकबार</entry>
+			<entry type="drama">यदि और एक बार (हिन्दी)</entry>
 			<entry type="writer">बादल सरकार</entry>
 			<entry type="director">तृप्ति मित्र</entry>
-			<entry type="artist">अरिजीत गुहा, रामप्रसाद बनिक तथा अन्य</entry>
+			<entry type="artist">अरिजीत गुहा, रामप्रसाद बनिक, नमिता मजुमदार, गीता चक्रवर्ती तथा अन्य</entry>
+			<entry type="book">बादल सरकार-अशोक भौमिक, ले. (सूचना स्रोत पुस्तक)</entry>
+			<entry type="venue">फाइन आर्ट्स अकादेमी, कलकत्ता</entry>
+			<entry type="date">26-02-1976</entry>
 		</mdetails>
 		<photo>
 			<entry id="8436-I" type="02" size="">
 				<desc>नाट्य शोध संस्थान, कोलकाता द्वारा प्राप्त फोटो</desc>
 			</entry>
 			<entry id="8436-II" type="02" size="">
+				<desc>नाट्य शोध संस्थान, कोलकाता द्वारा प्राप्त फोटो</desc>
+			</entry>
+			<entry id="8436-2c" type="02" size="">
 				<desc>नाट्य शोध संस्थान, कोलकाता द्वारा प्राप्त फोटो</desc>
 			</entry>
 			<entry id="8437-2c" type="02" size="">
@@ -33849,32 +33859,32 @@
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">बहुरूपी</entry>
 			<entry type="drama">बिसर्जन (बांग्ला)</entry>
-			<entry type="writer">सवीन्द्रनाथ ठाकुर</entry>
+			<entry type="writer">रवीन्द्रनाथ ठाकुर</entry>
 			<entry type="director">शंभु मित्र</entry>
-			<entry type="artist">शंभु मित्र</entry>
-			<entry type="venue">आई. एक. e. सी. हॉल, दिल्ली</entry>
+			<entry type="artist">शंभु मित्र, तृप्ति मित्र व अन्य</entry>
+			<entry type="venue">आई. एफ. ए. सी. हॉल, दिल्ली</entry>
 			<entry type="date">1961</entry>
 		</mdetails>
 		<photo>
-			<entry id="764" type="02" size="24X17.5">
+			<entry id="764" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="768" type="02" size="24X17.5">
+			<entry id="768" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="9298" type="02" size="24X17.5">
+			<entry id="9298" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="9299" type="02" size="24X17.5">
+			<entry id="9299" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="22596" type="02" size="24X17.5">
+			<entry id="22596" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="769" type="02" size="24X17.5">
+			<entry id="769" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="2166" type="02" size="24X17.5">
+			<entry id="2166" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -33948,28 +33958,28 @@
 			<entry type="date">1954</entry>
 		</mdetails>
 		<photo>
-			<entry id="765" type="02" size="24X17.5">
+			<entry id="765" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="766" type="02" size="24X17.5">
+			<entry id="766" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="767" type="02" size="24X17.5">
+			<entry id="767" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="837" type="02" size="24X17.5">
+			<entry id="837" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="4018" type="02" size="24X17.5">
+			<entry id="4018" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="4019" type="02" size="24X17.5">
+			<entry id="4019" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="5929" type="02" size="24X17.5">
+			<entry id="5929" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="9297" type="02" size="24X17.5">
+			<entry id="9297" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -33988,28 +33998,28 @@
 			<entry type="date">1964</entry>
 		</mdetails>
 		<photo>
-			<entry id="877" type="02" size="24X17.5">
+			<entry id="877" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="4019" type="02" size="24X17.5">
+			<entry id="4019" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="9290" type="02" size="24X17.5">
+			<entry id="9290" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="2168" type="02" size="24X17.5">
+			<entry id="2168" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="4015" type="02" size="24X17.5">
+			<entry id="4015" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="4016" type="02" size="24X17.5">
+			<entry id="4016" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="4017" type="02" size="24X17.5">
+			<entry id="4017" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="4018" type="02" size="24X17.5">
+			<entry id="4018" type="02" size="24X17.5 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -34053,40 +34063,56 @@
 			<entry type="state">पश्चिम बंगाल</entry>
 			<entry type="place">कलकत्ता</entry>
 			<entry type="troupe">रंगकर्मी</entry>
-			<entry type="drama">कोर्ट मार्शल</entry>
+			<entry type="drama">कोर्ट मार्शल (हिन्दी)</entry>
 			<entry type="writer">स्वदेश दीपक</entry>
 			<entry type="director">उषा गांगुली</entry>
+			<entry type="stage">उषा गांगुली</entry>
+			<entry type="music">कल्याण चौधरी</entry>
+			<entry type="costume">दिलीप भारती</entry>
+			<entry type="light">बादल दास</entry>
+			<entry type="artist">ब्रिगेडियर सूरत सिंह (कांतिलाल श्रीमाल), मेजर पुरी (ओम पारीख), कैप्टन विकास रॉय (नरेन्द्र रॉय), कैप्टन कपूर (राजेश शर्मा) व अन्य</entry>
+			<entry type="date">1991</entry>
 		</mdetails>
 		<photo>
-			<entry id="2381" type="" size="">
-				<desc></desc>
+			<entry id="2381" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
-			<entry id="2382" type="" size="">
-				<desc></desc>
+			<entry id="2382" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
-			<entry id="3707" type="" size="">
-				<desc></desc>
+			<entry id="3707" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
-			<entry id="3708" type="" size="">
-				<desc></desc>
+			<entry id="3708" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
-			<entry id="3709" type="" size="">
-				<desc></desc>
+			<entry id="3709" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
-			<entry id="3710" type="" size="">
-				<desc></desc>
+			<entry id="3710" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
-			<entry id="5086" type="" size="">
-				<desc></desc>
+			<entry id="5086" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
-			<entry id="5523" type="" size="">
-				<desc></desc>
+			<entry id="5523" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
-			<entry id="10650" type="" size="">
-				<desc></desc>
+			<entry id="10650" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
-			<entry id="18319" type="" size="">
-				<desc></desc>
+			<entry id="18319" type="01;02" size="">
+				<desc>श्रीमती उषा गांगुली से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. से</misc>
 			</entry>
 		</photo>
 	</media>
@@ -34141,7 +34167,7 @@
 			<entry type="date">2003</entry>
 		</mdetails>
 		<photo>
-			<entry id="10659" type="01" size="10X15">
+			<entry id="10659" type="01" size="10X15 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -34222,7 +34248,7 @@
 			<entry type="date">2007</entry>
 		</mdetails>
 		<photo>
-			<entry id="10664" type="01" size="12X17.5">
+			<entry id="10664" type="01" size="12X17.5 से. मी.">
 				<desc>कार्यक्रम के बाद ऊषा गांगुली, जोहरा बीबी के साथ</desc>
 			</entry>
 		</photo>
@@ -34235,21 +34261,24 @@
 			<entry type="drama">खोज</entry>
 			<entry type="writer">उषा गांगुली</entry>
 			<entry type="director">उषा गांगुली</entry>
+			<entry type="artist">असित मुखोपाध्याय, उषा गांगुली व अन्य</entry>
+			<entry type="venue">कलकत्ता</entry>
+			<entry type="date">1994</entry>
 		</mdetails>
 		<photo>
-			<entry id="3704" type="" size="">
+			<entry id="3704" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="3705" type="" size="">
+			<entry id="3705" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="3706" type="" size="">
+			<entry id="3706" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="10652" type="" size="">
+			<entry id="10652" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="18323" type="" size="">
+			<entry id="18323" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
