@@ -7543,8 +7543,8 @@
 			<entry type="place">छपरा</entry>
 			<entry type="troupe">भिश्वारी ठाकुर आश्रम</entry>
 			<entry type="drama">विदेसिया</entry>
-			<entry type="writer">भिस्वारी ठाकुर</entry>
-			<entry type="director">गोरीशंकर ठाकुर</entry>
+			<entry type="writer">भिश्वारी ठाकुर</entry>
+			<entry type="director">गौरीशंकर ठाकुर</entry>
 			<entry type="date">09-11-1987</entry>
 		</mdetails>
 		<photo>
@@ -7576,7 +7576,7 @@
 			<entry type="state">बिहार</entry>
 			<entry type="place">गया</entry>
 			<entry type="drama">पागल</entry>
-			<entry type="writer">प्रबोधा जोशी</entry>
+			<entry type="writer">प्रबोध जोशी</entry>
 		</mdetails>
 		<photo>
 			<entry id="1941" type="" size="">
@@ -7592,7 +7592,7 @@
 			<entry type="state">बिहार</entry>
 			<entry type="place">गया</entry>
 			<entry type="troupe">मगध विश्वविद्यालय स्नातकोत्तर विभाग</entry>
-			<entry type="drama">ऑयेलो</entry>
+			<entry type="drama">ऑथेलो</entry>
 			<entry type="writer">शेक्सपियर</entry>
 		</mdetails>
 		<photo>
@@ -7633,13 +7633,17 @@
 			<entry type="state">बिहार</entry>
 			<entry type="place">जमशेदपुर</entry>
 			<entry type="troupe">रूपायन</entry>
-			<entry type="drama">बड़ी बुआ जी</entry>
-			<entry type="writer">बादल सरकार</entry>
+			<entry type="drama">बड़ी बुआ जी (हिन्दी)</entry>
+			<entry type="originaldrama">बड़ी पीसीमा (मूल बांग्ला नाम)</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">प्रतिभा अग्रवाल</entry>
+			<entry type="director">मदन मोहन श्रीवास्तव</entry>
+			<entry type="artist">मदन मोहन श्रीवास्तव (शशांक), रामेश्वर पाण्डेय (फूफा जी), मदन बिहारी श्रीवास्तव (मि. सेन), बिमला सिन्हा (बड़ी बुआजी) व अन्य</entry>
 			<entry type="date">10 जनवरी 1980</entry>
 		</mdetails>
 		<photo>
-			<entry id="1950" type="" size="">
-				<desc>कामदी</desc>
+			<entry id="1950" type="02" size="">
+				<desc>कामदी, नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -7691,13 +7695,14 @@
 			<entry type="state">बिहार</entry>
 			<entry type="place">जमशेदपुर</entry>
 			<entry type="troupe">रूपायन</entry>
-			<entry type="drama">आधे - अधूरे</entry>
+			<entry type="drama">आधे - अधूरे (राकेश)</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">मदन मोहन श्रीवास्तव</entry>
+			<entry type="artist">मदन मोहन श्रीवास्तव (जुनेजो), पुष्पलता दास (बिन्नी) व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="1948" type="" size="">
-				<desc></desc>
+			<entry id="1948" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -18450,10 +18455,11 @@
 			<entry type="drama">कलारिपायथु</entry>
 			<entry type="director">वीणापाणी चावला</entry>
 			<entry type="artist">वीणापाणी चावला</entry>
+			<entry type="date">1993</entry>
 		</mdetails>
 		<photo>
-			<entry id="10712" type="" size="">
-				<desc></desc>
+			<entry id="10712" type="02" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -18466,14 +18472,14 @@
 			<entry type="artist">मिजावु वादक</entry>
 		</mdetails>
 		<photo>
-			<entry id="10723" type="" size="">
-				<desc></desc>
+			<entry id="10723" type="01" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
-			<entry id="10724" type="" size="">
-				<desc></desc>
+			<entry id="10724" type="01" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
-			<entry id="10725" type="" size="">
-				<desc></desc>
+			<entry id="10725" type="01" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -18520,16 +18526,17 @@
 			<entry type="place">पांडिचेरी</entry>
 			<entry type="troupe">आदिशक्ति</entry>
 			<entry type="drama">उषा नांगियार</entry>
+			<entry type="venue">के. पी. ए.</entry>
 		</mdetails>
 		<photo>
-			<entry id="10713" type="" size="">
-				<desc></desc>
+			<entry id="10713" type="01" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
-			<entry id="10714" type="" size="">
-				<desc></desc>
+			<entry id="10714" type="01" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
-			<entry id="10715" type="" size="">
-				<desc></desc>
+			<entry id="10715" type="01" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -18537,26 +18544,26 @@
 		<mdetails>
 			<entry type="place">पांडिचेरी</entry>
 			<entry type="troupe">आदिशक्ति</entry>
-			<entry type="drama">ए ग्रेतर डॉन</entry>
+			<entry type="drama">ए ग्रेटर डॉन</entry>
 			<entry type="director">वीणापाणी चावला</entry>
 			<entry type="artist">मीता वाशिष्ठ, के. सी. मानवेन्द्र नाथ, विनय कुमार, एवं वीणापाणी चावला</entry>
 			<entry type="date">1992-93</entry>
 		</mdetails>
 		<photo>
-			<entry id="10730" type="" size="">
-				<desc></desc>
+			<entry id="10730" type="02" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
-			<entry id="10731" type="" size="">
-				<desc></desc>
+			<entry id="10731" type="02" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
-			<entry id="10732" type="" size="">
-				<desc></desc>
+			<entry id="10732" type="02" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
-			<entry id="10733" type="" size="">
-				<desc></desc>
+			<entry id="10733" type="02" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
-			<entry id="10734" type="" size="">
-				<desc></desc>
+			<entry id="10734" type="02" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -18566,6 +18573,9 @@
 			<entry type="troupe">आदिशक्ति</entry>
 			<entry type="dance">नाट्यमंडप</entry>
 			<entry type="director">वीणापाणी चावला</entry>
+			<entry type="artist">उषा नांगियार</entry>
+			<entry type="venue">के. पी. ए.</entry>
+			<entry type="date">2000</entry>
 		</mdetails>
 		<photo>
 			<entry id="10716" type="" size="">
@@ -18580,15 +18590,15 @@
 		<mdetails>
 			<entry type="place">पांडिचेरी</entry>
 			<entry type="troupe">आदिशक्ति</entry>
-			<entry type="drama">ऎजेनक्रेन्ट्स एण्ड गिल्डेन्स्टर्न आर डैड</entry>
+			<entry type="drama">ऐजेनक्रेन्ट्स एण्ड गिल्ङेन्स्टर्न आर डैड 1983</entry>
 			<entry type="director">वीणापाणी चावला</entry>
 			<entry type="date">1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="10709" type="" size="">
+			<entry id="10709" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="10710" type="" size="">
+			<entry id="10710" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -18627,10 +18637,11 @@
 			<entry type="troupe">आदिशक्ति</entry>
 			<entry type="drama">ट्रोजन बुमेन</entry>
 			<entry type="director">वीणापाणी चावला</entry>
+			<entry type="date">1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="10711" type="" size="">
-				<desc></desc>
+			<entry id="10711" type="02" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -18638,7 +18649,7 @@
 		<mdetails>
 			<entry type="place">पांडिचेरी</entry>
 			<entry type="troupe">आदिशक्ति</entry>
-			<entry type="drama">ब्रहन्नला</entry>
+			<entry type="drama">बृहन्नला</entry>
 			<entry type="writer">वीणापाणी चावला</entry>
 			<entry type="director">वीणापाणी चावला</entry>
 			<entry type="artist">विनय कुमार</entry>
@@ -18666,7 +18677,7 @@
 		<mdetails>
 			<entry type="place">पांडिचेरी</entry>
 			<entry type="troupe">आदिशक्ति</entry>
-			<entry type="drama">ब्रहन्नला</entry>
+			<entry type="drama">बृहन्नला</entry>
 			<entry type="director">वीणापाणी चावला</entry>
 			<entry type="artist">विजय कुमार</entry>
 			<entry type="host">रा. ना. वि. एवं नटरंग प्रतिष्टान : पूर्वा</entry>
@@ -18700,7 +18711,7 @@
 			<entry type="troupe">थलाई - क - कोल</entry>
 			<entry type="drama">ऊसी (Oosi)</entry>
 			<entry type="writer">वी. अरुमुघम</entry>
-			<entry type="projection">वी. अरुमुघम</entry>
+			<entry type="director">वी. अरुमुघम</entry>
 			<entry type="date">08-12-1992</entry>
 		</mdetails>
 		<photo>
@@ -18749,10 +18760,11 @@
 		<mdetails>
 			<entry type="place">पांडिचेरी</entry>
 			<entry type="troupe">थलाई - क - कोल</entry>
+			<entry type="photo">वी. अरुमुघम का फोटो</entry>
 		</mdetails>
 		<photo>
 			<entry id="2818" type="" size="">
-				<desc>वी. अरुमुघम का फोटो</desc>
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
