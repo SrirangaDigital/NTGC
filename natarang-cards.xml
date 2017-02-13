@@ -7512,7 +7512,7 @@
 			<entry type="state">बिहार</entry>
 			<entry type="troupe">ललित नारायण मिथिला विश्व - विद्यालय स्नातकोत्तर नाट्य विभाग</entry>
 			<entry type="drama">विदेशिया</entry>
-			<entry type="writer">स्व. - भिश्वारी ठाकुर</entry>
+			<entry type="writer">स्व. - भिरवारी ठाकुर</entry>
 			<entry type="director">राजीव रंजन श्रीवास्तव</entry>
 			<entry type="artist">राधेश्याम झा एवं नूतन झा</entry>
 		</mdetails>
@@ -7723,7 +7723,7 @@
 	</media>
 	<media aid="01" cid="076.286">
 		<mdetails>
-			<entry type="state">विहार</entry>
+			<entry type="state">बिहार</entry>
 			<entry type="place">जमशेदपुर</entry>
 			<entry type="troupe">सामुदायिक कला परिषद्</entry>
 			<entry type="drama">स्नेह का सिपाही</entry>
@@ -7736,7 +7736,7 @@
 	</media>
 	<media aid="01" cid="076.288">
 		<mdetails>
-			<entry type="state">विहार</entry>
+			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
 			<entry type="drama">एक सेल्समैन की मृत्यु</entry>
 			<entry type="writer">आर्थर मिलर</entry>
@@ -7762,7 +7762,7 @@
 	</media>
 	<media aid="01" cid="076.283">
 		<mdetails>
-			<entry type="state">विहार</entry>
+			<entry type="state">बिहार</entry>
 			<entry type="place">जमशेदपुर</entry>
 			<entry type="troupe">सामुदायिक कला परिषद्</entry>
 			<entry type="drama">बारह - पैंतीस</entry>
@@ -7775,20 +7775,22 @@
 	</media>
 	<media aid="01" cid="076.284">
 		<mdetails>
-			<entry type="state">विहार</entry>
+			<entry type="state">बिहार</entry>
 			<entry type="place">जमशेदपुर</entry>
 			<entry type="troupe">सामुदायिक कला परिषद्</entry>
 			<entry type="drama">रक्त कमल</entry>
+			<entry type="writer">लक्ष्मीनारायण लाल</entry>
+			<entry type="director">मदन मोहन श्रीवास्तव एवं ए. अजित</entry>
 		</mdetails>
 		<photo>
-			<entry id="1954" type="" size="">
-				<desc></desc>
+			<entry id="1954" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
 	<media aid="01" cid="076.285">
 		<mdetails>
-			<entry type="state">विहार</entry>
+			<entry type="state">बिहार</entry>
 			<entry type="place">जमशेदपुर</entry>
 			<entry type="troupe">सामुदायिक कला परिषद्</entry>
 			<entry type="drama">रामायण में महाभारत</entry>
@@ -7813,11 +7815,11 @@
 	</media>
 	<media aid="01" cid="076.294">
 		<mdetails>
-			<entry type="state">विहार</entry>
+			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
 			<entry type="drama">शाहजहाँ</entry>
 			<entry type="writer">द्विजेन्द्र लाल राय</entry>
-			<entry type="translation">रूपनारायण पाण्डैय</entry>
+			<entry type="translator">रूपनारायण पाण्डैय</entry>
 		</mdetails>
 		<photo>
 			<entry id="1958" type="" size="">
@@ -7830,8 +7832,8 @@
 			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
 			<entry type="troupe">खड़िया का धेरा</entry>
-			<entry type="writer">बार्टोल्ट ब्रैश्ट</entry>
-			<entry type="translation">कमलेश्वर</entry>
+			<entry type="writer">बार्टोल्ट ब्रैख्ट</entry>
+			<entry type="translator">कमलेश्वर</entry>
 			<entry type="director">संजय उपाध्याय</entry>
 			<entry type="venue">कालिदास रंगालय में मंचन</entry>
 			<entry type="date">27 - 30 नवम्बर 1991</entry>
@@ -7878,7 +7880,7 @@
 		<mdetails>
 			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
-			<entry type="drama">भुक्ति संग्ताम</entry>
+			<entry type="drama">मुक्ति संग्ताम</entry>
 		</mdetails>
 		<photo>
 			<entry id="1962" type="" size="">
@@ -7908,14 +7910,15 @@
 			<entry type="drama">अमली</entry>
 			<entry type="writer">ॠषिकेश सुलभ</entry>
 			<entry type="director">सतीश आनंद</entry>
+			<entry type="venue">मंजर थियेटर, प्रगति मैदान</entry>
 			<entry type="date">27-02-1986</entry>
 		</mdetails>
 		<photo>
-			<entry id="1975" type="" size="">
-				<desc></desc>
+			<entry id="1975" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="1976" type="" size="">
-				<desc></desc>
+			<entry id="1976" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -7929,7 +7932,7 @@
 			<entry type="translation">निर्मल वर्मा</entry>
 			<entry type="version">मानवेन्द्र त्रिपाठी</entry>
 			<entry type="director">मानवेन्द्र त्रिपाठी</entry>
-			<entry type="venue">कालिदार रंगालय, पटना</entry>
+			<entry type="venue">कालिदास रंगालय, पटना</entry>
 			<entry type="date">09-10-2004</entry>
 		</mdetails>
 		<photo>
@@ -7950,7 +7953,7 @@
 			<entry type="writer">कुणाल</entry>
 			<entry type="director">कुणाल</entry>
 			<entry type="venue">कालिदास रंगालय, पटना</entry>
-			<entry type="date">04-08-2004</entry>
+			<entry type="date">04-10-2004</entry>
 		</mdetails>
 		<photo>
 			<entry id="14399" type="" size="">
@@ -7960,7 +7963,7 @@
 	</media>
 	<media aid="01" cid="076.297">
 		<mdetails>
-			<entry type="state">विहार</entry>
+			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
 			<entry type="troupe">अनागत</entry>
 			<entry type="drama">गिनीपिग</entry>
@@ -7975,7 +7978,7 @@
 	</media>
 	<media aid="01" cid="076.335">
 		<mdetails>
-			<entry type="state">विहार</entry>
+			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
 			<entry type="troupe">इप्टा</entry>
 			<entry type="drama">मूँछ</entry>
@@ -8012,12 +8015,19 @@
 			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
 			<entry type="troupe">कला संगम</entry>
-			<entry type="drama">बाकी हितिहास</entry>
-			<entry type="writer">बादल सरकार</entry>
+			<entry type="drama">बाकी इतिहास (हिन्दी)</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translator">नेमिचन्द्र जैन</entry>
+			<entry type="stage">प्रेम कुमार दत्त</entry>
+			<entry type="music">शिवप्रसाद जायसवाल</entry>
+			<entry type="artist">सतीश आनन्द (सीतानाथ चक्रवर्ती), शीला डायसन (कनक), कुमारी श्यामली (बासंती), मास्टर दिलीप, सुमन कुमार, मदन मोहन व अन्य</entry>
+			<entry type="venue">पटना, बिहार</entry>
+			<entry type="date">1969</entry>
 		</mdetails>
 		<photo>
-			<entry id="1986" type="" size="">
-				<desc></desc>
+			<entry id="1986" type="02" size="">
+				<desc>नटरंग अंक 10-11 में प्रकाशित</desc>
+				<misc>सूचना स्रोत नटरंग सयुक्तांक - 10-11, 1969</misc>
 			</entry>
 		</photo>
 	</media>
@@ -8061,7 +8071,7 @@
 			<entry type="troupe">कला संगम</entry>
 			<entry type="drama">और तोता बोला</entry>
 			<entry type="writer">चन्द्रशेखर कंबार</entry>
-			<entry type="translation">वसंत देव</entry>
+			<entry type="translator">वसंत देव</entry>
 			<entry type="director">सतीश आनन्द</entry>
 			<entry type="date">28-02-1986</entry>
 		</mdetails>
@@ -8117,9 +8127,9 @@
 			<entry type="troupe">थिएटर यूनिट</entry>
 			<entry type="drama">इंसाफ का धेरा</entry>
 			<entry type="writer">बर्टोल्ट ब्रैश्ट</entry>
-			<entry type="translation">कमलेश्वर</entry>
+			<entry type="translator">कमलेश्वर</entry>
 			<entry type="director">अनिरुद्द पाठक</entry>
-			<entry type="date">28 - 31 दिसंबर 1991</entry>
+			<entry type="date">28-31 दिसंबर 1991</entry>
 		</mdetails>
 		<photo>
 			<entry id="1970" type="" size="">
@@ -8136,7 +8146,10 @@
 			<entry type="place">पटना</entry>
 			<entry type="troupe">कला संगम</entry>
 			<entry type="drama">मरजीवा</entry>
+			<entry type="writer">मुद्राराक्षस</entry>
 			<entry type="director">सतीश आनंद</entry>
+			<entry type="artist">सतीश आनंद (आदर्श), श्यामली चक्रवर्ती (भूमि)</entry>
+			<entry type="date">1972</entry>
 		</mdetails>
 		<photo>
 			<entry id="1987" type="" size="">
@@ -8154,7 +8167,7 @@
 			<entry type="troupe">कला संगम</entry>
 			<entry type="drama">माटी की गाड़ी</entry>
 			<entry type="writer">शूद्रक</entry>
-			<entry type="translation">ॠषिकेश सुलभ</entry>
+			<entry type="translator">ॠषिकेश सुलभ</entry>
 			<entry type="director">सतीश आनंद</entry>
 			<entry type="date">01-03-1986</entry>
 		</mdetails>
@@ -8163,7 +8176,7 @@
 				<desc></desc>
 			</entry>
 			<entry id="1990" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव सहित 9/14</desc>
 			</entry>
 		</photo>
 	</media>
@@ -8173,7 +8186,8 @@
 			<entry type="place">पटना</entry>
 			<entry type="troupe">कला संगम</entry>
 			<entry type="drama">मैला आंचल [भोजपुरी]</entry>
-			<entry type="writer">कवीश्वरनाथ रेणु, स्पा. : ह्रशिकेश सुलभ</entry>
+			<entry type="writer">कवीश्वरनाथ रेणु</entry>
+			<entry type="editor">ह्रशिकेश सुलभ</entry>
 			<entry type="director">सतीश आनंद</entry>
 			<entry type="date">02-11-1987</entry>
 		</mdetails>
@@ -8233,19 +8247,19 @@
 			<entry type="drama">अरण्य कथा</entry>
 			<entry type="writer">श्रीकांत किशोर</entry>
 			<entry type="director">परवेज़ अख़्तर</entry>
-			<entry type="date">8 - 12 नवम्बर 2001</entry>
+			<entry type="date">08-12 नवम्बर 2001</entry>
 		</mdetails>
 		<photo>
-			<entry id="10525" type="01" size="12.5X18">
+			<entry id="10525" type="01" size="12.5X18 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="10526" type="02" size="12.5X18">
+			<entry id="10526" type="01" size="12.5X18 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="10527" type="03" size="12.5X18">
+			<entry id="10527" type="01" size="12.5X18 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="10528" type="04" size="12.5X18">
+			<entry id="10528" type="01" size="12.5X18 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -8256,14 +8270,14 @@
 			<entry type="place">पटना</entry>
 			<entry type="troupe">नटमण्डप</entry>
 			<entry type="drama">अकेली औरत (हिन्दी)</entry>
-			<entry type="writer">दारियो का (का फ्रैंका रैमे)</entry>
+			<entry type="writer">दारियो फो (का फ्रैंका रैमे)</entry>
 			<entry type="version">जावेद अख़्तर खाँ, छोटे लाल खड</entry>
 			<entry type="artist">शाहस्ता रशीद, मोना झा</entry>
-			<entry type="date">26 - 28 अक्टू, 2007</entry>
+			<entry type="date">26-28 अक्टूबर, 2007</entry>
 		</mdetails>
 		<photo>
 			<entry id="11071" type="" size="">
-				<desc>एकल नाट्य समारोह में मंचित जावेद अख़्तर खाँ द्वारा न. प्र. को भेंट</desc>
+				<desc>एकल नाट्य समारोह में मंचित, जावेद अख़्तर खाँ द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -8272,7 +8286,7 @@
 			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
 			<entry type="troupe">नाट्य परिषद, बी. एन. कालेज</entry>
-			<entry type="drama">अंधेर नगरी</entry>
+			<entry type="drama">अँधेर नगरी</entry>
 			<entry type="writer">भारतेन्दु हरिशचन्द्र</entry>
 			<entry type="director">जावेद अख्तर खाँ</entry>
 		</mdetails>
@@ -8317,7 +8331,7 @@
 			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
 			<entry type="troupe">बिहार आर्ट थियेटर</entry>
-			<entry type="drama">लोहें की दीवार</entry>
+			<entry type="drama">लोहे की दीवार</entry>
 		</mdetails>
 		<photo>
 			<entry id="2000" type="" size="">
@@ -8334,7 +8348,7 @@
 			<entry type="writer">कुणाल</entry>
 			<entry type="director">कुणाल</entry>
 			<entry type="venue">विद्यापति भवन, पटना - 800001</entry>
-			<entry type="date">29 - 30 अप्रैल 1997</entry>
+			<entry type="date">29-30 अप्रैल 1997</entry>
 		</mdetails>
 		<photo>
 			<entry id="4287" type="" size="">
@@ -8375,7 +8389,7 @@
 			<entry type="troupe">बिहार आर्ट थियेटर</entry>
 			<entry type="drama">इक्कीसवी सदी की ओर</entry>
 			<entry type="writer">जयनन्दन</entry>
-			<entry type="venue">बिहार आर्ट थिएटर नाट्योत्सव</entry>
+			<entry type="event">बिहार आर्ट थिएटर नाट्योत्सव</entry>
 			<entry type="date">1990</entry>
 		</mdetails>
 		<photo>
@@ -8459,10 +8473,10 @@
 		</mdetails>
 		<photo>
 			<entry id="2001" type="" size="">
-				<desc>ऎतिहासिक नाटक</desc>
+				<desc>ऐतिहासिक नाटक</desc>
 			</entry>
 			<entry id="2002" type="" size="">
-				<desc>ऎतिहासिक नाटक</desc>
+				<desc>ऐतिहासिक नाटक</desc>
 			</entry>
 		</photo>
 	</media>
@@ -8477,7 +8491,7 @@
 		</mdetails>
 		<photo>
 			<entry id="2003" type="" size="">
-				<desc>मगध कलाकार, पटना के 29 वें वार्षिकोत्सव पर मंचित ऎतिहासिक नाटक</desc>
+				<desc>मगध कलाकार, पटना के 29 वें वार्षिकोत्सव पर मंचित, ऐतिहासिक नाटक</desc>
 			</entry>
 		</photo>
 	</media>
@@ -8486,7 +8500,7 @@
 			<entry type="state">बिहार</entry>
 			<entry type="place">पटना</entry>
 			<entry type="troupe">मगध कलाकार</entry>
-			<entry type="drama">बाबू विंरचीलाल</entry>
+			<entry type="drama">बाबू विरंचीलाल</entry>
 			<entry type="writer">चतुर्भुज</entry>
 			<entry type="director">अशोक प्रियदर्शी</entry>
 		</mdetails>
@@ -8549,8 +8563,8 @@
 			<entry type="drama">समझौता</entry>
 			<entry type="writer">सुमन कुमार</entry>
 			<entry type="director">प्रवीण कुमार `गुंजन'</entry>
-			<entry type="venue">दिनकर भवन, बेगूसरय</entry>
-			<entry type="date">15 - 16 फरवरी 2002</entry>
+			<entry type="venue">दिनकर भवन, बेगूसराय</entry>
+			<entry type="date">15-16 फरवरी 2002</entry>
 		</mdetails>
 		<photo>
 			<entry id="10211" type="" size="">
@@ -8564,8 +8578,8 @@
 			<entry type="place">बेगूसराय</entry>
 			<entry type="troupe">नवतरंग</entry>
 			<entry type="drama">आज का अभिमन्यु</entry>
-			<entry type="writer">अनिल पंतग</entry>
-			<entry type="director">अनिल पंतग</entry>
+			<entry type="writer">अनिल पतंग</entry>
+			<entry type="director">अनिल पतंग</entry>
 		</mdetails>
 		<photo>
 			<entry id="2010" type="" size="">
@@ -8594,9 +8608,9 @@
 	<media aid="99" cid="076.349">
 		<mdetails>
 			<entry type="state">बिहार</entry>
-			<entry type="place">बेगुसराय</entry>
+			<entry type="place">बेगूसराय</entry>
 			<entry type="troupe">नवतरंग</entry>
-			<entry type="drama">रश्मिरथी</entry>
+			<entry type="poem">रश्मिरथी</entry>
 			<entry type="writer">दिनकर</entry>
 			<entry type="director">अनिल पतंग</entry>
 		</mdetails>
@@ -8606,7 +8620,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="076.358">
+	<media aid="01" cid="076.358">
 		<mdetails>
 			<entry type="state">बिहार</entry>
 			<entry type="place">मोतिहारी</entry>
@@ -8629,7 +8643,7 @@
 			<entry type="place">मोतिहारी</entry>
 			<entry type="troupe">चेतन कला सांस्कृतिक संस्थान</entry>
 			<entry type="drama">सड़क पर .... ?</entry>
-			<entry type="writer">असगर वज़ाहर</entry>
+			<entry type="writer">असगर वज़ाहत</entry>
 			<entry type="director">राजेश अस्थाना</entry>
 			<entry type="date">1990</entry>
 		</mdetails>
@@ -8683,7 +8697,7 @@
 			<entry type="date">2006</entry>
 		</mdetails>
 		<photo>
-			<entry id="10606" type="" size="10X15">
+			<entry id="10606" type="" size="10X15 से. मी.">
 				<desc>मनोहर श्याम जोशी मैथिली नाट्योत्सव - 2006</desc>
 			</entry>
 		</photo>
@@ -8691,17 +8705,17 @@
 	<media aid="01" cid="076.298">
 		<mdetails>
 			<entry type="state">बिहार</entry>
-			<entry type="place">मोतिहारी</entry>
-			<entry type="troupe">आर्ट विहार</entry>
-			<entry type="drama">पटना टाइक्स</entry>
-			<entry type="writer">प्रसाद रन्तेश्वर</entry>
-			<entry type="director">प्रसाद रन्तेश्वर</entry>
-			<entry type="venue">मोतिहरि</entry>
+			<entry type="place">पटना</entry>
+			<entry type="troupe">आर्य विहार</entry>
+			<entry type="drama">पटना टाइम्स</entry>
+			<entry type="writer">प्रसाद रत्नेश्वर</entry>
+			<entry type="director">प्रसाद रत्नेश्वर</entry>
+			<entry type="venue">मोतिहारी</entry>
 			<entry type="date">24-01-2001</entry>
 		</mdetails>
 		<photo>
-			<entry id="10425" type="01" size="5X3.5">
-				<desc>परिवर्तन संस्था द्वारा आयोजित `चम्पारण नाट्य महोत्सव' में मंचित प्रथम पुरस्कार प्राप्त आर्य विहार द्वारा प्रस्तुत</desc>
+			<entry id="10425" type="01" size="5X3.5 से. मी.">
+				<desc>परिवर्तन संस्था द्वारा आयोजित 23-25 जनवरी 2001 तक `चम्पारण नाट्य महोत्सव' में मंचित प्रथम पुरस्कार प्राप्त आर्य विहार द्वारा प्रस्तुत</desc>
 			</entry>
 		</photo>
 	</media>
@@ -8713,7 +8727,7 @@
 			<entry type="drama">छतरियाँ</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">अजय मलकानी</entry>
-			<entry type="artist">राजेश जौस, संजय कुमार लाड</entry>
+			<entry type="artist">राजेश जैस, संजय कुमार लाड</entry>
 		</mdetails>
 		<photo>
 			<entry id="2995" type="" size="">
@@ -8727,7 +8741,7 @@
 			<entry type="place">राँची</entry>
 			<entry type="troupe">युवा रंगमंच</entry>
 			<entry type="drama">जंगल मंगल</entry>
-			<entry type="writer">स्याम लाल</entry>
+			<entry type="writer">श्याम लाल</entry>
 			<entry type="director">अजय मलकानी एवं श्याम लाल</entry>
 			<entry type="artist">अजय मलकानी, धर्मेन्द्र कश्यप, सुनील राय, बलराज आनन्द</entry>
 		</mdetails>
@@ -8787,7 +8801,7 @@
 	<media aid="01" cid="076.362">
 		<mdetails>
 			<entry type="state">बिहार</entry>
-			<entry type="place">रांची</entry>
+			<entry type="place">राँची</entry>
 			<entry type="troupe">युवा रंगमंच</entry>
 			<entry type="drama">आई भोर सुहानी</entry>
 			<entry type="writer">विनोद रस्तोगी</entry>
@@ -8834,7 +8848,7 @@
 	<media aid="01" cid="076.365">
 		<mdetails>
 			<entry type="state">बिहार</entry>
-			<entry type="place">रांची</entry>
+			<entry type="place">राँची</entry>
 			<entry type="troupe">युवा रंगमंच</entry>
 			<entry type="drama">राजा सुलहेस</entry>
 			<entry type="writer">संजय झा</entry>
@@ -20453,15 +20467,15 @@
 	<media aid="01" cid="076.350">
 		<mdetails>
 			<entry type="state">बिहार</entry>
-			<entry type="place">बेगुसराय</entry>
-			<entry type="troupe">भरतीय जन नाट्य संध (झाटा)</entry>
+			<entry type="place">बेगूसराय</entry>
+			<entry type="troupe">भारतीय जन नाट्य संध (इप्टा)</entry>
 			<entry type="drama">विदेसिया</entry>
 			<entry type="writer">स्व. भिखारी ठाकुर</entry>
-			<entry type="director">परवेज युन्सूफ</entry>
-			<entry type="light">आर. के. दिवाकर</entry>
-			<entry type="note">बेंगूसराय नगर प्रकाश की प्रस्तुति, दिनकर भवन बेगूसराय (बिहार) में</entry>
+			<entry type="director">परवेज युसूफ</entry>
+			<entry type="cinematographer">आर. के. दिवाकर</entry>
+			<entry type="note">बेगूसराय नगर इकाई की प्रस्तुति, दिनकर भवन बेगूसराय (बिहार) में</entry>
 			<entry type="artist">अवध बालक (बपेही) और परवेज यूसूफ (विदेशी)</entry>
-			<entry type="date">18 मर्च 98 से 23 मर्च 1998</entry>
+			<entry type="date">18-23 मार्च 1998</entry>
 		</mdetails>
 		<photo>
 			<entry id="5087-I" type="" size="">
