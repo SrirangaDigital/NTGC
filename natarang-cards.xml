@@ -7499,7 +7499,7 @@
 			<entry type="drama">निलही कोढी</entry>
 			<entry type="writer">प्रसाद रत्नेश्वर</entry>
 			<entry type="director">धनुषधारी कुशवाहा</entry>
-			<entry type="date">6 - 7 दिसम्बर 2003</entry>
+			<entry type="date">06-07 दिसम्बर 2003</entry>
 		</mdetails>
 		<photo>
 			<entry id="8307" type="01" size="">
@@ -7615,16 +7615,25 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
+	<media aid="99" cid="076.372">
 		<mdetails>
 			<entry type="state">बिहार</entry>
 			<entry type="place">चम्पारण</entry>
 			<entry type="event">चम्पारण महोत्सव</entry>
-			<entry type="date">अप्रैल 2003</entry>
+			<entry type="date">11 वां 29-30 दिसंबर 2001, 12 वां 12-13 मई 2002, 13 वां अप्रेल 2003, 14 वां 2004, 15 वां 01-02 अक्टूबर 2005, 18 वां 2008</entry>
 		</mdetails>
 		<photo>
+			<entry id="11710" type="01" size="">
+				<desc>न. प्र.</desc>
+			</entry>
+			<entry id="17" type="01" size="">
+				<desc>न. प्र.</desc>
+			</entry>
 			<entry id="8306" type="01" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
+			</entry>
+			<entry id="18366" type="01" size="">
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -8867,6 +8876,7 @@
 			<entry type="place">रानीगंज</entry>
 			<entry type="troupe">माखाड़ी युवा सम्मेलन</entry>
 			<entry type="drama">एक था राजा (वल्लभपुर की रूपकथा)</entry>
+			<entry type="writer">बादल सरकार</entry>
 			<entry type="director">विश्वनाथ बोरा</entry>
 		</mdetails>
 		<photo>
@@ -16159,7 +16169,7 @@
 			<entry type="dance">निगथाऊ (Ningthou) (राजा)</entry>
 			<entry type="director">लोकेन्द्र आरम्बम</entry>
 			<entry type="event">रवीन्द्र नाट्योत्सव</entry>
-			<entry type="date">8 - 14 मई 1987</entry>
+			<entry type="date">08-14 मई 1987</entry>
 		</mdetails>
 		<photo>
 			<entry id="56" type="" size="">
@@ -16191,7 +16201,7 @@
 			<entry type="troupe">आर्यन थिएटर</entry>
 			<entry type="drama">ईमा केइथेल [मणिपुरी]</entry>
 			<entry type="writer">एन. महेन्द्र</entry>
-			<entry type="editorial">एन. प्रेमचन्द</entry>
+			<entry type="editor">एन. प्रेमचन्द</entry>
 			<entry type="director">एन. प्रेमचन्द</entry>
 			<entry type="date">07-11 1987</entry>
 		</mdetails>
@@ -16264,7 +16274,7 @@
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
 			<entry type="troupe">कलाक्षेत्र</entry>
-			<entry type="drama">बॉईर</entry>
+			<entry type="drama">बॉईर (मणिपुरी)</entry>
 			<entry type="writer">एच. कन्हाई लाल</entry>
 			<entry type="director">एच. कन्हाई लाल</entry>
 			<entry type="venue">सम्मुख सभागार</entry>
@@ -16272,19 +16282,19 @@
 		</mdetails>
 		<photo>
 			<entry id="9787" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मPइपुरी में प्रस्तुत</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मणिपुरी में प्रस्तुत</desc>
 			</entry>
 			<entry id="9788" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मPइपुरी में प्रस्तुत</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मणिपुरी में प्रस्तुत</desc>
 			</entry>
 			<entry id="9789" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मPइपुरी में प्रस्तुत</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मणिपुरी में प्रस्तुत</desc>
 			</entry>
 			<entry id="9790" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मPइपुरी में प्रस्तुत</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मणिपुरी में प्रस्तुत</desc>
 			</entry>
 			<entry id="9791" type="01" size="">
-				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मPइपुरी में प्रस्तुत</desc>
+				<desc>राष्ट्रीय नाट्य विद्यालय द्वारा चतुर्थ भारत रंग महोत्सव के अन्तर्गत मणिपुरी में प्रस्तुत</desc>
 			</entry>
 		</photo>
 	</media>
@@ -16405,14 +16415,16 @@
 			<entry type="writer">एच. कन्हाई लाल</entry>
 			<entry type="director">एच. कन्हाई लाल</entry>
 			<entry type="event">राष्ट्रीय नाट्य समारोह, 1985</entry>
+			<entry type="costume">गोप कोकगेंग (Kokngang)</entry>
+			<entry type="artist">सावित्री हेसनाम</entry>
 			<entry type="date">04-10-1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="40" type="" size="">
+			<entry id="40" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="12700" type="" size="">
-				<desc></desc>
+			<entry id="12700" type="02" size="12.6X17.7 से. मी.">
+				<desc>कलाक्षेत्र से प्राप्त फोटो सीडी, परि. सं. 1160 का प्रिंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -16420,50 +16432,65 @@
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
-			<entry type="troupe">कला क्षेत्र</entry>
+			<entry type="troupe">कलाक्षेत्र</entry>
 			<entry type="drama">लैगी माचा सिंग (Laigi Macha Singa)</entry>
+			<entry type="projection">एच. कन्हाई लाल</entry>
 			<entry type="director">एच. कन्हाई लाल</entry>
-			<entry type="date">1980</entry>
+			<entry type="artist">सावित्री हेसनाम व अन्य</entry>
+			<entry type="date">1978, 1980</entry>
 		</mdetails>
 		<photo>
-			<entry id="41" type="" size="">
-				<desc></desc>
+			<entry id="41" type="02" size="12.6X17.7 से. मी.">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="42" type="" size="">
-				<desc></desc>
+			<entry id="42" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="43" type="" size="">
-				<desc></desc>
+			<entry id="43" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="12720" type="" size="">
-				<desc></desc>
+			<entry id="12720" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="44" type="" size="">
-				<desc></desc>
+			<entry id="44" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="45" type="" size="">
-				<desc></desc>
+			<entry id="45" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="46" type="" size="">
-				<desc></desc>
+			<entry id="46" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="47" type="" size="">
-				<desc></desc>
+			<entry id="47" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="12655" type="" size="">
-				<desc></desc>
+			<entry id="12655" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="48" type="" size="">
-				<desc></desc>
+			<entry id="48" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="12653" type="" size="">
-				<desc></desc>
+			<entry id="12653" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="12654" type="" size="">
-				<desc></desc>
+			<entry id="12654" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
-			<entry id="12658" type="" size="">
-				<desc></desc>
+			<entry id="12658" type="02" size="">
+				<desc>कलाक्षेत्र मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
 		</photo>
 	</media>
@@ -16480,10 +16507,10 @@
 		</mdetails>
 		<photo>
 			<entry id="12714" type="01" size="">
-				<desc></desc>
+				<desc>सीडी नं. 1160 के प्रिंटआऊट</desc>
 			</entry>
 			<entry id="12715" type="01" size="">
-				<desc></desc>
+				<desc>सीडी नं. 1160 के प्रिंटआऊट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -16492,10 +16519,10 @@
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
 			<entry type="troupe">कोरस रिपर्टरी थियेटर</entry>
-			<entry type="drama">इम्फाल - इम्फाल</entry>
+			<entry type="drama">इम्फ़ाल - इम्फ़ाल</entry>
 			<entry type="writer">रतन थियम</entry>
 			<entry type="director">रतन थियम</entry>
-			<entry type="host">ट्रेड फेथर अथोरिटी ऑफ इंडिया</entry>
+			<entry type="host">ट्रेड फेयर अथोरिटी ऑफ इंडिया</entry>
 			<entry type="venue">मंज़र थियेटर</entry>
 			<entry type="date">19-02-1985</entry>
 		</mdetails>
