@@ -393,20 +393,6 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">बेनका</entry>
-			<entry type="drama">मोहन</entry>
-			<entry type="artist">जयश्री, ब. व. कारंत</entry>
-		</mdetails>
-		<photo>
-			<entry id="3633" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
 	<media aid="01" cid="073.467">
 		<mdetails>
 			<entry type="state">कर्नाटक</entry>
@@ -490,21 +476,6 @@
 			</entry>
 			<entry id="3581" type="" size="">
 				<desc>ब. व. कारंत द्वारा भेंट</desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="state">कर्नाटक</entry>
-			<entry type="place">बेंगळूरु</entry>
-			<entry type="troupe">मक्कळ बेनका</entry>
-			<entry type="drama">पंद्दी ऎसे आते हें</entry>
-			<entry type="writer">विजय तेन्दुलकर</entry>
-			<entry type="director">प्रेमा कारंत</entry>
-		</mdetails>
-		<photo>
-			<entry id="3023" type="" size="">
-				<desc>मूल मराठी रचना शीर्षक : ट्टक्की होरुति देनीसदिश</desc>
 			</entry>
 		</photo>
 	</media>
@@ -16372,18 +16343,51 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.433">
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
-			<entry type="troupe">कोरस रिर्मेटरी</entry>
+			<entry type="troupe">कोरस रिपर्टरी</entry>
 			<entry type="drama">चक्रव्यूह</entry>
 			<entry type="writer">रतन थियम</entry>
 			<entry type="director">रतन थियम</entry>
 			<entry type="date">18-02-1985</entry>
 		</mdetails>
 		<photo>
+			<entry id="21" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="22" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="23" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="24" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="26" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4337" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4338" type="" size="">
+				<desc></desc>
+			</entry>
 			<entry id="4339" type="" size="">
+				<desc>निगेटिव उपलब्ध - 9/36</desc>
+			</entry>
+			<entry id="4340" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4341" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4342" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4343" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -16570,7 +16574,7 @@
 			<entry type="place">इम्फाल</entry>
 			<entry type="troupe">कोरस रेपर्टरी थिएटर</entry>
 			<entry type="drama">शिंगेन इन्दु (Shingen Indu)</entry>
-			<entry type="writer">हिजाम अनगंगहल</entry>
+			<entry type="writer">हिज़ाम अनगंगहल</entry>
 			<entry type="director">रतन कुमार थियम</entry>
 		</mdetails>
 		<photo>
@@ -16586,40 +16590,49 @@
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
-			<entry type="troupe">कोरस रिपर्टरी कंपनी</entry>
-			<entry type="drama">चक्रब्यूह (मणिपुरी)</entry>
+			<entry type="troupe">कोरस रिपर्टरी थियेटर</entry>
+			<entry type="drama">चक्रव्यूह (मणिपुरी)</entry>
 			<entry type="writer">रतन थैयम</entry>
 			<entry type="director">रतन थैयम</entry>
-			<entry type="venue">अभिमंच सभागार</entry>
+			<entry type="venue">अभिमंच सभागार, रा. ना. वि., दिल्ली</entry>
 			<entry type="date">17-03-2001</entry>
 		</mdetails>
 		<photo>
 			<entry id="20461-2c" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+				<misc>तृतीय भारंगम में मंचित, रा. ना. वि. से प्राप्त, रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित</misc>
 			</entry>
 			<entry id="20462" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+				<misc>तृतीय भारंगम में मंचित, रा. ना. वि. से प्राप्त, रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित</misc>
 			</entry>
 			<entry id="10280" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+				<misc>तृतीय भारंगम में मंचित, रा. ना. वि. से प्राप्त, रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित</misc>
 			</entry>
 			<entry id="10281" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+				<misc>तृतीय भारंगम में मंचित, रा. ना. वि. से प्राप्त, रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित</misc>
 			</entry>
 			<entry id="10282" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+				<misc>तृतीय भारंगम में मंचित, रा. ना. वि. से प्राप्त, रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित</misc>
 			</entry>
 			<entry id="10283" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+				<misc>तृतीय भारंगम में मंचित, रा. ना. वि. से प्राप्त, रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित</misc>
 			</entry>
 			<entry id="10284" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+				<misc>तृतीय भारंगम में मंचित, रा. ना. वि. से प्राप्त, रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित</misc>
 			</entry>
 			<entry id="10285" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+				<misc>तृतीय भारंगम में मंचित, रा. ना. वि. से प्राप्त, रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित</misc>
 			</entry>
 			<entry id="10286" type="01" size="">
 				<desc>राष्ट्रीय नाट्य विद्यालय के 3rd भारत रंग महोत्सव, 2001 में प्रदर्शित नाटक</desc>
+				<misc>तृतीय भारंगम में मंचित, रा. ना. वि. से प्राप्त, रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -16753,7 +16766,7 @@
 				<desc></desc>
 			</entry>
 			<entry id="33" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध - 30/6</desc>
 			</entry>
 		</photo>
 	</media>
@@ -16780,38 +16793,55 @@
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
-			<entry type="troupe">पन्योएबी नाट्य मन्दिर</entry>
+			<entry type="troupe">पन्थोएबी नाट्य मन्दिर</entry>
 			<entry type="drama">हंगलई (मणिपुरी)</entry>
-			<entry type="director">युमनाय राजेन्द्र</entry>
+			<entry type="writer">वाई राजेन्द्र</entry>
+			<entry type="director">वाई राजेन्द्र</entry>
+			<entry type="music">ख. शांतिकुमार</entry>
+			<entry type="costume">भगीरथ निगथोऊजा व श्याम शर्मा</entry>
+			<entry type="make-up">मघा शर्मा, ख. लेले व अन्य</entry>
+			<entry type="stage">सुनंद यामबर्न व अन्य</entry>
+			<entry type="light">वाई खोगन व थ भोगन</entry>
+			<entry type="artist">एच. जयंत (तथी), के. कुबेर (ताखूत), श्याम वर्मा (महोदेव, हंगपा), ओ. शिलेमा (हंगलिमा) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
 			<entry type="date">12-01-2007</entry>
 		</mdetails>
 		<photo>
-			<entry id="15625" type="" size="">
-				<desc>9th भारत रंग महोत्सव में मंचित</desc>
+			<entry id="15625" type="01" size="">
+				<desc>रा. ना. वि. द्वारा आयोजित भारंगम 7 में मंचित</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा भेंट फोटो सीडी, 569 के प्रिंट्स</misc>
 			</entry>
-			<entry id="15626" type="" size="">
-				<desc>9th भारत रंग महोत्सव में मंचित</desc>
+			<entry id="15626" type="01" size="">
+				<desc>रा. ना. वि. द्वारा आयोजित भारंगम 7 में मंचित</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा भेंट फोटो सीडी, 569 के प्रिंट्स</misc>
 			</entry>
-			<entry id="15627" type="" size="">
-				<desc>9th भारत रंग महोत्सव में मंचित</desc>
+			<entry id="15627" type="01" size="">
+				<desc>रा. ना. वि. द्वारा आयोजित भारंगम 7 में मंचित</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा भेंट फोटो सीडी, 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15628" type="" size="">
-				<desc>9th भारत रंग महोत्सव में मंचित</desc>
+				<desc>रा. ना. वि. द्वारा आयोजित भारंगम 7 में मंचित</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा भेंट फोटो सीडी, 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15629" type="" size="">
-				<desc>9th भारत रंग महोत्सव में मंचित</desc>
+				<desc>रा. ना. वि. द्वारा आयोजित भारंगम 7 में मंचित</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा भेंट फोटो सीडी, 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15630" type="" size="">
-				<desc>9th भारत रंग महोत्सव में मंचित</desc>
+				<desc>रा. ना. वि. द्वारा आयोजित भारंगम 7 में मंचित</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा भेंट फोटो सीडी, 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15631" type="" size="">
-				<desc>9th भारत रंग महोत्सव में मंचित</desc>
+				<desc>रा. ना. वि. द्वारा आयोजित भारंगम 7 में मंचित</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा भेंट फोटो सीडी, 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15632" type="" size="">
-				<desc>9th भारत रंग महोत्सव में मंचित</desc>
+				<desc>रा. ना. वि. द्वारा आयोजित भारंगम 7 में मंचित</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा भेंट फोटो सीडी, 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15633" type="" size="">
-				<desc>9th भारत रंग महोत्सव में मंचित</desc>
+				<desc>रा. ना. वि. द्वारा आयोजित भारंगम 7 में मंचित</desc>
+				<misc>श्रीमती कीर्ति जैन द्वारा भेंट फोटो सीडी, 569 के प्रिंट्स</misc>
 			</entry>
 		</photo>
 	</media>
@@ -16825,7 +16855,7 @@
 		</mdetails>
 		<photo>
 			<entry id="52" type="" size="">
-				<desc>मोलियर के स्कूल फॉर वाडाकस का रूपांतरण</desc>
+				<desc>मोलियर के स्कूल फॉर वाइकस का रूपांतरण</desc>
 			</entry>
 		</photo>
 	</media>
@@ -16852,7 +16882,7 @@
 		</mdetails>
 		<photo>
 			<entry id="8313" type="01" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -16860,7 +16890,7 @@
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
-			<entry type="troupe">पानथोइबि नाट्य मंदिर</entry>
+			<entry type="troupe">पानथोइबी नाट्य मंदिर</entry>
 			<entry type="drama">नौगदा अपम थोइबा</entry>
 			<entry type="writer">वाई राजेन्द्र सिंह</entry>
 			<entry type="director">वाई राजेन्द्र सिंह</entry>
@@ -16883,57 +16913,76 @@
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
-			<entry type="troupe">पैराडाइज थियेटर</entry>
+			<entry type="troupe">पैराडाइज़ थियेटर</entry>
 			<entry type="drama">अचीकपागी खोंग्जेल (मणिपुरी)</entry>
 			<entry type="writer">हेनरी डेविड हवांग</entry>
-			<entry type="projection">एल. किशवोरजित</entry>
-			<entry type="version">एल. किशवोरजित</entry>
-			<entry type="director">एल. किशवोरजित</entry>
+			<entry type="projection">के. बिमल सिंह</entry>
+			<entry type="version">एल. किश्वरजित सिंह</entry>
+			<entry type="director">एल. किश्वरजित सिंह</entry>
 			<entry type="music">पी. धनजीत सिंह</entry>
-			<entry type="date">2007</entry>
+			<entry type="stage">जी. चाओबिसाना शर्मा</entry>
+			<entry type="light">एम. ब्रजसिंधु</entry>
+			<entry type="voice">जी. इबोतोम्बा शर्मा</entry>
+			<entry type="artist">एल. डेविड कुमार सिंह (आदमी), मीना कुमारी सोगोल्सम (औरत) व अन्य</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
+			<entry type="date">16-01-2007</entry>
 		</mdetails>
 		<photo>
 			<entry id="15567" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15568" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15569" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15570" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15571" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15572" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15573" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15574" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15575" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15576" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15577" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15578" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15579" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 			<entry id="15580" type="01" size="">
 				<desc>नवें भारत रंग महोत्सव में मंचित नाटक</desc>
+				<misc>सूचना स्रोत स्मा. कीर्ति जैन से प्राप्त फोटो सीडी 569 के प्रिंट्स</misc>
 			</entry>
 		</photo>
 	</media>
@@ -16944,7 +16993,7 @@
 			<entry type="troupe">मणिपुर स्टेट कला एकेडमी वर्कशॉप</entry>
 			<entry type="drama">अंधायुग</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
-			<entry type="director">सांख्य इथोतोम्बी</entry>
+			<entry type="director">सांख्य इबोतोम्बी</entry>
 			<entry type="date">1974</entry>
 		</mdetails>
 		<photo>
@@ -16960,7 +17009,7 @@
 		<mdetails>
 			<entry type="state">मणिपुर</entry>
 			<entry type="place">इम्फाल</entry>
-			<entry type="troupe">लिलौंग चेजंग थूय कम्युनिटी कम कल्चरल इन्स्टीट्यूट</entry>
+			<entry type="troupe">लिलौंग चेजंग यूथ कम्युनिटी कम कल्चरल इन्स्टीट्यूट</entry>
 			<entry type="drama">पाना लामजेल (Pana Lamjel)</entry>
 			<entry type="writer">वाई. राजेन्द्र सिंह</entry>
 			<entry type="director">पी. खगेन्द्र सिंह</entry>
