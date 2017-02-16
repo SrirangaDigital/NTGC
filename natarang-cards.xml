@@ -1847,19 +1847,6 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="place">दिल्ली</entry>
-			<entry type="troup">विदूषक</entry>
-			<entry type="drama">पाँच जोरों का स्वांग</entry>
-			<entry type="director">पंचानन पाठक</entry>
-		</mdetails>
-		<photo>
-			<entry id="10532" type="" size="8.5X12.5">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
 	<media aid="01" cid="075.324">
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
@@ -2875,19 +2862,6 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संगीत नाटक अकादमी</entry>
-			<entry type="event">राष्ट्रीय ड्रामा सेमिनार</entry>
-			<entry type="date">1956</entry>
-		</mdetails>
-		<photo>
-			<entry id="3777" type="" size="">
-				<desc>ग्रूप फोटो</desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="99" cid="">
-		<mdetails>
-			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">संगीत नाटक अकादमी</entry>
 			<entry type="event">संगीत नाटक अकादमी पुरस्कार प्राप्त करते हुए ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
@@ -3010,7 +2984,7 @@
 		<mdetails>
 			<entry type="place">दिल्ली</entry>
 			<entry type="troupe">संसप्तक</entry>
-			<entry type="drama">गर्भ (हिन्दी - खोरथा)</entry>
+			<entry type="drama">गर्भ (हिन्दी - खोरया)</entry>
 			<entry type="writer">तोरित मित्र (बांग्ला)</entry>
 			<entry type="translator">दीपांकर खान एवं श्रीमोयी दासगुप्ता</entry>
 			<entry type="director">तोरित मित्र (बांग्ला)</entry>
@@ -3021,7 +2995,7 @@
 			<entry type="makeup">हरि खुलिया</entry>
 			<entry type="topic">तोरित मित्र</entry>
 			<entry type="projection">तोरित मित्र</entry>
-			<entry type="artist">अंजन बोस, श्रीमोयी दासगुप्ता, राना मित्रा व अन्य</entry>
+			<entry type="artist">अंजन बोस, श्रीमोथी दासगुप्ता, राना मित्रा व अन्य</entry>
 			<entry type="venue">श्रीराम सेंटर</entry>
 			<entry type="date">05-12-2011</entry>
 		</mdetails>
@@ -3029,23 +3003,6 @@
 			<entry id="16922" type="" size="">
 				<desc>भारतेन्दु नाट्योत्सव में मंचित</desc>
 				<misc>संसप्तक (रुमा बोस) द्वारा न. प्र. को भेंट</misc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">संसप्तक</entry>
-			<entry type="drama">गर्भ (हिन्दी - खोरया)</entry>
-			<entry type="topic">तोरित मित्र</entry>
-			<entry type="projection">तोरित मित्र</entry>
-			<entry type="artist">अंजन बोस, श्रीमोथी दासगुप्ता, राना मित्रा व अन्य</entry>
-			<entry type="venue">श्रीराम सेंटर</entry>
-			<entry type="date">05-12-2011</entry>
-		</mdetails>
-		<photo>
-			<entry id="16922" type="" size="">
-				<desc>भारतेन्दु नाट्योत्सव में मंचित संसप्तक (रूमा बोस) द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -3445,25 +3402,6 @@
 				<desc></desc>
 			</entry>
 			<entry id="13890" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">संसप्तक</entry>
-			<entry type="drama">रिटर्न ऑफ गोडो (हिन्दी)</entry>
-			<entry type="writer">तोरितमित्रा (बॉग्ला)</entry>
-			<entry type="director">तोरितमित्रा (बॉग्ला)</entry>
-			<entry type="originalwriter">सैमुअल बैर्कट</entry>
-			<entry type="translation">अंजन बोस एवं श्रीमोथी दासगुप्ता</entry>
-			<entry type="costume">इंद्रजीत दास</entry>
-			<entry type="light">शशि गुहा</entry>
-			<entry type="artist">सुधांशु जैन, नीलांजन गुहा, अर्नब दासगुप्ता, श्रीमोथी दासगुप्ता व अन्य</entry>
-		</mdetails>
-		<photo>
-			<entry id="16935" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -4053,7 +3991,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="073.305">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
 			<entry type="place">कानपुर</entry>
@@ -4114,20 +4052,6 @@
 		</mdetails>
 		<photo>
 			<entry id="98" type="02" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state">उत्तरप्रदेश</entry>
-			<entry type="place">कानपुर</entry>
-			<entry type="troupe">नाट्य भारती</entry>
-			<entry type="drama">शुतुरमुर्ग</entry>
-			<entry type="writer">ज्ञानदेव अग्निहोत्री</entry>
-		</mdetails>
-		<photo>
-			<entry id="152" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -4632,21 +4556,6 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="99" cid="">
-		<mdetails>
-			<entry type="state">उत्तरप्रदेश</entry>
-			<entry type="place">गोरखपुर</entry>
-			<entry type="troupe">रूपान्तर नाट्य प्राशिक्षण केन्द्र</entry>
-			<entry type="event">प्रथम दीक्षान्त रमारोह - 1998</entry>
-			<entry type="date">16-05-1998</entry>
-		</mdetails>
-		<photo>
-			<entry id="8185" type="" size="">
-				<desc>रूपांतर प्रशिक्षण केन्द्र के दीक्षातं समारोह पर ब. व. कारंत भाषण देते हुए | साथ में है प्रो० आर. एन. मिश्रा, गिरीश रस्तोगी और आनन्द राय</desc>
-				<misc>गिरीश रस्तोगी द्वारा प्राप्त</misc>
-			</entry>
-		</photo>
-	</media>
 	<media aid="01" cid="073.180">
 		<mdetails>
 			<entry type="state">उत्तरप्रदेश</entry>
@@ -4725,16 +4634,20 @@
 		</mdetails>
 		<photo>
 			<entry id="8184" type="" size="">
-				<desc>रंगभाषा पर कार्यशाला में डिमांस्ट्रेशन सहित बोलते ब. व. कारंत</desc>
-				<misc>गिरीश रस्तोगी द्वारा प्राप्त</misc>
+				<desc>रूपांतर प्रशिक्षण केन्द्र के दीक्षातं समारोह पर ब. व. कारंत भाषण देते हुए | साथ में है प्रो० आर. एन. मिश्रा, गिरीश रस्तोगी और आनन्द राय</desc>
+				<misc>गिरीश रस्तोगी द्वारा प्राप्त, रंगभाषा पर कार्यशाला में डिमांस्ट्रेशन सहित बोलते ब. व. कारंत</misc>
+			</entry>
+			<entry id="8185" type="" size="">
+				<desc>रूपांतर प्रशिक्षण केन्द्र के दीक्षातं समारोह पर ब. व. कारंत भाषण देते हुए | साथ में है प्रो० आर. एन. मिश्रा, गिरीश रस्तोगी और आनन्द राय</desc>
+				<misc>गिरीश रस्तोगी द्वारा प्राप्त, रंगभाषा पर कार्यशाला में डिमांस्ट्रेशन सहित बोलते ब. व. कारंत</misc>
 			</entry>
 			<entry id="8186" type="" size="">
-				<desc>रंगभाषा पर कार्यशाला में डिमांस्ट्रेशन सहित बोलते ब. व. कारंत</desc>
-				<misc>गिरीश रस्तोगी द्वारा प्राप्त</misc>
+				<desc>रूपांतर प्रशिक्षण केन्द्र के दीक्षातं समारोह पर ब. व. कारंत भाषण देते हुए | साथ में है प्रो० आर. एन. मिश्रा, गिरीश रस्तोगी और आनन्द राय</desc>
+				<misc>गिरीश रस्तोगी द्वारा प्राप्त, रंगभाषा पर कार्यशाला में डिमांस्ट्रेशन सहित बोलते ब. व. कारंत</misc>
 			</entry>
 			<entry id="8187" type="" size="">
-				<desc>रंगभाषा पर कार्यशाला में डिमांस्ट्रेशन सहित बोलते ब. व. कारंत</desc>
-				<misc>गिरीश रस्तोगी द्वारा प्राप्त</misc>
+				<desc>रूपांतर प्रशिक्षण केन्द्र के दीक्षातं समारोह पर ब. व. कारंत भाषण देते हुए | साथ में है प्रो० आर. एन. मिश्रा, गिरीश रस्तोगी और आनन्द राय</desc>
+				<misc>गिरीश रस्तोगी द्वारा प्राप्त, रंगभाषा पर कार्यशाला में डिमांस्ट्रेशन सहित बोलते ब. व. कारंत</misc>
 			</entry>
 		</photo>
 	</media>
@@ -36489,9 +36402,9 @@
 	<media aid="01" cid="076.474">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
-			<entry type="place">अम्विकापुर : इप्टा</entry>
+			<entry type="place">अम्बिकापुर : इप्टा (भा. ज. ना. म.)</entry>
 			<entry type="drama">आदिविद्रोही</entry>
-			<entry type="natyantra">बादल सरकार</entry>
+			<entry type="dramatized">बादल सरकार</entry>
 			<entry type="director">विभास उपाध्याय</entry>
 			<entry type="date">जुलाई, 1995</entry>
 		</mdetails>
@@ -36508,13 +36421,17 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">इन्दौर</entry>
-			<entry type="drama">कारकून</entry>
+			<entry type="drama">कारकून (हिन्दी)</entry>
+			<entry type="director">बाबा डिके (शायद)</entry>
+			<entry type="artist">बाबा डिके, निर्मला वाजी</entry>
+			<entry type="cinematographer">नवल जायसवाल</entry>
+			
 		</mdetails>
 		<photo>
-			<entry id="2061" type="" size="">
+			<entry id="2061" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="18040" type="" size="">
+			<entry id="18040" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -37430,24 +37347,6 @@
 		</mdetails>
 		<photo>
 			<entry id="3659" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="01" cid="">
-		<mdetails>
-			<entry type="state">मध्यप्रदेश</entry>
-			<entry type="place">भोपाल</entry>
-			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">जनता का शत्रु</entry>
-			<entry type="writer">इष्सन</entry>
-			<entry type="director">श्यामानंद जालान</entry>
-		</mdetails>
-		<photo>
-			<entry id="7936" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="7911" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -49728,47 +49627,6 @@
 			</entry>
 			<entry id="4168" type="" size="">
 				<desc>मयूरभान छाऊ नृत्य प्रतिष्ठान द्वारा मयूरभान छाऊ की प्रस्तुति</desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="place">दिल्ली</entry>
-			<entry type="troupe">कादम्बरी थिएटर</entry>
-			<entry type="dance">नृत्य - छाऊ - सरायकेला</entry>
-			<entry type="venue">छाऊ नृत्य महोत्सव</entry>
-			<entry type="date">30-03-1985</entry>
-		</mdetails>
-		<photo>
-			<entry id="4088" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
-			</entry>
-			<entry id="4089" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
-			</entry>
-			<entry id="4090" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
-			</entry>
-			<entry id="4091" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
-			</entry>
-			<entry id="4092" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
-			</entry>
-			<entry id="4093" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
-			</entry>
-			<entry id="4094" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
-			</entry>
-			<entry id="4095" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
-			</entry>
-			<entry id="4096" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
-			</entry>
-			<entry id="4232" type="" size="">
-				<desc>सुधेन्द्र छाऊ ग्रूप द्वारा सरायकेला छाऊ की प्रस्तुति</desc>
 			</entry>
 		</photo>
 	</media>
