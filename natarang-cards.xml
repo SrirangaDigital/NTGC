@@ -36444,12 +36444,12 @@
 			<entry type="drama">जिन लाहीर नही देख्या</entry>
 			<entry type="writer">असगर वजाहत</entry>
 			<entry type="director">हबीब तनवीर</entry>
-			<entry type="venue">विवेचना : राष्ट्रीय नाट्य समारोह</entry>
+			<entry type="Deliberation">राष्ट्रीय नाट्य समारोह</entry>
 			<entry type="date">14-16 दिसम्बर 1996</entry>
 		</mdetails>
 		<photo>
 			<entry id="5092" type="" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -36458,54 +36458,63 @@
 			<entry type="state">मध्यप्रदेशा</entry>
 			<entry type="place">उज्जैन</entry>
 			<entry type="troupe">कालिदास अकादेमी</entry>
-			<entry type="drama">अभिज्ञानशाकुन्तलम् (संस्कृत)</entry>
+			<entry type="drama">अभिज्ञान शाकुन्तलम् (संस्कृत)</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
 			<entry type="director">प्रभात कुमार भट्टाचार्य</entry>
-			<entry type="artist">दर्शना दीक्षित, धीरेन्द्र कुमार, कल्पना देवलालीकर, प्रमीला अग्रवाल</entry>
+			<entry type="artist">दर्शना दीक्षित (प्रियम्वदा), धीरेन्द्र कुमार (दुष्यंत), कल्पना देवलालीकर (शकुन्तला), प्रमीला अग्रवाल (अनसूया)</entry>
+			<entry type="venue">कालिदास अकादेमी, उज्जैन</entry>
+			<entry type="date">1982-1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="7147" type="" size="">
+			<entry id="7147" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.490">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">उज्जैन</entry>
-			<entry type="troupe">लोक कला अकादमी</entry>
-			<entry type="drama">उरुभंग</entry>
+			<entry type="troupe">लोक कला (कालिदास) अकादमी</entry>
+			<entry type="drama">ऊरुभंगम् (संस्कृत)</entry>
 			<entry type="writer">भास</entry>
-			<entry type="director">शांता गांधी</entry>
+			<entry type="director">शांता गाँधी</entry>
 			<entry type="translation">श्रीनिवास रथ</entry>
-			<entry type="data">1978</entry>
+			<entry type="data">1978/1979</entry>
 		</mdetails>
 		<photo>
-			<entry id="3333" type="" size="">
-				<desc>शांता गांधी द्वारा भेंट</desc>
+			<entry id="3330" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
 			</entry>
-			<entry id="3334" type="" size="">
-				<desc>शांता गांधी द्वारा भेंट</desc>
+			<entry id="3333" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
 			</entry>
-			<entry id="3335" type="" size="">
-				<desc>शांता गांधी द्वारा भेंट</desc>
+			<entry id="3334" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
 			</entry>
-			<entry id="3336" type="" size="">
-				<desc>शांता गांधी द्वारा भेंट</desc>
+			<entry id="3335" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
 			</entry>
-			<entry id="3337" type="" size="">
-				<desc>शांता गांधी द्वारा भेंट</desc>
+			<entry id="18070" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
 			</entry>
-			<entry id="3338" type="" size="">
-				<desc>शांता गांधी द्वारा भेंट</desc>
+			<entry id="3336" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
 			</entry>
-			<entry id="3339" type="" size="">
-				<desc>शांता गांधी द्वारा भेंट</desc>
+			<entry id="3337-2c" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
 			</entry>
-			<entry id="3340" type="" size="">
-				<desc>शांता गांधी द्वारा भेंट</desc>
+			<entry id="3338" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
 			</entry>
-			<entry id="3341" type="" size="">
-				<desc>शांता गांधी द्वारा भेंट</desc>
+			<entry id="3339" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
+			</entry>
+			<entry id="3340" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
+			</entry>
+			<entry id="3341" type="02" size="">
+				<desc>शांता गाँधी संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -36514,8 +36523,8 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">ग्वालियर</entry>
 			<entry type="troupe">कलामंदिर</entry>
-			<entry type="drama">सांचि कँहू तो</entry>
-			<entry type="writer">प्रभाकर क्षेत्रिय</entry>
+			<entry type="drama">साँचि कँहू तो</entry>
+			<entry type="writer">प्रभाकर क्षोत्रिय</entry>
 			<entry type="director">कमल वशिष्ठ</entry>
 			<entry type="music">श्यामल अग्रवाल</entry>
 		</mdetails>
@@ -36550,13 +36559,13 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">ग्वालियर</entry>
 			<entry type="troupe">लिटिल बैले ग्रूप</entry>
-			<entry type="drama">अग्निवर्ज के पैर</entry>
+			<entry type="drama">अग्निवर्ण के पैर (हिन्दी)</entry>
 			<entry type="writer">कावलम नारायण पणिक्कर</entry>
 			<entry type="director">बंसी कौल</entry>
 		</mdetails>
 		<photo>
-			<entry id="7961" type="02" size="16.5X21.5">
-				<desc></desc>
+			<entry id="7961" type="02" size="16.5X21.5 से. मी.">
+				<desc>निगेटिव नं. 47/27</desc>
 			</entry>
 		</photo>
 	</media>
@@ -36582,7 +36591,7 @@
 			<entry type="troupe">बाल नाट्य चेतना शिविर</entry>
 			<entry type="drama">लाख की नाक (बाल नाटक)</entry>
 			<entry type="writer">सर्वेश्वर दयाल सक्सेना</entry>
-			<entry type="date">12 जुलाई 1991</entry>
+			<entry type="date">21 मई-12 जुलाई 1991</entry>
 		</mdetails>
 		<photo>
 			<entry id="2807" type="" size="">
@@ -36598,6 +36607,7 @@
 			<entry type="drama">ईसुरी</entry>
 			<entry type="writer">अरुण पांडे</entry>
 			<entry type="director">अरुण पांडे</entry>
+			<entry type="photographer">बसंत मिश्रा</entry>
 			<entry type="date">26-03-1990</entry>
 		</mdetails>
 		<photo>
@@ -36606,6 +36616,7 @@
 			</entry>
 			<entry id="5047" type="" size="">
 				<desc>संगीत नाटक अकादेमी, राष्ट्रीय नाट्य समारोह - 1989</desc>
+				<misc>सं. ना. अ.</misc>
 			</entry>
 			<entry id="5048" type="" size="">
 				<desc>संगीत नाटक अकादेमी, राष्ट्रीय नाट्य समारोह - 1989</desc>
@@ -36626,12 +36637,13 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">जबलपुर</entry>
 			<entry type="troupe">विवेचना</entry>
-			<entry type="drama">पीरपराई</entry>
+			<entry type="drama">पीरपराई (हिन्दी)</entry>
 			<entry type="writer">विभा रानी</entry>
 			<entry type="director">प्रगति पांडेय</entry>
+			<entry type="artist">प्रियंका ठाकुर, सिल्की जैन व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="10624" type="01" size="10X15">
+			<entry id="10624" type="01" size="10X15 से. मी.">
 				<desc></desc>
 			</entry>
 			<entry id="10611" type="01" size="10X15">
@@ -36648,11 +36660,13 @@
 			<entry type="originaldrama">विजयदान देथा `आमिर लालसा'</entry>
 			<entry type="natyantra">हरविन्दर भाटिया</entry>
 			<entry type="director">वसन्त काशीकर</entry>
+			<entry type="Deliberation">13 वाँ राष्ट्रीय नाट्य समारोह</entry>
+			<entry type="venue">जबलपुर</entry>
 			<entry type="date">11-15 अक्टूबर 2006</entry>
 		</mdetails>
 		<photo>
-			<entry id="10613" type="01" size="10X15">
-				<desc>`विवेचना' 13 वाँ राष्ट्रीय नाट्य समारोह, जबलपुर 11-15 अक्टूबर 2006</desc>
+			<entry id="10613" type="01" size="10X15 से. मी.">
+				<desc></desc>
 			</entry>
 		</photo>
 	</media>
@@ -36691,35 +36705,36 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">दुर्ग</entry>
+			<entry type="troupe">सापेक्ष</entry>
 			<entry type="drama">विविध</entry>
 		</mdetails>
 		<photo>
 			<entry id="2055" type="" size="">
-				<desc>सापेज पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
+				<desc>सापेक्ष पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए छाया कोलाज पर महावीर अग्रवाल की कविताए</desc>
 			</entry>
 			<entry id="2056" type="" size="">
-				<desc>सापेज पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
+				<desc>सापेक्ष पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
 			</entry>
 			<entry id="2057" type="" size="">
-				<desc>सापेज पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
+				<desc>सापेक्ष पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
 			</entry>
 			<entry id="2058" type="" size="">
-				<desc>सापेज पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
+				<desc>सापेक्ष पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
 			</entry>
 			<entry id="2059" type="" size="">
-				<desc>सापेज पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
+				<desc>सापेक्ष पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
 			</entry>
 			<entry id="2060" type="" size="">
-				<desc>सापेज पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
+				<desc>सापेक्ष पत्रिका की ओर से राष्ट्रीय साक्षरता मिशन के लिए अनिल कामड़े के बनाए ध्याया कोलाज पर महावीर अग्रवाल की कविताए</desc>
 			</entry>
 		</photo>
 	</media>
 	<media aid="02" cid="076.569">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
-			<entry type="place">पचमढ़ी</entry>
-			<entry type="troupe">पचमढ़ी समूह लोक नाट्य दल</entry>
-			<entry type="dance">पचमढ़ी वसंत '78</entry>
+			<entry type="place">पंचमढ़ी</entry>
+			<entry type="troupe">पंचमढ़ी समूह लोक नाट्य दल</entry>
+			<entry type="dance">पंचमढ़ी वसंत' 78</entry>
 			<entry type="music">संतूर वादन : ओमप्रकाश चौरसिया, तबला संगत : सरबत हुसैन</entry>
 			<entry type="date">11-02-1978</entry>
 		</mdetails>
@@ -36732,11 +36747,12 @@
 	<media aid="01" cid="076.570">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
-			<entry type="place">पचमढ़ी</entry>
-			<entry type="troupe">पचमढ़ी समूह लोक नाट्य दल</entry>
+			<entry type="place">पंचमढ़ी</entry>
+			<entry type="troupe">पंचमढ़ी समूह लोक नाट्य दल</entry>
 			<entry type="drama">वापसी</entry>
 			<entry type="writer">अरिस्टोफिनीस</entry>
 			<entry type="director">जितेन्द्र कुमार</entry>
+			<entry type="date">12-02-1978</entry>
 		</mdetails>
 		<photo>
 			<entry id="3721" type="" size="">
@@ -36769,9 +36785,9 @@
 			<entry type="troupe">मुक्ताकाशी रंगमंच</entry>
 			<entry type="drama">अंधा युग</entry>
 			<entry type="writer">धर्मवीर भारती</entry>
-			<entry type="director">हफीज़</entry>
-			<entry type="place">कलेक्टर निवास, बैतूल</entry>
+			<entry type="director">हफीज़ खान</entry>
 			<entry type="artist">(गाँधारी) अनिता दूबे, (युयुत्स) अविनाश देशपाण्डे</entry>
+			<entry type="venue">कलेक्टर निवास, बैतूल</entry>
 		</mdetails>
 		<photo>
 			<entry id="16913" type="" size="">
@@ -36804,35 +36820,36 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
+			<entry type="troupe">भारत भवन रंगमण्डल</entry>
 			<entry type="drama">गिलहरी रामायण</entry>
 			<entry type="writer">ब. व. कारन्त</entry>
 			<entry type="director">ब. व. कारन्त</entry>
-			<entry type="artist"></entry>
+			<entry type="event">ग्रीष्म बाल नाट्य कार्यशाला</entry>
 		</mdetails>
 		<photo>
 			<entry id="5864" type="02" size="">
-				<desc>ग्रीष्म बाल नाट्य कार्यशाला [श्रीमती रश्मि वाजपेयी द्वारा भेंट]</desc>
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा भेंट</desc>
 			</entry>
 			<entry id="5865" type="02" size="">
-				<desc>ग्रीष्म बाल नाट्य कार्यशाला [श्रीमती रश्मि वाजपेयी द्वारा भेंट]</desc>
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा भेंट</desc>
 			</entry>
 			<entry id="5866" type="02" size="">
-				<desc>ग्रीष्म बाल नाट्य कार्यशाला [श्रीमती रश्मि वाजपेयी द्वारा भेंट]</desc>
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा भेंट</desc>
 			</entry>
 			<entry id="5867" type="02" size="">
-				<desc>ग्रीष्म बाल नाट्य कार्यशाला [श्रीमती रश्मि वाजपेयी द्वारा भेंट]</desc>
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा भेंट</desc>
 			</entry>
 			<entry id="5868" type="02" size="">
-				<desc>ग्रीष्म बाल नाट्य कार्यशाला [श्रीमती रश्मि वाजपेयी द्वारा भेंट]</desc>
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा भेंट</desc>
 			</entry>
 			<entry id="5869" type="02" size="">
-				<desc>ग्रीष्म बाल नाट्य कार्यशाला [श्रीमती रश्मि वाजपेयी द्वारा भेंट]</desc>
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा भेंट</desc>
 			</entry>
 			<entry id="5870" type="02" size="">
-				<desc>ग्रीष्म बाल नाट्य कार्यशाला [श्रीमती रश्मि वाजपेयी द्वारा भेंट]</desc>
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा भेंट</desc>
 			</entry>
 			<entry id="5871" type="02" size="">
-				<desc>ग्रीष्म बाल नाट्य कार्यशाला [श्रीमती रश्मि वाजपेयी द्वारा भेंट]</desc>
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -36921,23 +36938,25 @@
 			<entry type="troupe">एकरंग</entry>
 			<entry type="drama">मृत्युंजय</entry>
 			<entry type="director">जयंत देशमुख</entry>
+			<entry type="photographer">विजय रोहतगी</entry>
+			<entry type="artist">आलाक चटर्जी (कर्ण), उदय शहाणे (दुर्योधन)</entry>
 			<entry type="date">मार्च 1991</entry>
 		</mdetails>
 		<photo>
-			<entry id="2097" type="" size="">
-				<desc></desc>
+			<entry id="2097" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2098" type="" size="">
-				<desc></desc>
+			<entry id="2098" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2099" type="" size="">
-				<desc></desc>
+			<entry id="2099" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2100" type="" size="">
-				<desc></desc>
+			<entry id="2100" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2103" type="" size="">
-				<desc></desc>
+			<entry id="2103" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -36952,11 +36971,11 @@
 			<entry type="date">1993</entry>
 		</mdetails>
 		<photo>
-			<entry id="2335" type="" size="">
-				<desc></desc>
+			<entry id="2335" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2336" type="" size="">
-				<desc></desc>
+			<entry id="2336" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -36983,14 +37002,14 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">दस्तक</entry>
-			<entry type="drama">आषाढ का एक दिन</entry>
+			<entry type="drama">आषाढ़ का एक दिन</entry>
 			<entry type="writer">मोहन राकेश</entry>
 			<entry type="director">सच्चिदानंद जोशी</entry>
-			<entry type="artist">डी. पी. मिश्रा</entry>
+			<entry type="cinematographer">डी. पी. मिश्रा</entry>
 			<entry type="date">2001</entry>
 		</mdetails>
 		<photo>
-			<entry id="10426" type="01" size="15X9.5">
+			<entry id="10426" type="01" size="15X9.5 से. मी.">
 				<desc>माखनलाल चतुर्वेदी पत्रकारिता विश्वविद्यालय भोपाल की संस्था `दस्तक' है</desc>
 			</entry>
 		</photo>
@@ -37002,7 +37021,7 @@
 			<entry type="troupe">दस्तक</entry>
 			<entry type="drama">रामसजीवन की प्रेम कथा</entry>
 			<entry type="writer">उदय प्रकाश</entry>
-			<entry type="natyantra">पशुपति शर्मा</entry>
+			<entry type="dramatized">पशुपति शर्मा</entry>
 			<entry type="director">पशुपति शर्मा</entry>
 			<entry type="date">5 अप्रैल 1999</entry>
 		</mdetails>
@@ -37017,7 +37036,7 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">दोस्त</entry>
-			<entry type="drama">डेढ़ इंच ऊपर</entry>
+			<entry type="drama">डेढ़ इंच ऊपर (एकल)</entry>
 			<entry type="writer">निर्मल वर्मा</entry>
 			<entry type="director">आलोक चटर्जी</entry>
 			<entry type="date">अप्रैल 1992</entry>
@@ -37039,8 +37058,8 @@
 			<entry type="dance">ध्रुवस्वामिनी</entry>
 			<entry type="writer">जयशंकर प्रसाद</entry>
 			<entry type="director">आलोक चटर्जी</entry>
-			<entry type="venue">संगीत नाटक अकादमी परिचमी क्षेत्र समारोह</entry>
-			<entry type="place">जोधपुर</entry>
+			<entry type="event">संगीत नाटक अकादमी परिचमी क्षेत्र समारोह</entry>
+			<entry type="venue">जोधपुर</entry>
 			<entry type="date">17-18 दिसंबर 1991</entry>
 		</mdetails>
 		<photo>
@@ -37057,7 +37076,9 @@
 			<entry type="dance">मौत के साए में</entry>
 			<entry type="writer">ज्यां पाल सार्त्र</entry>
 			<entry type="director">आलोक चटर्जी</entry>
-			<entry type="venue">भारतभवन में भोपाल नाट्योत्सव, 1990</entry>
+			<entry type="event">भारतभवन में भोपाल नाट्योत्सव, 1990</entry>
+			<entry type="venue">भारतभवन</entry>
+			<entry type="date">1990</entry>
 		</mdetails>
 		<photo>
 			<entry id="2327" type="" size="">
@@ -37070,22 +37091,20 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">दोस्त</entry>
-			<entry type="event">विदिध - रंगमंच कार्यशाला में ध्वनिसंस्कार अभ्यास</entry>
-			<entry type="director">आलोक चटर्जी</entry>
-			<entry type="date">1992</entry>
+			<entry type="event">विविध</entry>
 		</mdetails>
 		<photo>
 			<entry id="2331" type="" size="">
-				<desc></desc>
+				<desc>रंगमंच कार्यशाला में ध्वनिसंस्कार अभ्यास, निर्देशक - आलोक चटर्जी, 1992</desc>
 			</entry>
 			<entry id="2332" type="" size="">
-				<desc></desc>
+				<desc>ध्रुवस्वामिनी की संगीत ग्रुप, संगीत निर्देशक आमोद सिंह, संगीत नाटक अकादमी परिचमी क्षेत्र समारोह 1991</desc>
 			</entry>
 			<entry id="2333" type="" size="">
-				<desc></desc>
+				<desc>प्रभात गांगुली का व्याख्यान, 1991 जनवरी</desc>
 			</entry>
 			<entry id="2334" type="" size="">
-				<desc></desc>
+				<desc>एक्टिंग वर्कशॉप, आलोक चटर्जी, जनवरी 1992</desc>
 			</entry>
 		</photo>
 	</media>
@@ -37094,7 +37113,7 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">दोस्त</entry>
-			<entry type="drama">वेटर एक बीयर और</entry>
+			<entry type="drama">वेटर एक बीयर और (एकल)</entry>
 			<entry type="writer">मोंपासा</entry>
 			<entry type="director">आलोक चटर्जी</entry>
 		</mdetails>
@@ -37109,7 +37128,7 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">दोस्त</entry>
-			<entry type="drama">सौंया भये कोतवाल</entry>
+			<entry type="drama">सैंया भये कोतवाल</entry>
 			<entry type="writer">वसंत सबनीस</entry>
 			<entry type="director">आलोक चटर्जी</entry>
 		</mdetails>
@@ -37613,8 +37632,8 @@
 			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
-			<entry id="2104" type="" size="">
-				<desc></desc>
+			<entry id="2104" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -37637,15 +37656,18 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">आधे-अधूरे</entry>
+			<entry type="drama">आधे-अधूरे (हिन्दी)</entry>
 			<entry type="writer">मोहन राकेश</entry>
+			<entry type="director">अलखनन्दन</entry>
+			<entry type="artist">सरोज शर्मा, आलोक चटर्जी व अन्य</entry>
+			<entry type="date">1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="409" type="" size="">
-				<desc></desc>
+			<entry id="409" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="2346" type="" size="">
-				<desc></desc>
+			<entry id="2346" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -37668,25 +37690,25 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">इंसाफ का धेरा</entry>
+			<entry type="drama">इंसाफ का धेरा (हिन्दी)</entry>
 			<entry type="writer">बर्टेल्ट बैश्ट</entry>
 		</mdetails>
 		<photo>
-			<entry id="410" type="" size="">
-				<desc></desc>
+			<entry id="410" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="411" type="" size="">
-				<desc></desc>
+			<entry id="411" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="412" type="" size="">
-				<desc></desc>
+			<entry id="412" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
-			<entry id="20932" type="" size="">
-				<desc></desc>
+			<entry id="20932" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.629">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
@@ -37699,6 +37721,15 @@
 			<entry id="484" type="" size="">
 				<desc>कहानी मंचन</desc>
 			</entry>
+			<entry id="410" type="" size="">
+				<desc>कहानी मंचन</desc>
+			</entry>
+			<entry id="411" type="" size="">
+				<desc>कहानी मंचन</desc>
+			</entry>
+			<entry id="412" type="" size="">
+				<desc>कहानी मंचन</desc>
+			</entry>
 		</photo>
 	</media>
 	<media aid="01" cid="076.630">
@@ -37706,30 +37737,33 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">एंटीगन</entry>
-			<entry type="writer">सोफोक्लीज</entry>
+			<entry type="drama">एण्टीगोन</entry>
+			<entry type="writer">सोफोक्लीज (ग्रीक)</entry>
+			<entry type="translation">इंदुजा अवस्थी</entry>
+			<entry type="director">रुद्रप्रसाद सेनगुप्ता</entry>
+			<entry type="artist">विभा मिश्र व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="21974" type="" size="">
-				<desc></desc>
+			<entry id="21974" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
-			<entry id="21975" type="" size="">
-				<desc></desc>
+			<entry id="21975" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
-			<entry id="21976" type="" size="">
-				<desc></desc>
+			<entry id="21976" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
-			<entry id="21977" type="" size="">
-				<desc></desc>
+			<entry id="21977" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
-			<entry id="21978" type="" size="">
-				<desc></desc>
+			<entry id="21978" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
-			<entry id="21979" type="" size="">
-				<desc></desc>
+			<entry id="21979" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
-			<entry id="489" type="" size="">
-				<desc></desc>
+			<entry id="489" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -37752,23 +37786,66 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="">
+	<media aid="01" cid="076.634;076.635">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">गारा की गाड़ी</entry>
+			<entry type="drama">गारा की गाड़ी (मालबी)</entry>
+			<entry type="writer">शूद्रक (संस्कृत)</entry>
+			<entry type="translation">हरीश निगम</entry>
 			<entry type="director">ब. व. कारंत</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="stage">कृष्णमूर्ति</entry>
+			<entry type="costume">कृष्णमूर्ति</entry>
+			<entry type="costumeassistant">विभा मिश्र, माधुरी दीक्षित</entry>
+			<entry type="light">विपिन शर्मा</entry>
+			<entry type="lightassistant">आलोक चटर्जी</entry>
+			<entry type="make-up">वकार फारुकी</entry>
+			<entry type="artist">शरद शबल (सूत्रधार), अनिता दुबे (नटी), सरोज शर्मा (वसन्तसेना) व अन्य</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
+			<entry type="date">1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="413" type="" size="">
+			<entry id="413" type="02" size="">
 				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
 			</entry>
-			<entry id="414" type="" size="">
+			<entry id="414-2c" type="02" size="">
 				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
 			</entry>
-			<entry id="415" type="" size="">
+			<entry id="415" type="02" size="">
 				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
+			</entry>
+			<entry id="7813" type="02" size="">
+				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
+			</entry>
+			<entry id="7814" type="02" size="">
+				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
+			</entry>
+			<entry id="8137" type="02" size="">
+				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
+			</entry>
+			<entry id="20951" type="02" size="">
+				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
+			</entry>
+			<entry id="8147" type="02" size="">
+				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
+			</entry>
+			<entry id="7824" type="02" size="">
+				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
+			</entry>
+			<entry id="20949" type="02" size="">
+				<desc>नेमिचन्द्र जैन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1079</misc>
 			</entry>
 		</photo>
 	</media>
@@ -37813,83 +37890,94 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">घासीराम कोतवाल</entry>
-			<entry type="writer">विजय तेंडुलकर</entry>
+			<entry type="drama">घासीराम कोतवाल (हिन्दी)</entry>
+			<entry type="writer">विजय तेंदुलकर (मराठी)</entry>
+			<entry type="translation">वसंत देव</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
+			<entry type="costume">नीलम मानसिंह चौधरी</entry>
+			<entry type="make-up">अमर सिंह, गणेश</entry>
+			<entry type="stage">जयंत देशमुख, गोपाल दुबे</entry>
+			<entry type="decorater">आलोपी वर्मा</entry>
+			<entry type="light">सुरेश भारद्वाज</entry>
+			<entry type="voice">रघुवीर होल्ला</entry>
+			<entry type="photo">विजय रोहतगी</entry>
+			<entry type="artist">गोविन्द दीक्षित, द्वारका प्रसाद (सूत्रधार), राजकुमार कामले (नाना साहब पेशवा), विभा मिश्र, भुवन कुमार (गणेश), आशुतोष, जयंत देशमुख (अँग्रेज), मांगीलाल शर्मा (घासीराम कोतवाल), अलका याजनिक (लक्ष्मी), हेमलता महावर (सरस्वती) व अन्य</entry>
+			<entry type="book">Here I cannot stay, there I can not go (सूचना स्रोत पुस्तक)</entry>
+			<entry type="venue">भारत भवन रंगमंडल</entry>
 		</mdetails>
 		<photo>
 			<entry id="416" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="417-2c" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="418-2c" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="419" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="420" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="421-2c" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="422-2c" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="423" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="3659" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="8110" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="8113" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="8117" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="8119" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7828-2c" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7773" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7788" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7789" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7793" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7799" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7800" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7801" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7802" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7815" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 			<entry id="7845" type="" size="">
-				<desc></desc>
+				<desc>सूचना स्रोत स्मा. - 2274</desc>
 			</entry>
 		</photo>
 	</media>
@@ -37926,21 +38014,21 @@
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
 			<entry type="drama">घासीराम कोतवाल</entry>
 			<entry type="writer">विजय तेन्दुलकर</entry>
+			<entry type="translation">वसंत देव</entry>
 			<entry type="director">ब. व. कारन्त</entry>
 			<entry type="language">हिन्दी</entry>
 			<entry type="music">ब. व. कारन्त</entry>
-			<entry type="translation">वसंत देव</entry>
-			<entry type="artist">राजकुमर कामले</entry>
+			<entry type="artist">राजकुमार कामले</entry>
 		</mdetails>
 		<photo>
 			<entry id="8418" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 			<entry id="21961" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र., विभा मिश्र संग्रह</desc>
 			</entry>
 			<entry id="21962" type="02" size="">
-				<desc></desc>
+				<desc>न. प्र., विभा मिश्र संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -37954,9 +38042,11 @@
 		<photo>
 			<entry id="495" type="" size="">
 				<desc>पूर्वरंग की प्रस्तुति [छत्तीसगढ़ी]</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
 			<entry id="496" type="" size="">
 				<desc>पूर्वरंग की प्रस्तुति [छत्तीसगढ़ी]</desc>
+				<misc>श्री नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
 		</photo>
 	</media>
@@ -37970,19 +38060,19 @@
 			<entry type="date">फरवरी 1982</entry>
 		</mdetails>
 		<photo>
-			<entry id="497" type="" size="">
+			<entry id="497" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="498" type="" size="">
+			<entry id="498" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="499" type="" size="">
+			<entry id="499" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="500" type="" size="">
+			<entry id="500" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="501" type="" size="">
+			<entry id="501" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -37996,7 +38086,8 @@
 			<entry type="writer">इब्सन</entry>
 			<entry type="version">जे. एन. कौशल</entry>
 			<entry type="director">श्यामानंद जालान</entry>
-			<entry type="artist">19-02-1984</entry>
+			<entry type="artist">विभा मिश्र व अन्य</entry>
+			<entry type="date">19-02-1984 (प्रथम प्रस्तुति)</entry>
 		</mdetails>
 		<photo>
 			<entry id="468" type="" size="">
@@ -38009,10 +38100,10 @@
 				<desc></desc>
 			</entry>
 			<entry id="4933" type="" size="">
-				<desc></desc>
+				<desc>निगेटिव उपलब्ध - 16/25</desc>
 			</entry>
 			<entry id="21816" type="" size="">
-				<desc></desc>
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
 			<entry id="8689" type="" size="">
 				<desc></desc>
@@ -38072,37 +38163,55 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">तीन बहनें</entry>
-			<entry type="writer">अंतोन चेखव</entry>
+			<entry type="drama">तीन बहनें (हिन्दी)</entry>
+			<entry type="writer">एण्टोन चेखव (रूसी)</entry>
+			<entry type="translation">ज़ाहिदा ज़ैदी (हिन्दी-उर्दू), प्रसन्ना, सुरेश भारद्वाज व विभा मिश्र (हिन्दी अनुवाद)</entry>
 			<entry type="director">प्रसन्ना</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="costume">विभा मिश्र</entry>
+			<entry type="make-up">आलोपी वर्मा व चंद्रा सक्सेना</entry>
+			<entry type="stage">मांगीलाल शर्मा</entry>
+			<entry type="light">सुरेश भारद्वाज व जयंत देशमुख</entry>
+			<entry type="artist">शोभा (सरिता चौधरी), बिभा मिश्र (अनिता चौधरी), सरोज शर्मा (कविता चौधरी), जावेद ज़ैदी (चाचा), चन्द्रा सक्सेना (नानी बुआ) व अन्य</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
+			<entry type="date">14-11-1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="471" type="" size="">
-				<desc></desc>
+			<entry id="471" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री सत्येन्द्र तनेजा द्वारा भेंट</desc>
+				<misc>मध्यप्रदेश उत्सव 1983 में मंचित, सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="472" type="" size="">
-				<desc></desc>
+			<entry id="472" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री सत्येन्द्र तनेजा द्वारा भेंट</desc>
+				<misc>मध्यप्रदेश उत्सव 1983 में मंचित, सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="473" type="" size="">
-				<desc></desc>
+			<entry id="473" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री सत्येन्द्र तनेजा द्वारा भेंट</desc>
+				<misc>मध्यप्रदेश उत्सव 1983 में मंचित, सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="474" type="" size="">
-				<desc></desc>
+			<entry id="474" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री सत्येन्द्र तनेजा द्वारा भेंट</desc>
+				<misc>मध्यप्रदेश उत्सव 1983 में मंचित, सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="18137" type="" size="">
-				<desc></desc>
+			<entry id="18137" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री सत्येन्द्र तनेजा द्वारा भेंट</desc>
+				<misc>मध्यप्रदेश उत्सव 1983 में मंचित, सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="18138" type="" size="">
-				<desc></desc>
+			<entry id="18138" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री सत्येन्द्र तनेजा द्वारा भेंट</desc>
+				<misc>मध्यप्रदेश उत्सव 1983 में मंचित, सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="18139" type="" size="">
-				<desc></desc>
+			<entry id="18139" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री सत्येन्द्र तनेजा द्वारा भेंट</desc>
+				<misc>मध्यप्रदेश उत्सव 1983 में मंचित, सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="18140" type="" size="">
-				<desc></desc>
+			<entry id="18140" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री सत्येन्द्र तनेजा द्वारा भेंट</desc>
+				<misc>मध्यप्रदेश उत्सव 1983 में मंचित, सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7835-2c" type="" size="">
-				<desc></desc>
+			<entry id="7835-2c" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट, श्री सत्येन्द्र तनेजा द्वारा भेंट</desc>
+				<misc>मध्यप्रदेश उत्सव 1983 में मंचित, सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
 		</photo>
 	</media>
@@ -38112,10 +38221,19 @@
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
 			<entry type="drama">तुम सआदत इसन मंटो हो</entry>
+			<entry type="writer">राजेश जोशी</entry>
+			<entry type="projection">एम. के. रैना</entry>
 			<entry type="director">एम. के. रैना</entry>
+			<entry type="asstdirector">जयंत देशमुख</entry>
+			<entry type="stage">जयंत देशमुख, राम रहमान</entry>
+			<entry type="light">एम. के. रैना</entry>
+			<entry type="lightassistant">आशुतोष पंड्या व गोपाल दुबे</entry>
+			<entry type="costume">विभा मिश्र</entry>
+			<entry type="costumeassistant">हेमलता महावर एवं रविलाल संगधे</entry>
+			<entry type="artist">संजय मेहता, अनुप जोशी व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="3913" type="" size="">
+			<entry id="3913" type="02" size="8.5X11.4 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -38138,24 +38256,24 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">तो सम पुरुष न मो सम नारी</entry>
-			<entry type="writer">शेस्कपियर</entry>
+			<entry type="drama">तो सम पुरुष न मो सम नारी (बुन्देली)</entry>
+			<entry type="writer">शेक्सपियर (अँग्रेजी)</entry>
 			<entry type="translation">मदन सोनी</entry>
 			<entry type="director">फ्रिट्ज़ बेनेविट्ज़</entry>
 			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
-			<entry id="483" type="" size="">
-				<desc>बुंदेली नाटक</desc>
+			<entry id="483" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
 			</entry>
-			<entry id="20971" type="" size="">
-				<desc>बुंदेली नाटक</desc>
+			<entry id="20971" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
 			</entry>
-			<entry id="20972" type="" size="">
-				<desc>बुंदेली नाटक</desc>
+			<entry id="20972" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
 			</entry>
-			<entry id="20948" type="" size="">
-				<desc>बुंदेली नाटक</desc>
+			<entry id="20948" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -38164,19 +38282,31 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">दुहाई लुकमान</entry>
-			<entry type="writer">मोतियर</entry>
-			<entry type="director">अलोपी वर्मा</entry>
+			<entry type="drama">दुहाई लुकमान (हिन्दी)</entry>
+			<entry type="writer">मोलियर</entry>
+			<entry type="projection">आलोपी वर्मा</entry>
+			<entry type="director">आलोपी वर्मा</entry>
+			<entry type="adaptation">वी. के. शर्मा, अमिताभ श्रीवास्तव</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="song">वकार फारूकी</entry>
+			<entry type="costume">विभा मिश्र, अनिता दुबे</entry>
+			<entry type="make-up">मांगीलाल शर्मा व सरोज शर्मा</entry>
+			<entry type="stage">गोविन्द दीक्षित</entry>
+			<entry type="light">संजय मेहता</entry>
+			<entry type="venue">भारत भवन</entry>
 		</mdetails>
 		<photo>
-			<entry id="475" type="" size="">
-				<desc></desc>
+			<entry id="475" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन संग्रह</desc>
+				<misc>सूचना स्रोत स्मा. - 1105</misc>
 			</entry>
-			<entry id="476" type="" size="">
-				<desc></desc>
+			<entry id="476" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन संग्रह</desc>
+				<misc>सूचना स्रोत स्मा. - 1105</misc>
 			</entry>
-			<entry id="477" type="" size="">
-				<desc></desc>
+			<entry id="477" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन संग्रह</desc>
+				<misc>सूचना स्रोत स्मा. - 1105</misc>
 			</entry>
 		</photo>
 	</media>
@@ -38202,31 +38332,40 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">दो किश्तियों का सवार</entry>
-			<entry type="writer">कार्लो गोल्दोनी</entry>
+			<entry type="drama">दो किश्तियों का सवार (हिन्दी)</entry>
+			<entry type="writer">कार्लो गोल्दोनी (इटैलियन)</entry>
 			<entry type="translation">रेखा कौशिक</entry>
-			<entry type="singer">स्वर्गीय वकार फारूखी</entry>
-			<entry type="music">ब. व. कारंत</entry>
 			<entry type="director">बैरी जॉन</entry>
+			<entry type="singer">स्वर्गीय वक़ार फारक़ी</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="artist">द्वारिका प्रसाद (शेरमार खान), अरुण वर्मा (दरियादिल खान), सरोज शर्मा (बुलबुल जां), आलोक चटर्जी (लक्कड़ खां) व अन्य</entry>
+			<entry type="venue">भारत भवन, पूर्वरंग में मचित</entry>
+			<entry type="date">1982</entry>
 		</mdetails>
 		<photo>
 			<entry id="485" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 2314</misc>
 			</entry>
 			<entry id="486" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 2314</misc>
 			</entry>
 			<entry id="487" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 2314</misc>
 			</entry>
 			<entry id="488" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 2314</misc>
 			</entry>
 			<entry id="10240" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 2314</misc>
 			</entry>
 			<entry id="21950" type="" size="">
-				<desc></desc>
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 2314</misc>
 			</entry>
 		</photo>
 	</media>
@@ -40465,7 +40604,7 @@
 	<media aid="01" cid="076.571">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
-			<entry type="place">विलासपुर</entry>
+			<entry type="place">बिलासपुर</entry>
 			<entry type="troupe">आदर्शकला मंदिर</entry>
 			<entry type="drama">बात एक हर्ष की</entry>
 			<entry type="writer">सुरेश चन्द्र शुक्ल `चन्द्र'</entry>
