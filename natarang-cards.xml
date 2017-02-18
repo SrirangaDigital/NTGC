@@ -36857,10 +36857,11 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
-			<entry type="drama">रस गन्धर्व</entry>
+			<entry type="troupe">भारत भवन रंगमण्डल</entry>
+			<entry type="drama">रस गन्धर्व (भोपाल रंग कार्यशाला में आयोजित)</entry>
 			<entry type="director">ब. व. कारंत</entry>
-			<entry type="venue">भोपाल रंग कार्यशाला</entry>
 			<entry type="artist">श्री सुरेश शर्मा (बढ़ई), श्री राकेश, श्री वेणुगोपाल (दर्जी), श्री राजीव वर्मा (जादूगर)</entry>
+			<entry type="venue">भोपाल रंग कार्यशाला</entry>
 		</mdetails>
 		<photo>
 			<entry id="10250" type="" size="">
@@ -38414,9 +38415,9 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">फैड्रा का अन्तर्दन्द</entry>
+			<entry type="drama">फैड्रा का अन्तर्द्दन्द्द</entry>
 			<entry type="writer">रैसीन</entry>
-			<entry type="translation">कृष्ण बलदेव वैद</entry>
+			<entry type="translator">कृष्ण बलदेव वैद</entry>
 			<entry type="director">जार्ज लवादो</entry>
 		</mdetails>
 		<photo>
@@ -38476,7 +38477,7 @@
 		</mdetails>
 		<photo>
 			<entry id="3548" type="" size="">
-				<desc>निर्देशक राष्ट्रीय नाट्य विद्यालय के पुर्व छात्र</desc>
+				<desc>निर्देशक राष्ट्रीय नाट्य विद्यालय के पूर्व छात्र</desc>
 			</entry>
 		</photo>
 	</media>
@@ -38485,29 +38486,41 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">बाँझघाटी</entry>
+			<entry type="drama">बाँझघाटी (हिन्दी) (भोपाल गैस त्रासदी पर आधारित)</entry>
 			<entry type="writer">त्रिपुरारी शर्मा</entry>
 			<entry type="director">अलखनंदन</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="costume">जावेद जैदी</entry>
+			<entry type="make-up">गोविन्द दीक्षित, गणेश चौरसिया</entry>
+			<entry type="stage">सत्यव्रत राउत</entry>
+			<entry type="light">जितेन्द्र शास्त्री, आलोक चटर्जी</entry>
+			<entry type="artist">प्रदीप गोस्वामी (बुजुर्ग), सत्यव्रत राउत (लेखक), विश्वनाथ (बच्चा), सरोज शर्मा (दाई), राजकमल नायक (शागिर्द) व अन्य</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
 			<entry type="date">जून 1986</entry>
 		</mdetails>
 		<photo>
-			<entry id="426" type="" size="">
-				<desc></desc>
+			<entry id="426" type="02" size="">
+				<desc>सूचना स्रोत स्मा. - 2313</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="427" type="" size="">
-				<desc></desc>
+			<entry id="427" type="02" size="">
+				<desc>सूचना स्रोत स्मा. - 2313</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="428" type="" size="">
-				<desc></desc>
+			<entry id="428" type="02" size="">
+				<desc>सूचना स्रोत स्मा. - 2313</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="429" type="" size="">
-				<desc></desc>
+			<entry id="429" type="02" size="">
+				<desc>सूचना स्रोत स्मा. - 2313</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="430" type="" size="">
-				<desc></desc>
+			<entry id="430" type="02" size="">
+				<desc>सूचना स्रोत स्मा. - 2313</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
 			</entry>
-			<entry id="4937" type="" size="">
-				<desc></desc>
+			<entry id="4937" type="02" size="">
+				<desc>सूचना स्रोत स्मा. - 2313</desc>
 			</entry>
 		</photo>
 	</media>
@@ -38521,31 +38534,31 @@
 			<entry type="director">नीलम मानसिंह चौधरी</entry>
 		</mdetails>
 		<photo>
-			<entry id="479" type="" size="">
+			<entry id="479" type="02" size="15.5X20.7 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="22024" type="" size="">
+			<entry id="22024" type="02" size="15.5X20.7 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="22025" type="" size="">
+			<entry id="22025" type="02" size="15.5X20.7 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="22026" type="" size="">
+			<entry id="22026" type="02" size="15.5X20.7 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="22027" type="" size="">
+			<entry id="22027" type="02" size="15.5X20.7 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="22028" type="" size="">
+			<entry id="22028" type="02" size="15.5X20.7 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="22029" type="" size="">
+			<entry id="22029" type="02" size="15.5X20.7 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="22030" type="" size="">
+			<entry id="22030" type="02" size="15.5X20.7 से. मी.">
 				<desc></desc>
 			</entry>
-			<entry id="22031" type="" size="">
+			<entry id="22031" type="02" size="15.5X20.7 से. मी.">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -38555,9 +38568,9 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमण्डल</entry>
-			<entry type="drama">भये प्रकट कूपाला दीनदयाला</entry>
+			<entry type="drama">भये प्रकट कृपाला दीनदयाला</entry>
 			<entry type="writer">पु. ल. देशपांडे</entry>
-			<entry type="translation">राहुल बारपुते</entry>
+			<entry type="translator">राहुल बारपुते</entry>
 			<entry type="director">अलखनंदन</entry>
 			<entry type="music">आमोद कृष्ण भट्ट</entry>
 		</mdetails>
@@ -38597,77 +38610,101 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमंडल</entry>
-			<entry type="drama">मटियाबुर्ज</entry>
-			<entry type="writer">अकुतगवा</entry>
+			<entry type="drama">मटियाबुर्ज (हिन्दी)</entry>
+			<entry type="writer">रयुनोशुके अकुतगावा (जपानी कहानी)</entry>
+			<entry type="dramatized">फे. व. माइकेल करिन</entry>
+			<entry type="translation">रमेशचन्द्र शाह</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
+			<entry type="stage">विकार फारुखी</entry>
+			<entry type="light">बेनु गाँगुली</entry>
+			<entry type="artist">सुरेश भारद्वाज (भिक्षु), मांगीलाल शर्मा (लकड़हारा), आलोपी वर्मा (हज़्ज़ाम), विभा मिश्र (हंसा), नीलम मानसिंह चौधरी (हंसा) व अन्य</entry>
+			<entry type="venue">भारत भवन, पूर्वरंग, भोपाल</entry>
+			<entry type="date">1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="478-2c" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="478-2c" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>श्री नेमिचन्द्र जैन से प्राप्त</misc>
 			</entry>
-			<entry id="7770" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7770" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>भारत भवन से प्राप्त</misc>
 			</entry>
-			<entry id="7771" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7771" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="7776" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7776" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="7778" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7778" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="7779" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7779" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>भारत भवन से प्राप्त</misc>
 			</entry>
-			<entry id="7787" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7779-2c" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>विभा मिश्र संग्रह से प्राप्त</misc>
 			</entry>
-			<entry id="7833" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7787" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>भारत भवन से प्राप्त</misc>
 			</entry>
-			<entry id="7834" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7833" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>भारत भवन से प्राप्त</misc>
 			</entry>
-			<entry id="7835" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7834" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>भारत भवन से प्राप्त</misc>
 			</entry>
-			<entry id="7844" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7835" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>भारत भवन से प्राप्त</misc>
 			</entry>
-			<entry id="18654" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7835-2c" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>विभा मिश्र संग्रह से प्राप्त</misc>
 			</entry>
-			<entry id="18655" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="7844" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>भारत भवन से प्राप्त</misc>
 			</entry>
-			<entry id="18656" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="18654" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+				<misc>विभा मिश्र संग्रह से प्राप्त</misc>
 			</entry>
-			<entry id="18657" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="18655" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="18658" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="18656" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="18659" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="18657" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="18660" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="18658" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="18661" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="18659" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="18662" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="18660" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="18663" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="18661" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
-			<entry id="8419" type="" size="">
-				<desc>दो कहानियों पर आधारित</desc>
+			<entry id="18662" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+			</entry>
+			<entry id="18663" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
+			</entry>
+			<entry id="8419" type="01;02" size="">
+				<desc>प्रस्तुत नाटक अकुतगावा की दो कहानियों - `राशोमन' व `एक वनप्रांतर' पर आधारित, सूचना स्रोत स्मा. - 2314</desc>
 			</entry>
 		</photo>
 	</media>
@@ -38694,42 +38731,60 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
-			<entry type="troupe">मध्यप्रदेश रंगमण्डल</entry>
-			<entry type="drama">महानिर्वाण</entry>
-			<entry type="writer">सतीश आलेकर</entry>
+			<entry type="troupe">भारत भवन रंगमण्डल</entry>
+			<entry type="drama">महानिर्वाण (हिन्दी)</entry>
+			<entry type="writer">सतीश आलेकर (मराठी)</entry>
+			<entry type="translator">वसंत देव</entry>
 			<entry type="director">अलखनंदन</entry>
 			<entry type="music">ब. व. कारंत</entry>
+			<entry type="costume">मांगीलाल शर्मा, चित्रा बरनवाल व अन्य</entry>
+			<entry type="make-up">सरोज शर्मा, द्वारिका प्रसाद</entry>
+			<entry type="stage">शरद शबल, जयंत देशमुख</entry>
+			<entry type="light">सुरेश भारद्वाज, विपिन शर्मा</entry>
+			<entry type="artist">ब. व. कारंत (भाऊराव), शोभा (रमा), कमल कुमार (नाना), मांगीलाल शर्मा (जमराजु), आलोक चटर्जी, गोपाल दुबे (दो पागल), सरोज शर्मा (बूढ़ी औरत), चन्द्रा सक्सेना (बहु) व अन्य</entry>
+			<entry type="venue">मंजर थिएटर, प्रगति मैदान, दिल्ली</entry>
+			<entry type="date">21-02-1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="424-2c" type="" size="">
-				<desc></desc>
+			<entry id="424-2c" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
-			<entry id="425" type="" size="">
-				<desc></desc>
+			<entry id="425" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
-			<entry id="4282-2c" type="" size="">
-				<desc></desc>
+			<entry id="4282-2c" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
-			<entry id="4283-2c" type="" size="">
-				<desc></desc>
+			<entry id="4283-2c" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
-			<entry id="4284-2c" type="" size="">
-				<desc></desc>
+			<entry id="4284-2c" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
-			<entry id="4285-2c" type="" size="">
-				<desc></desc>
+			<entry id="4285-2c" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
-			<entry id="4286" type="" size="">
-				<desc></desc>
+			<entry id="4286" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
-			<entry id="7780" type="" size="">
-				<desc></desc>
+			<entry id="7780" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
-			<entry id="7781" type="" size="">
-				<desc></desc>
+			<entry id="7781" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
-			<entry id="7782" type="" size="">
-				<desc></desc>
+			<entry id="7782" type="01;02" size="">
+				<desc>व्यापार मेला प्राधिकरण द्वारा आयोजित समसामयिक नाट्य समारोह में मंचित</desc>
+				<misc>भारत भवन से प्राप्त, नटरंग अंक में प्रकाशित, सूचना स्रोत स्मा. - 1668</misc>
 			</entry>
 		</photo>
 	</media>
@@ -38786,78 +38841,116 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमण्डल</entry>
-			<entry type="drama">मालविकाज्निमित्र</entry>
-			<entry type="writer">कालिदास</entry>
-			<entry type="translation">मदन दोनी</entry>
+			<entry type="drama">मालविकाग्निमित्रम् (बुन्देली)</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
+			<entry type="translation">मदन सोनी</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
+			<entry type="costume">नीलम मानसिंह चौधरी</entry>
+			<entry type="make-up">सरोज शर्मा, गोपाल दुबे</entry>
+			<entry type="stage">आलोपी वर्मा</entry>
+			<entry type="light">सुरेश भारद्वाज</entry>
+			<entry type="song">ध्रुव शुक्ल</entry>
+			<entry type="artist">गणेश चौरसिया (अग्निमित्र), अलका याज्ञनिक (मालविका), आमोद कृष्ण भट्ट (सूत्रधार), आलोक चटर्जी (गुरूजी), सरोज शर्मा (महारानी), संजय मेहता (कंचुकी) व अन्य</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
+			<entry type="date">06-10-1988</entry>
 		</mdetails>
 		<photo>
-			<entry id="431" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="431" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="432" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="432" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="433" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="433" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="434-2c" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="434-2c" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="435" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="435" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="436" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="436" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="437" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="437" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="438-2c" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="438-2c" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7819" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7819" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7839" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7838" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7840" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7839" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7769" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7840" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7772" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7769" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7774" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7772" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7775" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7774" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7790" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7775" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7791" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7790" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7792" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7791" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="8142" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="7792" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="8177" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="8112" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="8420" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="8142" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
-			<entry id="7912" type="" size="">
-				<desc>बुंदेल</desc>
+			<entry id="8177" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
+			</entry>
+			<entry id="8420" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
+			</entry>
+			<entry id="7912" type="01;02" size="">
+				<desc>समकालीन रंग संगीत छ - नाटक और कर्मशाला में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन व भारत भवन से प्राप्त, सूचना स्रोत स्मा. - 2304</misc>
 			</entry>
 		</photo>
 	</media>
@@ -38910,22 +39003,22 @@
 			<entry type="writer">विशाखदत्त</entry>
 		</mdetails>
 		<photo>
-			<entry id="457" type="" size="">
+			<entry id="457" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="458" type="" size="">
+			<entry id="458" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="459" type="" size="">
+			<entry id="459" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="460" type="" size="">
+			<entry id="460" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="461" type="" size="">
+			<entry id="461" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="462" type="" size="">
+			<entry id="462" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -38938,16 +39031,16 @@
 			<entry type="event">रंगशिविर</entry>
 		</mdetails>
 		<photo>
-			<entry id="16789" type="02" size="6.5X6.5">
+			<entry id="16789" type="02" size="6.5X6.5 से. मी.">
 				<desc>श्रीमती रशिम वाजपेयी द्वारा भेंट</desc>
 			</entry>
-			<entry id="16790" type="02" size="6.5X6.5">
+			<entry id="16790" type="02" size="6.5X6.5 से. मी.">
 				<desc>श्रीमती रशिम वाजपेयी द्वारा भेंट</desc>
 			</entry>
-			<entry id="16791" type="02" size="6.5X6.5">
+			<entry id="16791" type="02" size="6.5X6.5 से. मी.">
 				<desc>श्रीमती रशिम वाजपेयी द्वारा भेंट</desc>
 			</entry>
-			<entry id="16792" type="02" size="6.5X6.5">
+			<entry id="16792" type="02" size="6.5X6.5 से. मी.">
 				<desc>श्रीमती रशिम वाजपेयी द्वारा भेंट</desc>
 			</entry>
 		</photo>
@@ -38960,25 +39053,26 @@
 			<entry type="drama">रक्त परिणय</entry>
 			<entry type="writer">लोकी</entry>
 			<entry type="director">राजेन्द्र गुप्त</entry>
+			<entry type="artist">सरोज शर्मा, विभा मिश्र</entry>
 			<entry type="date">19-24 जून 1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="493" type="" size="">
+			<entry id="493" type="02" size="">
 				<desc>ब्लड वैंडिंग पर आधारित</desc>
 			</entry>
-			<entry id="494" type="" size="">
+			<entry id="494" type="02" size="">
 				<desc>ब्लड वैंडिंग पर आधारित</desc>
 			</entry>
-			<entry id="10783" type="" size="">
+			<entry id="10783" type="02" size="">
 				<desc>ब्लड वैंडिंग पर आधारित</desc>
 			</entry>
-			<entry id="10784" type="" size="">
+			<entry id="10784" type="02" size="">
 				<desc>ब्लड वैंडिंग पर आधारित</desc>
 			</entry>
-			<entry id="10786" type="" size="">
+			<entry id="10786" type="02" size="">
 				<desc>ब्लड वैंडिंग पर आधारित</desc>
 			</entry>
-			<entry id="10787" type="" size="">
+			<entry id="10787" type="02" size="">
 				<desc>ब्लड वैंडिंग पर आधारित</desc>
 			</entry>
 		</photo>
@@ -38988,41 +39082,49 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमण्डल</entry>
-			<entry type="drama">वगरो वसंत है</entry>
-			<entry type="writer">शेक्सपियर</entry>
+			<entry type="drama">बगरो बसंत है (हिन्दी)</entry>
+			<entry type="writer">शेक्सपियर (अँग्रेजी)</entry>
+			<entry type="translator">रघुवीर सहाय</entry>
+			<entry type="director">फ्रिट्ज बेनेविट्ज़</entry>
+			<entry type="artdirector">जे. स्वामीनाथन</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="artist">विभा मिश्र, सरोज शर्मा व अन्य</entry>
+			<entry type="book">रंग साक्षी-जयदेव तनेजा, ले., (सूचना स्रोत पुस्तक - नाट्य प्रस्तुतियों की समीक्षा-अनुवीक्षा-रपट)</entry>
+			<entry type="venue">मंजर थियेटर, प्रगति मैदान, दिल्ली</entry>
+			<entry type="date">1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="480" type="" size="">
+			<entry id="480" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+			</entry>
+			<entry id="481" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+			</entry>
+			<entry id="482" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा भेंट</desc>
+			</entry>
+			<entry id="4080" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="481" type="" size="">
+			<entry id="4081" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="482" type="" size="">
+			<entry id="4082" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4080" type="" size="">
+			<entry id="4083" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4081" type="" size="">
+			<entry id="4084" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4082" type="" size="">
+			<entry id="4085" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4083" type="" size="">
+			<entry id="4086" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="4084" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="4085" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="4086" type="" size="">
-				<desc></desc>
-			</entry>
-			<entry id="4087" type="" size="">
+			<entry id="4087" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -39051,10 +39153,10 @@
 		</mdetails>
 		<photo>
 			<entry id="509" type="" size="">
-				<desc>नुक्कड़ रंग मेले में वक्ता गुरुशरण सिंह</desc>
+				<desc>नुक्कड़ रंग मेले में बक्ता गुरुशरण सिंह</desc>
 			</entry>
 			<entry id="514" type="" size="">
-				<desc>नुक्कड़ रंग मेले में वक्ता गुरुशरण सिंह</desc>
+				<desc>नुक्कड़ रंग मेले में बक्ता गुरुशरण सिंह</desc>
 			</entry>
 			<entry id="507" type="" size="">
 				<desc>नुक्कड़ रंग मेला</desc>
@@ -39075,19 +39177,19 @@
 				<desc>नुक्कड़ रंग मेला</desc>
 			</entry>
 			<entry id="513" type="" size="">
-				<desc>समिति की बैठक में अशोक वाजपेयी ब. व. कारंत</desc>
+				<desc>समिति की बैठक में अशोक वाजपेयी, ब. व. कारंत</desc>
 			</entry>
 			<entry id="515" type="" size="">
-				<desc>सफदर हाशामी</desc>
+				<desc>सफदर हाशमी</desc>
 			</entry>
 			<entry id="518" type="" size="">
-				<desc>तिरकुतु-तमिलनाडु, तेरेकुगु-सम्बन्धन</desc>
+				<desc>तिरकुत्तु-तमिलनाडु, तेरेकुत्रु-सम्बन्धन</desc>
 			</entry>
 			<entry id="519" type="" size="">
-				<desc>तिरकुतु-तमिलनाडु, तेरेकुगु-सम्बन्धन</desc>
+				<desc>तिरकुत्तु-तमिलनाडु, तेरेकुत्रु-सम्बन्धन</desc>
 			</entry>
 			<entry id="522" type="" size="">
-				<desc>तिरकुतु-तमिलनाडु, तेरेकुगु-सम्बन्धन</desc>
+				<desc>तिरकुत्तु-तमिलनाडु, तेरेकुत्रु-सम्बन्धन</desc>
 			</entry>
 			<entry id="516" type="" size="">
 				<desc>आज की कथा - प्रवीन गुह</desc>
@@ -39105,54 +39207,81 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमण्डल</entry>
-			<entry type="drama">शस्त्र संतान</entry>
+			<entry type="drama">शस्त्र संतान (हिन्दी)</entry>
 			<entry type="writer">रामेश्वर प्रेम</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
+			<entry type="asstdirector">अमर सिंह लहरे</entry>
+			<entry type="costume">गोविन्द दीक्षित, सरोज शर्मा</entry>
+			<entry type="make-up">अनीता दुबे, गणेश चौरसिया</entry>
+			<entry type="stage">जयंत देशमुख, भूषण भट्ट</entry>
+			<entry type="light">अशोक भगत</entry>
+			<entry type="singer">रमाकान्त गुन्देचा, उगाकांत गुन्देचा</entry>
+			<entry type="artist">अमर सिंह लहरे (उद्‌घोषक), राजकुमार कामले (इन्द्र), आलोक चटर्जी (धृतराष्ट्र), भूषण भट्ट (कृष्ण), गणेश चौरसिया (भीम), अनूप जोशी (अर्जुन), सरोज शर्मा (गाँधारी), विभा मिश्र (हिडिम्बा) व अन्य</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
+			<entry type="date">1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="7777" type="" size="">
-				<desc>भारत भवन द्वारा भेंट</desc>
+			<entry id="7777" type="02" size="">
+				<desc>भारत भवन से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1041</misc>
 			</entry>
-			<entry id="7783" type="" size="">
-				<desc>भारत भवन द्वारा भेंट</desc>
+			<entry id="7783" type="02" size="">
+				<desc>भारत भवन से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1041</misc>
 			</entry>
-			<entry id="7816" type="" size="">
-				<desc>भारत भवन द्वारा भेंट</desc>
+			<entry id="7816" type="02" size="">
+				<desc>भारत भवन से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1041</misc>
 			</entry>
-			<entry id="7818" type="" size="">
-				<desc>भारत भवन द्वारा भेंट</desc>
+			<entry id="7818" type="02" size="">
+				<desc>भारत भवन से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1041</misc>
 			</entry>
-			<entry id="8131" type="" size="">
-				<desc>भारत भवन द्वारा भेंट</desc>
+			<entry id="8131" type="02" size="">
+				<desc>भारत भवन से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1041</misc>
 			</entry>
-			<entry id="8134" type="" size="">
-				<desc>भारत भवन द्वारा भेंट</desc>
+			<entry id="8134" type="02" size="">
+				<desc>भारत भवन से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1041</misc>
 			</entry>
-			<entry id="8144" type="" size="">
-				<desc>भारत भवन द्वारा भेंट</desc>
+			<entry id="8144" type="02" size="">
+				<desc>भारत भवन से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1041</misc>
 			</entry>
-			<entry id="8145" type="" size="">
-				<desc>भारत भवन द्वारा भेंट</desc>
+			<entry id="8145" type="02" size="">
+				<desc>भारत भवन से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1041</misc>
 			</entry>
-			<entry id="8146" type="" size="">
-				<desc>भारत भवन द्वारा भेंट</desc>
+			<entry id="8146" type="02" size="">
+				<desc>भारत भवन से प्राप्त</desc>
+				<misc>सूचना स्रोत स्मा. - 1041</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="01" cid="076.680">
+	<media aid="01" cid="076.680;076.681">
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमण्डल</entry>
-			<entry type="drama">शाकुन्तल</entry>
-			<entry type="writer">कालिदास</entry>
-			<entry type="translation">मोहन राकेश</entry>
-			<entry type="director">सनख्या इवातोम्बी</entry>
+			<entry type="drama">शकुन्तला (हिन्दी)</entry>
+			<entry type="writer">कालिदास (संस्कृत)</entry>
+			<entry type="translator">मोहन राकेश</entry>
+			<entry type="director">सनाख्या इबोतोम्बी</entry>
+			<entry type="costume">विभा मिश्र</entry>
+			<entry type="music">आमोद भट्ट</entry>
+			<entry type="stage">सत्यव्रत राऊत</entry>
+			<entry type="artist">शुभश्री, द्वारिका प्रसाद, गोपाल, सरोज शर्मा, शोभा व विभा मिश्र</entry>
+			<entry type="venue">भारत भवन रंगमण्डल</entry>
+			<entry type="date">1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="503" type="" size="">
-				<desc></desc>
+			<entry id="503" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
+			</entry>
+			<entry id="504" type="02" size="">
+				<desc>नटरंग अंक में प्रकाशित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -39162,24 +39291,24 @@
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमण्डल</entry>
 			<entry type="drama">सराय की मालकिन</entry>
-			<entry type="writer">कार्ली गोल्दोनी</entry>
+			<entry type="writer">कार्लो गोल्दोनी</entry>
 			<entry type="director">ब्रज मोहन शाह</entry>
 			<entry type="music">आमोद भट्ट</entry>
 			<entry type="version">रणवीर सिंह</entry>
-			<entry type="venue">भारत भवन भोपाल</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
 		</mdetails>
 		<photo>
-			<entry id="3660" type="" size="">
+			<entry id="3660" type="01" size="">
 				<desc></desc>
 			</entry>
-			<entry id="21892" type="" size="">
-				<desc></desc>
+			<entry id="21892" type="01" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
-			<entry id="21893" type="" size="">
-				<desc></desc>
+			<entry id="21893" type="01" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
-			<entry id="21894" type="" size="">
-				<desc></desc>
+			<entry id="21894" type="01" size="">
+				<desc>विभा मिश्र संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
@@ -39202,121 +39331,164 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमण्डल</entry>
-			<entry type="drama">स्कंदगुप्त</entry>
+			<entry type="drama">स्कंदगुप्त (हिन्दी)</entry>
 			<entry type="writer">जयशंकर प्रसाद</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
 			<entry type="editor">रामगोपाल बजाज</entry>
-			<entry type="artist">विपिन शर्मा, माधुरी दीक्षित, दिनेश दुबे, जदूमणि, ओमप्रकाश मौर्य</entry>
+			<entry type="scene">रॉबिन दास</entry>
+			<entry type="costume">रॉबिन दास</entry>
+			<entry type="projection">रॉबिन दास</entry>
+			<entry type="costumeassistant">आभा मिश्रा, सरोज शर्मा व अन्य</entry>
+			<entry type="stage">शोभा व सुदामा प्रसाद गोस्वामी</entry>
+			<entry type="artist">विपिन शर्मा (स्कन्दगुप्त), रामप्रसाद मिश्रा (पर्णदत्त), प्रदीप गोस्वामी (प्रपंच बुद्धि), सरोज शर्मा (विजया), विभा मिश्र (देवसेना), माधुरी दीक्षित (मालिनी), दिनेश दुबे (मातृगुप्त), जदूमणि, ओमप्रकाश मौर्य व अन्य</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
+			<entry type="date">1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="448-2c" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="448-2c" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="449" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="449" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="450" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="450" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="435" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="435" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="439-2c" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="439-2c" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="442" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="442" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="453" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="453" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="8422" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="8422" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="8423" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="8423" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="454" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="454" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="2253-2c" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="2253-2c" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="2253-I" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="2253-I" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="447" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="447" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="451" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="451" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="456-2c" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="456-2c" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="7794" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="7794" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="7795" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="7795" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="7796" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="7796" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="7797" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="7797" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="7798" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="7798" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="7836" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="7836" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="7837" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="7837" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="7908" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="7908" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="8108" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="8108" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="8109" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="8109" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="8149-2c" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="8149-2c" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="8150" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="8150" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="440-3c" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="440-3c" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="441-2c" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="441-2c" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="442" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="442" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="443" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="443" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="444" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="444" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="445" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="445" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="446-3c" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="446-3c" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="452-2c" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="452-2c" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
-			<entry id="455" type="" size="">
-				<desc>भारत भवन रंगमण्डल द्वारा भेंट</desc>
+			<entry id="455" type="01;02" size="">
+				<desc>विभा मिश्र संग्रह से भारत भवन से प्राप्त, श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>भारत भवन की दूसरी वर्षगाँठ के उपलभ्य में मंचित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -39325,18 +39497,30 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमण्डल</entry>
-			<entry type="drama">हयवदन</entry>
-			<entry type="writer">गिरीश कार्नाड</entry>
+			<entry type="drama">हयवदन (हिन्दी)</entry>
+			<entry type="writer">गिरीश कार्नाड (कन्नड़)</entry>
 			<entry type="translation">ब. व. कारंत</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
+			<entry type="costume">विभा मिश्र</entry>
+			<entry type="costumeassistant">अनीता दुबे, आशीष कोतवाल</entry>
+			<entry type="make-up">चन्द्रा सक्सेना, गोपाल दुबे</entry>
+			<entry type="stage">जयंत देशमुख, राम प्रसाद मिश्रा</entry>
+			<entry type="light">सत्यव्रत राउत, सुरेश भारद्वाज</entry>
+			<entry type="mask">अब्दुल गफूर</entry>
+			<entry type="musicassistant">आमोद भट्ट, जदुमणि व अन्य</entry>
+			<entry type="artist">विभा मिश्र (पद्मिनी), राम प्रसाद मिश्रा (देवदत्त), शरद शबल (कपिल), द्वारिका प्रसाद (भागवत), शोभा, जावेद ज़ैदी (गुड्डा, गुड़िया), गोपाल दुबे, जदुमणि, जयंत देशमुख, आशीष कोतवाल, सरोज शर्मा व अन्य (नटमंडली)</entry>
+			<entry type="venue">पृथ्वी थिएटर, मुम्बई</entry>
+			<entry type="date">नवंबर 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="7784" type="" size="">
+			<entry id="7784" type="01;02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा.</misc>
 			</entry>
-			<entry id="8417-2c" type="" size="">
+			<entry id="8417-2c" type="01;02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा.</misc>
 			</entry>
 		</photo>
 	</media>
@@ -39345,67 +39529,102 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">भारत भवन रंगमण्डल</entry>
-			<entry type="drama">हयवदन</entry>
+			<entry type="drama">हयवदन (हिन्दी)</entry>
 			<entry type="writer">गिरीश कारनाड</entry>
 			<entry type="director">ब. व. कारंत</entry>
+			<entry type="music">ब. व. कारंत</entry>
+			<entry type="translator">ब. व. कारंत</entry>
+			<entry type="musicassistant">आमोद भट्ट, जदुमणि, द्वारिका प्रसाद व अन्य</entry>
+			<entry type="costume">विभा मिश्र, गोपाल दुबे व अन्य</entry>
+			<entry type="make-up">रामप्रसाद मिश्र, चन्द्रा सक्सेना</entry>
+			<entry type="stage">जयंत देशमुख, रामप्रसाद मिश्र</entry>
+			<entry type="stagecontent">मांगीलाल शर्मा, शोभा</entry>
+			<entry type="light">सुरेश भारद्वाज</entry>
+			<entry type="mask">अब्दुल गफूर</entry>
+			<entry type="artist">प्रभा शर्मा (पदमनी शर्मा), आलोक चटर्जी (देवदत्त), शरद शबल (कपिल), राजकुमार कामले (हयवदन), आभा मिश्र (काली), शोभा (गुड़िया), कुलभूषण दिल्लौरी (गुड्डा), जयंत देशमुख, रामप्रसाद मिश्र, सरोज शर्मा, माधुरी दीक्षित व अन्य (नटमंडल)</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
+			<entry type="date">16-11-1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="463-2c" type="" size="">
+			<entry id="463-2c" type="02" size="">
 				<desc></desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="464" type="" size="">
+			<entry id="464" type="02" size="">
 				<desc></desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="465" type="" size="">
+			<entry id="465" type="02" size="">
 				<desc></desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="466-3c" type="" size="">
+			<entry id="466-3c" type="02" size="">
 				<desc></desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="10788-3c" type="" size="">
+			<entry id="10788-3c" type="02" size="">
 				<desc></desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="467-3c" type="" size="">
+			<entry id="467-3c" type="02" size="">
 				<desc></desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7827" type="" size="">
+			<entry id="7827" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7829" type="" size="">
+			<entry id="7829" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7830" type="" size="">
+			<entry id="7830" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7831" type="" size="">
+			<entry id="7831" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7832" type="" size="">
+			<entry id="7832" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7841" type="" size="">
+			<entry id="7841" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7842" type="" size="">
+			<entry id="7842" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7843" type="" size="">
+			<entry id="7843" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="8118" type="" size="">
+			<entry id="8118" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="7717" type="" size="">
+			<entry id="7717" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="10789" type="" size="">
+			<entry id="10789" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="1066-3c" type="" size="">
+			<entry id="1066-3c" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
-			<entry id="8135" type="" size="">
+			<entry id="1066" type="02" size="">
 				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
+			</entry>
+			<entry id="8135" type="02" size="">
+				<desc>भारत भवन द्वारा भेंट</desc>
+				<misc>सूचना स्रोत स्मा. - 1030</misc>
 			</entry>
 		</photo>
 	</media>
@@ -39537,7 +39756,7 @@
 			<entry type="writer">शेक्सपीयर</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
-			<entry type="original">अंग्रेजी शीर्षक : दिंग लियर</entry>
+			<entry type="title">किंग लियर (अंग्रेजी शीर्षक)</entry>
 			<entry type="event">रजत रंग समारोह 1977</entry>
 		</mdetails>
 		<photo>
@@ -39562,9 +39781,10 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
-			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय</entry>
+			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय प्रथम वर्ष</entry>
 			<entry type="event">अभिनय प्रशिक्षण</entry>
 			<entry type="director">अरविन्द पाण्डे</entry>
+			<entry type="venue">भोपाल</entry>
 			<entry type="date">2011-2012</entry>
 		</mdetails>
 		<photo>
@@ -39575,20 +39795,21 @@
 	</media>
 	<media aid="01" cid="076.705;076.706">
 		<mdetails>
-			<entry type="state">मध्यप्रदेश्र</entry>
+			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
-			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय</entry>
+			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय प्रथम वर्ष</entry>
 			<entry type="drama">गगन दमामा बाज्यौ (हिन्दी)</entry>
-			<entry type="writer">पूयूष मिश्रा</entry>
+			<entry type="writer">पीयूष मिश्रा</entry>
 			<entry type="music">संजय उपाध्याय</entry>
+			<entry type="projection">संजय उपाध्याय</entry>
 			<entry type="director">संजय उपाध्याय</entry>
-			<entry type="asstdirector">फ़ैज भोहम्मद</entry>
-			<entry type="stage">भारएन्दु कश्यप</entry>
+			<entry type="asstdirector">फ़ैज मोहम्मद</entry>
+			<entry type="stage">भारतेन्दु कश्यप</entry>
 			<entry type="costume">विजय तिवारी, रवि शंकर भारती, अमरजी राय व अन्य</entry>
 			<entry type="light">अनूप जोशी (बंटी)</entry>
-			<entry type="artist">अजेश शुक्ला (मार्कण्ड त्रिवेदी), अमरजी राय (रामप्रसाद बिस्मिल), भरत प्रजापति (राजगुरु), हिम्मत बहदुर पुरी (चन्द्रशेखर आज़ाद), रोहित जैन (भगत सिंह), विकास बाहरी (सुखेदेव)</entry>
+			<entry type="artist">अजेश शुक्ला (मार्कण्ड त्रिवेदी), अमरजी राय (रामप्रसाद बिस्मिल), भरत प्रजापति (राजगुरु), हिम्मत बहादुर पुरी (चन्द्रशेखर आज़ाद), रोहित जैन (भगत सिंह), विकास बाहरी (सुखेदेव)</entry>
 			<entry type="venue">अंतरंग, भारत भवन, भोपाल</entry>
-			<entry type="date">17-18 अक्टू 2011</entry>
+			<entry type="date">17-18 अक्टूबर 2011</entry>
 		</mdetails>
 		<photo>
 			<entry id="16234" type="" size="">
@@ -39606,8 +39827,8 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
-			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय</entry>
-			<entry type="event">ग्रूप फोटो - पापिया दासगुप्ता, वरिष्ठ रंगकर्मी के साथ मध्यप्रदेश नाट्य विद्यालय के प्रथम वर्ष छात्र</entry>
+			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय प्रथम वर्ष</entry>
+			<entry type="photo">ग्रूप फोटो - पापिया दासगुप्ता, वरिष्ठ रंगकर्मी के साथ मध्यप्रदेश नाट्य विद्यालय के प्रथम वर्ष छात्र</entry>
 		</mdetails>
 		<photo>
 			<entry id="16226" type="" size="">
@@ -39619,7 +39840,7 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
-			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय</entry>
+			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय प्रथम वर्ष</entry>
 			<entry type="event">बंधेलखण्ड नाट्य प्रशिक्षण यात्रा</entry>
 		</mdetails>
 		<photo>
@@ -39635,7 +39856,7 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
-			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय</entry>
+			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय प्रथम वर्ष</entry>
 			<entry type="drama">माईम मूवमेंट की कक्षा</entry>
 			<entry type="director">मनोज नायर साथ में त्रिपुरारी शर्मा</entry>
 			<entry type="venue">मध्यप्रदेश नाट्य विद्यालय</entry>
@@ -39651,7 +39872,7 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
-			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय</entry>
+			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय प्रथम वर्ष</entry>
 			<entry type="event">रंग संगीत प्रशिक्षण</entry>
 			<entry type="training">अनिल मिश्रा</entry>
 			<entry type="venue">मध्यप्रदेश नाट्य विद्यालय, प्रथम वर्ष</entry>
@@ -39667,10 +39888,10 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
-			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय</entry>
-			<entry type="event">शारीरिक अभिनय प्रशिक्षण, प्रथम वर्ष छात्र</entry>
+			<entry type="troupe">मध्यप्रदेश नाट्य विद्यालय प्रथम वर्ष</entry>
+			<entry type="event">शारीरिक अभिनय प्रशिक्षण</entry>
 			<entry type="director">अनिल रंजन भौमिक</entry>
-			<entry type="artist">मध्यप्रदेश नाट्य विद्यालय</entry>
+			<entry type="artist">मध्यप्रदेश नाट्य विद्यालय, प्रथम वर्ष छात्र</entry>
 		</mdetails>
 		<photo>
 			<entry id="16232" type="" size="">
@@ -39686,34 +39907,34 @@
 			<entry type="event">अभिनय प्रशिक्षण पद्दति</entry>
 		</mdetails>
 		<photo>
-			<entry id="14239" type="" size="">
+			<entry id="14239" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="14240" type="" size="">
+			<entry id="14240" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="14241" type="" size="">
+			<entry id="14241" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="14242" type="" size="">
+			<entry id="14242" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="14243" type="" size="">
+			<entry id="14243" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="14244" type="" size="">
+			<entry id="14244" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="14245" type="" size="">
+			<entry id="14245" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="14246" type="" size="">
+			<entry id="14246" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="14247" type="" size="">
+			<entry id="14247" type="02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="14248" type="" size="">
+			<entry id="14248" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -39752,8 +39973,8 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंग विदूषक</entry>
-			<entry type="drama">तस्वीर</entry>
-			<entry type="director">दनबारी पाल</entry>
+			<entry type="drama">तस्वीर (हिन्दी)</entry>
+			<entry type="director">दरबारी पाल</entry>
 		</mdetails>
 		<photo>
 			<entry id="12411-2c" type="02" size="">
@@ -39805,16 +40026,15 @@
 			<entry type="troupe">रंग विदूषक</entry>
 			<entry type="drama">पंचतंत्र</entry>
 			<entry type="director">बंसी कौल</entry>
-			<entry type="artist"></entry>
 		</mdetails>
 		<photo>
-			<entry id="11621" type="" size="">
+			<entry id="11621" type="01;02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="11622" type="" size="">
+			<entry id="11622" type="01;02" size="">
 				<desc></desc>
 			</entry>
-			<entry id="11623" type="" size="">
+			<entry id="11623" type="01;02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
@@ -39824,23 +40044,25 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंगविदूषक</entry>
-			<entry type="drama">पंचरात्र</entry>
-			<entry type="writer">भास</entry>
-			<entry type="rewriter">राजेश जोशी</entry>
+			<entry type="drama">पंचरात्रम् (हिन्दी)</entry>
+			<entry type="writer">भास (संस्कृत)</entry>
+			<entry type="article">राजेश जोशी व बंसीकौल</entry>
+			<entry type="projection">राजेश जोशी व बंसीकौल</entry>
 			<entry type="director">बंसी कौल</entry>
+			<entry type="date">07-11-1995</entry>
 		</mdetails>
 		<photo>
-			<entry id="20946" type="" size="">
-				<desc></desc>
+			<entry id="20946" type="02" size="">
+				<desc>कालिदास समारोह नवंबर 1995 में मंचित</desc>
 			</entry>
-			<entry id="20968" type="" size="">
-				<desc></desc>
+			<entry id="20968" type="02" size="">
+				<desc>कालिदास समारोह नवंबर 1995 में मंचित</desc>
 			</entry>
-			<entry id="22320" type="" size="">
-				<desc></desc>
+			<entry id="22320" type="02" size="">
+				<desc>कालिदास समारोह नवंबर 1995 में मंचित</desc>
 			</entry>
-			<entry id="4971" type="" size="">
-				<desc></desc>
+			<entry id="4971" type="02" size="">
+				<desc>कालिदास समारोह नवंबर 1995 में मंचित</desc>
 			</entry>
 		</photo>
 	</media>
@@ -39850,13 +40072,45 @@
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंग विदूषक</entry>
 			<entry type="drama">या या या</entry>
+			<entry type="writer">हरि शंकर परसाई</entry>
+			<entry type="director">विजय कुमार</entry>
 		</mdetails>
 		<photo>
-			<entry id="12424c2" type="" size="">
+			<entry id="12424-c2" type="01;02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>कहानी-हम बिहार में चुनाव लड़ रहे है पर आधारित</misc>
 			</entry>
-			<entry id="12431" type="" size="">
+			<entry id="12424" type="01;02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>कहानी-हम बिहार में चुनाव लड़ रहे है पर आधारित</misc>
+			</entry>
+			<entry id="12425" type="01;02" size="">
+				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>कहानी-हम बिहार में चुनाव लड़ रहे है पर आधारित</misc>
+			</entry>
+			<entry id="12426" type="01;02" size="">
+				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>कहानी-हम बिहार में चुनाव लड़ रहे है पर आधारित</misc>
+			</entry>
+			<entry id="12427" type="01;02" size="">
+				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>कहानी-हम बिहार में चुनाव लड़ रहे है पर आधारित</misc>
+			</entry>
+			<entry id="12428" type="01;02" size="">
+				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>कहानी-हम बिहार में चुनाव लड़ रहे है पर आधारित</misc>
+			</entry>
+			<entry id="12429" type="01;02" size="">
+				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>कहानी-हम बिहार में चुनाव लड़ रहे है पर आधारित</misc>
+			</entry>
+			<entry id="12430" type="01;02" size="">
+				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>कहानी-हम बिहार में चुनाव लड़ रहे है पर आधारित</misc>
+			</entry>
+			<entry id="12431" type="01;02" size="">
+				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>कहानी-हम बिहार में चुनाव लड़ रहे है पर आधारित</misc>
 			</entry>
 		</photo>
 	</media>
@@ -39865,25 +40119,39 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंगविदूषक</entry>
-			<entry type="drama">वतन का राग</entry>
+			<entry type="drama">वतन का राग (हिन्दी) (14 ज़ब्तशुदा नज़्मो पर आधारित)</entry>
 			<entry type="writer">सतीश दवे</entry>
 			<entry type="director">अंजना पुरी</entry>
+			<entry type="codirector">सदानन्द पाटील</entry>
+			<entry type="music">अंजना पुरी</entry>
+			<entry type="singer">अंजना पुरी (मुख्य), गेहा दवे, चीना जोगलेकर व अन्य</entry>
+			<entry type="costume">बंसी कौल</entry>
+			<entry type="stage">राजकुमार रायकवाड़</entry>
+			<entry type="make-up">फरीद बज़मी</entry>
+			<entry type="light">फरीद बज़मी</entry>
+			<entry type="writer">नज्में - रामप्रसाद बिस्मिल, रज़ा नक़वी, उस्मान, अज्ञात व अन्य</entry>
+			<entry type="artist">सावन कुमार सौंधिया, वसीम अकरम, राजकुमार रायकवाड़, हर्ष दाण्ड पलकरानी सिंह</entry>
 		</mdetails>
 		<photo>
 			<entry id="12419-2c" type="01" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>सूचना स्रोत - 4899, बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित फोटोज़)</misc>
 			</entry>
 			<entry id="12420" type="01" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>सूचना स्रोत - 4899, बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित फोटोज़)</misc>
 			</entry>
 			<entry id="12421" type="01" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>सूचना स्रोत - 4899, बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित फोटोज़)</misc>
 			</entry>
 			<entry id="12422" type="01" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>सूचना स्रोत - 4899, बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित फोटोज़)</misc>
 			</entry>
 			<entry id="12423-2c" type="01" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (न० 821) के प्रिंटआउट</desc>
+				<misc>सूचना स्रोत - 4899, बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित फोटोज़)</misc>
 			</entry>
 		</photo>
 	</media>
@@ -39892,7 +40160,7 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंगविदूषक</entry>
-			<entry type="drama">वह जो अक्सर झापड खाता है</entry>
+			<entry type="drama">वो जो अक्सर झापड खाता है</entry>
 			<entry type="writer">बंसी कौल</entry>
 			<entry type="director">बंसी कौल</entry>
 			<entry type="date">दिसंबर 1994</entry>
@@ -39908,132 +40176,187 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंग विदूषक</entry>
-			<entry type="drama">वो जो अक्सर झापड़ खाता है</entry>
+			<entry type="drama">वह जो अक्सर झापड़ खाता है (हिन्दी)</entry>
+			<entry type="writer">लियोनिद आन्द्रेयेव (रशियन)</entry>
+			<entry type="translation">एन्ड्रयू आर. मैकेन्ड्रयू (अँग्रेजी), पूर्णचन्द्र रथ</entry>
 			<entry type="director">बंसी कौल</entry>
+			<entry type="music">अंजना पुरी</entry>
+			<entry type="choreography">भरत शर्मा</entry>
+			<entry type="stage">बंसी कौल</entry>
+			<entry type="light">सतीश दवे</entry>
+			<entry type="costume">समूह</entry>
+			<entry type="make-up">फ़रीद बज़मी</entry>
+			<entry type="artist">दरवारी पाल, कन्हैयालाल कैथवास, राजकुमार रायकवाड़ व अन्य</entry>
+			<entry type="date">1994</entry>
 		</mdetails>
 		<photo>
-			<entry id="12465-2c" type="" size="">
-				<desc></desc>
+			<entry id="12465-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12466" type="" size="">
-				<desc></desc>
+			<entry id="12466" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12467-6c" type="" size="">
-				<desc></desc>
+			<entry id="12467-6c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12468" type="" size="">
-				<desc></desc>
+			<entry id="12468" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12469-2c" type="" size="">
-				<desc></desc>
+			<entry id="12469-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12470" type="" size="">
-				<desc></desc>
+			<entry id="12470" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12471" type="" size="">
-				<desc></desc>
+			<entry id="12471" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12472-4c" type="" size="">
-				<desc></desc>
+			<entry id="12472-4c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12473-2c" type="" size="">
-				<desc></desc>
+			<entry id="12473-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12474" type="" size="">
-				<desc></desc>
+			<entry id="12474" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12475" type="" size="">
-				<desc></desc>
+			<entry id="12475" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12476" type="" size="">
-				<desc></desc>
+			<entry id="12476" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12477" type="" size="">
-				<desc></desc>
+			<entry id="12477" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12478" type="" size="">
-				<desc></desc>
+			<entry id="12478" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12479" type="" size="">
-				<desc></desc>
+			<entry id="12479" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12480-2c" type="" size="">
-				<desc></desc>
+			<entry id="12480-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12481-4c" type="" size="">
-				<desc></desc>
+			<entry id="12481-4c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12482-2c" type="" size="">
-				<desc></desc>
+			<entry id="12482-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12483-2c" type="" size="">
-				<desc></desc>
+			<entry id="12483-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12484-4c" type="" size="">
-				<desc></desc>
+			<entry id="12484-4c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12485-2c" type="" size="">
-				<desc></desc>
+			<entry id="12485-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12486" type="" size="">
-				<desc></desc>
+			<entry id="12486" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12487" type="" size="">
-				<desc></desc>
+			<entry id="12487" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12488-2c" type="" size="">
-				<desc></desc>
+			<entry id="12488-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12489" type="" size="">
-				<desc></desc>
+			<entry id="12489" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12490-2c" type="" size="">
-				<desc></desc>
+			<entry id="12490-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12491-4c" type="" size="">
-				<desc></desc>
+			<entry id="12491-4c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12492-2c" type="" size="">
-				<desc></desc>
+			<entry id="12492-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12493-5c" type="" size="">
-				<desc></desc>
+			<entry id="12493-5c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12494-2c" type="" size="">
-				<desc></desc>
+			<entry id="12494-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12495" type="" size="">
-				<desc></desc>
+			<entry id="12495" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12496-2c" type="" size="">
-				<desc></desc>
+			<entry id="12496-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12497" type="" size="">
-				<desc></desc>
+			<entry id="12497" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12498" type="" size="">
-				<desc></desc>
+			<entry id="12498" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12499" type="" size="">
-				<desc></desc>
+			<entry id="12499" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12500" type="" size="">
-				<desc></desc>
+			<entry id="12500" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12501" type="" size="">
-				<desc></desc>
+			<entry id="12501" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12502" type="" size="">
-				<desc></desc>
+			<entry id="12502" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="12503-2c" type="" size="">
-				<desc></desc>
+			<entry id="12503-2c" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="19230" type="" size="">
-				<desc></desc>
+			<entry id="19230" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
-			<entry id="19231" type="" size="">
-				<desc></desc>
+			<entry id="19231" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
+			</entry>
+			<entry id="12468" type="01" size="">
+				<desc>बंसी कौल से प्राप्त फोटो सीडी, परि. सं. 821 के प्रिंट्स</desc>
+				<misc>रा. ना. वि. से प्राप्त फोटोज (स्वर्ण जयंती समारोह में प्रदर्शित फोटो)</misc>
 			</entry>
 		</photo>
 	</media>
@@ -40042,87 +40365,125 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंग विदूषक</entry>
-			<entry type="drama">सच का दूसरा नाम</entry>
+			<entry type="drama">सोच का दूसरा नाम (हिन्दी)</entry>
+			<entry type="writer">सतीश दवे, बंसी कौल</entry>
 			<entry type="director">बंसी कौल</entry>
+			<entry type="codirector">भरत शर्मा</entry>
+			<entry type="music">सुब्रो भट्टाचार्य, विनोद राय व समूह</entry>
+			<entry type="choreography">भरत शर्मा</entry>
+			<entry type="costume">बंसी कौल</entry>
+			<entry type="costumeassistant">कन्हैयालाल कैथवास</entry>
+			<entry type="stage">बंसी कौल</entry>
+			<entry type="light">सतीश दवे एवं बंसी कौल</entry>
+			<entry type="make-up">सतीश दवे एवं समूह</entry>
+			<entry type="mask">सतीश दवे एवं समूह</entry>
+			<entry type="artist">आनन्द जैन, दरबारी पाल, दुष्यंत सिंह, कन्हैयालाल कैथवास, विनोद राय व अन्य</entry>
+			<entry type="date">1993</entry>
 		</mdetails>
 		<photo>
 			<entry id="12432-2c" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12433" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12434" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12435" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12436" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12437" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12438" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12439" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12440" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12441" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12442" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12443" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12444" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12445" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12446" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12447" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12448" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12449" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12450" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12451" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12452" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12453" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12454" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12455" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12456-2c" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 			<entry id="12457" type="02" size="">
 				<desc>बंसी कौल, रंग विदूषक से प्राप्त सीडी (821) के प्रिंटआउट</desc>
+				<misc>बंसी कौल से प्राप्त, रा. ना. वि. से प्राप्त (रा. ना. वि. स्वर्ण जयंती समारोह में मंचित)</misc>
 			</entry>
 		</photo>
 	</media>
@@ -40131,293 +40492,305 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंग विदूषक</entry>
-			<entry type="drama">सीढ़ी दर सीढ़ी तुक्के पे तुक्का</entry>
-			<entry type="director">बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</entry>
+			<entry type="drama">सीढ़ी दर सीढ़ी उर्फ तुक्के पे तुक्का (हिन्दी)</entry>
+			<entry type="writer">ल्यू बाओरूई (चाइनिज़ नी/कॉमिक टेल्स में संकलित लोक कथा `थ्री प्रमोशंस इन सक्सेशन' पर आधारित)</entry>
+			<entry type="article">राजेश जोशी एवं बंसी कौल</entry>
+			<entry type="projection">बंसी कौल</entry>
+			<entry type="director">बंसी कौल</entry>
+			<entry type="asstdirector">फरीद बज़्मी, हर्ष दौण्ड व अन्य</entry>
+			<entry type="music">अंजना पुरी</entry>
+			<entry type="song">राजेश जोशी, बंसी कौल, जीवन लाल वर्मा विद्रोही</entry>
+			<entry type="voice">राघवन वारियर, संजय उपाध्याय</entry>
+			<entry type="singer">अंजना पुरी, प्रवीण महुवाले व अन्य</entry>
+			<entry type="costume">बंसी कौल व अन्य</entry>
+			<entry type="make-up">फरीद बज़्मी व समस्त कलाकार</entry>
+			<entry type="stage">फरीद बज़्मी, विजय गौड़</entry>
+			<entry type="book">अनथक रंगयात्रा-रंगविदूषक के सात नाटक (सूचना स्रोत पुस्तक)</entry>
 		</mdetails>
 		<photo>
-			<entry id="12346" type="01" size="12.6X17.7">
+			<entry id="12346" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12347" type="01" size="12.6X17.7">
+			<entry id="12347" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12348" type="01" size="12.6X17.7">
+			<entry id="12348" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12349" type="01" size="12.6X17.7">
+			<entry id="12349" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12350" type="01" size="12.6X17.7">
+			<entry id="12350" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12351" type="01" size="12.6X17.7">
+			<entry id="12351" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12352" type="01" size="12.6X17.7">
+			<entry id="12352" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12353" type="01" size="12.6X17.7">
+			<entry id="12353" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12354" type="01" size="12.6X17.7">
+			<entry id="12354" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12355" type="01" size="12.6X17.7">
+			<entry id="12355" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12356" type="01" size="12.6X17.7">
+			<entry id="12356" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12357" type="01" size="12.6X17.7">
+			<entry id="12357" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12358" type="01" size="12.6X17.7">
+			<entry id="12358" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12359" type="01" size="12.6X17.7">
+			<entry id="12359" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12360" type="01" size="12.6X17.7">
+			<entry id="12360" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12361" type="01" size="12.6X17.7">
+			<entry id="12361" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12362" type="01" size="12.6X17.7">
+			<entry id="12362" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12363" type="01" size="12.6X17.7">
+			<entry id="12363" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12364" type="01" size="12.6X17.7">
+			<entry id="12364" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12365" type="01" size="12.6X17.7">
+			<entry id="12365" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12366" type="01" size="12.6X17.7">
+			<entry id="12366" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12367" type="01" size="12.6X17.7">
+			<entry id="12367" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12368" type="01" size="12.6X17.7">
+			<entry id="12368" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12369" type="01" size="12.6X17.7">
+			<entry id="12369" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12370" type="01" size="12.6X17.7">
+			<entry id="12370" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12371" type="01" size="12.6X17.7">
+			<entry id="12371" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12372" type="01" size="12.6X17.7">
+			<entry id="12372" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12373" type="01" size="12.6X17.7">
+			<entry id="12373" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12374" type="01" size="12.6X17.7">
+			<entry id="12374" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12375" type="01" size="12.6X17.7">
+			<entry id="12375" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12376" type="01" size="12.6X17.7">
+			<entry id="12376" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12377" type="01" size="12.6X17.7">
+			<entry id="12377" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12378" type="01" size="12.6X17.7">
+			<entry id="12378" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12379" type="01" size="12.6X17.7">
+			<entry id="12379" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12380" type="01" size="12.6X17.7">
+			<entry id="12380" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12381" type="01" size="12.6X17.7">
+			<entry id="12381" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12382" type="01" size="12.6X17.7">
+			<entry id="12382" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12383" type="01" size="12.6X17.7">
+			<entry id="12383" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12384" type="01" size="12.6X17.7">
+			<entry id="12384" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12385" type="01" size="12.6X17.7">
+			<entry id="12385" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12386" type="01" size="12.6X17.7">
+			<entry id="12386" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12387" type="01" size="12.6X17.7">
+			<entry id="12387" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12388" type="01" size="12.6X17.7">
+			<entry id="12388" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12389" type="01" size="12.6X17.7">
+			<entry id="12389" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12390" type="01" size="12.6X17.7">
+			<entry id="12390" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12391" type="01" size="12.6X17.7">
+			<entry id="12391" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12392" type="01" size="12.6X17.7">
+			<entry id="12392" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12393" type="01" size="12.6X17.7">
+			<entry id="12393" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12394" type="01" size="12.6X17.7">
+			<entry id="12394" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12395" type="01" size="12.6X17.7">
+			<entry id="12395" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12396" type="01" size="12.6X17.7">
+			<entry id="12396" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12397" type="01" size="12.6X17.7">
+			<entry id="12397" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12398" type="01" size="12.6X17.7">
+			<entry id="12398" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12399" type="01" size="12.6X17.7">
+			<entry id="12399" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12400" type="01" size="12.6X17.7">
+			<entry id="12400" type="01;02" size="12.6X17.7">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12401" type="01" size="12.6X17.7">
+			<entry id="12401" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12402" type="01" size="12.6X17.7">
+			<entry id="12402" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12403" type="01" size="12.6X17.7">
+			<entry id="12403" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12404" type="01" size="12.6X17.7">
+			<entry id="12404" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="12405" type="01" size="12.6X17.7">
+			<entry id="12405" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19177" type="01" size="12.6X17.7">
+			<entry id="19177" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19178" type="01" size="12.6X17.7">
+			<entry id="19178" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19179" type="01" size="12.6X17.7">
+			<entry id="19179" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19180" type="01" size="12.6X17.7">
+			<entry id="19180" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19181" type="01" size="12.6X17.7">
+			<entry id="19181" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19182" type="01" size="12.6X17.7">
+			<entry id="19182" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19183" type="01" size="12.6X17.7">
+			<entry id="19183" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19184" type="01" size="12.6X17.7">
+			<entry id="19184" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19185" type="01" size="12.6X17.7">
+			<entry id="19185" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19186" type="01" size="12.6X17.7">
+			<entry id="19186" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19187" type="01" size="12.6X17.7">
+			<entry id="19187" type="01;02" size="12.6X17.7">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19188" type="01" size="12.6X17.7">
+			<entry id="19188" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19189" type="01" size="12.6X17.7">
+			<entry id="19189" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19190" type="01" size="12.6X17.7">
+			<entry id="19190" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19191" type="01" size="12.6X17.7">
+			<entry id="19191" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19192" type="01" size="12.6X17.7">
+			<entry id="19192" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19193" type="01" size="12.6X17.7">
+			<entry id="19193" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19194" type="01" size="12.6X17.7">
+			<entry id="19194" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19195" type="01" size="12.6X17.7">
+			<entry id="19195" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19196" type="01" size="12.6X17.7">
+			<entry id="19196" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19197" type="01" size="12.6X17.7">
+			<entry id="19197" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19198" type="01" size="12.6X17.7">
+			<entry id="19198" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19199" type="01" size="12.6X17.7">
+			<entry id="19199" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19200" type="01" size="12.6X17.7">
+			<entry id="19200" type="01;02" size="12.6X17.7">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19201" type="01" size="12.6X17.7">
+			<entry id="19201" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19202" type="01" size="12.6X17.7">
+			<entry id="19202" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19203" type="01" size="12.6X17.7">
+			<entry id="19203" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19204" type="01" size="12.6X17.7">
+			<entry id="19204" type="01;02" size="12.6X17.7">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19205" type="01" size="12.6X17.7">
+			<entry id="19205" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19401" type="01" size="12.6X17.7">
+			<entry id="19401" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19402" type="01" size="12.6X17.7">
+			<entry id="19402" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19403" type="01" size="12.6X17.7">
+			<entry id="19403" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19404" type="01" size="12.6X17.7">
+			<entry id="19404" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19405" type="01" size="12.6X17.7">
+			<entry id="19405" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
-			<entry id="19406" type="01" size="12.6X17.7">
+			<entry id="19406" type="01;02" size="12.6X17.7 से. मी.">
 				<desc>बंसी कौल (रंग विदूषक) द्वारा म. प्र. को भेंट</desc>
 			</entry>
 		</photo>
@@ -40427,7 +40800,7 @@
 			<entry type="state">मध्य प्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंगशिविर ग्रूप</entry>
-			<entry type="drama">पंछी ऎसे उड़ते है</entry>
+			<entry type="drama">पंछी ऐसे उड़ते है</entry>
 			<entry type="director">ब. व. कारंत</entry>
 			<entry type="music">ब. व. कारंत</entry>
 			<entry type="costume">प्रेमा कारंत</entry>
@@ -40435,7 +40808,7 @@
 		</mdetails>
 		<photo>
 			<entry id="3635" type="" size="">
-				<desc></desc>
+				<desc>ब. व. कारंत द्वारा न. प्र. को भेंट, न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -40451,10 +40824,10 @@
 		</mdetails>
 		<photo>
 			<entry id="3176" type="" size="">
-				<desc>(ब. व. कारन्त द्वारा भेंट)</desc>
+				<desc>ब. व. कारन्त द्वारा भेंट</desc>
 			</entry>
 			<entry id="3573" type="" size="">
-				<desc>(ब. व. कारन्त द्वारा भेंट)</desc>
+				<desc>ब. व. कारन्त द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
@@ -40463,49 +40836,52 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">भोपाल</entry>
 			<entry type="troupe">रंगशिविर</entry>
-			<entry type="drama">राजा ऒडिपस (मूज नाटक इडिपस रेक्स)</entry>
-			<entry type="writer">सोफोविलज</entry>
-			<entry type="director">बंसी कौल</entry>
+			<entry type="drama">राजा ओडिपस (हिन्दी) (मूल नाटक इडिपस रेक्स)</entry>
+			<entry type="originaldrama">इडिपस रेक्स</entry>
+			<entry type="writer">सोफोक्लीज़ (ग्रीक)</entry>
+			<entry type="translation">जितेन्द्र नाथ कौशल</entry>
+			<entry type="director">बंसी कौल, रश्मि वाजपेयी, कृष्णकांत शिंदे, अब्दुल रज़्ज़ाक सिद्दीकी</entry>
+			<entry type="date">1977</entry>
 		</mdetails>
 		<photo>
-			<entry id="7952" type="" size="">
-				<desc></desc>
+			<entry id="7952" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="7953" type="" size="">
-				<desc></desc>
+			<entry id="7953" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="7954" type="" size="">
-				<desc></desc>
+			<entry id="7954" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="7955" type="" size="">
-				<desc></desc>
+			<entry id="7955" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="7956" type="" size="">
-				<desc></desc>
+			<entry id="7956" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="7956c3" type="" size="">
-				<desc></desc>
+			<entry id="7956-3c" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="9987c2" type="" size="">
-				<desc></desc>
+			<entry id="9987-2c" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="9988c2" type="" size="">
-				<desc></desc>
+			<entry id="9988-2c" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="9989c2" type="" size="">
-				<desc></desc>
+			<entry id="9989-2c" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="9990c2" type="" size="">
-				<desc></desc>
+			<entry id="9990-2c" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="9991c2" type="" size="">
-				<desc></desc>
+			<entry id="9991-2c" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="9992c2" type="" size="">
-				<desc></desc>
+			<entry id="9992-2c" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
-			<entry id="9987" type="" size="">
-				<desc></desc>
+			<entry id="9987" type="02" size="">
+				<desc>निगेटिव नं. 84, कॉन्टेक्ट शी. नं. 84</desc>
 			</entry>
 		</photo>
 	</media>
@@ -40633,13 +41009,13 @@
 		<mdetails>
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">हरदा</entry>
-			<entry type="troupe">इप्टा</entry>
+			<entry type="troupe">इप्टा (भा. ज. ना. मं.)</entry>
 			<entry type="drama">ताजमहल का टेंडर</entry>
 			<entry type="director">कमलेश सक्सेना</entry>
 		</mdetails>
 		<photo>
 			<entry id="8155" type="" size="">
-				<desc></desc>
+				<desc>न. प्र.</desc>
 			</entry>
 		</photo>
 	</media>
@@ -40648,9 +41024,9 @@
 			<entry type="state">मध्यप्रदेश</entry>
 			<entry type="place">होरंगाबाद</entry>
 			<entry type="troupe">एकलव्य</entry>
-			<entry type="dance">सुदामा के चावल</entry>
+			<entry type="dance">सुदामा के चावल (हिन्दी)</entry>
 			<entry type="event">पॉचवां बाल नाट्योत्सव</entry>
-			<entry type="venue">मुंबैइ</entry>
+			<entry type="venue">मुंबइ</entry>
 			<entry type="date">21-24 जनवरी 2003</entry>
 		</mdetails>
 		<photo>
@@ -40694,10 +41070,10 @@
 			<entry type="date">06-12-1988</entry>
 		</mdetails>
 		<photo>
-			<entry id="11682" type="" size="10.5X15.5">
+			<entry id="11682" type="02" size="10.5X15.5 से. मी.">
 				<desc>पश्चिम क्षेत्र नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="11723" type="" size="10.5X15.5">
+			<entry id="11723" type="02" size="10.5X15.5 से. मी.">
 				<desc>पश्चिम क्षेत्र नाट्य समारोह में मंचित</desc>
 			</entry>
 		</photo>
@@ -40888,48 +41264,54 @@
 			<entry type="drama">घासीराम कोतवाल (मराठी)</entry>
 			<entry type="writer">विजय तेंदुलकर</entry>
 			<entry type="director">जब्बार पटेल</entry>
-			<entry type="artist">मोहन अगाशे व अन्य</entry>
-			<entry type="venue">मंजर थियेटर, दिल्ली</entry>
-			<entry type="date">02-03-1985</entry>
+			<entry type="codirector">सतीश आलेकर</entry>
+			<entry type="music">भास्कर चन्दावरकर</entry>
+			<entry type="costume">जाधव नाट्य संसार, पुणे</entry>
+			<entry type="make-up">निवृत्ति दलवी</entry>
+			<entry type="stage">सुरेश बासले</entry>
+			<entry type="light">समर नाखटे</entry>
+			<entry type="artist">रमेश तिलेकर (घासीराम सबलदास), मोहन अगाशे (नाना फड़नवीस), श्रीराम रानाडे (सूत्रधार), रवीन्द्र साठे (परिवर्शवाक), चन्द्रकांत कोले (मुख्य गायक), स्वरूपा खोपकर, सुजाता वोटन (ललिता गौरी), विद्याधर वोटन (अँग्रेज अॉफिसर) व अन्य</entry>
+			<entry type="venue">मंजर थियेटर, प्रगति मैदान, दिल्ली</entry>
+			<entry type="date">22-03-1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="4220" type="" size="">
+			<entry id="4220" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="4312" type="" size="">
+			<entry id="4312" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="4313" type="" size="">
+			<entry id="4313" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="4314" type="" size="">
+			<entry id="4314" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="4315" type="" size="">
+			<entry id="4315" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="4316" type="" size="">
+			<entry id="4316" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="4317" type="" size="">
+			<entry id="4317" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="4318" type="" size="">
+			<entry id="4318" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="10419-3c" type="" size="">
+			<entry id="10419-3c" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="10670" type="" size="">
+			<entry id="10670" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="16942" type="" size="">
+			<entry id="16942" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="17276" type="" size="">
+			<entry id="17276" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
-			<entry id="17296" type="" size="">
+			<entry id="17296" type="02" size="">
 				<desc>समकालीन नाट्य समारोह में मंचित</desc>
 			</entry>
 		</photo>
