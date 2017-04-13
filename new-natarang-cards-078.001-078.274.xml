@@ -3008,7 +3008,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="078.155">
+	<media aid="03" cid="078.155">
 		<mdetails>
 			<entry type="person">उत्तरा बावकर व एम. के. रैना</entry>
 		</mdetails>
@@ -3474,8 +3474,8 @@
 		<mdetails>
 			<entry type="person">कीर्ति जैन</entry>
 			<entry type="place">दिल्ली : नटरंग प्रतिष्ठान</entry>
-			<entry type="venue">एशियन सेमिनार ऑफ डाक्यूमेंटिंग थियेटर</entry>
-			<entry type="stage">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
+			<entry type="event">एशियन सेमिनार आन डाक्यूमेंटिंग थियेटर</entry>
+			<entry type="venue">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
 			<entry type="date">11-14 अप्रैल 2000</entry>
 		</mdetails>
 		<photo>
@@ -3707,8 +3707,8 @@
 		<mdetails>
 			<entry type="person">कोमल कोठारि</entry>
 			<entry type="place">दिल्ली : नटरंग प्रतिष्ठान</entry>
-			<entry type="venue">एशियन सेमिनार ऑफ डक्यूमेंटिंग थियेटर</entry>
-			<entry type="stage">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
+			<entry type="event">एशियन सेमिनार आन डक्यूमेंटिंग थियेटर</entry>
+			<entry type="venue">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
 			<entry type="date">11-14 अप्रैल 2000</entry>
 		</mdetails>
 		<photo>
@@ -3975,7 +3975,7 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="078.220">
+	<media aid="03" cid="078.220">
 		<mdetails>
 			<entry type="person">गौरी रामनारायण</entry>
 		</mdetails>
@@ -3986,2590 +3986,1009 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.221">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">गौहरबाई</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="22540" type="02" size="">
+				<desc>गायिका</desc>
+				<misc>एन. सी. पी. ए. से प्राप्त</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.222">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ग्लेसी सी. एटिंज़ा</entry>
+			<entry type="place">दिल्ली : नटरंग प्रतिष्ठान</entry>
+			<entry type="event">एशियन सेमिनार आन डाक्यूमेंटिंग थियेटर</entry>
+			<entry type="venue">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
+			<entry type="date">11-14 अप्रैल 2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="7273" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7276" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="04" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="08" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="11" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7318" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7319" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7320" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7321" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7322" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7323" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7325" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7326" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7327" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7328" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7329" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7330" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7331" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7332" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7333" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7334" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7335" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="8919" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="50" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="51" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="52" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="53" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="54" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.223">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">चंद्रमणि नारायण कोहली</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="3779" type="" size="">
+				<desc>चंद्रमणि नारायण कोहली, प्रस्तुति निर्देशक ग्लोब एंड सरस्वती युनिवर्सल आर्ट्स राष्ट्रपति शंकर दयाल शर्मा को भारतीय कला की फिल्म का कैसेट भेंट करते हुए</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.224">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">चतुरंग मोन्त्रीसार्ट</entry>
+			<entry type="place">दिल्ली : नटरंग प्रतिष्ठान</entry>
+			<entry type="event">एशियन सेमिनार आन डाक्यूमेंटिंग थियेटर</entry>
+			<entry type="venue">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
+			<entry type="date">11-14 अप्रैल 2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="7191" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7256" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="53" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="55" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="84" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="54" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7305" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="13" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="8931" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="8932" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="8933" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.225">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="state">चतुरंग मोनर्टीसर्ट (थाईलैंड)</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="6026" type="" size="">
+				<desc>चतुरंग मोनर्टीसर्ट द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.226">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">चारुशीला</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="9866" type="" size="">
+				<desc>नाटक `देशार डाक' में शांती के चरित्र में</desc>
+				<misc>बांग्ला थियेटर की पुरानी अभिनेत्री</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.227">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ची यंग ही</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="22573" type="02" size="">
+				<desc>फिडल संगीतकार</desc>
+				<misc>एशियन सोसायटी ऑफ अमेरिका के परफॉर्मिंग आर्ट्स प्रोग्राम में</misc>
+				<misc>सुरेश अवस्थी संग्रह</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.228">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">चुआ सू पोंग</entry>
+			<entry type="place">दिल्ली : नटरंग प्रतिष्ठान</entry>
+			<entry type="event">एशियन सेमिनार आन डक्यूमेंटिंग थियेटर</entry>
+			<entry type="venue">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
+			<entry type="date">11-14 अप्रैल 2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="7196" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7197" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7254" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="78" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="79" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="8918" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="34" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="35" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="36" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="37" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="38" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.229">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जगदीश चंद्र माथुर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="5975" type="" size="">
+				<desc>हिन्दी नाटककार, अध्येता</desc>
+				<misc>नेमिचन्द्र जैन द्वारा भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.230">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जयशंकर सुंदरी (30 जन. 1889 - 22 जन. 1975)</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="22541" type="02" size="">
+				<desc>नाट्य कलाकार व निर्देशक</desc>
+				<misc>एन. सी. पी. ए. से प्राप्त</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.231">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जयशंकर सुंदरी (व्यक्तिगत)</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17062" type="" size="">
+				<desc>श्रीमूलचंद जयशंकर नायक (गुजराती रंगभूमि के गायक एवं स्त्री पात्र के कुशल कलाकार)</desc>
+				<misc>श्रीमती अनुराधा कपूर द्वारा भेंट</misc>
 			</entry>
+			<entry id="17063" type="" size="">
+				<desc>श्रीमूलचंद जयशंकर नायक (गुजराती रंगभूमि के गायक एवं स्त्री पात्र के कुशल कलाकार)</desc>
+				<misc>श्रीमती अनुराधा कपूर द्वारा भेंट</misc>
+			</entry>
+			<entry id="17064" type="" size="">
+				<desc>श्रीमूलचंद जयशंकर नायक (गुजराती रंगभूमि के गायक एवं स्त्री पात्र के कुशल कलाकार)</desc>
+				<misc>श्रीमती अनुराधा कपूर द्वारा भेंट</misc>
+			</entry>
+			<entry id="17065" type="" size="">
+				<desc>श्रीमूलचंद जयशंकर नायक (गुजराती रंगभूमि के गायक एवं स्त्री पात्र के कुशल कलाकार)</desc>
+				<misc>श्रीमती अनुराधा कपूर द्वारा भेंट</misc>
+			</entry>
+			<entry id="17066" type="" size="">
+				<desc>श्रीमूलचंद जयशंकर नायक (गुजराती रंगभूमि के गायक एवं स्त्री पात्र के कुशल कलाकार)</desc>
+				<misc>श्रीमती अनुराधा कपूर द्वारा भेंट</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.232">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जॉन स्टीनबेक</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="18778" type="02" size="">
+				<desc>माइस एण्ड मैन के लेखक</desc>
+				<misc>नेमिचन्द्र जैन संग्रह</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.233">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">पण्डित जितेन्द्र अभिषेकी</entry>
+			<entry type="event">शास्त्रीय गायन प्रस्तुत करते हुए</entry>
+			<entry type="venue">रवीन्द्र भारती</entry>
+			<entry type="date">18 जून, 1987</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17910" type="" size="">
+				<desc>विविध कला महोत्सव में प्रस्तुति</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.234">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जितेन्द्र कौशल</entry>
+			<entry type="place">दिल्ली : नटरंग प्रतिष्ठान</entry>
+			<entry type="event">एशियन सेमिनार आन डाक्यूमेंटिंग थियेटर</entry>
+			<entry type="venue">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
+			<entry type="date">11-14 अप्रैल 2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="7205" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.235">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जी. वी. मालातम्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17790_2c" type="02" size="">
+				<desc>पुरानी अभिनेत्री (गुब्बी थियेटर)</desc>
+			</entry>
+			<entry id="17791_2c" type="02" size="">
+				<desc>पुरानी अभिनेत्री (गुब्बी थियेटर)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.236">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जी. वी. मालातम्मा, बी. जयश्री एवं जी. वी. स्वर्णम्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17793_2c" type="02" size="">
+				<desc>पुरानी अभिनेत्री (गुब्बी थियेटर)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.237">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जी. वी. मालतम्मा एवं पापम्मा - ?</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17786" type="02" size="">
+				<desc>दशावतार नाटक में (पुरानी अभिनेत्रियॉ) (गुब्बी थियेटर)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.238">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जी. वी. स्वर्णम्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17785_2c" type="02" size="">
+				<desc>अभिनेत्री (गुब्बी थियेटर)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.239">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जी. सी. प्रभावती एवं जॉर्ज इंदिरा पापम्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17788_2c" type="02" size="">
+				<desc>रंगनायकी (गुब्बी थियेटर)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.240">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जी. सुन्दरम्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17789_2c" type="02" size="">
+				<desc>पुरानी अभिनेत्री (गुब्बी थियेटर)</desc>
+			</entry>
+			<entry id="17794_2c" type="02" size="">
+				<desc>पुरानी अभिनेत्री (गुब्बी थियेटर)</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="18378">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">जुलेखा चौधरी (अल्लाना)</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="18378" type="02" size="">
+				<desc>नाट्य एवं प्रकाश निर्देशक</desc>
+				<misc>राष्ट्रीय नाट्य विद्यालय एवं नटरंग प्रतिष्ठान के आयोजन - `एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में' शामिल</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.242;078.243;078.244;078.245;078.246;078.247;078.248;078.249;078.250;078.251;078.252">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ज़ोहरा सैगल</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="22363" type="01;02" size="">
+				<desc>ज़ोहरा सैगल का बचपन</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
 			</entry>
+			<entry id="22364" type="01;02" size="">
+				<desc>ज़ोहरा सैगल का बचपन</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22365" type="01;02" size="">
+				<desc>ज़ोहरा सैगल का बचपन</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22366_3c" type="01;02" size="">
+				<desc>ज़ोहरा सैगल का बचपन</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22368" type="01;02" size="">
+				<desc>ज़ोहरा सैगल का बचपन</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22369" type="01;02" size="">
+				<desc>ज़ोहरा सैगल का बचपन</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22370" type="01;02" size="">
+				<desc>ज़ोहरा सैगल का बचपन</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22371" type="01;02" size="">
+				<desc>जर्मनी में ज़ोहरा सैगल, 1931</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22372" type="01;02" size="">
+				<desc>ज़ोहरा सैगल वृद्धावस्था में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22373" type="01;02" size="">
+				<desc>ज़ोहरा सैगल एक किरदार की भूमिका में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22374" type="01;02" size="">
+				<desc>वृद्धावस्था में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22375" type="01;02" size="">
+				<desc>एक किरदार की भूमिका में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22376" type="01;02" size="">
+				<desc>एक किरदार की भूमिका में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22377" type="01;02" size="">
+				<desc>अपने घर पर</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22378" type="01;02" size="">
+				<desc>अपने घर पर</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22379" type="01;02" size="">
+				<desc>आर्ट प्रदर्शन करते हुए</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22380" type="01;02" size="">
+				<desc>विशेष भाव भंगिमा में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22381" type="01;02" size="">
+				<desc>विशेष भाव भंगिमा में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22382" type="01;02" size="">
+				<desc>विशेष भाव भंगिमा में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22383" type="01;02" size="">
+				<desc>विशेष भाव भंगिमा में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22384" type="01;02" size="">
+				<desc>विशेष भाव भंगिमा में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22385" type="01;02" size="">
+				<desc>पागल औरत की भूमिका में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22386" type="01;02" size="">
+				<desc>विशेष भाव भंगिमा में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22387" type="01;02" size="">
+				<desc>नृत्य करते हुए</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22388" type="01;02" size="">
+				<desc>नृत्य करते हुए</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22389" type="01;02" size="">
+				<desc>विलास में उदय शंकर के साथ नृत्य करते हुए</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22390" type="01;02" size="">
+				<desc>पति कामेश्वर के साथ नृत्य करते हुए</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22391" type="01;02" size="">
+				<desc>नृत्य प्रस्तुति</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22392" type="01;02" size="">
+				<desc>पति कामेश्वर के साथ नृत्य प्रस्तुति</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22393" type="01;02" size="">
+				<desc>नृत्य प्रस्तुति</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22394" type="01;02" size="">
+				<desc>उदय शंकर के साथ नृत्य प्रस्तुति</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22395" type="01;02" size="">
+				<desc>उदय शंकर के बैले ग्रूप के पांस्टर में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22396" type="01;02" size="">
+				<desc>सिम्की एवं उज़रा के साथ नृत्य प्रस्तुति</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22397_2c" type="01;02" size="">
+				<desc>कामेश्वर के साथ लोटस नृत्य प्रस्तुति, 1944</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22398_2c" type="01;02" size="">
+				<desc>डांस क्लास में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22399" type="01;02" size="">
+				<desc>ज़ोहरा सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22400" type="01;02" size="">
+				<desc>ज़ोहरा सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22401" type="01;02" size="">
+				<desc>ज़ोहरा सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22402" type="01;02" size="">
+				<desc>ज़ोहरा सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22403" type="01;02" size="">
+				<desc>ज़ोहरा सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22404" type="01;02" size="">
+				<desc>ज़ोहरा सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22405" type="01;02" size="">
+				<desc>माइकल चेखव (एक्टिंग टीचर) के साथ</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22406" type="01;02" size="">
+				<desc>जोहरा सैगल, उदय शंकर, उजरा बट्ट - एलिस बोनर (Alice Boner) व Beatriee Straight के साथ, इग्लेण्ड में, 1936</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22407" type="01;02" size="">
+				<desc>मित्र स्वेटलेना (अनुवादक) के साथ, 1962</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22408_3c" type="01;02" size="">
+				<desc>पृथ्वीराज कपूर, पृथ्वी थियेटर के सदस्यों के साथ साथ में ज़ोहरा सैगल व उज़रा बट्ट भी, 1950</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22409" type="01;02" size="">
+				<desc>विदेशी ग्रूप के साथ</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22410" type="01;02" size="">
+				<desc>नाट्य प्रस्तुति के बाद ग्रूप में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22411" type="01;02" size="">
+				<desc>नाट्य प्रस्तुति के बाद ग्रूप में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22412" type="01;02" size="">
+				<desc>कविता पाठ करते हुए, बसंत महोत्सव के दौरान, दिल्ली, 1990</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22413" type="01;02" size="">
+				<desc>द गुरु फिल्म में मस्तानी की भूमिका में, 1969</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22414" type="01;02" size="">
+				<desc>लेडी मेरी की भूमिका में, 1934</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22415" type="01;02" size="">
+				<desc>अपस्र्टीम थियेटर में, 1981</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22416" type="01;02" size="">
+				<desc>विनधम (Wyndham) थियेटर के प्राइमरी इंग्लिश क्लास में 1979-1980</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22417" type="01;02" size="">
+				<desc>`भाजी ऑन द बीच में - पुष्पा की भूमिका में, 1992</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22418" type="01;02" size="">
+				<desc>लेडी लिलि चैटर्जी की भूमिका में - ज्वैल इन द काउन, 1984 में</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22419" type="01;02" size="">
+				<desc>पार्टिशन (फिल्म) में, 1987</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22420" type="01;02" size="">
+				<desc>ज़ोहरा सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22421" type="01;02" size="">
+				<desc>ज़ोहरा सैगल हजरा, जकुल्लाह के साथ, 1914</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22422" type="01;02" size="">
+				<desc>उदय शंकर के साथ बाली से वापसी के समय, कोलकता में, 1938</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22423_2c" type="01;02" size="">
+				<desc>कामेश्वर संग ज़ोहरा</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22424" type="01;02" size="">
+				<desc>ज़ोहरा सैगल, किरण सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22425" type="01;02" size="">
+				<desc>लंदन में .............. के साथ, 1965</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22426" type="01;02" size="">
+				<desc>किरण, पवन के साथ व अन्य</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22427" type="01;02" size="">
+				<desc>ज़ोहरा सैगल, किरण व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22428" type="01;02" size="">
+				<desc>ज़ोहरा सैगल, किरण व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22429" type="01;02" size="">
+				<desc>ज़ोहरा सैगल किरण व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22430" type="01;02" size="">
+				<desc>ज़ोहरा व किरण सैगल</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22431" type="01;02" size="">
+				<desc>ज़ोहरा व किरण सैगल</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22432" type="01;02" size="">
+				<desc>पृथ्वीराज कपूर, व किरण सैगल के साथ</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22433" type="01;02" size="">
+				<desc>किरण सैगल के साथ</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22434" type="01;02" size="">
+				<desc>उज़ार बट्ट के साथ</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22435" type="01;02" size="">
+				<desc>ज़ोहरा सहगल, 1930</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22436" type="01;02" size="">
+				<desc>ज़ोहरा सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22437" type="01;02" size="">
+				<desc>कामेश्वर व किरण सैगल</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
+			<entry id="22438" type="01;02" size="">
+				<desc>किरण सैगल व ...</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी 826, 827 के प्रिंट्स</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.253">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ज़ोहरा सैगल के माता-पिता</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="22439" type="02" size="">
+				<desc>खानसाहेब मोहम्मद मुमताजुल्लाह खान नतिका बेगम</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी, 826 के प्रिंट</misc>
+			</entry>
+			<entry id="22440" type="02" size="">
+				<desc>खानसाहेब मोहम्मद मुमताजुल्लाह खान नतिका बेगम</desc>
+				<misc>पृथ्वी थियेटर से प्राप्त फोटो सीडी, 826 के प्रिंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.254">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ज़ोहरा सैगल</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="16461" type="01" size="12 x 18 से. मी.">
+				<desc>ज़ोहरा सैगल बहन उज़रा बट्ट के साथ</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.255">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ज़ोहरा सैगल</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17740" type="" size="">
+				<desc>नाटक और फिल्म कलाकार</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.256">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ज़ोहरा सैगल</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="12510_c2" type="" size="">
+				<desc>व्यक्तिगत तस्वीरें</desc>
+			</entry>
+			<entry id="12516_c2" type="" size="">
+				<desc>व्यक्तिगत तस्वीरें</desc>
 			</entry>
+			<entry id="12536" type="" size="">
+				<desc>व्यक्तिगत तस्वीरें</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.257">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ज्योति बोस</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="18373" type="02" size="">
+				<desc>नृत्यांगना, नाट्य निर्देशक एवं `सूत्रपात' नाट्य संस्था की संस्थापक</desc>
+				<misc>राष्ट्रीय नाट्य विद्यालय एवं नटरंग प्रतिष्ठान के आयोजन `एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में' शामिल</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.258">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ज्योति म्हाप्सेकर (Jyoti Mhapseker)</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="18372" type="02" size="">
+				<desc>नाट्य निर्देशक व सामाजिक कार्यकर्ता</desc>
+				<misc>राष्ट्रीय नाट्य विद्यालय एवं नटरंग प्रतिष्ठान के आयोजन `एशियन महिला नाट्य निर्देशक समारोह `पूर्वा' में' शामिल</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.259">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">ज्योत्सना कृष्ण राव भोले</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17748" type="02" size="">
+				<desc>पुरानी अभिनेत्री</desc>
+				<misc>न. प्र. संग्रह (संगीत नाटक अकादेमी से प्राप्त)</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.260">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">तादाशी ओगावा</entry>
+			<entry type="place">दिल्ली : नटरंग प्रतिष्ठान</entry>
+			<entry type="event">एशियन सेमिनार आन डाक्यूमेंटिंग थियेटर</entry>
+			<entry type="venue">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
+			<entry type="date">11-14 अप्रैल 2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="7178" type="" size="">
 				<desc></desc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="02" cid="">
-		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="7179" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7180" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7181" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7274" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7275" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7289" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7300" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7307" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7309" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7310" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8913" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.261">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">तारासुन्दरी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="9876" type="" size="">
+				<desc>बांग्ला थियेटर की पुरानी अभिनेत्री</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.262">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">तिन्करीदासी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="9877" type="" size="">
+				<desc>नाटक `सदाभर एकादशी' कंचन की भूमिका में</desc>
+				<misc>बांग्ला थियेटर की पुरानी अभिनेत्री</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.263">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">त्रिपुरारी शर्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="3816" type="" size="">
+				<desc>लेखक, निर्देशक</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.264">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">त्रिपुरारी शर्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="10595" type="" size="28.7 x 20.5">
+				<desc>त्रिपुरारी शर्मा का व्यक्तिगत फोटो</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.265">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">त्रिपुरारी शर्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="3816" type="" size="">
+				<desc>व्यक्तिगत फोटोग्राफ</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.266">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">तुषार भद्रे</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="5960" type="" size="">
+				<desc>मराठी नाटककार</desc>
+				<misc>नेमिचन्द्र जैन द्वारा भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.267">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">दत्ता भगत नंद्रेल</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="5977" type="" size="">
+				<desc>मराठी नाटककार, निर्देशक</desc>
+				<misc>नेमिचन्द्र जैन द्वारा भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="10233">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">दांग त माई (वियतनाम)</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="10233" type="02" size="">
+				<desc>वियतनाम नेशनल थियेटर की निर्देशिका एवं मुख्य कलाकार</desc>
+				<misc>राष्ट्रीय नाट्य विद्यालय एवं नटरंग प्रतिष्ठान के आयोजन `एशियन नाट्य निर्देशन समारोह' `पूर्वा' में शामिल</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.269">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">दुर्गा खोटे (14 जन. 1905 - 22 सित. 1991)</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="22546" type="02" size="">
+				<desc>हिन्दी - मराठी सिने व नाट्य कलाकार</desc>
+				<misc>एन. सी. पी. ए. से प्राप्त</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="01" cid="078.270">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="drama">दुलारी बाई</entry>
+			<entry type="director">एस. वासुदेव</entry>
+			<entry type="actor">सुरेश सिंधु, वासुदेव भट्ट, अर्चना शर्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="8308" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.271">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">दिनेश खन्ना शशि कपूर के साथ</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="21246" type="01" size="">
+				<desc>1989 नाट्य उत्सव के दौरान</desc>
+				<misc>अंक से प्राप्त फोटो</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.272">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">देव महापात्र</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="5955" type="" size="">
+				<desc>मंच सज्जा, निर्माण विशेषज्ञ, अध्यापक</desc>
+				<misc>नेमिचन्द्र जैन द्वारा भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.273">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">देवेन्द्र भूषण गुप्ता</entry>
+			<entry type="place">दिल्ली : नटरंग प्रतिष्ठान</entry>
+			<entry type="event">एशियन सेमिनार आन डाक्यूमेंटिंग थियेटर</entry>
+			<entry type="venue">इंडिया इन्टरनेशनल सेंटर, दिल्ली</entry>
+			<entry type="date">11-14 अप्रैल 2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="7209" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="7277" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7317" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8906" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="7182" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="02" cid="">
+	<media aid="03" cid="078.274">
 		<mdetails>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troupe"></entry>
-			<entry type="dance"></entry>
+			<entry type="person">धर्मवीर भारती</entry>
+			<entry type="place">दिल्ली : राष्ट्रीय नाट्य विद्यालय</entry>
+			<entry type="event">दीक्षांत समारोह</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="4056" type="" size="">
+				<desc>धर्मवीर भारती दीक्षांत समारोह में बोलते हुए</desc>
 			</entry>
 		</photo>
 	</media>
