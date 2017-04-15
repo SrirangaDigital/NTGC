@@ -1,0 +1,8130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE natarang SYSTEM "natarang.dtd">
+
+<natarang>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="film">अंधेर नगरी</entry>
+			<entry type="actor">भारतेन्दु हरीश्चन्द्र</entry>
+			<entry type="director">विभा मिश्र</entry>
+			<entry type="version">विभा मिश्र</entry>
+		</mdetails>
+		<photo>
+			<entry id="772" type="" size="28 पृ.; 22 x 3 से. मी.">
+				<desc>विभा मिश्रा संग्रह</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.002">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">हजारी प्रसाद द्विवेदी अनु. रामेश्वर प्रेम</entry>
+			<entry type="subject">अनामदास का पोथा</entry>
+		</mdetails>
+		<photo>
+			<entry id="864" type="" size="">
+				<desc>टाइप्ड, लूज़ लीफ अवस्था में</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+				<misc>रामेश्वर प्रेम के नाम ब. व. कारंत का पत्र भी शामिल</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.003">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">अलीबाबा</entry>
+		</mdetails>
+		<photo>
+			<entry id="894" type="" size="34.5 x 21 से. मी., 86 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.004">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">अल्लामा इकबाल</entry>
+			<entry type="subject">बच्चों के लिए नज़में (उर्दू-हिन्दी)</entry>
+		</mdetails>
+		<photo>
+			<entry id="832" type="" size="21 x 30 से. मी., 26 पृ.">
+				<desc>फोटोकॉपी</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.005">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="editor">अशोक वाजपेयी, सोमदत्त व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="883" type="" size="।। पृ., 35.5 x 21.5 से. मी.">
+				<desc>पूर्वग्रह, साक्षात्कार, कलावार्ता, इसलिएअ, अंततः, आवेग, तेवर, तनाव, पहल एवं चौमासा का संयुक्तांक</desc>
+				<misc>टाइप्ड, स्टैप्पल्ड</misc>
+				<misc>अधूरे पृष्ठ</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.006">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">आदित्य अग्निहोत्री</entry>
+			<entry type="subject">सष्ट्रा</entry>
+		</mdetails>
+		<photo>
+			<entry id="834" type="" size="21.5 x 30 से. मी., 13 पृ.">
+				<desc>फोटोकॉपी (पुस्तक की)</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.007">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">आशा की कहानी</entry>
+		</mdetails>
+		<photo>
+			<entry id="828" type="" size="31 x 21.5 से. मी. 21 पृ.">
+				<desc>हस्तलिखित एवं प्रिंटिड कतरनॊं में</desc>
+				<misc>अधूरा आलेख</misc>
+				<misc>विभा मिश्रा संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.008">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">इन प्रश्न का उत्तर दो खन्ना</entry>
+		</mdetails>
+		<photo>
+			<entry id="877" type="" size="">
+				<desc>डाइप्ड</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.009">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रत्नाकर मतकरी</entry>
+			<entry type="subject">इन्द्र का आसन नारद की चोरी</entry>
+		</mdetails>
+		<photo>
+			<entry id="831" type="" size="31 x 21.5 से. मी., 11 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.010">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">उपल, आलोक शर्मा व अन्य</entry>
+			<entry type="subject">कुहरे के बाहर हाथ व अन्य कवितायें</entry>
+		</mdetails>
+		<photo>
+			<entry id="878" type="" size="9 पृ., 29.5 x 21 से. मी.">
+				<desc>टाइप्ड एवं फोटोकॉपी</desc>
+				<misc>तिर्यक पत्रिका, संपा. सुबास सिन्हा जन. - फर. 1975</misc>
+			</entry>
+			<entry id="879" type="" size="9 पृ., 29.5 x 21 से. मी.">
+				<desc>टाइप्ड एवं फोटोकॉपी</desc>
+				<misc>तिर्यक पत्रिका, संपा. सुबास सिन्हा जन. - फर. 1975</misc>
+			</entry>
+			<entry id="880" type="" size="9 पृ., 29.5 x 21 से. मी.">
+				<desc>टाइप्ड एवं फोटोकॉपी</desc>
+				<misc>तिर्यक पत्रिका, संपा. सुबास सिन्हा जन. - फर. 1975</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.011">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">उरुभंगम्</entry>
+			<entry type="translation">भारत भूषण अग्रवाल भास</entry>
+		</mdetails>
+		<photo>
+			<entry id="852" type="" size="19.5 x 15.5 से. मी., 16 पृ.">
+				<desc>हस्तलिखित</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.012">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">एक नहीं था अफलातून</entry>
+			<entry type="person">रमेश दवे</entry>
+		</mdetails>
+		<photo>
+			<entry id="836" type="" size="29.5 x 21 से. मी., 18 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.013">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">औरत</entry>
+			<entry type="editor">रुस्तम सहगल व लाड्लू हमकलम</entry>
+		</mdetails>
+		<photo>
+			<entry id="882" type="" size="">
+				<desc>हस्तलिखित फोटोकॉपी</desc>
+				<misc>लूज़ लीफ</misc>
+				<misc>समकालीन लेखक संघ हमकलम द्वारा प्रकाशित</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.014">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">कंजूस</entry>
+			<entry type="conversion">हजरत आवारा मोलियर</entry>
+		</mdetails>
+		<photo>
+			<entry id="842" type="" size="35.5 x 22.5 से. मी., 51 पृ.">
+				<desc>टंकित</desc>
+				<misc>आंशिक लेमिनेटिड</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.015">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">कवि कचहरी</entry>
+			<entry type="person">गोपालदत्त शर्मा</entry>
+		</mdetails>
+		<photo>
+			<entry id="871" type="" size="6 पृ., 34.5 x 21 से. मी.">
+				<desc>टाइप्ड (फोटोकॉपी)</desc>
+				<misc>अधूरा</misc>
+				<misc>गोपालदत्त शर्मा द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.017">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">कागज के फूल (तुकबंदी)</entry>
+		</mdetails>
+		<photo>
+			<entry id="875" type="" size="104 पृ., 34 x 20.5 से. मी.">
+				<desc>1958</desc>
+				<misc>हस्तलिखित, क्सैच सहित</misc>
+				<misc>लूज़ लीफ</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.018">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">काव्य संग्रह</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+		</mdetails>
+		<photo>
+			<entry id="851" type="" size="19.5 x 14 से. मी., 61 पृ.">
+				<desc>हस्तलिखित (डायरी), 1972</desc>
+				<misc>काव्य संग्रह में - निरापद, रांत्र, बंगाल का जादू सहित 33  कविताऍ</misc>
+				<misc>कटी-फटी अवस्था में</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.018">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">काव्य संग्रह</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+		</mdetails>
+		<photo>
+			<entry id="853" type="" size="20 x 13.5 से. मी., 81 पृ.">
+				<desc>हस्तलिखित</desc>
+				<misc>मुक्ति का दिन, पिकनिक पर, अगति व अन्य कविताऍ शामिल</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.019">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">काव्य संग्रह</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+		</mdetails>
+		<photo>
+			<entry id="850" type="" size="20 x 15 से. मी., 109 पृ.">
+				<desc>हस्तलिखित (डायरी), 1938</desc>
+				<misc>काव्य संग्रह - छायालोक, दीपान्विता, छवि के बंधन</misc>
+				<misc>कटी-फटी अवस्था में</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.020">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+		</mdetails>
+		<photo>
+			<entry id="895" type="" size="">
+				<desc>कुऍ में कोई गिर गया है (विजयदेव नारायण साही, भारतेन्दु हरिश्चन्द्र, कॅुवर नारायण आदि की कविताओं पर आधारित) विभा मिश्र</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.021">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">कुऍ में कोई गिर गया है</entry>
+			<entry type="person">विजयदेव नारायण साही व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="837" type="" size="30 x 22 से. मी., 35 पृ.">
+				<desc>टाइप्ड व हस्तलिखित</desc>
+				<misc>लेमिनेटिड</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.022">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">कुहरे के बाहर हाथ व अन्य कवितायें</entry>
+			<entry type="person">उपल, आलोक शर्मा व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="878" type="" size="">
+				<desc>टाइप्ड एवं फोटोकॉपी</desc>
+				<misc>तिर्यक पत्रिका, संपा. सुबास सिन्हा जन. - फर. 1975</misc>
+			</entry>
+			<entry id="879" type="" size="">
+				<desc>टाइप्ड एवं फोटोकॉपी</desc>
+				<misc>तिर्यक पत्रिका, संपा. सुबास सिन्हा जन. - फर. 1975</misc>
+			</entry>
+			<entry id="880" type="" size="">
+				<desc>टाइप्ड एवं फोटोकॉपी</desc>
+				<misc>तिर्यक पत्रिका, संपा. सुबास सिन्हा जन. - फर. 1975</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.023">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">खन्ना</entry>
+			<entry type="subject">इन प्रश्न का उत्तर दो</entry>
+		</mdetails>
+		<photo>
+			<entry id="877" type="" size="।। पृ., 34 x 21 से. मी.">
+				<desc>टाइप्ड</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.024">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">खुले मैदान में (कविता संग्रह)</entry>
+			<entry type="editor">सत्यपाल सहगल हमकलम</entry>
+		</mdetails>
+		<photo>
+			<entry id="884" type="" size="">
+				<desc>हस्तलिखित फोटोकॉपी</desc>
+				<misc>लूज़ लीफ</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.025">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">द गिफ्ट</entry>
+			<entry type="translation">सुभाष उद्गाता व अनित दुबे, मारियो फ्रांती</entry>
+		</mdetails>
+		<photo>
+			<entry id="839" type="" size="30 x 21.5 से.  मी. 21 पृ.">
+				<desc>टंकित</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.026">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">कवि कचहरी</entry>
+			<entry type="person">गोपालदत्त शर्मा</entry>
+		</mdetails>
+		<photo>
+			<entry id="871" type="" size="6 पृ. 34.5 x 21 से. मी.">
+				<desc>टाइप्ड (फोटोकॉपी)</desc>
+				<misc>अधूरा</misc>
+				<misc>गोपालदत्त शर्मा द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.027">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">भ्रमर गीत - महाकवियों की वाणी के आधार पर एक रूपक</entry>
+			<entry type="person">गोपालदत्त शर्मा</entry>
+		</mdetails>
+		<photo>
+			<entry id="872" type="" size="8 पृ., 34.5 x 21 से. मी.">
+				<desc>टाइप्ड (फोटोकॉपी)</desc>
+				<misc>अधूरा</misc>
+				<misc>गोपालदत्त शर्मा द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.028">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">घर</entry>
+			<entry type="person">श्रीकांत वर्मा</entry>
+			<entry type="screen-play">राजेश जोशी</entry>
+			<entry type="director">विभा मिश्र</entry>
+			<entry type="presenter">विभा मिश्र</entry>
+		</mdetails>
+		<photo>
+			<entry id="833" type="" size="22.5 x 28.5 से. मी., 26 पृ.">
+				<desc>टाइप्ड व हस्तलिखित</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.029">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">हो होलीका</entry>
+			<entry type="person">चन्द्रबदन मेहता</entry>
+		</mdetails>
+		<photo>
+			<entry id="861" type="" size="32.5 x 20.5 से. मी., 12 पृ.">
+				<desc>टाइप्ड, कटी-फटी अवस्था में</desc>
+				<misc>बिना लेमिनेशन के</misc>
+				<misc>कीर्ति जैन संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.030">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">चित्रांगदा</entry>
+			<entry type="translation">भारत भूषण अग्रवाल रवीन्द्रनाथ ठाकुर</entry>
+		</mdetails>
+		<photo>
+			<entry id="876" type="" size="29 पृ., 33 x 20.5 से. मी.">
+				<desc>हस्तलिखित, लूज़ लीफ</desc>
+				<misc>भारत भूषण संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.031">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">टूटने से पहले</entry>
+			<entry type="person">विजय कुमार मधु</entry>
+		</mdetails>
+		<photo>
+			<entry id="846" type="" size="33 x 23 से. मी., 10 पृ.">
+				<desc>एकांकी</desc>
+				<misc>टाइप्ड व लेमिनेटिड</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.032">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">थीम की घुटन</entry>
+			<entry type="person">मणि मधुकर</entry>
+		</mdetails>
+		<photo>
+			<entry id="845" type="" size="33.5 x 22.5 से. मी., 7 पृ.">
+				<desc>एकांकी</desc>
+				<misc>टाइप्ड व लेमिनेटिड</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.033">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">यह ज़िन्दगी है कौम की (नुक्कड़ नाटक)</entry>
+			<entry type="person">दयाप्रकाश सिन्हा</entry>
+		</mdetails>
+		<photo>
+			<entry id="830" type="" size="30 x 21.5 से. मी., 13 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.034">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">दास्तान तबाह औरत की</entry>
+		</mdetails>
+		<photo>
+			<entry id="856" type="" size="14 पृ., 29.5 x 21 से. मी.">
+				<desc>हस्तलिखित</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.035">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">राजा का न्याय/न्याय का तराजू</entry>
+			<entry type="conversion">नीलेश रघुवंशी</entry>
+		</mdetails>
+		<photo>
+			<entry id="829" type="" size="30 x 21.5 से. मी., 6 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.036">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+		</mdetails>
+		<photo>
+			<entry id="883" type="" size="">
+				<desc>पूर्वग्रह, साक्षात्कार, कलावार्ता, इसलिएअ, अंतत : आवेग, तेवर, तनाव, पहल एवं चौमासा का संयुक्तांक अशोक वाजपेयी, सोमदत्त व अन्य, संपा.</desc>
+				<misc>टाइप्ड, स्टैप्पल्ड</misc>
+				<misc>अधूरे पृंष्ठ</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.037">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">बच्चों के लिए नज़में (उर्द-हिन्दी)</entry>
+			<entry type="person">अल्लामा इकबाल</entry>
+		</mdetails>
+		<photo>
+			<entry id="832" type="" size="21 x 30 से. मी., 26 पृ.">
+				<desc>फोटोकॉपी</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.038">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">बर्टोल्ट ब्रेख्त</entry>
+			<entry type="subject">मिकी चक्कूबाज, गुडवूमन ऑफ सेटज़ुआन, आरतुरो - उई, मदर करेज आदि</entry>
+		</mdetails>
+		<photo>
+			<entry id="860" type="" size="34.5 x 21.5 से.  मी. कुल पृ. 56">
+				<desc>टाइप्ड, लूज़ लीफ</desc>
+				<misc>बेख्त ऑन ट्रायल, निर्देशक - फिट्ज बेनेविटज, में शामिल आलेख</misc>
+				<misc>कीर्ति जैन संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.039">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">बलराज पण्डित</entry>
+			<entry type="subject">भरत वाक्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="847" type="" size="17.5 x 14 से. मी., 53 पृ.">
+				<desc>हस्तलिखित (मूल)</desc>
+				<misc>बलराज पण्डित द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.040">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">बलराज पण्डित</entry>
+			<entry type="subject">भरत वाक्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="844" type="" size="21.5 x 30.5 से. मी., 52 पृ.">
+				<desc>हस्तलिखित फोटोकॉपी</desc>
+				<misc>बलराज पण्डित द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.041">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">बेन जान्सन</entry>
+			<entry type="translation">रामेश्वर प्रेम वालपोनी या लोमड़ी</entry>
+		</mdetails>
+		<photo>
+			<entry id="863" type="" size="116 पृ., 35.5 x 21 से. मी.">
+				<desc>टाइप्ड, लूज़ लीफ अवस्था में</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.042">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">भरत वाक्य</entry>
+			<entry type="person">बलराज पण्डित</entry>
+		</mdetails>
+		<photo>
+			<entry id="847" type="" size="17.5 x 14 से. मी., 53 पृ.">
+				<desc>हस्तलिखित (मूल) (नोट बुक में)</desc>
+				<misc>बलराज पण्डित द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.043">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">भरत वाक्य</entry>
+			<entry type="person">बलराज पण्डित</entry>
+		</mdetails>
+		<photo>
+			<entry id="844" type="" size="21.5 x 30.5 से. मी., 52 पृ.">
+				<desc>हस्तलिखित फोटोकॉपी</desc>
+				<misc>बलराज पण्डित द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.044">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">काव्य संग्रह</entry>
+		</mdetails>
+		<photo>
+			<entry id="853" type="" size="20 x 13.5 से. मी., 81 पृ.">
+				<desc>हस्तलिखित</desc>
+				<misc>मुक्ति का दिन, पिकनिक पर, अगति व अन्य कविताएॅ शामिल</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.045">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">काव्य संग्रह</entry>
+		</mdetails>
+		<photo>
+			<entry id="851" type="" size="19.5 x 14 से. मी., 61 पृ.">
+				<desc>हस्तलिखित (डायरी), 1972</desc>
+				<misc>काव्य संग्रह में - निरापद, यंत्र, बंगाल का जादू सहित 33 कविताएॅ</misc>
+				<misc>कटी-फटी अवस्था में</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.046">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">काव्य संग्रह</entry>
+		</mdetails>
+		<photo>
+			<entry id="849" type="" size="114 पृ. 20 x 13 से. मी.">
+				<desc>हस्तलिखित (डायरी) (1948)</desc>
+				<misc>काव्य संग्रह - छवि के बन्धन (1941), जागते रहो (1942), तार सप्तक (1944), मुक्तिमार्ग (1947), लगभग 150 कविताएॅ,</misc>
+				<misc>कटी-फटी स्थिति में</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.047">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">काव्य संग्रह</entry>
+		</mdetails>
+		<photo>
+			<entry id="850" type="" size="20 x 15 से. मी., 109 पृ.">
+				<desc>हस्तलिखित (डायरी), 1938</desc>
+				<misc>काव्य संग्रह - छायालोक, दीपान्विता, छवि के बंधन</misc>
+				<misc>कटी-फटी अवस्था में</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.048">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">नई कविता का संदर्भ (लेख)</entry>
+		</mdetails>
+		<photo>
+			<entry id="892" type="" size="7 पृ., 28.5 x 21.5 से. मी.">
+				<misc>हस्तलिखित, लूज़ लीफ (कटी-फटी अवस्था में)</misc>
+				<misc>भारत भूषण अग्रवाल संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.049">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">लौटती लहरों की  बॉसुरी - भाग - 3</entry>
+		</mdetails>
+		<photo>
+			<entry id="826" type="" size="20 पृ., 21 x 17 से. मी.">
+				<desc>हस्तलिखित</desc>
+				<misc>करेक्शन सहित</misc>
+				<misc>भारत भूषण अग्रवाल संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.050">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">लौटती लहरों की  बॉसुरी - भाग - 2</entry>
+		</mdetails>
+		<photo>
+			<entry id="825" type="" size="64 पृ., 21 x 17 से. मी.">
+				<desc>हस्तलिखित</desc>
+				<misc>करेक्शन सहित</misc>
+				<misc>भारत भूषण अग्रवाल संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.051">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">लौटती लहरों की  बॉसुरी - भाग - 1</entry>
+		</mdetails>
+		<photo>
+			<entry id="824" type="" size="64 पृ., 21 x 17 से. मी.">
+				<desc>हस्तलिखित</desc>
+				<misc>करेक्शन सहित</misc>
+				<misc>भारत भूषण अग्रवाल संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.052">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">हंसों की मौत</entry>
+		</mdetails>
+		<photo>
+			<entry id="827" type="" size="">
+				<desc>हस्तलिखित</desc>
+				<misc>भारत भूषण अग्रवाल संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.054">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">मधुरिमा (काव्य संग्रह)</entry>
+		</mdetails>
+		<photo>
+			<entry id="854" type="" size="20.5 x 16 से. मी. 92 पृ.">
+				<desc>हस्तलिखित, 1937</desc>
+				<misc>काव्य संग्रह में - कलाकार से, ताज से प्रश्न, दीपमाला व अन्य काव्य</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="translation">(पद्यांतर) भास - उरुभंगम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="852" type="" size="19.5 x 15.5 से. मी. 16 पृ.">
+				<desc>हस्तलिखित</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.055">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="translation">रवीन्द्रनाथ ठाकुर</entry>
+			<entry type="subject">चित्रांगदा</entry>
+		</mdetails>
+		<photo>
+			<entry id="876" type="" size="29 पृ., 33 x 20.5 से. मी.">
+				<desc>हस्तलिखित, लूज़ लीफ</desc>
+				<misc>भारत भूषण संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.056">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">भ्रमर गीत - महाकवियों की वाणी के आधार पर एक रूपक</entry>
+		</mdetails>
+		<photo>
+			<entry id="872" type="" size="8 पृ., 34.5 x 21 से. मी.">
+				<desc>टाइप्ड (फोटोकॉफी)</desc>
+				<misc>अधूरा</misc>
+				<misc>गोपालदत्त शर्मा द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.057">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">मणि मधुकर</entry>
+			<entry type="subject">थीम की घुटन</entry>
+		</mdetails>
+		<photo>
+			<entry id="845" type="" size="33.5 x 22.5 से. मी., 7 पृ.">
+				<desc>एकांकी</desc>
+				<misc>टाइप्ड व लेमिनेटिड</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.058">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">भारत भूषण अग्रवाल</entry>
+			<entry type="subject">मधुरिमा (काव्य संग्रह)</entry>
+		</mdetails>
+		<photo>
+			<entry id="854" type="" size="">
+				<desc>हस्तलिखित, 1937</desc>
+				<misc>काव्य संग्रह में - कलाकार से, ताज से प्रश्न, दीपमाला व अन्य काव्य</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.059">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">माध्यप्रदेश पर फिल्म (सीन वर्क)</entry>
+			<entry type="person">विभा मिश्र</entry>
+		</mdetails>
+		<photo>
+			<entry id="873" type="" size="30 पृ., 21 x 34.5 से. मी.">
+				<desc>विभा मिश्र संग्रह</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.060">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">मारियो फ्रांती</entry>
+			<entry type="subject">द गिफ्ट</entry>
+			<entry type="translation">सुभाष उद्गाता व अनिता दुबे</entry>
+		</mdetails>
+		<photo>
+			<entry id="839" type="" size="30 x 21.5 से. मी., 21 पृ.">
+				<desc>टंकित</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.061">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">मास्टर फिदा हुसैन : पारसी रंगमंच के महान प्रणेता (जीवनवृत)</entry>
+		</mdetails>
+		<photo>
+			<entry id="848" type="" size="32 x 23.5 से. मी., 12 पृ.">
+				<desc>टाइप्ड, लेमिनेटिड</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.062">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">मिथ्याभिमान</entry>
+		</mdetails>
+		<photo>
+			<entry id="843" type="" size="36 x 22 से. मी., 17 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>करेक्शन सहित</misc>
+				<misc>लेमिनेटिड</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.063">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">मुर्ख पण्डित/शास्त्र देखो शास्त्र</entry>
+		</mdetails>
+		<photo>
+			<entry id="835" type="" size="21.5 x 30 से. मी., 28 पृ.">
+				<desc>प्रिन्ट फॉर्म में</desc>
+				<misc>डायरेक्शन एडिटिंग के साथ</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.064">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">मोलियर</entry>
+			<entry type="subject">कंजूस</entry>
+			<entry type="conversion">हजरत आवारा</entry>
+		</mdetails>
+		<photo>
+			<entry id="842" type="" size="35.5 x 22.5 से. मी., 51 पृ.">
+				<desc>टंकित</desc>
+				<misc>आंशिक लेमिनेटिड</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.065">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">मैक्सिम गोर्की</entry>
+			<entry type="subject">मॉ</entry>
+		</mdetails>
+		<photo>
+			<entry id="890" type="" size="54 पृ., 33 x 21.5 से. मी.">
+				<desc>टाइप्ड</desc>
+				<misc>लूज़ लीफ</misc>
+				<misc>अधूरा</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.066">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">मैन इज मैन</entry>
+		</mdetails>
+		<photo>
+			<entry id="841" type="" size="36.5 x 22.5 से. मी., 84 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+				<misc>ज्यादातर पृष्ठ कटी-फटी हालत में</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.067">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">यरमा</entry>
+		</mdetails>
+		<photo>
+			<entry id="858" type="" size="">
+				<desc>टाइप्ड, लूज़ लीफ अवस्था में, करेक्शन सहित</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+				<misc>बिना शीर्षक का आलेख</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.068">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">यह ज़िन्दगी है कौम की (नुक्कड़ नाटक)</entry>
+			<entry type="person">दयाप्रकाश सिन्हा</entry>
+		</mdetails>
+		<photo>
+			<entry id="830" type="" size="30 x 21.5 से. मी., 13 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.069">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रघुवीर सहाय</entry>
+			<entry type="subject">विविध गीत (काव्य)</entry>
+		</mdetails>
+		<photo>
+			<entry id="859" type="" size="21.5 x 15 से. मी., 29 पृ.">
+				<desc>हस्तलिखित एवं टाइप्ड</desc>
+				<misc>रघुवीर सहाय संग्रह</misc>
+				<misc>लूज़ लीफ अवस्था में</misc>
+				<misc>ब्रेख़्त  ऑन ट्रायल, निर्देशक - फिट्ज बेनेविट्ज के लिए लिखा गया</misc>
+				<misc>कीर्ति जैन संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.070">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रत्नाकर मतकरी</entry>
+			<entry type="subject">इन्द्र का आसन नारद की चोरी</entry>
+		</mdetails>
+		<photo>
+			<entry id="831" type="" size="31 x 21.5 से. मी., 11 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.071">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रमेश दवे</entry>
+			<entry type="subject">एक नहीं था अफलातून</entry>
+		</mdetails>
+		<photo>
+			<entry id="836" type="" size="29.5 x 21 से. मी., 18 पृ.">
+				<desc>टाइप्ड</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.072">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">राजा का न्याय/न्याय का तराजू</entry>
+			<entry type="conversion">नीलेश रघुवंशी</entry>
+		</mdetails>
+		<photo>
+			<entry id="829" type="" size="30 x 21.5 से. मी., 6 पृ.">
+				<desc>ताइप्ट</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.073">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रामेश्वर प्रेम</entry>
+			<entry type="subject">शस्त्र संतान</entry>
+		</mdetails>
+		<photo>
+			<entry id="862" type="" size="34 x 21.5 से. मी., 95 पृ.">
+				<desc>टाइप्ड एवं हस्तलिखित, करेक्शन सहित</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.074">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रामेश्वर प्रेम</entry>
+			<entry type="subject">शांत सागर में एक रोज़</entry>
+		</mdetails>
+		<photo>
+			<entry id="868" type="" size="61 पृ., 31 x 18.5 से. मी.">
+				<desc>हस्तलिखित</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.075">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रामेश्वर प्रेम</entry>
+			<entry type="subject">शांत सागर में एक रोज़</entry>
+		</mdetails>
+		<photo>
+			<entry id="869" type="" size="26 x 21.5 से. मी.">
+				<desc>हस्तलिखित</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.076">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रामेश्वर प्रेम</entry>
+			<entry type="subject">संज्ञा पुत्र</entry>
+		</mdetails>
+		<photo>
+			<entry id="865" type="" size="22 पृ., 29 x 20.5 से. मी.">
+				<desc>टाइप्ड</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.077">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रामेश्वर प्रेम</entry>
+			<entry type="subject">सुपरिमो</entry>
+		</mdetails>
+		<photo>
+			<entry id="866" type="" size="84 पृ., 28 x 17 से. मी.">
+				<desc>हस्तलिखित</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.078">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रामेश्वर प्रेम</entry>
+			<entry type="translation">बेन जान्सन</entry>
+			<entry type="subject">वालपोनी था लोमड़ी</entry>
+		</mdetails>
+		<photo>
+			<entry id="863" type="" size="116 पृ., 35.5 x 21 से. मी.">
+				<desc>टाइप्ड, लूज़ लीफ अवस्था में</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.079">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">रामेश्वर प्रेम, नाट्यां.</entry>
+			<entry type="subject">अनामदास का पोथा</entry>
+		</mdetails>
+		<photo>
+			<entry id="864" type="" size="95 पृ., 33 x 21.5 से. मी.">
+				<desc>टाइप्ड, लूज़ लीफ अवस्था में</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+				<misc>रामेश्वर प्रेम के नाम ब. व. कारंत का पत्र भी शामिल</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.080">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">लव इज द बेस्ट डॉक्टर</entry>
+		</mdetails>
+		<photo>
+			<entry id="840" type="" size="30 x 21.5 से. मी., 20 पृ.">
+				<desc>टाइप्ड फोटोकॉपी</desc>
+				<misc>आंशिक लेमिनेटिड</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.081">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">वालपोनि या लोमड़ी</entry>
+			<entry type="person">बेन जॉन्सन</entry>
+			<entry type="translation">रामेश्वर प्रेम</entry>
+		</mdetails>
+		<photo>
+			<entry id="863" type="" size="">
+				<desc>टाइप्ड, लूज़ लीफ अवस्था में</desc>
+				<misc>रामेश्वर प्रेम संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.082">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">विजय कुमार मधु</entry>
+			<entry type="subject">टूटने से पहले</entry>
+		</mdetails>
+		<photo>
+			<entry id="846" type="" size="33 x 23 से. मी., 10 पृ.">
+				<desc>एकांकी</desc>
+				<misc>टाइप्ड व लेमिनेटिड</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.083">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">विजयदेव नारायण साही</entry>
+			<entry type="subject">कुएॅ में कोई गिर गया है</entry>
+		</mdetails>
+		<photo>
+			<entry id="837" type="" size="30 x 22 से. मी., 35 पृ.">
+				<desc>टाइप्ड व हस्तलिखित</desc>
+				<misc>लेमिनेटिड</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.084">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">विभा मिश्र</entry>
+			<entry type="subject">कुएॅ में कोई गिर गया है (विजयदेव नारायण साही, भारतेन्दु हरिश्चन्द्र, कुॅवर नारायण आदि की कविताओं पर आधारित</entry>
+		</mdetails>
+		<photo>
+			<entry id="895" type="" size="26 x 17 से. मी., 25 पृ.">
+				<desc>टाइप्ड पेपर कटिंग व हस्तलिखित (एडिटिंग)</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.085">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">विभा मिश्र</entry>
+			<entry type="subject">मध्यप्रदेश पर फिल्म (सीन वर्क)</entry>
+		</mdetails>
+		<photo>
+			<entry id="873" type="" size="30 पृ., 21 x 34.5 से. मी.">
+				<desc>विभा मिश्र संग्रह</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.086">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">विभा मिश्र</entry>
+			<entry type="subject">वोल्गा से गंगा</entry>
+		</mdetails>
+		<photo>
+			<entry id="874" type="" size="32 पृ., 34 x 21 से. मी.">
+				<desc>ताइप्ड, हस्तलिखित व प्रिन्टिड कतरनों सहित</desc>
+				<misc>निर्देशकीय एडिटिंग के साथ</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">विवेक मृदुल</entry>
+			<entry type="translation">शरतचन्द्र</entry>
+			<entry type="subject">सती</entry>
+		</mdetails>
+		<photo>
+			<entry id="838" type="" size="30 x 21.5 से. मी., 21 पृ.">
+				<desc>टाइप्ड व करेक्शन सहित</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.088">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">वोलकैन</entry>
+			<entry type="person">हमकलम</entry>
+		</mdetails>
+		<photo>
+			<entry id="881" type="" size="">
+				<desc>हस्तलिखित फोटोकॉपी</desc>
+				<misc>लूज़ लीफ</misc>
+				<misc>समकालीन लेखक संघ द्वारा प्रकाशित</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.089">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="subject">वोल्गा से गंगा</entry>
+			<entry type="person">विभा मिश्र</entry>
+		</mdetails>
+		<photo>
+			<entry id="874" type="" size="32 पृ., 34.21 से. मी.">
+				<desc>टाइप्ड, हस्तलिखित व प्रिन्टिड कतरनो सहित</desc>
+				<misc>निर्देशकीय एडिटिंग सहित</misc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.090">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type="person">शरतचन्द्र</entry>
+			<entry type="subject">सती</entry>
+			<entry type="translation">विवेक मृदुल</entry>
+		</mdetails>
+		<photo>
+			<entry id="838" type="" size="30 x 21.5 से. मी., 21 पृ.">
+				<desc>ताइप्ड व करेक्शन सहित</desc>
+				<misc>विभा मिश्र संग्रह</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.091">%raghu
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="042.001">
+		<mdetails>
+			<entry type="card-type">दुर्लभ डायरी</entry>
+			<entry type=""></entry>
+			<entry type=""></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+</natarang>
