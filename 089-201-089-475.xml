@@ -1,0 +1,3936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE natarang SYSTEM "natarang.dtd">
+
+<natarang>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">आगरा</entry>
+			<entry type="troup">भारतीय जन नाट्य संध (इप्टा)</entry>
+			<entry type="event">सूरे की ऑखे (हिन्दी)</entry>
+			<entry type="writer">प्रेमचंद (उपन्यास)</entry>
+			<entry type="natyantar">राजेन्द्र रघुवंशी</entry>
+			<entry type="director">रमेश मेहता</entry>
+			<entry type="artist">जितेन्द्र रघुवंशी (ताहिर अली), शैलेन्द्र (प्रभु सेवक), गुरचरण मेहता (जॉन सेवक) तथा स्नेहलता (सोफिया)</entry>
+		</mdetails>
+		<photo>
+			<entry id="2926" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<misc>उपन्यास का मूल नाम `रंगभूमि'</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.202">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">आजमगढ़</entry>
+			<entry type="troup">समानांतर</entry>
+			<entry type="event">आदि विद्रोही</entry>
+			<entry type="writer">हावई फास्ट (अॅग्रेजी)</entry>
+			<entry type="natyantar">बादल सरकार (बांग्ला)</entry>
+			<entry type="natyanuvad">रति बार्थोलोम्यु एवं वीरेन्द्र सक्सेना (बांग्ला से हिन्दी)</entry>
+			<entry type="director">अनिल रंजन भौमिक</entry>
+		</mdetails>
+		<photo>
+			<entry id="4139" type="01" size="">
+				<desc>`स्पार्टाकस'</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.203">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कविता से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">आजमगढ़</entry>
+			<entry type="troup">समानांतर</entry>
+			<entry type="event">नन्हे कंधे नन्हे पैर (हिन्दी)</entry>
+			<entry type="writer">श्रीकांत वर्मा (कविताएॅ)</entry>
+			<entry type="natyantar">अशोक भौमिक</entry>
+			<entry type="director">अनिल रंजन भौमिक</entry>
+		</mdetails>
+		<photo>
+			<entry id="156" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+			</entry>
+			<entry id="157" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+			</entry>
+			<entry id="158" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.204">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कथा/कहानी से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">समानांतर</entry>
+			<entry type="event">मंथन (हिन्दी)</entry>
+			<entry type="writer">अनिल रंजन भौमिक (कथा)</entry>
+			<entry type="natyantar">विभांशु वैभव</entry>
+			<entry type="projection">अनिल रंजन भौमिक</entry>
+			<entry type="director">अनिल रंजन भौमिक</entry>
+			<entry type="year">25 दिस., 1995</entry>
+		</mdetails>
+		<photo>
+			<entry id="4140" type="02" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.205">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कहानी से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">कानपुर</entry>
+			<entry type="troup">आयाम</entry>
+			<entry type="event">कफ़न (हिन्दी)</entry>
+			<entry type="writer">प्रेमचन्द्र (कहानी)</entry>
+			<entry type="natyantar">मोहम्मद मेहदी</entry>
+			<entry type="director">राजेश अग्रवाल</entry>
+		</mdetails>
+		<photo>
+			<entry id="76" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.206">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कहानी से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">गोरखपुर</entry>
+			<entry type="troup">भारतीय जन नाट्य संघ</entry>
+			<entry type="event">सद्गति (हिन्दी)</entry>
+			<entry type="writer">प्रेमचन्द</entry>
+			<entry type="natyantar">मुमताज खान</entry>
+			<entry type="director">मुमताज खान</entry>
+			<entry type="stage">सीमा मुमताज</entry>
+			<entry type="makeup">सीमा मुमताज</entry>
+			<entry type="dress">सीमा मुमताज</entry>
+			<entry type="light">सीमा मुमताज</entry>
+			<entry type="artist">आर. ए. खान (पण्डित घासीराम), रीता श्रीवास्तव (पण्डिताइन), शहजाद सैयद (दुक्की), तृप्ति (झुरिया) व अन्य</entry>
+			<entry type="year">08-08-1993</entry>
+		</mdetails>
+		<photo>
+			<entry id="3916" type="02" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.207;089.208;089.209">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कहानी से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">गोरखपुर</entry>
+			<entry type="troup">लोकरंजन</entry>
+			<entry type="event">सत्याग्रह (हिन्दी)</entry>
+			<entry type="writer">प्रेमचन्द</entry>
+			<entry type="natyantar">शिवराम</entry>
+			<entry type="director">राजीव राज</entry>
+			<entry type="music">शक्ति श्रीवास्तव</entry>
+			<entry type="makeup">राजेश वाजपेयी</entry>
+			<entry type="dress">विजय श्रीवास्तव</entry>
+			<entry type="stage">राघवेन्द्र श्रीवास्तव</entry>
+			<entry type="light">वाजपेयी राजेश, विजय सिंह श्रीवास्तव</entry>
+			<entry type="artist">नलिनी श्रीवास्तव (नटी), राजीव राज (सूत्रधार), रजनी श्रीवास्तव (पण्डिताइन) की भूमिका में व अन्य</entry>
+			<entry type="venue">चित्रगुप्त मन्दिर प्रेक्षागृह, गोरखपुर</entry>
+			<entry type="year">31-07-1983</entry>
+		</mdetails>
+		<photo>
+			<entry id="185" type="02" size="">
+				<desc>पूर्ण सूचना स्मा - 2339 में उपलब्ध</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.210">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कहानी से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">मथुरा</entry>
+			<entry type="troup">संकेत रंग टोली</entry>
+			<entry type="event">पापा तुम कहॉ हो (हिन्दी)</entry>
+			<entry type="writer">ज्ञान प्रकाश विवेक</entry>
+			<entry type="director">एम. रानी</entry>
+		</mdetails>
+		<photo>
+			<entry id="10612" type="01" size="">
+				<desc>नटरंग अंक 79 में प्रकाशित</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.211">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कहानी से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">मेरठ</entry>
+			<entry type="troup">मुक्ताकाश नाट्य संस्थान</entry>
+			<entry type="event">उसने कहा था (हिन्दी)</entry>
+			<entry type="writer">चन्द्रधर शर्मा गुलेरी</entry>
+			<entry type="natyantar">सुरेन्द्र कौशिक</entry>
+			<entry type="artist">सुरेन्द्र कौशिक (लहना सिंह)</entry>
+		</mdetails>
+		<photo>
+			<entry id="224" type="" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="225" type="" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.212;089.213">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कहानी से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">मेरठ</entry>
+			<entry type="troup">मुक्ताकाश नाट्य संस्थान</entry>
+			<entry type="drama">पंचपरमेश्वर (हिन्दी) (हास्य नाटक)</entry>
+			<entry type="writer">प्रेमचन्द</entry>
+			<entry type="natyantar">सुरेन्द्र कौशिक</entry>
+			<entry type="director">सुरेन्द्र कौशिक</entry>
+			<entry type="stage">सुरेन्द्र कौशिक</entry>
+			<entry type="music">डा. इन्दु</entry>
+			<entry type="voice">सुरेन्द्र पाल कनौजिया</entry>
+			<entry type="light">महेन्द्र पाल सिंह राठौरिया</entry>
+			<entry type="artist">सुरेन्द्र कौशिक (मिया जुम्मन), मधु एवं मंजु शर्मा (नसीबन बेगम), नीरू (चम्पा), श्रीमती साधना (चौधरन), अब्दुल कयूम अलवी (मामूजान) एवं अनय</entry>
+		</mdetails>
+		<photo>
+			<entry id="210" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
+			</entry>
+			<entry id="211" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
+			</entry>
+			<entry id="212" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
+			</entry>
+			<entry id="213" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.214">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कहानी से</entry>
+			<entry type="state">कर्नाटक</entry>
+			<entry type="place">वंगलूर</entry>
+			<entry type="troup">समुदाय</entry>
+			<entry type="event">दंगेय मुंचिना दिनगळु</entry>
+			<entry type="writer">प्रसन्ना</entry>
+			<entry type="director">प्रसन्ना</entry>
+		</mdetails>
+		<photo>
+			<entry id="659" type="" size="">
+				<desc>प्रेमचन्द की कहानी `शतरंज के खिलाड़ी' पर आधारित</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.215">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : कहानी से</entry>
+			<entry type="state">जम्मू एवं कश्मीर</entry>
+			<entry type="place">जम्मू</entry>
+			<entry type="troup">अमेच्योर थियेटर ग्रुप</entry>
+			<entry type="event">सवा सेर कनक</entry>
+			<entry type="writer">प्रेमचंद</entry>
+			<entry type="natyalek">शिवराम दीप (डोगरी)</entry>
+			<entry type="director">मुस्ताक काक</entry>
+		</mdetails>
+		<photo>
+			<entry id="973" type="" size="">
+				<desc>मूल कहानी का नाम `सवा सेर गेहू'</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.216">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नुक्कड़ नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">अलीगढ़</entry>
+			<entry type="troup">दृष्टि नाट्य मंच</entry>
+			<entry type="drama">जनतंत्र के मुर्गे (हिन्दी)</entry>
+			<entry type="writer">राजेश कुमार</entry>
+			<entry type="director">राजेश कुमार</entry>
+		</mdetails>
+		<photo>
+			<entry id="89" type="02" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.217">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नुक्कड़ नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">गोरखपुर</entry>
+			<entry type="troup">संचेतना</entry>
+			<entry type="drama">हाथी मरा नहीं (हिन्दी)</entry>
+		</mdetails>
+		<photo>
+			<entry id="18075" type="02" size="">
+				<desc>नुक्कड़ नाटक मेले में मंचित</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.218">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नुक्कड़ नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">जनसंस्कृति मंच</entry>
+			<entry type="drama">जनता पागल हो गई है (हिन्दी)</entry>
+			<entry type="writer">शिवराम</entry>
+			<entry type="director">अमरेन्द्र सहाय</entry>
+			<entry type="artist">जलाल सिद्दीकी, विनोद अग्निहोत्री, सुप्रिय लखनपाल, रवि वर्मा व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="344" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>नटरंग अंक में प्रकाशित</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.219">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नुक्कड़ नाटक</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">दुर्ग</entry>
+			<entry type="troup">क्षितिज रंग शिविर</entry>
+			<entry type="drama">हाथी मरा नहीं है (हिन्दी)</entry>
+			<entry type="director">संतोष जैन</entry>
+			<entry type="year">15 अग., 1986</entry>
+		</mdetails>
+		<photo>
+			<entry id="18039" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.220">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नुक्कड़ नाटक</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">रायपुर</entry>
+			<entry type="troup">रचना</entry>
+			<entry type="drama">अंत से आरंभ (हिन्दी)</entry>
+			<entry type="writer">विभु कुमार</entry>
+			<entry type="director">आनन्द चौबे</entry>
+			<entry type="artist">सुदामा (गंदगी) की भूमिका में</entry>
+			<entry type="photographer">मुकुल यादव</entry>
+		</mdetails>
+		<photo>
+			<entry id="18063" type="02" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.221">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नुक्कड़ मेला</entry>
+			<entry type="state">तलिलनाडु</entry>
+			<entry type="event">नुक्कड़ मेला</entry>
+		</mdetails>
+		<photo>
+			<entry id="519" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.222">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पंजाबी नाटक</entry>
+			<entry type="place">चण्डीगढ़</entry>
+			<entry type="troup">लोक कला मंच</entry>
+			<entry type="drama">इक रामायण होई</entry>
+			<entry type="writer">अजमेर सिंह औलख</entry>
+			<entry type="director">कंवल विद्रोही</entry>
+			<entry type="year">03-02-1983</entry>
+		</mdetails>
+		<photo>
+			<entry id="551" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.223">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पंजाबी नाटक</entry>
+			<entry type="place">चण्डीगढ़</entry>
+			<entry type="troup">लोक कला मंच</entry>
+			<entry type="drama">सुक्की कुख</entry>
+			<entry type="writer">अजमेर सिंह औलख</entry>
+			<entry type="director">कंवल विद्रोही</entry>
+		</mdetails>
+		<photo>
+			<entry id="546" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="547_2c" type="02" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.224.0">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पंजाबी नाटक</entry>
+			<entry type="place">चण्डीगढ़</entry>
+			<entry type="troup">लोक कला मंच</entry>
+			<entry type="drama">इश्क जिन्हा दी हड्डी रचिया</entry>
+			<entry type="writer">अजमेर सिंह औलख</entry>
+			<entry type="director">कंवल विद्रोही</entry>
+		</mdetails>
+		<photo>
+			<entry id="543" type="02" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.224.1">
+		<mdetails>
+			<entry type="card-type">परिसंवाद</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">राष्ट्रीय नाट्य विद्यालय रंगमंडल</entry>
+			<entry type="event">राकेश और परिवेश पत्रों में</entry>
+			<entry type="director">कमलेश्वर</entry>
+			<entry type="speaker">अनुभा, कमलेश्वर, बनवारी तनेजा</entry>
+		</mdetails>
+		<photo>
+			<entry id="4143" type="02" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.225">%raghu
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.201">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state"></entry>
+			<entry type="place"></entry>
+			<entry type="troup"></entry>
+			<entry type="event"></entry>
+			<entry type="year"></entry>
+		</mdetails>
+		<photo>
+			<entry id="" type="" size="">
+				<desc></desc>
+			</entry>
+		</photo>
+	</media>
+</natarang>
