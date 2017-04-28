@@ -408,933 +408,1907 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.225">%raghu
+	<media aid="03" cid="089.225">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाट्य : नौटंकी</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">इलाहाबाद आकाशवाणी</entry>
+			<entry type="event">लालचन्द्र का भाग्य (हिन्दी)</entry>
+			<entry type="artist">इलाहाबाद आकाशवाणी के कलाकार (सदस्य)</entry>
+			<entry type="year">02-12-1998</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="10965" type="02" size="">
+				<desc>आकाशवणी गोरखपुर द्वारा आयोजित नाट्य समारोह में मंचित</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.226">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाट्य : नौटंकी</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">विनोद रस्तोगी स्मृति संस्थान</entry>
+			<entry type="event">कहीं की ईंट - कहीं का रोड़ा उर्फ इट हैपेन्स ओनली इन्डिया</entry>
+			<entry type="writer">विनोद रस्तोगी</entry>
+			<entry type="director">अभिलाष नारायण</entry>
+		</mdetails>
+		<photo>
+			<entry id="18077" type="01" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="01" cid="089.227;089.228">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाटक : नौटंकी (बाल)</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">साक्षात्कार की बाल इकाइ ए.बी.सी.ड़ी.</entry>
+			<entry type="drama">एक रहेन आखर राम (हिन्दी)</entry>
+			<entry type="writer">उमा सतीश</entry>
+			<entry type="translation">राजकुमार श्रीवास्तव</entry>
+			<entry type="article-rewriter">सतीश चित्रवंशी</entry>
+			<entry type="projection">सतीश चित्रवंशी</entry>
+			<entry type="director">सतीश चित्रवंशी</entry>
+			<entry type="year">22-01-2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="6051" type="01;02" size="">
+				<desc>22 दिवसीय (10 दिसम्बर से 31 दिसम्बर, 1999)</desc>
+				<desc>नैटंकी प्रशिक्षण कार्यशाला में तैयार बाल नौटंकी</desc>
+			</entry>
+			<entry id="6053" type="01;02" size="">
+				<desc>22 दिवसीय (10 दिसम्बर से 31 दिसम्बर, 1999)</desc>
+				<desc>नैटंकी प्रशिक्षण कार्यशाला में तैयार बाल नौटंकी</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.229;089.230">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाट्य : नौटंकी</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">साक्षात्कार बाल ईकाई ए.बी.सी.डी.</entry>
+			<entry type="event">खेल खिलाड़ी उर्फ बिसात बिछी है (हिन्दी)</entry>
+			<entry type="writer">माला तन्खा</entry>
+			<entry type="version">राजकुमार श्रीवास्तव</entry>
+			<entry type="director">गिरीश अभीष्ट एवं सतीश चित्रवंशी</entry>
+			<entry type="artist">बृजराज तिवारी एवं ज्योत्सना</entry>
+			<entry type="venue">प्रयाग संगीत समिति, इलाहाबाद</entry>
+			<entry type="year">07-07-1994</entry>
+			<entry type="photographer">नरेन्द्र यादव</entry>
+		</mdetails>
+		<photo>
+			<entry id="3960" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="01" cid="089.231">
 		<mdetails>
 			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">कानपुर</entry>
+			<entry type="troup">दर्पण</entry>
+			<entry type="drama">कथा नंदन की (हिन्दी)</entry>
+			<entry type="writer">इंदिरा पार्थसारथी (तमिल)</entry>
+			<entry type="version">सिद्धेश्वर अवस्थी</entry>
+			<entry type="director">त्रिपुरारी शर्मा</entry>
+			<entry type="year">1980</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="133" type="02" size="">
+				<desc>राष्ट्रीय नाट्य समारोह, भोपाल में मंचित</desc>
+				<misc>मूल नाम `नंदन कथई'</misc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.232">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाट्य : नौटंकी</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">गोरखपुर</entry>
+			<entry type="troup">मंजुश्री नाट्य संस्था</entry>
+			<entry type="event">अबु हसन</entry>
+			<entry type="writer">गिरीश चन्द्र घोष</entry>
+			<entry type="translation">प्रथम विकृरि बादल सरकार व द्वितीय विकृति प्रतिभा अग्रवाल</entry>
+			<entry type="director">उर्मिल कुमार थपलियाल</entry>
+			<entry type="artist">शैलेश श्रीवास्तव (अबू हसन), प्रियंवदा मिश्र (अम्मी), शरद (वजीर) व अन्य</entry>
+			<entry type="year">26-09-1993</entry>
+		</mdetails>
+		<photo>
+			<entry id="8894" type="" size="">
+				<desc>मंजुश्री नाट्योत्सव में मंचित</desc>
+				<misc>स्मा-1163 में पूर्ण सूचना उपलब्ध</misc>
+			</entry>
+			<entry id="8895" type="" size="">
+				<desc>मंजुश्री नाट्योत्सव में मंचित</desc>
+				<misc>स्मा-1163 में पूर्ण सूचना उपलब्ध</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.233">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाटक : नौटंकी</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">दर्पण</entry>
+			<entry type="drama">हरीश्चन्नर की लड़ाई (नौटंकी)</entry>
+			<entry type="writer">उर्मिल कुमार थपलियाल</entry>
+			<entry type="director">उर्मिल कुमार थपलियाल</entry>
+			<entry type="venue">लखनऊ</entry>
+			<entry type="year">अप्रैल 1984</entry>
+		</mdetails>
+		<photo>
+			<entry id="248" type="" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा आयोजित `उत्तर संभागीय नाट्य समारोह में मंचित'</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+			<entry id="250" type="" size="">
+				<desc>संगीत नाटक अकादेमी द्वारा आयोजित `उत्तर संभागीय नाट्य समारोह में मंचित'</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.234">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाटक : नौटंकी</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">दर्पण</entry>
+			<entry type="drama">हरीश्चन्नर की लड़ाई (हिन्दी)</entry>
+			<entry type="writer">उर्मिल कुमार थपलियाल</entry>
+			<entry type="director">उर्मिल कुमार थपलियाल</entry>
+			<entry type="venue">मंजर थियेटर</entry>
+			<entry type="year">22 जून 1985</entry>
+		</mdetails>
+		<photo>
+			<entry id="4249" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="4250" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="4251" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="4252" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="4254" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="7057_2c" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="7058_2c" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="7059_2c" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="7061_3c" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="7062" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+			<entry id="7063" type="02" size="">
+				<desc>आयोजक - भारतीय व्यापार मेला प्राधिकरण</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.235">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाटक : नौटंकी</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">दर्पण</entry>
+			<entry type="drama">हरीश्चन्नर की कड़ाई</entry>
+			<entry type="writer">उर्मिल कुमार थपलियाल</entry>
+			<entry type="director">उर्मिल कुमार थपलियाल</entry>
+			<entry type="year">दिसम्बर 1984</entry>
+		</mdetails>
+		<photo>
+			<entry id="247" type="02" size="">
+				<desc>राष्ट्रीय नाट्य समारोह 1984 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न.प्र. को भेंट</misc>
+				<misc>परि. सं. 247 व 249 - @ सं. ना. अ.</misc>
+			</entry>
+			<entry id="249" type="02" size="">
+				<desc>राष्ट्रीय नाट्य समारोह 1984 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न.प्र. को भेंट</misc>
+				<misc>परि. सं. 247 व 249 - @ सं. ना. अ.</misc>
+			</entry>
+			<entry id="251" type="02" size="">
+				<desc>राष्ट्रीय नाट्य समारोह 1984 में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न.प्र. को भेंट</misc>
+				<misc>परि. सं. 247 व 249 - @ सं. ना. अ.</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.236">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाटक : नौटंकी</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">नौटंकी कला केन्द्र</entry>
+			<entry type="drama">सॉप (हिन्दी)</entry>
+			<entry type="writer">रामकुमार वर्मा</entry>
+			<entry type="director">कैलाश सक्सेना</entry>
+			<entry type="artist">लता रानी व शमीम बानो</entry>
+			<entry type="venue">लखनऊ</entry>
+			<entry type="year">19-09-1983</entry>
+		</mdetails>
+		<photo>
+			<entry id="233" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.237">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाटक : नौटंकी</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">इंदौर</entry>
+			<entry type="troup">प्रयोग</entry>
+			<entry type="drama">आला अफसर (हिन्दी)</entry>
+			<entry type="writer">निकोलाई गोगोल (रूसी)</entry>
+			<entry type="version">मुद्राराक्षस</entry>
+			<entry type="director">सतीश मेहता</entry>
+		</mdetails>
+		<photo>
+			<entry id="18035" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.238">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - पारम्परिक लोक नाट्य : भगत</entry>
+			<entry type="state">हिमाचल प्रदेश</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="18674" type="02" size="">
+				<desc>भगर लोकनाट्य में श्री कृष्ण के प्रति भक्तिभाव का प्राधान्य रहता है । इस नाट्यरूप की परम्परा कॉकड़ा चम्बा, हमीरपुर, ऊना, मण्डी (कांगड़ा के सीमान्ती भागों में) मिलती है</desc>
+			</entry>
+			<entry id="18675" type="02" size="">
+				<desc>भगर लोकनाट्य में श्री कृष्ण के प्रति भक्तिभाव का प्राधान्य रहता है । इस नाट्यरूप की परम्परा कॉकड़ा चम्बा, हमीरपुर, ऊना, मण्डी (कांगड़ा के सीमान्ती भागों में) मिलती है</desc>
+			</entry>
+			<entry id="18676" type="02" size="">
+				<desc>भगर लोकनाट्य में श्री कृष्ण के प्रति भक्तिभाव का प्राधान्य रहता है । इस नाट्यरूप की परम्परा कॉकड़ा चम्बा, हमीरपुर, ऊना, मण्डी (कांगड़ा के सीमान्ती भागों में) मिलती है</desc>
+			</entry>
+			<entry id="18677" type="02" size="">
+				<desc>भगर लोकनाट्य में श्री कृष्ण के प्रति भक्तिभाव का प्राधान्य रहता है । इस नाट्यरूप की परम्परा कॉकड़ा चम्बा, हमीरपुर, ऊना, मण्डी (कांगड़ा के सीमान्ती भागों में) मिलती है</desc>
+			</entry>
+			<entry id="18678" type="02" size="">
+				<desc>भगर लोकनाट्य में श्री कृष्ण के प्रति भक्तिभाव का प्राधान्य रहता है । इस नाट्यरूप की परम्परा कॉकड़ा चम्बा, हमीरपुर, ऊना, मण्डी (कांगड़ा के सीमान्ती भागों में) मिलती है</desc>
+			</entry>
+			<entry id="18679" type="02" size="">
+				<desc>भगर लोकनाट्य में श्री कृष्ण के प्रति भक्तिभाव का प्राधान्य रहता है । इस नाट्यरूप की परम्परा कॉकड़ा चम्बा, हमीरपुर, ऊना, मण्डी (कांगड़ा के सीमान्ती भागों में) मिलती है</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.239">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - माच : पारम्परिक नाट्य</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">ग्वालियर</entry>
+			<entry type="troup">कालिदास अकादेमी</entry>
+			<entry type="event">स्वप्नवासवदत्ता (हिन्दी)</entry>
+			<entry type="writer">भास (संस्कृत)</entry>
+			<entry type="translation">प्रभात कुमार भट्टाचार्य</entry>
+			<entry type="director">श्रीनिवास रथ - संजीव दीक्षित</entry>
+		</mdetails>
+		<photo>
+			<entry id="18017" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="02" cid="089.240">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाट्य : यक्षगान</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">भारतेंदु नाट्य अकादेमी</entry>
+			<entry type="dance">भास दर्शन</entry>
+			<entry type="writer">भास (भास कृतियों से)</entry>
+			<entry type="projection">सी. आर. जाम्बे</entry>
+			<entry type="re-writer">सी. आर. जाम्बे</entry>
+			<entry type="director">सी. आर. जाम्बे</entry>
+			<entry type="venue">बी. एम. शाह प्रेक्शागृह, लखनऊ</entry>
+			<entry type="year">15-18 फर., 2003</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="17221" type="" size="">
+				<desc>भास के दूतवाक्यम्, दूतघटोत्कचम् एवं ऊरूभंगम पर आधारित (यक्षगान शैली में प्रस्तुति)</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="02" cid="089.241">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state">कर्नाटक</entry>
+			<entry type="place">इडगुंजी</entry>
+			<entry type="troup">इडगुंजी गजपति यक्षगान मण्डली</entry>
+			<entry type="dance">जरासंध वध</entry>
+			<entry type="director">शम्भु हेगड़े</entry>
+		</mdetails>
+		<photo>
+			<entry id="2122" type="" size="">
+				<desc>भारत भवन में आयोजित बाल गंधर्व शताब्दी समारोह में मंचित</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="02" cid="089.242">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाट्य : यक्षगान</entry>
+			<entry type="state">कर्नाटक</entry>
+			<entry type="place">केरेमने</entry>
+			<entry type="troup">इडगुंजी गणपति यक्षगान मण्डली</entry>
+			<entry type="dance">यक्षगान</entry>
+			<entry type="venue">रामलीला मेला, भोपाल</entry>
+			<entry type="year">नवम्बर 1988</entry>
+		</mdetails>
+		<photo>
+			<entry id="3733" type="" size="">
+				<desc>यक्षगान शैली में रावण वध</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="02" cid="089.243">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाट्य : यक्षगान</entry>
+			<entry type="state">कर्नाटक</entry>
+			<entry type="place">बेंगलूरु</entry>
+			<entry type="troup">रंगायन</entry>
+			<entry type="dance">श्री महाबला हेगड़े</entry>
+		</mdetails>
+		<photo>
+			<entry id="3012" type="" size="">
+				<desc>ब. व. कारंत द्वारा भेंट</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.244">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाट्य : रामायण</entry>
+			<entry type="country">इण्डोनेशिया</entry>
+			<entry type="troup">सरदोनो डांस ग्रूप</entry>
+			<entry type="event">रामायण</entry>
+			<entry type="year">17-12-1990</entry>
+		</mdetails>
+		<photo>
+			<entry id="18463" type="02" size="">
+				<desc>संगीत नाटक अकादेमी</desc>
+				<misc>श्री सुरेश अवस्थी द्वारा न. प्र. को भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.245">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नाट्य : रामायण</entry>
+			<entry type="place">रूस</entry>
+		</mdetails>
+		<photo>
+			<entry id="18464" type="02" size="">
+				<desc>संगीत नाटक अकादेमी से प्राप्त</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.246;089.247">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पारम्परिक नट्य : स्वांग (भगत शैली)</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">मथुरा</entry>
+			<entry type="troup">ब्रज कला केन्द्र</entry>
+			<entry type="event">पारिजात हरण व भौमासुर वध</entry>
+			<entry type="writer">श्री बालमुकुन्द बेसनवाले</entry>
+			<entry type="director">श्री रामनारायण अग्रवाल</entry>
+			<entry type="music">उस्ताद मुनीर खॉ, उस्ताद बाबूलाल आदि</entry>
+			<entry type="makeup">ओम प्रकाश आर्य</entry>
+			<entry type="stage">मनमोहन चित्रशाला</entry>
+			<entry type="artist">गोपीचन्द प्रेमी, चौधरी छज्जन सिंह, अमरनाथ, विष्णुचन्द शर्मा, मदनलाल शर्मा, अशफाक हुसैन व अन्य</entry>
+			<entry type="venue">श्री कृष्ण जन्म स्थान रंगमंच</entry>
+			<entry type="year">03-09-1989 (रविवार रात्रि 8 बजे)</entry>
+		</mdetails>
+		<photo>
+			<entry id="290" type="02" size="">
+				<desc>पूर्ण सूचना स्मा - 2350 में उपलब्ध</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.248">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पुस्तक आवरण पृष्ठ</entry>
+		</mdetails>
+		<photo>
+			<entry id="17372" type="" size="">
+				<desc>नंदकिशोर आचार्य की पुस्तक `रंगत्रयी' का</desc>
+			</entry>
+			<entry id="17373" type="" size="">
+				<desc>नंदकिशोर आचार्य की पुस्तक नटतृतीया का</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.249">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पुस्तक मेला</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">राष्ट्रीय नाट्य विद्यालय</entry>
+			<entry type="event">राष्ट्रीय नाट्य विद्यालय दिल्ली पुस्तक मेले में</entry>
+			<entry type="host">इंडिया ट्रेड़ प्रमोशन आर्गनाईजेशन</entry>
+			<entry type="venue">प्रगति मैदान, दिल्ली</entry>
+			<entry type="year">12-20 अगस्त 1995</entry>
+		</mdetails>
+		<photo>
+			<entry id="3553" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.250">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय</entry>
+			<entry type="event">पेन्टिंग : केव पेन्टिंग</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="20739" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+			</entry>
+			<entry id="20740" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+			</entry>
+			<entry id="20741" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+			</entry>
+			<entry id="20742" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+			</entry>
+			<entry id="20743" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+			</entry>
+			<entry id="20745" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+			</entry>
+			<entry id="20748" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.251">
+		<mdetails>
+			<entry type="card-type">अन्य विषय</entry>
+			<entry type="state">पश्चिम बंगाल</entry>
+			<entry type="event">पेंन्टिंग पटुआ</entry>
+		</mdetails>
+		<photo>
+			<entry id="20875" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<desc>@ सं. ना. अ.</desc>
+			</entry>
+			<entry id="20879" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<desc>@ सं. ना. अ.</desc>
+			</entry>
+			<entry id="21319" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<desc>@ सं. ना. अ.</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.252">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पेन्टिंग</entry>
+			<entry type="event">पूतना वध, पश्चिम बंगाल (मेवाड़ शैली)</entry>
+		</mdetails>
+		<photo>
+			<entry id="20759" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.253">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - पोस्टर एवं स्मारिका फोटो</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">तीसवी शताब्दी (हिन्दी)</entry>
+			<entry type="writer">बादल सरकार (बांग्ला)</entry>
+			<entry type="translation">राम गोपाल बजाज</entry>
+			<entry type="projection">राजिन्दर नाथ</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="year">2-3 जन., 1999</entry>
+		</mdetails>
+		<photo>
+			<entry id="5249_2c" type="01" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `रंग-निरंतर' में नाटक के पोस्टर व स्मारिका</desc>
+			</entry>
+			<entry id="5250_2c" type="01" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `रंग-निरंतर' में नाटक के पोस्टर व स्मारिका</desc>
+			</entry>
+			<entry id="5251_2c" type="01" size="">
+				<desc>नटरंग प्रतिष्ठान द्वारा आयोजित `रंग-निरंतर' में नाटक के पोस्टर व स्मारिका</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.254">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - प्रकाशित फोटो</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान</entry>
+			<entry type="event">नटरंग (पत्रिका) अंक 79 में प्रकाशित फोटो</entry>
+		</mdetails>
+		<photo>
+			<entry id="9010" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="9041" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="9051" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.255">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - प्रदर्शनी</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">राष्ट्रीय नाट्य विद्यालय</entry>
+			<entry type="event">बर्टोल्ट ब्रेख्त पर प्रदर्शनी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="17856" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.256">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - प्रदर्शनी</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">उज्जैन</entry>
+			<entry type="troup">कालिदास अकादेमी</entry>
+			<entry type="event">कालिदास के नाटकों की प्रदर्शनी</entry>
+			<entry type="year">1982</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="17861" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.257.0">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - प्रदर्शनी</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">भोपाल</entry>
+			<entry type="troup">भारत भवन</entry>
+			<entry type="event">प्रदर्शनी देखते हुए दिग्विजय सिंह व अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="3681" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="3682" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="3683" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.257.1">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - प्रदर्शनी</entry>
+			<entry type="state">महाराष्ट्र</entry>
+			<entry type="place">मुम्बई</entry>
+			<entry type="troup">अंक</entry>
+			<entry type="event">अंक रजत उत्सव में प्रदर्शनी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="21272" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21273" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21274" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="21275" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.258">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - प्रदर्शनी</entry>
+			<entry type="event">शम्भु मित्र व तृप्ति मित्र पर प्रदर्शनी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="17240" type="01" size="">
+				<desc></desc>
+			</entry>
+			<entry id="17241" type="01" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.259">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - प्रहसन</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">प्रयाग रंगमंच</entry>
+			<entry type="event">अॅधेर नगरी (हिन्दी)</entry>
+			<entry type="writer">भारतेन्दु हरिश्चन्द्र</entry>
+			<entry type="director">सत्यव्रत सिन्हा</entry>
+			<entry type="artist">सत्यव्रत सिन्हा (राजा), शान्तिस्वरूप प्रधान (मंत्री), पुष्पेन्द्र सिंह (नौकर) व अन्य</entry>
+			<entry type="year">1969</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="393" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+			</entry>
+			<entry id="394" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+			</entry>
+			<entry id="395" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+			</entry>
+			<entry id="396" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.260">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - प्रहसन</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">कानपुर</entry>
+			<entry type="troup">नाट्य भारती</entry>
+			<entry type="event">मोहब्बत जिन्दाबाद</entry>
+			<entry type="writer">ज्ञानदेव अग्निहोत्री</entry>
+			<entry type="director">ज्ञानदेव अग्निहोत्री</entry>
+		</mdetails>
+		<photo>
+			<entry id="148" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.261.0">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - फिल्म</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">दूरदर्शन</entry>
+			<entry type="event">दूरदर्शन के लिए फिल्म के दौरान लोकेशन शूटिंग</entry>
+			<entry type="artist">कीर्ति जैन</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="16419" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16420" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16421" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16422" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16423" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16424" type="" size="">
+				<desc>कीर्ति जैनसंग्रह</desc>
+			</entry>
+			<entry id="16425" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16426" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16427" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16428" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16429" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16430" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16431" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16432" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16433" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16434" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16435" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16436" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16437" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16438" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16439" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16440" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16441" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16442" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16443" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16444" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16445" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16446" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16447" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16448" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16449" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16450" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16451" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16452" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16453" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16454" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16455" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16456" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16457" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16458" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+			<entry id="16459" type="" size="">
+				<desc>कीर्ति जैन संग्रह</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.261.1">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - फिल्म</entry>
+			<entry type="state">महाराष्ट्र</entry>
+			<entry type="place">मुम्बई</entry>
+			<entry type="movie">एक रुका हुआ फैसला (हिन्दी फिल्म)</entry>
+			<entry type="writer">रिनोल्ड रोज़</entry>
+			<entry type="natyantar">रंजीत कपूर</entry>
+			<entry type="director">बासू चटर्जी</entry>
+			<entry type="artist">एम. के. रैना, पंकज कपूर, अमिताभ श्रीवास्तव, के. के. रैना, एस. एम. ज़हीर, अनु कपूर व अन्य</entry>
+			<entry type="year">1986</entry>
+		</mdetails>
+		<photo>
+			<entry id="20457" type="" size="">
+				<desc>रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित फोटो</desc>
+				<misc>रा. ना. वि. से प्राप्त</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.262">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - फिल्म</entry>
+			<entry type="state">महाराष्ट्र</entry>
+			<entry type="place">मुम्बई</entry>
+			<entry type="troup">केतन आनन्द फिल्म्स</entry>
+			<entry type="movie">रेगिस्तान</entry>
+			<entry type="director">केतन आनन्द</entry>
+			<entry type="artist">मनोहर सिंह, प्राण, शत्रुघ्न सिन्हा व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="3086" type="02" size="30 x 30.8 से. मी.">
+				<desc>मनोहर सिंह संग्रह</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.263">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - फिल्म/मूवी/चलनचित्र</entry>
+			<entry type="state">महाराष्ट्र</entry>
+			<entry type="place">मुम्बई</entry>
+			<entry type="troup">सिंह आर्ट्स</entry>
+			<entry type="movie">चोर (फिल्म)</entry>
+			<entry type="artist">मीरा मिश्रा, अलकारानी, कृष्णकांत, आशा व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="7768" type="01" size="">
+				<desc>पोस्टर की फोटो</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.264">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - फोटो सेशन</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान एवं राष्ट्रीय नाट्य विद्यालय</entry>
+			<entry type="event">एशियन महिला निर्देशक नाट्योत्सव (पूर्वा)</entry>
+		</mdetails>
+		<photo>
+			<entry id="17281" type="01" size="">
+				<desc>समारोह में फोटो सेशन</desc>
+			</entry>
+			<entry id="17282" type="01" size="">
+				<desc>समारोह में फोटो सेशन</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.265">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बांग्ला नाटक</entry>
+			<entry type="state">असम</entry>
+			<entry type="place">जलपाइगुड़ी</entry>
+			<entry type="troup">उत्तर बंग लॊक संस्कृति संख्या</entry>
+			<entry type="event">पासानीर चोखुर जल (बांग्ला)</entry>
+			<entry type="writer">सुशील चंद् राय</entry>
+			<entry type="director">सुशील चंद् राय</entry>
+			<entry type="year">05-11-1987</entry>
+		</mdetails>
+		<photo>
+			<entry id="5038" type="" size="">
+				<desc>पूर्व क्षेत्र नाट्य समारोह, पटना में मंचित</desc>
+			</entry>
+			<entry id="5039" type="" size="">
+				<desc>पूर्व क्षेत्र नाट्य समारोह, पटना में मंचित</desc>
+			</entry>
+			<entry id="5040" type="" size="">
+				<desc>पूर्व क्षेत्र नाट्य समारोह, पटना में मंचित</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.266">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बांग्ला नाटक</entry>
+			<entry type="state">पश्चिम बंगाल</entry>
+			<entry type="place">कोलकाता</entry>
+			<entry type="troup">मिनर्वा नाट्यसंस्कृति चर्चा केंद्र</entry>
+			<entry type="drama">अचिन गानेर गाथा</entry>
+			<entry type="writer">देवाशीष मजूमदार</entry>
+			<entry type="director">एच. कन्हाईलाल</entry>
+			<entry type="venue">श्रीराम सेंटर, दिल्ली</entry>
+			<entry type="year">9 जन., 2010</entry>
+		</mdetails>
+		<photo>
+			<entry id="17251" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17252" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17253" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17254" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17255" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17256" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17257" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17258" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17259" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17260" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17261" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+			<entry id="17262" type="01" size="">
+				<desc>12 वें भारत रंग महोत्सव, में मंचित</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.267">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">साक्षात्कार</entry>
+			<entry type="drama">ये भी कोई बात है (हिन्दी)</entry>
+			<entry type="writer">माला तन्खा</entry>
+			<entry type="director">सतीश चित्रवंशी</entry>
+			<entry type="artist">बांए से बृजराज तिवारी (बबलू), अमित श्रीवास्तव (मोनू), विनायक अग्रवाल (छोटू), सतीश चित्रवंशी (वर्मा जी), बोधिका चित्रवंशी (मीता), अल्पना श्रीवास्तव (शालू) व कमल किशोर (मेम् साब)</entry>
+			<entry type="photographer">श्री नंदू ठाकुर</entry>
+		</mdetails>
+		<photo>
+			<entry id="2287" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="01" cid="089.268;089.269">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - बाल नाटक (नौटंकी)</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">साक्षात्कार की बाल इकाई ए.बी.सी.ड़ी.</entry>
+			<entry type="drama">एक रहेन आखर राम (हिन्दी)</entry>
+			<entry type="writer">उमा सतीश</entry>
+			<entry type="roopantar">राजकुमार श्रीवास्तव</entry>
+			<entry type="article-rewriter">सतीश चित्रवंशी</entry>
+			<entry type="projection">सतीश चित्रवंशी</entry>
+			<entry type="director">सतीश चित्रवंशी</entry>
+			<entry type="year">22-01-2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="6051" type="01;02" size="">
+				<desc>22 दिवसीय (10 दिसम्बर से 31 दिसम्बर 1999) नौटंकी प्रशिक्षण कार्यशाला में तैयार बाल नौटंकी</desc>
+			</entry>
+			<entry id="6053" type="01;02" size="">
+				<desc>22 दिवसीय (10 दिसम्बर से 31 दिसम्बर 1999) नौटंकी प्रशिक्षण कार्यशाला में तैयार बाल नौटंकी</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.270;089.271">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">बाल नाट्य मंच</entry>
+			<entry type="drama">अनोखा वरदान (हिन्दी)</entry>
+			<entry type="writer">रेखा जैन</entry>
+			<entry type="director">नाहिद जमाल</entry>
+			<entry type="music">रवि नागर एवं साथी</entry>
+			<entry type="makeup">राजकुमार अग्रवाल</entry>
+			<entry type="dress">आशा सक्सेना</entry>
+			<entry type="stage">मधु</entry>
+			<entry type="light">मोहम्मद हफीज</entry>
+			<entry type="artist">वरुण गुप्ता (शिव), नेहा मोहन (पार्वती), सुकेशी (गणेश), अविनाश मोहन (पूजारी), मिहिर खुराना (सेठ), नीरो कौशल (सेठानी) की भूमिका में व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="3942" type="01" size="">
+				<desc>नाट्य प्रशिक्षण शिविर समापन समारोह में मंचित</desc>
+				<misc>पूर्ण सूचना स्मारिका - 2458 में उपलब्ध</misc>
+			</entry>
+			<entry id="3943" type="01" size="">
+				<desc>नाट्य प्रशिक्षण शिविर समापन समारोह में मंचित</desc>
+				<misc>पूर्ण सूचना स्मारिका - 2458 में उपलब्ध</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.272">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">साहिबाबाद</entry>
+			<entry type="troup">साधना नाट्य कला केन्द्र</entry>
+			<entry type="drama">जिस दिन चोर आया</entry>
+			<entry type="year">15 मई - 13 जून, 2004</entry>
+		</mdetails>
+		<photo>
+			<entry id="10614" type="" size="">
+				<desc>बाल नाट्य कार्यशाला में प्रशिक्षित बच्चों द्वारा प्रस्तुत</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.273">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">साहिबाबाद</entry>
+			<entry type="troup">साधना नाट्य कला केन्द्र (साधना संस्कृति प्रतिष्ठान का नाटक विभाग)</entry>
+			<entry type="drama">शाबास दोस्तों</entry>
+			<entry type="writer">ललित मोहन थपल्याल</entry>
+			<entry type="director">ललित मोहन थपल्याल</entry>
+		</mdetails>
+		<photo>
+			<entry id="10220" type="01" size="">
+				<desc></desc>
+			</entry>
+			<entry id="10221" type="01" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="01" cid="089.274">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">साहिबाबाद</entry>
+			<entry type="troup">साधना नाट्य कला केन्द्र</entry>
+			<entry type="drama">सैन्ड्रीला</entry>
+			<entry type="writer">ललित मोहन थपल्याल</entry>
+			<entry type="director">ललित मोहन थपल्याल</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="10223" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.275">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="state">केरल</entry>
+			<entry type="place">त्रिशूर</entry>
+			<entry type="event">टैम्पेस्ट</entry>
+			<entry type="writer">विलियम शेक्सपियर (अॅग्रेजी)</entry>
+			<entry type="translation">अमिताभ श्रीवास्तव</entry>
+			<entry type="director">अभिलाष पिल्लई</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="12766" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12767" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12768" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12769" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12770" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12771" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12772" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12773" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12774" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12775" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12776" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12777" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12778" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12779" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12780" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12781" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12782" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12783" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12784" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12785" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12786" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12787" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12788" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12789" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12790" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12791" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12792" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="12972" type="01" size="8.8 x 12.6 से. मी.">
+				<desc>अभिलाष पिल्लई द्वारा न. प्र. को भेंट</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.276;089.277">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">उमंग</entry>
+			<entry type="drama">आविष्कार जूते का (हिन्दी)</entry>
+			<entry type="writer">श्रीलाल शुक्ल</entry>
+			<entry type="director">अरुणा शेट्टी</entry>
+			<entry type="projection">रेखा जैन</entry>
+			<entry type="music">रवि शर्मा</entry>
+			<entry type="dress">उर्मि भूषण गुप्ता</entry>
+			<entry type="venue">श्रीराम सेंटर सभागार, दिल्ली</entry>
+			<entry type="year">13-14 जून 2008</entry>
+		</mdetails>
+		<photo>
+			<entry id="17067" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17068" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17069" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17070" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17071" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17072" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17073" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17074" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17075" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17076" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17077" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17078" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17079" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17080" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17081" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17082" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17083" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17084" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17085" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17086" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17087" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17088" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17089" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17090" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17091" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17092" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17093" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17094" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17095" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17096" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17097" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17098" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17099" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17100" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17101" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17102" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17103" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17104" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17105" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17106" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17107" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17108" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17109" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17110" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17111" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17112" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17113" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17114" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17115" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17116" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17117" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17118" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17119" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17120" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17121" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17122" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17123" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17124" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17125" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17126" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17127" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17128" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17129" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17130" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17131" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17132" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17133" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17134" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17135" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17136" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17137" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17138" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17139" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17140" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17141" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17142" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17143" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17144" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17145" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17146" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17147" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17148" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17149" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17150" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17151" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17152" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17153" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17154" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17155" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17156" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17157" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17158" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17159" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17160" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17161" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17162" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17163" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17164" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17165" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17166" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17167" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17168" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17169" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17170" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17171" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17172" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17173" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17174" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17175" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17176" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17177" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17178" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17179" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17180" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17181" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17182" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17183" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17184" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17185" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17186" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17187" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17188" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17189" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17190" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17191" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17192" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+			<entry id="17193" type="01" size="">
+				<desc>ग्रीष्मकालीन बाल नाट्य कार्यशाला की प्रस्तुति</desc>
+				<misc>उमंग से प्राप्त सीडी, परि. सं. 639 के प्रिंट्स</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.278">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">उमंग</entry>
+			<entry type="drama">खिलौनो की दुनिया (हिन्दी)</entry>
+			<entry type="writer">रेखा जैन</entry>
+			<entry type="director">रेखा जैन</entry>
+			<entry type="year">2004</entry>
+		</mdetails>
+		<photo>
+			<entry id="17280" type="01" size="">
+				<desc>उमंग रजत उत्सव, 2004 में मंचित</desc>
+				<misc>श्रीमती रेखा जैन द्वारा भेंट</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.279">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">उमंग</entry>
+			<entry type="drama">छोटी लाल कोशी (हिन्दी)</entry>
+			<entry type="writer">ल्केयर बाइको</entry>
+			<entry type="translation">किरण मोदी</entry>
+			<entry type="venue">नोएडा</entry>
+		</mdetails>
+		<photo>
+			<entry id="17383" type="01" size="">
+				<desc>उमंग से प्राप्त</desc>
+			</entry>
+			<entry id="17384" type="01" size="">
+				<desc>उमंग से प्राप्त</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.280">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बाल नाटक</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">दिल्ली चिल्ड्रन थिएटर</entry>
+			<entry type="drama">बिल्ली का खेल (हिन्दी)</entry>
+			<entry type="writer">लक्ष्मीनारायण लाल</entry>
+			<entry type="director">रेखा जैन</entry>
+			<entry type="venue">दिल्ली</entry>
+			<entry type="year">1976</entry>
+		</mdetails>
+		<photo>
+			<entry id="17279" type="02" size="">
+				<desc>श्रीमती रेखा जैन द्वारा भेंट</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.281">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बाल रंग कार्यशाला</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">उमंग</entry>
+			<entry type="event">बाल रंग कार्यशाला</entry>
+		</mdetails>
+		<photo>
+			<entry id="17346" type="01" size="">
+				<desc>उमंग कार्यशाला में नाट्य निर्देशक बंसी कौल बच्चों के साथ</desc>
+				<misc>उमंग से प्राप्त</misc>
+			</entry>
+			<entry id="17347_2c" type="01" size="">
+				<desc>उमंग कार्यशाला में नाट्य निर्देशक बंसी कौल बच्चों के साथ</desc>
+				<misc>उमंग से प्राप्त</misc>
+			</entry>
+			<entry id="17348_6c" type="01" size="">
+				<desc>उमंग कार्यशाला में नाट्य निर्देशक बंसी कौल बच्चों के साथ</desc>
+				<misc>उमंग से प्राप्त</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="01" cid="089.282">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - बुन्देली नाटक</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">जबलपुर</entry>
+			<entry type="troup">विवेचना</entry>
+			<entry type="drama">हंसा उड़ चला देस बिराने (हिन्दी)</entry>
+		</mdetails>
+		<photo>
+			<entry id="18013" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.283">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - बैले</entry>
+			<entry type="place">चण्डीगढ़</entry>
+			<entry type="troup">भारतीय रंगमंच विभाग</entry>
+			<entry type="event">शाकुंतल</entry>
+			<entry type="writer">कालिदास</entry>
+			<entry type="translation">मोहन राकेश</entry>
+			<entry type="director">के. पी. सक्सेना</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="623" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.284">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - ब्रोक प्रिंट</entry>
+			<entry type="country">जापान</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="20769" type="01" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>विषय Section में व्यवस्थित</misc>
+			</entry>
+			<entry id="20770" type="01" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>विषय Section में व्यवस्थित</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.285">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - मंच</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">उज्जैन</entry>
+			<entry type="troup">विक्रम कीर्ति मन्दिर</entry>
+			<entry type="event">मंच सज्जा</entry>
+		</mdetails>
+		<photo>
+			<entry id="18099" type="02" size="">
+				<desc>कालिदास समारोह</desc>
+			</entry>
+			<entry id="18100" type="02" size="">
+				<desc>कालिदास समारोह</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.286">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - मंच परिकल्पना</entry>
+			<entry type="event">वेटिंग फॉर गोडो</entry>
+		</mdetails>
+		<photo>
+			<entry id="17862" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.287">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - मंच परिकल्पना</entry>
+			<entry type="stage">महेन्द्र</entry>
+			<entry type="director">कुमार वर्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17863" type="02" size="">
+				<desc>न. प्र. संग्रह</desc>
+			</entry>
+			<entry id="17864" type="02" size="">
+				<desc>न. प्र. संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.288">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - मंच व्यवस्था</entry>
+			<entry type="event">कच्चो लम्हें</entry>
+			<entry type="projection">सलीम आरीफ</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="20482" type="01" size="">
+				<desc>रा. ना. वि. से प्राप्त</desc>
+				<misc>रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित फोटो</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.289">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - मंच व्यवस्था/दृश्य बंध</entry>
+			<entry type="event">शायद अलग - अलग नाटकों की</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="21356" type="02" size="">
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="21357" type="02" size="">
+				<desc>श्रीमती रश्मि वाजपेयी द्वारा न. प्र. को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.290">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - मणिपुर थियेटर</entry>
+			<entry type="state">मणिपुर</entry>
+			<entry type="place">इम्फाल</entry>
+			<entry type="troup">कलाक्षेत्र</entry>
+			<entry type="event">मणिपुर थियेटर के 100 वर्ष के अवसर पर</entry>
+			<entry type="year">07-10-2002</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="12604" type="01" size="12.6 x 17.7 से. मी.">
+				<desc>थियेटर ग्रूप व आलोचक बधाई देते हुए</desc>
+				<misc>कलाक्षेत्र, मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</misc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="12605" type="01" size="12.6 x 17.7 से. मी.">
+				<desc>थियेटर ग्रूप व आलोचक बधाई देते हुए</desc>
+				<misc>कलाक्षेत्र, मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</misc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.201">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="12606" type="01" size="12.6 x 17.7 से. मी.">
+				<desc>थियेटर ग्रूप व आलोचक बधाई देते हुए</desc>
+				<misc>कलाक्षेत्र, मणिपुर से प्राप्त फोटो सीडी, परि. सं. 1160 के प्रिंट्स</misc>
 			</entry>
 		</photo>
 	</media>
