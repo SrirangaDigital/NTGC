@@ -4400,1338 +4400,1968 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.376">%raghu
-		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+	<media aid="03" cid="089.376">
+		<mdetails>
+			<entry type="card-type">अन्य विषय - स्थल</entry>
+			<entry type="country">जर्मनी</entry>
+			<entry type="place">बर्लिन</entry>
+			<entry type="event">बर्लिन के कुछ स्थल</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="21067" type="02" size="">
+				<desc>फोटो - `विषय Section' में</desc>
+			</entry>
+			<entry id="21068" type="02" size="">
+				<desc>फोटो - `विषय Section' में</desc>
 			</entry>
+			<entry id="21069" type="02" size="">
+				<desc>फोटो - `विषय Section' में</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.377">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - स्मारिका डिजाइन</entry>
+			<entry type="state">चण्डीगड़</entry>
+			<entry type="troup">भारतीय रंगमंच विभाग</entry>
+			<entry type="disigner">महेन्द्र</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="628" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.378">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - स्मृति समारोह</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">भोपाल</entry>
+			<entry type="troup">भारत भवन</entry>
+			<entry type="event">आदरांजलि</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="16956" type="01" size="">
+				<desc>ब. व. कारंत की स्मृति में आयोजित कार्यक्रम में उपस्थित श्रीमती कीर्ति जैन एवं श्रीमती पापिया दास गुप्ता</desc>
+				<misc>भारत भवन, रंगमण्डल से प्राप्त</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="01" cid="089.379;089.380">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - हास्य नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">कानपुर</entry>
+			<entry type="troup">दर्पण</entry>
+			<entry type="drama">कायाकल्प (हिन्दी)</entry>
+			<entry type="writer">राजेन्द्र कुमार शर्मा</entry>
+			<entry type="director">राकेश शर्मा</entry>
+			<entry type="asst-director">सुरेन्द्र तिवारी</entry>
+			<entry type="stage">सुरेश द्विवेदी</entry>
+			<entry type="music">सन्तू-गीता रोहतगी</entry>
+			<entry type="artist">तृप्ता अरोरा (शीला) एवं संतोष श्रीवास्तव (अनिल)</entry>
+			<entry type="venue">रविन्द्रालय, लखनऊ तथा 28, 29 अगस्त एवं 11 सितम्बर, 1971 मर्चेण्ट चैंबर, कानपुर</entry>
+			<entry type="year">24-08-1971</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="16915" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<misc>नाटक की पूर्ण सूचना स्मारिका परि. सं. 2218 से प्राप्त</misc>
+			</entry>
+			<entry id="16916" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<misc>नाटक की पूर्ण सूचना स्मारिका परि. सं. 2218 से प्राप्त</misc>
 			</entry>
+			<entry id="74" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</desc>
+				<misc>नाटक की पूर्ण सूचना स्मारिका परि. सं. 2218 से प्राप्त</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="01" cid="089.381;089.382">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - हास्य नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">मेरठ</entry>
+			<entry type="troup">मुक्ताकाश नाट्य सेस्थान</entry>
+			<entry type="drama">पंचपरमेश्वर (हिन्दी)</entry>
+			<entry type="writer">प्रेमचन्द (कहानी)</entry>
+			<entry type="natyantar">सुरेन्द्र कौशिक</entry>
+			<entry type="director">सुरेन्द्र कौशिक</entry>
+			<entry type="stage">सुरेन्द्र कौशिक</entry>
+			<entry type="music">डा. इन्दु</entry>
+			<entry type="voice">सुरेन्द्र पाल कनौजिया</entry>
+			<entry type="light">महेन्द्र पाल सिंह राठौरिया</entry>
+			<entry type="artist">सुरेन्द्र कौशिक (मिथा जुम्मन), मधु एवं मंजु शर्मा (नसीबन बेगम), नीरु (चम्पा), श्रीमती साधना (चौधरन), अब्दुल कयूम अलवी (मामूजान) एवं अन्य</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="210" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
 			</entry>
+			<entry id="211" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
+			</entry>
+			<entry id="212" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
+			</entry>
+			<entry id="213" type="02" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</desc>
+				<misc>पूर्ण विवरण स्मा - 2361 व 2363 में</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="01" cid="089.383">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - हास्य नाटक</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">पिरोट्स ट्रूप</entry>
+			<entry type="drama">कट-कट-कट (हिन्दी)</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="17378" type="01" size="">
+				<desc>पिरोट्स ट्रूप द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="17379" type="01" size="">
+				<desc>पिरोट्स ट्रूप द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="17380" type="01" size="">
+				<desc>पिरोट्स ट्रूप द्वारा न. प्र. को भेंट</desc>
 			</entry>
+			<entry id="17381" type="01" size="">
+				<desc>पिरोट्स ट्रूप द्वारा न. प्र. को भेंट</desc>
+			</entry>
+			<entry id="17382" type="01" size="">
+				<desc>पिरोट्स ट्रूप द्वारा न. प्र. को भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="01" cid="089.384">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
+			<entry type="card-type">अन्य विषय - हास्य नाटक</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">ग्वालियर</entry>
+			<entry type="troup">कलामन्दिर</entry>
+			<entry type="drama">अरे शरीफ लोग (हिन्दी) (हास्य नाटक)</entry>
+			<entry type="writer">जयवंत दलवी (मराठी)</entry>
+			<entry type="translation">विजय बापट</entry>
+			<entry type="artist">नव कुमार बागची, कोमल कल्याण, असीमा शर्मा (लक्ष्मी), नंदलाल दमानी (अनोसेलाल), रवि खानवलकर (मास्टर वर्मा), कोमल कल्याण (पण्डित जी) एवं हेमलता वर्मा (पण्डिताइन कलावती) की भूमिका में</entry>
 			<entry type="year"></entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="18094" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="18095" type="02" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="01" cid="089.385;089.386">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">अन्य विषय - हास्य व्यंग्य</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">कानपुर</entry>
+			<entry type="troup">आयाम</entry>
+			<entry type="drama">चोर के घर मोर (हिन्दी)</entry>
+			<entry type="writer">बेन जॉनसन (अॅग्रेजी)</entry>
+			<entry type="translation">अरुण सहगल</entry>
+			<entry type="director">ए. एच. थ्योडोर</entry>
+			<entry type="makeup">अनिल दास</entry>
+			<entry type="artist">विजय शंकर सिंह आजमी (सेठ गोवर्धन दास), शलभ सरीन (मुरारी भाई), विवेक वाजपेयी (श्यामलाल वकील)</entry>
+			<entry type="venue">मर्चेण्ट चेम्बर प्रेक्षागृह, कानपुर</entry>
+			<entry type="year">18-11-1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2051" type="02" size="">
+				<desc>नाटक का मूल, अॅग्रेजी नाम `वलयोनिका'</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.387">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव 36</entry>
+			<entry type="state">आंध्रप्रदेश</entry>
+			<entry type="place">हैदराबाद</entry>
+			<entry type="troup">रंगधारा</entry>
+			<entry type="event">मृत्यु</entry>
 		</mdetails>
 		<photo>
 			<entry id="" type="" size="">
-				<desc></desc>
+				<desc>फोटो 9 36/33</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.388">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव 36</entry>
+			<entry type="state">उड़ीसा</entry>
+			<entry type="place">भुवनेश्वर</entry>
+			<entry type="troup">मनन नाट्य संस्था</entry>
+			<entry type="event">आभारी भगवान</entry>
+			<entry type="writer">मनोज पटनायक</entry>
+			<entry type="director">विजय मोहांती</entry>
+			<entry type="year">26-03-1992</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="" type="02" size="">
+				<desc>फोतो 2082 36/34</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.389">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव 36</entry>
+			<entry type="state">उड़ीसा</entry>
+			<entry type="place">भुवनेश्वर</entry>
+			<entry type="troup">मनन नाट्य संस्था</entry>
+			<entry type="event">आभारी भगवान</entry>
+			<entry type="writer">मनोज पटनायक</entry>
+			<entry type="director">विजय मोहांति</entry>
 		</mdetails>
 		<photo>
 			<entry id="" type="" size="">
-				<desc></desc>
+				<desc>संगीत नाटक अकादमी नाट्य समारोह 1990 के अंतर्गत प्रस्तुत</desc>
+				<misc>फोटो 2082 36/34</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.390">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव 36</entry>
+			<entry type="state">उड़ीसा</entry>
+			<entry type="place">भुवनेश्वर</entry>
+			<entry type="troup">शताब्दी कलाकार</entry>
+			<entry type="event">सामनोर सत्यभामा (उड़िया)</entry>
+			<entry type="writer">रति मिश्रा</entry>
+			<entry type="director">दोल गोविंद रथ</entry>
+			<entry type="year">1992</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="" type="02" size="">
+				<desc>फोटो 20 36/35</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.391">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">उत्तरप्रदेश</entry>
+			<entry type="event">नौटंकी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="4761" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.392">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">उत्तरप्रदेश</entry>
+			<entry type="place">कानपुर</entry>
+			<entry type="troup">दर्पण</entry>
+			<entry type="event">बाकी इतिहास</entry>
+			<entry type="writer">बादल सरकार</entry>
+			<entry type="director">बंशी कौल</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="86" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.393">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">उत्तरप्रदेश</entry>
+			<entry type="place">कानपुर</entry>
+			<entry type="troup">नाट्य भारती</entry>
+			<entry type="event">वतन की आवरू</entry>
+			<entry type="writer">ज्ञानदेव अग्निहोत्री</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="150" type="" size="">
+				<desc>16/24</desc>
+				<misc>पशमीना की भावपूर्ण भूमिका में वीना बाली</misc>
 			</entry>
+			<entry id="4938" type="" size="">
+				<desc>16/24</desc>
+				<misc>पशमीना की भावपूर्ण भूमिका में वीना बाली</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.394">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">उत्तरप्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">दर्पण</entry>
+			<entry type="event">बूढ़ा</entry>
+			<entry type="director">बंशी कौल</entry>
+			<entry type="year">11-01-1974</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="242" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.395">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">उत्तरप्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">भारतेन्दु नाट्य अकादमी</entry>
+			<entry type="event">आषाढ का एक दिन</entry>
+			<entry type="writer">मोहन राकेश</entry>
+			<entry type="director">भानु भारती</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="2085" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.396">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">उत्तरप्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">भारतेन्दु नाट्य अकादमि</entry>
+			<entry type="event">ग्रेट फोट</entry>
+			<entry type="director">अनामिका हक्सर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="256" type="" size="">
+				<desc>18 35/36</desc>
+			</entry>
+			<entry id="259" type="" size="">
+				<desc>18 35/36</desc>
+			</entry>
+			<entry id="4950" type="" size="">
+				<desc>17/28</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.397">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">उत्तरप्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">रंगयोग</entry>
+			<entry type="event">आला अफ़सर</entry>
+			<entry type="director">बंसी कौल</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="347" type="" size="">
+				<desc>30/11</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.398">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">कर्नाटक</entry>
+			<entry type="place">बंगलूर</entry>
+			<entry type="troup">रंगायन</entry>
+			<entry type="event">कालेदन्दा</entry>
+			<entry type="director">जयतीर्थ जोशी</entry>
+			<entry type="music">ब. व. कारंत</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="3186" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.399">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">कर्नाटक</entry>
+			<entry type="place">मैसूर</entry>
+			<entry type="troup">गुब्बी कंपनी</entry>
+			<entry type="event">दशावतार</entry>
+			<entry type="writer">बी. पुट्टस्वाम्य्या</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="3631" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.400">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">कर्नाटक</entry>
+			<entry type="place">मैसूर</entry>
+			<entry type="troup">गुब्बी थियेटर</entry>
+			<entry type="event">दशावतार</entry>
+			<entry type="year">1955</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2273" type="" size="">
+				<desc>26, 21</desc>
+			</entry>
+			<entry id="2274" type="" size="">
+				<desc>26, 21</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.401">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">कर्नाटक</entry>
+			<entry type="place">मैसूर</entry>
+			<entry type="troup">गुब्बी थियेटर</entry>
+			<entry type="event">Sadarama</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2279" type="" size="">
+				<desc>Gubbi Veeranna as thief in the play</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.402">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">केरल</entry>
+			<entry type="place">त्रिवेन्द्रम</entry>
+			<entry type="event">कर्णभारम</entry>
+			<entry type="writer">भास</entry>
+			<entry type="director">कावलम नारायण पणिक्कर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="721" type="" size="30/2">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.403">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">गुजरात</entry>
+			<entry type="event">भवाई</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="4760" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.404">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डिगढ़</entry>
+			<entry type="troup">अभिनेत</entry>
+			<entry type="event">अंधायुग</entry>
+			<entry type="writer">धर्मवीर भारती</entry>
+			<entry type="director">एन. सी. ठाकुर एवं वीरेन्द्र मेहन्दोस्ता</entry>
+			<entry type="year">1981</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="621" type="02" size="">
+				<desc>36/22</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.405">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">अभिनेत</entry>
+			<entry type="event">आधे-अधूरे</entry>
+			<entry type="writer">मोहन राकेश</entry>
+			<entry type="director">हरीश भाटिया</entry>
+			<entry type="year">1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2112" type="02" size="">
+				<desc>36/23</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.406">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">अभिनेत</entry>
+			<entry type="event">मिट्टी की गाड़ी</entry>
+			<entry type="roopantar">सत्यवरत सिन्हा</entry>
+			<entry type="director">हरीश भाटिया एवं आदित्य प्रकाश</entry>
+			<entry type="year">2, 3 सितंबर 1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="582" type="02" size="">
+				<desc>36/29</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.407">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">अभिनेत</entry>
+			<entry type="event">मुद्राराक्षस</entry>
+			<entry type="writer">विशाखदत्त</entry>
+			<entry type="director">हरीश भाटिया</entry>
+			<entry type="year">1982</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="575" type="02" size="">
+				<desc>36/24</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.408">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">अभिनेत</entry>
+			<entry type="event">हयवदन</entry>
+			<entry type="writer">गिरीश कारनाड</entry>
+			<entry type="director">हरीश भाटिया</entry>
+			<entry type="year">22-26 सितंबर 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="564" type="02" size="">
+				<desc>36/25</desc>
+				<misc>उत्तर संभागीय नाट्य समारोह में प्रस्तुत</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.409">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">इंडियन थिएटर डिपार्टमेंट</entry>
+			<entry type="event">एंटीगोन</entry>
+			<entry type="writer">सोफोक्लीज़</entry>
+			<entry type="director">बलवन्त गार्गी</entry>
+			<entry type="year">1975-76</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="3089" type="02" size="">
+				<desc>36/21</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.410">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">भारतीय रंगमंच विभाग</entry>
+			<entry type="event">कंजूस</entry>
+			<entry type="writer">मोलेयर</entry>
+			<entry type="director">मोहन महर्षि</entry>
+			<entry type="designer">महेन्द्र</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="539" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.411">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">भारतीय रंगमंच विभाग</entry>
+			<entry type="event">कंजूस</entry>
+			<entry type="writer">मेलियर</entry>
+			<entry type="director">मोहन मर्शर्षि</entry>
+			<entry type="year">मई 1980</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="538" type="02" size="">
+				<desc>36/28</desc>
 			</entry>
+			<entry id="540" type="02" size="">
+				<desc>36/31</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.412">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">भारतीय रंगमंच विभाग</entry>
+			<entry type="event">केसरो</entry>
+			<entry type="writer">बलवन्त गार्गी</entry>
+			<entry type="director">बलवन्त गार्गी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="535" type="02" size="">
+				<desc>36/32</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.413">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">भारतीय गंगमंच विभाग</entry>
+			<entry type="event">मत्तविलासम्</entry>
+			<entry type="writer">महेन्द्र विक्रम वर्मन</entry>
+			<entry type="director">कुमार वर्मा</entry>
+			<entry type="year">12 नवंबर 1982</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="525" type="02" size="">
+				<desc>36/30</desc>
+			</entry>
+			<entry id="526" type="02" size="">
+				<desc>36/26</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.414">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">चण्डीगढ़</entry>
+			<entry type="troup">लोक कला मंच</entry>
+			<entry type="event">इक रामायण होर</entry>
+			<entry type="writer">अजमेर सिंह औलख</entry>
+			<entry type="director">कॅवल विर्दोही</entry>
+			<entry type="year">03-02-1983</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="551" type="02" size="">
+				<desc>36/27</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.415">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">जम्मू और कश्मीर</entry>
+			<entry type="place">जम्मू</entry>
+			<entry type="troup">नटरंग</entry>
+			<entry type="event">कौन नचाये नाच</entry>
+			<entry type="writer">रविदीप</entry>
+			<entry type="director">बलवंत ठाकुर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="961-II" type="" size="">
+				<desc>18/33</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.416">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">जम्मू और कश्मीर</entry>
+			<entry type="place">जम्मू</entry>
+			<entry type="troup">नटरंग</entry>
+			<entry type="event">भोमा</entry>
+			<entry type="director">बलवंत ठाकुर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="960-II" type="" size="">
+				<desc>जम्मू नाट्य शिविर - 1989</desc>
+				<misc>18/31</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.417">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">जम्मू और कश्मीर</entry>
+			<entry type="place">जम्मू</entry>
+			<entry type="troup">नटरंग</entry>
+			<entry type="event">महाभोज (डोगरी)</entry>
+			<entry type="writer">मन्नू भंडारी</entry>
+			<entry type="director">बलवन्त ठाकुर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="956" type="" size="">
+				<desc>18/36</desc>
 			</entry>
+			<entry id="958" type="" size="">
+				<desc>18/33</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.418">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="state">जम्मू और कश्मीर</entry>
+			<entry type="place">जम्मू</entry>
+			<entry type="troup">नटरंग</entry>
+			<entry type="event">मेरे हिस्से की धूप कहॉ है</entry>
+			<entry type="writer">रामनाथ शास्त्री</entry>
+			<entry type="director">बलवन्त ठाकुर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="3923-III" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.419">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">अलीबाबा</entry>
+			<entry type="writer">मोहित चटर्जी</entry>
+			<entry type="translation">सान्तवना निगम</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="990" type="" size="">
+				<desc>13/18</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.420">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">उद्ल्पस्त धर्मशाला</entry>
+			<entry type="writer">गोविंद पुरुषोत्तम देशपांडे</entry>
+			<entry type="translation">वसंत देव</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="991" type="" size="">
 				<desc></desc>
+			</entry>
+			<entry id="4787-I" type="" size="">
+				<desc>19/31</desc>
 			</entry>
+			<entry id="4788-I" type="" size="">
+				<desc>19/34</desc>
+			</entry>
+			<entry id="4789-I" type="" size="">
+				<desc>19/32</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.421">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">एक शून्य बाजीराय</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="992" type="" size="">
+				<desc>13/27</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.422">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">कन्यादान</entry>
+			<entry type="writer">विजय तेंडुलकर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="993" type="" size="">
+				<desc>9/17</desc>
 			</entry>
+			<entry id="994" type="" size="">
+				<desc>9/12</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.423">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">काल तुझे नमस्कार</entry>
+			<entry type="writer">चिंतामणि खानोलकर</entry>
+			<entry type="director">कुलभूषण खरबंद</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="996" type="" size="">
+				<desc>13/26</desc>
 			</entry>
+			<entry id="997" type="" size="">
+				<desc>13/26</desc>
+			</entry>
+			<entry id="998" type="" size="">
+				<desc>13/26</desc>
+			</entry>
+			<entry id="999" type="" size="">
+				<desc>13/26</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.424">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">गिनीमिग</entry>
+			<entry type="writer">मोहित चट्टोपाध्याय</entry>
+			<entry type="translation">सान्त्वना निगम</entry>
+			<entry type="director">राजिंदर नाथ</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="979" type="" size="">
+				<desc>13/29</desc>
+			</entry>
+			<entry id="1001" type="" size="">
+				<desc>13/25</desc>
+			</entry>
+			<entry id="4790-I" type="" size="">
+				<desc>19/25</desc>
+			</entry>
+			<entry id="4791-I" type="" size="">
+				<desc>19/5</desc>
+			</entry>
+			<entry id="4792-I" type="" size="">
+				<desc>19/7</desc>
+			</entry>
+			<entry id="4793-I" type="" size="">
+				<desc>19/8</desc>
+			</entry>
+			<entry id="4794-I" type="" size="">
+				<desc>19/6</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.425">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">घासीराम कोतवाल</entry>
+			<entry type="writer">विजय तेंडुलकर</entry>
+			<entry type="director">राजिंदर नाथ</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1004-I" type="" size="">
+				<desc>13/32</desc>
 			</entry>
+			<entry id="1013-I" type="" size="">
+				<desc>13/21</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.426">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">चक्रव्यूह</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="7" type="02" size="">
+				<desc>कुल 36 निगेटिव</desc>
+				<misc>कॉन्टेक्ट शीट सख्या - 7</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.227">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">चक्रव्यूह</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2847" type="" size="">
+				<desc>कान्टेक्ट शीट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.228">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">जात ही पूध्वे साधु की</entry>
+			<entry type="writer">विजय तेंडुलकर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1015" type="" size="">
+				<desc>राष्ट्रीय हिन्दी नाटक समारोह, भोपाल, 1980</desc>
+				<misc>13/24</misc>
+			</entry>
+			<entry id="1016" type="" size="">
+				<desc>राष्ट्रीय हिन्दी नाटक समारोह, भोपाल, 1980</desc>
+				<misc>13/23</misc>
+			</entry>
+			<entry id="4795-I" type="" size="">
+				<desc>राष्ट्रीय हिन्दी नाटक समारोह, भोपाल, 1980</desc>
+				<misc>19/18</misc>
 			</entry>
+			<entry id="4796-I" type="" size="">
+				<desc>राष्ट्रीय हिन्दी नाटक समारोह, भोपाल, 1980</desc>
+				<misc>19/1</misc>
+			</entry>
+			<entry id="4797-I" type="" size="">
+				<desc>राष्ट्रीय हिन्दी नाटक समारोह, भोपाल, 1980</desc>
+				<misc>19/23</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.429">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">ताम्रपत्र</entry>
+			<entry type="writer">देवाशीष मजूमदार</entry>
+			<entry type="translation">सांत्तवना</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="venue">मंजर थियेटर</entry>
+			<entry type="year">20-21, 04 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1017" type="" size="">
+				<desc>13/34-35</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.430">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">नाटक पोलमपुर का</entry>
+			<entry type="writer">मणि मधुकर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1018" type="" size="">
+				<desc>13/31</desc>
 			</entry>
+			<entry id="4798-I" type="" size="">
+				<desc>19/2</desc>
+			</entry>
+			<entry id="4799-I" type="" size="">
+				<desc>19/9</desc>
+			</entry>
+			<entry id="4800" type="" size="">
+				<desc>19/3</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.431">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">पंछी ऐसे ओते है</entry>
+			<entry type="writer">विजय तेंडुलकर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1020" type="" size="">
+				<desc>9/11</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.432">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">बाकी इतिहास</entry>
+			<entry type="writer">बादल सरकार</entry>
+			<entry type="translation">नेमिचन्द्र जैन</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1021" type="" size="">
+				<desc>13/22</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.433">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">बिसिस्ट्राटा</entry>
+			<entry type="director">राजिंदर नाथ</entry>
+			<entry type="year">1977</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1024" type="" size="">
+				<desc>13/33</desc>
+			</entry>
+			<entry id="4783-I" type="" size="">
+				<desc>19/11</desc>
+			</entry>
+			<entry id="4784-I" type="" size="">
+				<desc>19/14</desc>
+			</entry>
+			<entry id="4785-I" type="" size="">
+				<desc>19/10</desc>
 			</entry>
+			<entry id="4786-I" type="" size="">
+				<desc>19/4</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.434">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">सरि रात</entry>
+			<entry type="writer">बादल सरकार</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1026" type="" size="">
+				<desc>13/19</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.435">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">स्वप्न संतती</entry>
+			<entry type="writer">देवाशीश मजमूदार</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
+			<entry type="translation">सान्त्वना कलाकार एस. एम. जहीर, क्षिप्ता दास</entry>
+			<entry type="year">27-10-1993</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="3015" type="" size="">
+				<desc>13/17</desc>
+			</entry>
+			<entry id="4801-I" type="" size="">
+				<desc>19/22</desc>
 			</entry>
+			<entry id="4802-I" type="" size="">
+				<desc>19/0</desc>
+			</entry>
+			<entry id="4803-I" type="" size="">
+				<desc>19/33</desc>
+			</entry>
+			<entry id="4804-I" type="" size="">
+				<desc>19/35</desc>
+			</entry>
+			<entry id="4805-I" type="" size="">
+				<desc>19/22</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.436">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">स्टील फ्रेम</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1025" type="" size="">
+				<desc>13/20</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.437">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">हत्या एक आकार की</entry>
+			<entry type="writer">ललित सहगल</entry>
+			<entry type="director">राजिन्दर नाथ</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1027" type="" size="">
+				<desc>13/18</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.438">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">हवाई महाराज</entry>
+			<entry type="writer">देवाशीश मजुमदार</entry>
+			<entry type="translation">सान्तवना</entry>
+			<entry type="director">राजिंदर नाथ</entry>
+			<entry type="venue">श्रीराम सेन्टर तलकक्ष</entry>
+			<entry type="year">5 दिसं 1984</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="4816-I" type="" size="">
+				<desc>19/30</desc>
+				<misc>बंगला</misc>
+			</entry>
+			<entry id="4817-I" type="" size="">
+				<desc>19/15</desc>
+				<misc>बंगला</misc>
 			</entry>
+			<entry id="4818-I" type="" size="">
+				<desc>19/26</desc>
+				<misc>बंगला</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.439">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अभियान</entry>
+			<entry type="event">हानूश</entry>
+			<entry type="writer">भीष्म साहनी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2923" type="" size="">
+				<desc>13/30</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.440">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अस्मिता</entry>
+			<entry type="event">अम्मा तुझे सलाम</entry>
+			<entry type="writer">नाग बोडस</entry>
+			<entry type="director">अरविन्द गौड़</entry>
+			<entry type="music">संगीता गौड़</entry>
+			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम</entry>
+			<entry type="year">08-01-2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="5843" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5844" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5845" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5846" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
 			</entry>
+			<entry id="5847" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5848" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5849" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5850" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.441">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अस्मिता</entry>
+			<entry type="event">ऑपरेशन थ्री स्टार</entry>
+			<entry type="writer">दारियो फ़ो</entry>
+			<entry type="roopantar">अमिताभ श्रीवास्तव</entry>
+			<entry type="director">अरविन्द गौड़</entry>
+			<entry type="song">पीयूष मिश्र</entry>
+			<entry type="music">पीयूष मिश्र</entry>
+			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम</entry>
+			<entry type="year">15-01-2000</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="5851" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5852" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
 			</entry>
+			<entry id="5853" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5854" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5855" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5856" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5857" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5858" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5859" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5860" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5861" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5862" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
+			<entry id="5863" type="01" size="">
+				<desc>नटरंग रंगनिरंतर के अन्तर्गत प्रस्तुत</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.442">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">अस्मिता</entry>
+			<entry type="event">सबसे उदास कविता</entry>
+			<entry type="writer">स्वदेश दीपक</entry>
+			<entry type="director">अरविन्द गौड़</entry>
+			<entry type="venue">बिपिन चन्द्र पाल ऑडिटोरियम</entry>
+			<entry type="year">05-12-1999</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="5819" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="5820" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="5821" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="5822" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="5823" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="5824" type="02" size="">
 				<desc></desc>
 			</entry>
+			<entry id="5825" type="02" size="">
+				<desc></desc>
+			</entry>
+			<entry id="5826" type="02" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.443">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">एक्टवन</entry>
+			<entry type="event">चौबोली</entry>
+			<entry type="writer">स्वयं प्रकाश</entry>
+			<entry type="director">एन. के. शर्मा</entry>
+			<entry type="year">1992</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1033" type="" size="">
+				<desc>14/13</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.444">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">एक्टवन</entry>
+			<entry type="event">मर्सिया</entry>
+			<entry type="director">एन. के. शर्मा</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1039" type="" size="">
+				<desc>14/17</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.445">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">एक्टवन</entry>
+			<entry type="event">होली</entry>
+			<entry type="writer">महेश एलकुंचवार और वसंत देव</entry>
+			<entry type="director">एन. के. शर्मा</entry>
+			<entry type="year">1991</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1040" type="" size="">
+				<desc>14/16</desc>
+			</entry>
+			<entry id="1041" type="" size="">
+				<desc>14/15</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.446">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">क्षितिज</entry>
+			<entry type="event">मृत्युंजय</entry>
+			<entry type="writer">शिवाजी सावंत</entry>
+			<entry type="director">मुकुल नाग</entry>
+			<entry type="year">20-30 जनवरी 1997</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="4141" type="" size="">
+				<desc>8</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.447">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">क्षितिज</entry>
+			<entry type="event">ययाति</entry>
+			<entry type="writer">गिरीश करनाड</entry>
+			<entry type="translation">बी. आर. नारायण</entry>
+			<entry type="director">विपिन कुमार</entry>
+			<entry type="year">5, 6, 7 मार्च 1997</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="4148" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.448">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">थियेटर एण्द टेलिविजन ऐसोसिएट्स</entry>
+			<entry type="event">फिंग लियर</entry>
+			<entry type="writer">शेक्सपियर</entry>
+			<entry type="director">अमाल अलाना</entry>
+			<entry type="year">1989</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2759" type="" size="">
+				<desc>9/18</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.449">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">थिएटर एण्ड टेलिविजन ऐसोसिएट्स</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2907" type="" size="">
+				<desc>`मदर करेज' के लिए अमाल अल्लाना, मनोहर सिंह की पस्त्र सज्जा करती हुऐ</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.450">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">थिएटर सर्किल</entry>
+			<entry type="event">कोमल गोधार</entry>
+			<entry type="writer">शंकर शेष</entry>
+			<entry type="director">रमेश मनचंदा</entry>
+			<entry type="year">28-03-1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1234" type="" size="">
+				<desc>11/7</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.451">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">थिएटर सर्किल</entry>
+			<entry type="event">टीन की तलवार</entry>
+			<entry type="writer">उत्पल दत्त</entry>
+			<entry type="director">रमेश मनचंदा</entry>
+			<entry type="venue">उत्तर संभागीय नाट्य समारोह, चण्डीगढ</entry>
+			<entry type="year">22-26 सितम्बर 1985</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1232" type="" size="">
+				<desc>11/6</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.452">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">थ्री आर्ट्स क्लब</entry>
+			<entry type="event">अंडर सेक्रेटरी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1213" type="" size="">
+				<desc>11/5</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.453">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">दिल्ली आर्ट थिएटर</entry>
+			<entry type="event">षोडषी</entry>
+			<entry type="director">गुलशन कपूर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1057" type="" size="">
+				<desc>14/1</desc>
+			</entry>
+			<entry id="1060" type="" size="">
+				<desc>14/5</desc>
+			</entry>
+			<entry id="1063" type="" size="">
+				<desc>14/4</desc>
 			</entry>
+			<entry id="1064" type="" size="">
+				<desc>14/3</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.454">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">दिल्ली आर्ट थियेटर</entry>
+			<entry type="event">सोहनी महिबाल</entry>
+			<entry type="director">शीला भाटिया</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1065" type="" size="">
+				<desc>14/2</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.455">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">दिशान्तर</entry>
+			<entry type="event">आषाढ़ का एक दिन</entry>
+			<entry type="writer">मोहन राकेश</entry>
+			<entry type="director">ओम शिवपुरी</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2203" type="" size="">
+				<desc>14/12</desc>
+			</entry>
+			<entry id="2353" type="" size="">
+				<desc>14/11</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.456">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">दिशान्तर</entry>
+			<entry type="event">बिल्ली चली पहनकर जूता</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1067" type="" size="">
+				<desc>14/9</desc>
+			</entry>
+			<entry id="1068" type="" size="">
+				<desc>14/8</desc>
 			</entry>
+			<entry id="1069" type="" size="">
+				<desc>14/13</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.457">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">दिशान्तर</entry>
+			<entry type="event">लहरों के राजहंस</entry>
+			<entry type="writer">मोहन राकेश</entry>
+			<entry type="director">मोहन राकेश</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="2354" type="" size="">
+				<desc>14/7</desc>
 			</entry>
+			<entry id="2355" type="" size="">
+				<desc>14/6</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.458">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">दिशान्तर</entry>
+			<entry type="event">हयवदन</entry>
+			<entry type="writer">गिरीश कारनाड</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1066" type="" size="">
+				<desc>14/10</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.459">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान</entry>
+			<entry type="event">कमलेश्वर दत्त त्रिपाठी का व्याख्यान : संस्कृत नाटक पाठ्य एवं वाचिक अभिनय</entry>
+			<entry type="year">31-10-1994</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="2849" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.460">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान</entry>
+			<entry type="event">फैथरीन हैनसैन का व्याख्यान : स्त्री भूमिका : फ़ीमेल इम्परसोनेटर्स एण्ड जेण्डर फ़ारमेशन इन पारसी थिएटर</entry>
+			<entry type="venue">रवीन्द्र भवन सभागर</entry>
+			<entry type="year">11 नवम्बर 1997</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="4445" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4446" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4447" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4448" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4449" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4450" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4451" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4452" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4453" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4454" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4455" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4456" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4457" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4458" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4459" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4460" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4461" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4462" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4463" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4464" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4465" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4466" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4467" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4468" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4469" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4470" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4471" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4472" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4473" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4474" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4475" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4476" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4477" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4478" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4479" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4480" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4481" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4482" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4483" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4484" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4485" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4486" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4487" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4488" type="" size="">
 				<desc></desc>
 			</entry>
+			<entry id="4489" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4490" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4491" type="" size="">
+				<desc></desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.461">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान</entry>
+			<entry type="event">भूख आग है</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="3872" type="" size="">
+				<desc>कॄष्ण बलदेव वैद का नाट्य पाठ</desc>
+				<misc>यह सामग्री फोटो वाले लिफाफे में रखा है ।</misc>
+			</entry>
+			<entry id="3865" type="" size="">
+				<desc>कॄष्ण बलदेव वैद का नाट्य पाठ</desc>
+				<misc>यह सामग्री फोटो वाले लिफाफे में रखा है ।</misc>
 			</entry>
+			<entry id="3887" type="01" size="">
+				<desc>कॄष्ण बलदेव वैद का नाट्य पाठ</desc>
+				<misc>यह सामग्री फोटो वाले लिफाफे में रखा है ।</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.462">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान</entry>
+			<entry type="event">नटरंग रंगनिरंतर प्रेस कॉन्फ्रेंस</entry>
+			<entry type="venue">इंटरनेशनल सेंटर</entry>
+			<entry type="year">22-09-1999</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="28" type="02" size="">
+				<desc>फोटो - 5678-91, 5693-5712, कॉन्टेक्ट शीट - 19, 20</desc>
 			</entry>
+			<entry id="29" type="01" size="">
+				<desc>फोटो - 5678-91, 5693-5712, कॉन्टेक्ट शीट - 19, 20</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.463">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान</entry>
+			<entry type="event">रंग संवाद (अनामिका हक्सर, अरविन्द गौड़ तथा फैज़ल अलकाजी से बातचीत)</entry>
+			<entry type="venue">श्रीराम सेंटर तलकक्ष</entry>
+			<entry type="year">14-02-1998</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="2-I" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="1" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="8" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.464">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान</entry>
+			<entry type="event">रंग संवाद : प्रदर्शनी फोटोग्राफ</entry>
+			<entry type="venue">श्रीराम सेंटर, तलकक्ष</entry>
+			<entry type="year">14-02-1998</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="4678" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4679" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="4680" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.465">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान</entry>
+			<entry type="event">वेटिंग फॉर गोडो : प्रेस कॉन्फ्रेंस</entry>
+			<entry type="venue">इंडिया इंटरनेशनल सेंटर</entry>
+			<entry type="year">24 अक्टूबर 1998</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
+			<entry id="60" type="" size="">
+				<desc></desc>
+			</entry>
+			<entry id="61" type="" size="">
 				<desc></desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.466">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नटरंग प्रतिष्ठान</entry>
+			<entry type="event">हबीब तनवीर द्वारा `हिपेशिया' का नाट्य-पाठ</entry>
+			<entry type="venue">साहित्य अकादेमी सभागार, रवीन्द्र भवन</entry>
+			<entry type="year">02-09-1999</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="24" type="01" size="">
+				<desc>फोटो - 5567-94, 5610-5629, 5631-5635</desc>
+				<misc>कॉन्टेक्टशीट - 17, 18</misc>
+			</entry>
+			<entry id="25" type="02" size="">
+				<desc>फोटो - 5567-94, 5610-5629, 5631-5635</desc>
+				<misc>कॉन्टेक्टशीट - 17, 18</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.201">
+	<media aid="03" cid="089.467">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="year"></entry>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नया थिएटर</entry>
+			<entry type="event">उत्तररामचरित्र</entry>
+			<entry type="writer">भवभूति</entry>
+			<entry type="director">हबीब तनवीर</entry>
 		</mdetails>
 		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1077" type="" size="">
+				<desc>13/15</desc>
+			</entry>
+			<entry id="1078" type="" size="">
+				<desc>13/1</desc>
+			</entry>
+			<entry id="1080" type="" size="">
+				<desc>13/7</desc>
+			</entry>
+			<entry id="1081" type="" size="">
+				<desc>13/6</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.468">
+		<mdetails>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नया थियेटर</entry>
+			<entry type="event">गुड वुमेन ऑफ सेतजुआंन</entry>
+			<entry type="writer">बर्टोल्ट ब्रैक्ट</entry>
+		</mdetails>
+		<photo>
+			<entry id="1083" type="" size="">
+				<desc>13/5</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.469">
+		<mdetails>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नया थिएटर</entry>
+			<entry type="event">चन्द्रगुप्त</entry>
+			<entry type="writer">जयशंकर प्रसाद</entry>
+		</mdetails>
+		<photo>
+			<entry id="1085" type="" size="">
+				<desc>13/14</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.470">
+		<mdetails>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नया थिएटर</entry>
+			<entry type="event">चरणदास चोर</entry>
+			<entry type="writer">हबीब तनवीर</entry>
+			<entry type="director">हबीब तनवीर</entry>
+		</mdetails>
+		<photo>
+			<entry id="1096" type="" size="">
+				<desc>13/8</desc>
+				<misc>छत्तीसगढी</misc>
+			</entry>
+			<entry id="1098" type="" size="">
+				<desc>7</desc>
+				<misc>छत्तीसगढी</misc>
+			</entry>
+			<entry id="2205" type="" size="">
+				<desc>6</desc>
+				<misc>छत्तीसगढी</misc>
+			</entry>
+			<entry id="1097" type="" size="">
+				<desc>30/10</desc>
+				<misc>छत्तीसगढी</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.471">
+		<mdetails>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नया थिएटर</entry>
+			<entry type="event">देख रहे है नैन</entry>
+			<entry type="director">हबीब तनवीर</entry>
+		</mdetails>
+		<photo>
+			<entry id="2294" type="" size="">
+				<desc>13/10</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.472">
+		<mdetails>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नया थिएटर</entry>
+			<entry type="event">बहादुर कलारिन</entry>
+			<entry type="writer">हबीब तनवीर</entry>
+		</mdetails>
+		<photo>
+			<entry id="1094" type="" size="">
+				<desc>13/3</desc>
+				<misc>छत्तीसगढ़ी कहानी पर आधारित</misc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.473">
+		<mdetails>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नया थिएटर</entry>
+			<entry type="event">मिट्टी की गाड़ी</entry>
+			<entry type="writer">शूद्रक, संस्कृत नाटक `मृछ्छकटिक' का अनुवाद : अनु हबीब तनवीर</entry>
+			<entry type="director">हबीब तनवीर</entry>
+		</mdetails>
+		<photo>
+			<entry id="1087" type="" size="">
+				<desc>13/4</desc>
+			</entry>
+			<entry id="1090" type="" size="">
+				<desc>13/23</desc>
+			</entry>
+			<entry id="2204" type="" size="">
+				<desc>9/29</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.474">
+		<mdetails>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नया थिएटर</entry>
+			<entry type="event">रुस्तम और सोहराव</entry>
+			<entry type="writer">हबीब तनवीर</entry>
+			<entry type="artist">हबीब तनवीर</entry>
+		</mdetails>
+		<photo>
+			<entry id="3165" type="" size="">
+				<desc>13/12</desc>
+			</entry>
+		</photo>
+	</media>
+	<media aid="03" cid="089.475">
+		<mdetails>
+			<entry type="card-type">निगेटिव</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">नया थिएटर</entry>
+			<entry type="event">हिरमा की अमर कहानी</entry>
+			<entry type="writer">हबीब तनवीर</entry>
+			<entry type="director">हबीब तनवीर</entry>
+		</mdetails>
+		<photo>
+			<entry id="1092" type="" size="">
+				<desc>13/11</desc>
+			</entry>
+			<entry id="2292" type="" size="">
+				<desc>13/9</desc>
 			</entry>
 		</photo>
 	</media>
