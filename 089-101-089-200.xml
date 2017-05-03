@@ -314,1618 +314,1298 @@
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.115">%raghu,
+	<media aid="03" cid="089.115">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कार्यशाला</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">संगीत नाटक अकादमी</entry>
+			<entry type="event">नाटककारों पर कार्यशाला</entry>
+			<entry type="group-photo">हबीब तनवीर अपने सहभागियों के साथ</entry>
+			<entry type="year">मार्च 1995</entry>
+		</mdetails>
+		<photo>
+			<entry id="8189" type="01" size="">
+				<desc>सं. ना. अ. - 40629</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.116">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कार्यशाला</entry>
+			<entry type="state">पश्चिम बंगाल</entry>
+			<entry type="place">कोलकाता</entry>
+			<entry type="troup">पश्चिम बंगाल नाट्य अकादेमी</entry>
+			<entry type="event">विशेष कार्यशाला (CAL)</entry>
+		</mdetails>
+		<photo>
+			<entry id="12591" type="01" size="12.6 x 17.7 से. मी.">
+				<desc>समूह में सावित्री हेसनाम</desc>
+				<misc>कलाक्षेत्र से प्राप्त फोटो सीडी, पारे. सं. 1160 का प्रिंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.117">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - काव्य आयोजन</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">भोपाल</entry>
+			<entry type="troup">भारत भवन</entry>
+			<entry type="event">अशोक वाजपेयी के लेखन `थोड़ी सी जगह' पर केन्द्रित आयोजन</entry>
+			<entry type="person">अशोक वाजपेयी, विद्याशंकर मिश्र, कृष्ना सोबती, नामवर सिंह व प्रभात कुमार त्रिपाठी</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
+			<entry type="year">11-12 अप्रैल 1995</entry>
+		</mdetails>
+		<photo>
+			<entry id="3669" type="" size="">
 				<desc></desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.118">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - क्लाउन शो</entry>
+			<entry type="event">विदेशी कलाकारों द्वारा क्लाउन (शो)</entry>
+		</mdetails>
+		<photo>
+			<entry id="20861" type="" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>फोटो विषय Section में</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.119">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय -कुतम्बलम् </entry>
+			<entry type="event">अम्बलपुरा कुतम्बलम की रंगशाला</entry>
+		</mdetails>
+		<photo>
+			<entry id="3257" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3258" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.120">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">अरपुक्कार कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3302" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
+			<entry id="3303" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.121">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">इरिंजालकुडा कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3274" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3275" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3276" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3277" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3278" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3279" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3280" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3281" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.122">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">एट्टुमनूर कुतम्बलम् का अस्थाना मण्डप</entry>
+		</mdetails>
+		<photo>
+			<entry id="3308" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.123">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">करिवेल्लूर कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3259" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.124">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">किटंगुर कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3272" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.125">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">कुटंगुर कुतम्बलम्, खंभे और खुदाई के चित्र</entry>
+		</mdetails>
+		<photo>
+			<entry id="3270" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3271" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.126">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">किटंगुर कुतम्बलम्, तंजावुर (कापर प्लेट का छज्जा)</entry>
+		</mdetails>
+		<photo>
+			<entry id="3273" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.127">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">किटंगुर कुतम्बलम्, मंदिर की छत</entry>
+		</mdetails>
+		<photo>
+			<entry id="3253" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.128">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">किटंगुर, नक्काशी का भाग</entry>
+		</mdetails>
+		<photo>
+			<entry id="3255" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वार भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.129">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - अनुवादित : जर्मनी से हिन्दी</entry>
+			<entry type="state">आंध्र प्रदेश</entry>
+			<entry type="place">हैदराबाद</entry>
+			<entry type="troup">रंगधारा</entry>
+			<entry type="event">खेले तो कहॉ खेलें (हिन्दी)</entry>
+			<entry type="director">भास्कर शिवालकर</entry>
+			<entry type="venue">मैक्समूलर भवन, हैदराबाद</entry>
+		</mdetails>
+		<photo>
+			<entry id="3787" type="01" size="">
+				<desc>मूल जर्मन नाटक - बिज्जी, डिज्जी, डफी एण्ड आर्थर</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.130">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">कुतम्बलम् की छत का दृश्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="3284" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 				<misc></misc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.108">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="3285" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 				<misc></misc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.108">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="3287" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.131">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">कुतम्बलम् के भीतर का भाग जिसमें खंभे और निर्माण दृश्य दिख रहा है ।</entry>
+		</mdetails>
+		<photo>
+			<entry id="3286" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.132">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="state">केरल</entry>
+		</mdetails>
+		<photo>
+			<entry id="3764" type="" size="">
 				<desc></desc>
-				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.133">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">कोतपड़ि का कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3265" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
+			<entry id="3300" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.134">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">गुरुवायूर का प्रेक्षक-निवेषण</entry>
+		</mdetails>
+		<photo>
+			<entry id="3296" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.135">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">गुरुवायुर कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3297" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3301" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.136">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">गुरुवायूर कुतम्बलम्, दीपस्तंभ</entry>
+		</mdetails>
+		<photo>
+			<entry id="3294" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
+			<entry id="3295" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.137">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">गुरुवायूर कुतम्बलम् के मंच का छज्जा और कलश</entry>
+		</mdetails>
+		<photo>
+			<entry id="3298" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.138">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">गुरुवायूर कुतम्बलम्, मंच</entry>
+		</mdetails>
+		<photo>
+			<entry id="3293" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वार भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.139">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">गुरुवायूर कुतम्बलम्, मंदिर प्रांगण के पीद्दे</entry>
+		</mdetails>
+		<photo>
+			<entry id="3299" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.140">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">त्रिचूर के कुतम्बलम् का वह दृश्य जिसे प्रस्तुति के पहले सज़ाया वाय है ।</entry>
+		</mdetails>
+		<photo>
+			<entry id="3282" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.141">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">त्रिचूर, कुतम्बलम् की छत का दृश्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="3283" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.142">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">त्रिपनिथुरा का कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3289" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.143">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">त्रिवेन्द्रमम आर्ट म्यूजियम मे आण्डकृति कुतम्बलम् का प्रतिरूप, चेरांगूर</entry>
+		</mdetails>
+		<photo>
+			<entry id="3288" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.144">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">थिरुनक्कार कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3305" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.145">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">थिरुमान्थामकुन्नु कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3306" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.146">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">थिरुवारपु कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3260" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
+			<entry id="3304" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.147">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">थिरुवेगप्पूरा कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3307" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.148">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">पइयनुर के कुतम्बलम् की योजना</entry>
+		</mdetails>
+		<photo>
+			<entry id="3256" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.149">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="state">केरल</entry>
+			<entry type="place">पेरुवन्नम मंदिर, त्रिचूर</entry>
+			<entry type="event">श्री गोवर्धन पांचाल द्वारा भेंट</entry>
+		</mdetails>
+		<photo>
+			<entry id="3250" type="" size="">
 				<desc></desc>
 				<misc></misc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.108">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry id="3251" type="" size="">
 				<desc></desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.150">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">मट्टनचेरी पेलेस म्यूजियम में रखी सामग्री</entry>
+		</mdetails>
+		<photo>
+			<entry id="3252" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.151">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="place">वड़क्कूनाथन मंच खंभ</entry>
+		</mdetails>
+		<photo>
+			<entry id="3261" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.152">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="place">वड़क्कूनाथन मंदिर</entry>
+		</mdetails>
+		<photo>
+			<entry id="3262" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3263" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3268" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
+			<entry id="3269" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.153">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">वड़क्कूनाथन मंदिर में खंभो के बीच का रास्ता</entry>
+		</mdetails>
+		<photo>
+			<entry id="3266" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.154">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">वड़क्कूनाथन मंदिर का मीड़ाव</entry>
+		</mdetails>
+		<photo>
+			<entry id="3267" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.155">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">वड़क्कूनाथन मंदिर का लकड़ी का धेरा</entry>
+		</mdetails>
+		<photo>
+			<entry id="3264" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.156">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="place">बृहदेश्वर मन्दिर परिसर, तंजावुर</entry>
+		</mdetails>
+		<photo>
+			<entry id="3254" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.157">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - कुतम्बलम्</entry>
+			<entry type="event">हरिपाद कुतम्बलम्</entry>
+		</mdetails>
+		<photo>
+			<entry id="3290" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
 			</entry>
+			<entry id="3291" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
+			<entry id="3292" type="" size="">
+				<desc>श्री गोवर्धन पांचाल द्वारा भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.158;089.159">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - गढ़वाली नाटक</entry>
+			<entry type="state">उत्तर प्रेदेश</entry>
+			<entry type="place">लखनरू</entry>
+			<entry type="troup">दर्पण</entry>
+			<entry type="drama">प्रहलाद नाटक</entry>
+			<entry type="writer">भवानी दत्त सती थपलियाल</entry>
+			<entry type="director">उर्मिल कुमार थपलियाल व शशांक बहुगुणा</entry>
+			<entry type="stage">मधुसूदन</entry>
+			<entry type="light">शंकर सिंह व सज्जन</entry>
+			<entry type="artist">पयूष पाण्डे, मनोज जोशी, धीरेन्द्र सिंह, उर्मिल कुमर थपलियाल, अभिलाषा व अन्य</entry>
+			<entry type="venue">मिनी रवीन्द्रालय, लखनऊ</entry>
+			<entry type="year">21-22 मार्च, 1986</entry>
+		</mdetails>
+		<photo>
+			<entry id="252" type="02" size="">
+				<desc>केन्द्रीय सं. ना. अ., दिल्ली के सौजन्य से मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+				<misc>पूर्ण सूचना स्मा - 242 में उपलब्ध</misc>
 			</entry>
+			<entry id="253" type="02" size="">
+				<desc>केन्द्रीय सं. ना. अ., दिल्ली के सौजन्य से मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+				<misc>पूर्ण सूचना स्मा - 242 में उपलब्ध</misc>
+			</entry>
+			<entry id="254" type="02" size="">
+				<desc>केन्द्रीय सं. ना. अ., दिल्ली के सौजन्य से मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा न. प्र. को भेंट</misc>
+				<misc>पूर्ण सूचना स्मा - 242 में उपलब्ध</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.160">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - गायकी</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">भोपाल</entry>
+			<entry type="troup">भारत भवन</entry>
+			<entry type="venue">भारत भवन, भोपाल</entry>
+			<entry type="event">जयपुर घराने की गायकी पर केन्द्रित कार्यक्रम</entry>
+		</mdetails>
+		<photo>
+			<entry id="3666" type="" size="">
+				<desc>किशोरी अमोलकर कार्यक्रम पेश करते हुए</desc>
+				<misc>17  सितम्बर 1995</misc>
 			</entry>
+			<entry id="3667" type="" size="">
+				<desc>किशोरी अमोलकर कार्यक्रम पेश करते हुए</desc>
+				<misc>17  सितम्बर 1995</misc>
+			</entry>
+			<entry id="3668" type="" size="">
+				<desc>किशोरी अमोलकर कार्यक्रम पेश करते हुए</desc>
+				<misc>17  सितम्बर 1995</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.161">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry type="card-type">अन्य विषय - गुजराती नाटक</entry>
+			<entry type="state">गुजरात</entry>
+			<entry type="place">अहमदाबाद</entry>
+			<entry type="troup">सप्तसिंधु</entry>
+			<entry type="drama">मुक्तधारा</entry>
+			<entry type="writer">रवीन्द्रनाथ ठाकुर</entry>
+			<entry type="translation">करसनदास मानक</entry>
+			<entry type="director">भरत दवे</entry>
+			<entry type="year">15-01-1986</entry>
+		</mdetails>
+		<photo>
+			<entry id="1345" type="" size="">
+				<desc>नाट्य समारोह 1985</desc>
 				<misc></misc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.108">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1346" type="" size="">
+				<desc>नाट्य समारोह 1985</desc>
 				<misc></misc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.108">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="1347" type="" size="">
+				<desc>नाट्य समारोह 1985</desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.162">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय</entry>
+			<entry type="country">नेपाल</entry>
+			<entry type="place">काठमाण्डु</entry>
+			<entry type="troup">गुरुकुल नाट्य विद्यालय</entry>
+			<entry type="event">गुरुकुल नाट्य विद्यालय का चित्र</entry>
+		</mdetails>
+		<photo>
+			<entry id="20492" type="01" size="">
+				<desc>रा. ना. वि. से प्राप्त</desc>
+				<misc>रा. ना. वि. स्वर्ण जयंती समारोह में प्रदर्शित फोटो</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.163">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय</entry>
+			<entry type="event">ग्रामीण दृश्व, साउथ ईस्ट एशिया</entry>
+		</mdetails>
+		<photo>
+			<entry id="20674" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>फोटो `विषय Section' में</misc>
+			</entry>
+			<entry id="20683" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>फोटो `विषय Section' में</misc>
+			</entry>
+			<entry id="20685" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>फोटो `विषय Section' में</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.164">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - ग्रूप फोटो</entry>
+			<entry type="state">कर्नाटक</entry>
+			<entry type="place">बेंगलूरु</entry>
+			<entry type="event">ग्रूप फोटो</entry>
+		</mdetails>
+		<photo>
+			<entry id="3639" type="02" size="">
 				<desc></desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.165">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - ग्रूप फोटो</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">ब्रज कला केन्द्र</entry>
+			<entry type="event">ब्रज कला केन्द्र के सदस्य (आवास मंत्री श्री महरचन्द एवं अन्य लोगों के साथ)</entry>
+		</mdetails>
+		<photo>
+			<entry id="21309" type="02" size="">
 				<desc></desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.166">
 		<mdetails>
 			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">संगीत नाटक अकादमी</entry>
+			<entry type="event">नाटक परिसंवाद - सहभागी</entry>
+		</mdetails>
+		<photo>
+			<entry id="8204" type="" size="">
+				<desc>ग्रूप फोटो</desc>
+				<misc>अप्रैल - 1956</misc>
+				<misc>सं. ना. अ. - 176/C</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.167;089.168;089.169;089.170;089.171">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - ग्रूप फोटो</entry>
+			<entry type="place">दिल्ली</entry>
+			<entry type="troup">संगीत नाटक अकादेमी</entry>
+			<entry type="event">नाट्य सम्मेलन - 1956 (प्रथम) - सामूहिक चित्र</entry>
+		</mdetails>
+		<photo>
+			<entry id="3777" type="" size="">
+				<desc>ग्रूप में शामिल सदस्य : बैठे हुएॅ (बाए से दाएॅ)</desc>
+				<misc>श्री आद्या रंगाचार्य - अहिन्द्र चौधरी</misc>
+				<misc>सी. सी. मेहता, बी. वी (मामा) परेखर</misc>
+				<misc>सुरजीत सिंह सेठी, - कमलादेवी चट्टोपाध्याय</misc>
+				<misc>सचिन सेनगुप्ता - केशव</misc>
+				<misc>जगदीश चन्द्र माथुर - मायाधर मानसिंह, मुल्कराज आनन्द</misc>
+				<misc>ग्रूप में शामिल सदस्य : खड़े हुए (बाएॅ से दाएॅ)</misc>
+				<misc>श्री चन्द्रकांत फूफन - ई. अल्काजी</misc>
+				<misc>एच. रोमेन सिंह - शम्भू मित्रा</misc>
+				<misc>समर चटर्जी - स्नेह सान्यल</misc>
+				<misc>सुरेश अवस्थी - दीना पाठक खडे हुए</misc>
+				<misc>शीला भाटिया - एम. बीर सिंह/मायधर</misc>
+				<misc>नेमिचन्द्र जैन, मानसिंह/कालीचरण</misc>
+				<misc>लीला टैगोर, पाणिग्रही</misc>
+				<misc>के. एम. जार्ज, एम, बीर सिंह</misc>
+				<misc>आई, एल. दास - लेफ्टि. कर्नल एच. वी. गुप्ते</misc>
+				<misc>रोमेश चन्दर</misc>
+				<misc>आदि मर्जबान</misc>
+				<misc>बलवंत गार्गी</misc>
+				<misc>नोट - संग्रह : नेमिचन्द्र जैन जी द्वारा - नटरंग प्रतिष्ठान को भेंट ।</misc>
 			</entry>
+			<entry id="10529" type="" size="">
+				<desc>ग्रूप में शामिल सदस्य : बैठे हुएॅ (बाए से दाएॅ)</desc>
+				<misc>श्री आद्या रंगाचार्य - अहिन्द्र चौधरी</misc>
+				<misc>सी. सी. मेहता, बी. वी (मामा) परेखर</misc>
+				<misc>सुरजीत सिंह सेठी, - कमलादेवी चट्टोपाध्याय</misc>
+				<misc>सचिन सेनगुप्ता - केशव</misc>
+				<misc>जगदीश चन्द्र माथुर - मायाधर मानसिंह, मुल्कराज आनन्द</misc>
+				<misc>ग्रूप में शामिल सदस्य : खड़े हुए (बाएॅ से दाएॅ)</misc>
+				<misc>श्री चन्द्रकांत फूफन - ई. अल्काजी</misc>
+				<misc>एच. रोमेन सिंह - शम्भू मित्रा</misc>
+				<misc>समर चटर्जी - स्नेह सान्यल</misc>
+				<misc>सुरेश अवस्थी - दीना पाठक खडे हुए</misc>
+				<misc>शीला भाटिया - एम. बीर सिंह/मायधर</misc>
+				<misc>नेमिचन्द्र जैन, मानसिंह/कालीचरण</misc>
+				<misc>लीला टैगोर, पाणिग्रही</misc>
+				<misc>के. एम. जार्ज, एम, बीर सिंह</misc>
+				<misc>आई, एल. दास - लेफ्टि. कर्नल एच. वी. गुप्ते</misc>
+				<misc>रोमेश चन्दर</misc>
+				<misc>आदि मर्जबान</misc>
+				<misc>बलवंत गार्गी</misc>
+				<misc>नोट - संग्रह : नेमिचन्द्र जैन जी द्वारा - नटरंग प्रतिष्ठान को भेंट ।</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.172">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - ग्रूप फोटो</entry>
+			<entry type="state">पश्चिम बंगाल</entry>
+			<entry type="place">कोलकाता</entry>
+			<entry type="troup">फाइन आर्ट्स थियेटर</entry>
+			<entry type="event">इंदुजा अवस्थी, रेखा जैन, नेमिचन्द्र जैन, सुरेश अवस्थी, तृप्ति मित्र, बादल सरकार, सॉवली मित्र</entry>
+			<entry type="venue">फाइन आर्ट्स थियेटर</entry>
+			<entry type="year">1982</entry>
+		</mdetails>
+		<photo>
+			<entry id="9600" type="" size="15.1 x 20.2 से. मी.">
 				<desc></desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.173">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry type="card-type">अन्य विषय - चित्रकारी</entry>
+			<entry type="event">बंसी कौल द्वारा की राई चित्रकारी</entry>
+		</mdetails>
+		<photo>
+			<entry id="12332" type="" size="">
+				<desc>बंसी कौल से प्राप्त सीडी के प्रिंट्स</desc>
 				<misc></misc>
 			</entry>
-		</photo>
-	</media>
-	<media aid="03" cid="089.108">
-		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry id="12333" type="" size="">
+				<desc>बंसी कौल से प्राप्त सीडी के प्रिंट्स</desc>
 				<misc></misc>
 			</entry>
+			<entry id="12334" type="" size="">
+				<desc>बंसी कौल से प्राप्त सीडी के प्रिंट्स</desc>
+				<misc></misc>
+			</entry>
+			<entry id="12335" type="" size="">
+				<desc>बंसी कौल से प्राप्त सीडी के प्रिंट्स</desc>
+				<misc></misc>
+			</entry>
+			<entry id="12336" type="" size="">
+				<desc>बंसी कौल से प्राप्त सीडी के प्रिंट्स</desc>
+				<misc></misc>
+			</entry>
+			<entry id="12337" type="" size="">
+				<desc>बंसी कौल से प्राप्त सीडी के प्रिंट्स</desc>
+				<misc></misc>
+			</entry>
+			<entry id="12338" type="" size="">
+				<desc>बंसी कौल से प्राप्त सीडी के प्रिंट्स</desc>
+				<misc></misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.174">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - टेली सीरियल</entry>
+			<entry type="event">फिराखा गोरखपुरी</entry>
+			<entry type="artist">मनोहर सिंह व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="3087" type="" size="">
+				<desc>मनोहर सिंह संग्रह</desc>
 			</entry>
+			<entry id="3088" type="" size="">
+				<desc>मनोहर सिंह संग्रह</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.175">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - टेली सीरियल</entry>
+			<entry type="event">मुल्ला नसीरुद्दीन</entry>
+			<entry type="director">रोशन अल्काजी</entry>
+			<entry type="artist">रघुवीर यादव व मनोहर सिंह</entry>
+		</mdetails>
+		<photo>
+			<entry id="3071" type="" size="">
+				<desc>मनोहर सिंह संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.176">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - टेली सीरियल</entry>
+			<entry type="event">राग दरबारी</entry>
+			<entry type="artist">मनोहर सिंह, सुधीर पांडे व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="3073" type="" size="">
+				<desc>मनोहर सिंह संग्रह</desc>
+			</entry>
+			<entry id="3074" type="" size="">
+				<desc>मनोहर सिंह संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.177">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - ट्राइबल मास्क (जन जातीय मुखौटा)</entry>
+		</mdetails>
+		<photo>
+			<entry id="18945" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc>@ सं. ना. अ.</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.178">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - डोगरी नाटक</entry>
+			<entry type="state">जम्मू एवं कश्मीर</entry>
+			<entry type="place">जम्मू</entry>
+			<entry type="troup">अमेच्योर थियेटर ग्रूप</entry>
+			<entry type="drama">देवयानी</entry>
+			<entry type="writer">नरसिंह देव जामवाल</entry>
+			<entry type="director">मुश्ताक काक</entry>
+			<entry type="venue">श्रीराम सेंटर</entry>
+			<entry type="year">22 दिस. 1997</entry>
+		</mdetails>
+		<photo>
+			<entry id="4444" type="" size="">
+				<desc>साहित्य कला परिषद द्वारा आयोजित मोहन राकेश सम्मान, 1997 में मंचित</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.179">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - डोगरी नाटक</entry>
+			<entry type="state">जम्मू एवं कश्मीर</entry>
+			<entry type="place">जम्मू</entry>
+			<entry type="troup">अमेच्योर थियेटर ग्रूप</entry>
+			<entry type="drama">सवा सेर कनक</entry>
+			<entry type="writer">प्रेमचंद (कहानी)</entry>
+			<entry type="natyalekh">शिवराम दीप</entry>
+			<entry type="director">मुश्ताक काक</entry>
+		</mdetails>
+		<photo>
+			<entry id="973" type="" size="">
+				<desc>कहानी का मूल नाम `सवा सेर गेहूं'</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.180">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - डोगरी नाटक</entry>
+			<entry type="state">जम्मू - कश्मीर</entry>
+			<entry type="place">जम्मू</entry>
+			<entry type="drama">ऐह जम्मू एन</entry>
+			<entry type="writer">बलवंत ठाकुर</entry>
+		</mdetails>
+		<photo>
+			<entry id="17238" type="01" size="">
 				<desc></desc>
-				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.181">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - डोगरी नाटक</entry>
+			<entry type="state">जम्मू - कश्मीर</entry>
+			<entry type="place">जम्मू</entry>
+			<entry type="drama">सुनो एक कहानी</entry>
+			<entry type="writer">बलवंत ठाकुर</entry>
+		</mdetails>
+		<photo>
+			<entry id="17239" type="01" size="">
 				<desc></desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.108">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry type="card-type">अन्य विषय - तेलुगू नाटक</entry>
+			<entry type="state">आंध्र प्रदेश</entry>
+			<entry type="place">विशाखापट्टनम</entry>
+			<entry type="troup">कला ज्योत्सना</entry>
+			<entry type="drama">बोम्मलाता (BOMMALAATA) तेलुगू</entry>
+			<entry type="year">23-08-1988</entry>
+		</mdetails>
+		<photo>
+			<entry id="11724" type="02" size="">
+				<desc>@ संगीत नाटक अकादेमी</desc>
 				<misc></misc>
 			</entry>
+			<entry id="11725" type="02" size="">
+				<desc>@ संगीत नाटक अकादेमी</desc>
+				<misc></misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.183">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - तेलुगू नाटक</entry>
+			<entry type="state">आंध्र प्रदेश</entry>
+			<entry type="place">हैदराबाद</entry>
+			<entry type="troup">नाट्य रेपर्टरी</entry>
+			<entry type="drama">निजम (तेलुगू)</entry>
+			<entry type="writer">विश्वनाथ शास्त्री</entry>
+			<entry type="director">ए. आर. कृष्णा</entry>
+			<entry type="artist">आर. सर्वभौम राव (इंसपेक्टर), ए. आर. कृष्णा</entry>
+		</mdetails>
+		<photo>
+			<entry id="4" type="02" size="">
 				<desc></desc>
-				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.184">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - तेलुगू नाटक</entry>
+			<entry type="state">आंध्र प्रदेश</entry>
+			<entry type="place">हैदराबाद</entry>
+			<entry type="troup">सुरभि</entry>
+			<entry type="drama">माया बाजार (तेलुगू)</entry>
+			<entry type="writer">विजयदान देथा</entry>
+			<entry type="director">एस. ए. श्याम सुन्दर</entry>
+		</mdetails>
+		<photo>
+			<entry id="11" type="02" size="">
+				<desc>भारत भवन में बाल गंधर्व शताब्दी समारोह में मंचित</desc>
+				<misc>पारसी शैली में मंचित</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.185">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय</entry>
+			<entry type="state">गुजरात</entry>
+			<entry type="place">अहमदाबाद</entry>
+			<entry type="troup">थियेटर एवं मीडिया सेण्टर</entry>
+			<entry type="event">थियेटर एवं मीडिया सेण्टर अर्काइव्स</entry>
+		</mdetails>
+		<photo>
+			<entry id="17234" type="01" size="">
+				<desc>हंसमुख बुराड़ी द्वारा भेंट</desc>
+			</entry>
+			<entry id="17235" type="01" size="">
+				<desc>हंसमुख बुराड़ी द्वारा भेंट</desc>
+			</entry>
+			<entry id="17236" type="01" size="">
+				<desc>हंसमुख बुराड़ी द्वारा भेंट</desc>
 			</entry>
+			<entry id="17237" type="01" size="">
+				<desc>हंसमुख बुराड़ी द्वारा भेंट</desc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.186">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - बंध - दृश्य रचना</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">लखनऊ</entry>
+			<entry type="troup">लकीस</entry>
+			<entry type="event">कॉकेशियन चाक सर्किल - खड़िया का घेरा (दृश्य रचना)</entry>
+			<entry type="drushyankalan">हेमेन्द्र भाटिया</entry>
+			<entry type="director">शशंक बहुगुणा</entry>
+		</mdetails>
+		<photo>
+			<entry id="17224" type="" size="">
 				<desc></desc>
-				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.187">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - बंध - दृश्य रचना</entry>
+			<entry type="state">पश्चिम बंगाल</entry>
+			<entry type="place">कोलकाता</entry>
+			<entry type="troup">अनामिका</entry>
+			<entry type="event">शुतुरमृग</entry>
+			<entry type="writer">ज्ञानदेव अग्निहोत्री</entry>
+			<entry type="director">श्यामान्ंद जालान</entry>
+			<entry type="artist">श्यामानंद जालान एवं चेतना जालान</entry>
+			<entry type="year">1967</entry>
+		</mdetails>
+		<photo>
+			<entry id="17245" type="" size="">
 				<desc></desc>
-				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.188">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय -दृश्यबंध रचना </entry>
+			<entry type="state">महाराष्ट्र</entry>
+			<entry type="place">मुम्बई</entry>
+			<entry type="troup">इंडियन नेशनल थिएटर</entry>
+			<entry type="event">मीन पियासी (गुजराती)</entry>
+			<entry type="director">प्रवीण जोशी</entry>
+			<entry type="stage">सुवर्ण कपाड़िया</entry>
+			<entry type="venue">मुम्बई</entry>
+		</mdetails>
+		<photo>
+			<entry id="17274" type="02" size="">
 				<desc></desc>
-				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.189">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - दृश्यबंध रचना</entry>
+			<entry type="state">महाराष्ट्र</entry>
+			<entry type="place">मुम्बई</entry>
+			<entry type="troup">इंडियन नेशनल थिएटर</entry>
+			<entry type="event">मोगरा ना साप (गुजराती)</entry>
+			<entry type="director">प्रवीण जोशी</entry>
+			<entry type="stage">सुवर्ण कपाड़िया</entry>
+		</mdetails>
+		<photo>
+			<entry id="17275" type="02" size="">
 				<desc></desc>
-				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.190">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - द्विअंकी नाटक</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">प्रयाग रंगमंच</entry>
+			<entry type="drama">खाली जगह (हिन्दी)</entry>
+			<entry type="writer">कुॅवर नारायण</entry>
+			<entry type="director">सत्यव्रत सिन्हा एवं शान्तिस्वरूप</entry>
+			<entry type="artist">सुनीति ओबेराय (अमिता), वनिता सेठी (शेफाली राय) की भूमिका में व अन्य</entry>
+		</mdetails>
+		<photo>
+			<entry id="398" type="02" size="">
+				<desc>प्रयाग नाट्य समारोह में मंचित</desc>
+				<misc>श्री नेमिचन्द्र जैन द्वारा नटरंग प्रतिष्ठान को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.191">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - नट</entry>
+		</mdetails>
+		<photo>
+			<entry id="18977" type="02" size="">
 				<desc></desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.192">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - नर्तक</entry>
+			<entry type="event">चम्बा के लोक नर्तक भारत की प्रधानमंत्री श्री मती इंदिरा गॉधी के साथ</entry>
+		</mdetails>
+		<photo>
+			<entry id="19034" type="02" size="">
 				<desc></desc>
-				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="01" cid="089.193;089.194;089.195">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - नाटक : विदेशी</entry>
+			<entry type="country">स्वितज़रलैण्ड</entry>
+			<entry type="place">ज्यूरिख</entry>
+			<entry type="troup">काम्पेगनी ड्रिफ्ट</entry>
+			<entry type="drama">हैल्स बैल्स एण्ड फर्टिव फौली</entry>
+			<entry type="projection">बीट्राइस जैक्काई, पीटर स्कैलिंग</entry>
+			<entry type="director">बीट्राइस जैक्काई, पीटर स्कैलिंग</entry>
+			<entry type="dress">डैफन इनिशन (Daphne Ineichen)</entry>
+			<entry type="stage">पीटर स्कैलिंग</entry>
+			<entry type="light">फैंकोइस जैन्ड्रे</entry>
+			<entry type="dancer">स्कैलिंग, मासिमो बर्टिनली, जूबकोव, फियोना हिरजैल व अन्य (Schelling, Massimo Bertinelli, Zubkov, Fiona Hirzel &amp; others)</entry>
+			<entry type="dancer-director">स्कैलिंग, मासिमो बर्टिनली, जूबकोव, फियोना हिरजैल व अन्य (Schelling, Massimo Bertinelli, Zubkov, Fiona Hirzel &amp; others)</entry>
+			<entry type="venue">कमानी सभागार, रा. ना. वि., दिल्ली</entry>
+			<entry type="year">08-01-2007</entry>
+		</mdetails>
+		<photo>
+			<entry id="11595" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11596" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11597" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11598" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11599" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11600" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11601" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11602" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11603" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11604" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
 			</entry>
+			<entry id="11605" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
+			<entry id="11606" type="01" size="">
+				<desc>श्रीमती कीर्ति जैन द्वारा न. प्र. को भेंट फोटो सीडी, परि. सं. 569 के प्रिंट्स</desc>
+				<misc>नौवे भारत रंग महोत्सव में मंचित</misc>
+				<misc>सूचना स्रोत - स्मा - 3734</misc>
+			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.196">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - नाट्य कलाकर</entry>
+			<entry type="event">शिकागो लिमिट, शिकागो अमेरिका टेकिंग लिबर्टि के कलाकार</entry>
+		</mdetails>
+		<photo>
+			<entry id="22358" type="02" size="">
+				<desc>नेमिचन्द्र जैन संग्रह</desc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.197">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
+			<entry type="card-type">अन्य विषय</entry>
+			<entry type="place">रूस</entry>
+			<entry type="event">नाट्य कलाकार</entry>
+		</mdetails>
+		<photo>
+			<entry id="21038" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc></misc>
+			</entry>
+			<entry id="21039" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
+				<misc></misc>
+			</entry>
+			<entry id="21040" type="02" size="">
+				<desc>सुरेश अवस्थी संग्रह</desc>
 				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.198">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
+			<entry type="card-type">अन्य विषय - नाट्य कार्यशाला</entry>
+			<entry type="state">मध्यप्रदेश</entry>
+			<entry type="place">भिलाई</entry>
+			<entry type="troup">शिप्रा नाट्य संघ</entry>
+			<entry type="year">अक्टू., 1991</entry>
+		</mdetails>
+		<photo>
+			<entry id="18069" type="01" size="">
 				<desc></desc>
-				<misc></misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.199">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - नाट्य महोत्सव</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">इलाहाबाद</entry>
+			<entry type="troup">प्रयाग नाट्य मण्डल</entry>
+			<entry type="artist">शंभु मित्र, इब्राहिम अलकाजी आदि</entry>
+		</mdetails>
+		<photo>
+			<entry id="8181" type="" size="">
+				<desc>प्रयाग नाट्य मण्डल नाट्य महोत्सव गोष्ठी उदघाटन समारोह में शंभु मित्र, इब्राहिम अलकाजी आदि</desc>
+				<misc>नेमिचन्द्र जैन द्वार न. प्र. को भेंट</misc>
 			</entry>
 		</photo>
 	</media>
-	<media aid="03" cid="089.108">
+	<media aid="03" cid="089.200">
 		<mdetails>
-			<entry type="card-type">अन्य विषय - </entry>
-			<entry type="state"></entry>
-			<entry type="place"></entry>
-			<entry type="troup"></entry>
-			<entry type="event"></entry>
-			<entry type="writer"></entry>
-			<entry type="natyantar"></entry>
-			<entry type="director"></entry>
-			<entry type="artist"></entry>
-		</mdetails>
-		<photo>
-			<entry id="" type="" size="">
-				<desc></desc>
-				<misc></misc>
+			<entry type="card-type">अन्य विषय - नाट्यांतर : उपन्यास से</entry>
+			<entry type="state">उत्तर प्रदेश</entry>
+			<entry type="place">आगरा</entry>
+			<entry type="troup">केन्द्रीय हिन्दी संस्थान</entry>
+			<entry type="event">तितली (हिन्दी)</entry>
+			<entry type="writer">जयशंकर प्रसाद (उपन्यास)</entry>
+			<entry type="artist">शिप्रा पालीवाल (शैला), राजेश मल्होत्रा (रामनाथ), अमृत कान्ति घोष (मधुबन) एवं बिन्दु अरोड़ा (तितली)</entry>
+		</mdetails>
+		<photo>
+			<entry id="2049" type="" size="">
+				<desc>श्री नेमिचन्द्र जैन द्वार नटरंग प्रतिष्ठान को भेंट</desc>
 			</entry>
 		</photo>
 	</media>
