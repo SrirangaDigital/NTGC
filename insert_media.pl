@@ -18,8 +18,8 @@ open(IN,"<:utf8","natarang-cards.xml") or die "can't open natarang-cards.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
 
-#~ $dbh->{'mysql_enable_utf8'} = 1;
-#~ $dbh->do('set names utf8');
+$dbh->{'mysql_enable_utf8'} = 1;
+$dbh->do('set names utf8');
 
 $sth11=$dbh->prepare("CREATE TABLE media_details(media_title varchar(10000), aid int(4), cid int(8), media_id int(6) auto_increment,  primary key(media_id))auto_increment=10001 ENGINE=MyISAM character set utf8 collate utf8_general_ci;");
 $sth11->execute();
