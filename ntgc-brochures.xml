@@ -2310,10 +2310,10 @@
 		<writer>जयवंत दलवी</writer>
 		<translation>विजय बापट</translation>
 		<direction>आलोकदास गुप्ता</direction>
-		<size>22X14 से. मी.</size>
-		<pages>3</pages>
+		<size>22X14 से. मी.;19X13 से. मी.</size>
+		<pages>3;4</pages>
 		<venue>सूर सदन, आगरा</venue>
-		<date>06-03-1982;07-03-1982</date>
+		<date>06-03-1982;07-03-1982;17-05-1985;18-05-1985;17-05-1985;11-02-1982</date>
 		<desc></desc>
 	</brochure>
 	<brochure sid="2071" cid="054.219">
@@ -2364,5 +2364,535 @@
 		<venue>एन. डी. कालेज, आगरा</venue>
 		<date>23-09-1958</date>
 		<desc></desc>
+	</brochure>
+	<brochure sid="1652-4" cid="054.223">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>अग्नि परीक्षा</title>
+		<writer>संतोष साहनी</writer>
+		<direction>जितेन्द्र रघुवंशी</direction>
+		<event>इप्टा-संवाद 1984</event>
+		<music>मंजु अस्थाना</music>
+		<artist>दिलीप रघुवंशी एवं अन्य</artist>
+		<size>24X18 से. मी.</size>
+		<pages>32</pages>
+		<date>00-00-1984</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2087" cid="054.224">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>अग्नि परीक्षा</title>
+		<writer>संतोष साहनी</writer>
+		<direction>जितेन्द्र रघुवंशी</direction>
+		<size>23X14 से. मी.</size>
+		<pages>3</pages>
+		<venue>सूर सदन</venue>
+		<date>26-02-1984;27-02-1984</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1641-1" cid="054.225">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>अर्धांगिनी</title>
+		<writer>ओमेन्द्र कुमार</writer>
+		<direction>ओमेन्द्र कुमार</direction>
+		<artist>उदय सक्सेना एवं अन्य</artist>
+		<size>26X19 से. मी.</size>
+		<pages>10</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1651-1-2" cid="054.226">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>अवामी रंगमंच-बम्बई-बसंती बुआ का दूधभात घोड़ा घास नही खाता</title>
+		<size>24X18 से. मी.</size>
+		<pages>39</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1652-1-4" cid="054.227">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>इप्टा-संवाद 1984</title>
+		<event>कब तक पुकारूं, नजीर-बेनजीर, किस्सा जागते सोते का, अग्नि परीक्षा</event>
+		<size>24X18 से. मी.</size>
+		<pages>32</pages>
+		<date>00-00-1984</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2090-1" cid="054.228">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>ऊंची नीची टाँग का जांर्घया</title>
+		<writer>बिपिन कुमार अग्रवाल</writer>
+		<event>हीरक जयंती समारोह</event>
+		<size>12X18 से. मी.</size>
+		<pages>7</pages>
+		<date>03-11-1976</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2086" cid="054.">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>कब तक पुकारूँ</title>
+		<writer>रांगेय राघव (उपन्यासका नाट्यरूपांतर)</writer>
+		<version>जितेन्द्र रघुवंशी (नाट्यरूपांतर)</version>
+		<direction>जितेन्द्र रघुवंशी</direction>
+		<size>22X14 से. मी.</size>
+		<pages>3</pages>
+		<venue>सूर सदन, आगरा</venue>
+		<date>09-03-1983</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1652-1" cid="054.230">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>कब तक पुकारूँ</title>
+		<writer>रांगेय राघव</writer>
+		<version>जितेन्द्र रघुवंशी</version>
+		<direction>जितेन्द्र रघुवंशी</direction>
+		<event>इप्टा-संवाद1984</event>
+		<artist>दिलीप रघुवंशी एवं अन्य</artist>
+		<size>24X18 से. मी.</size>
+		<pages>32</pages>
+		<date>00-00-1984</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1641-1-2" cid="054.233">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>कानपुर की उपलब्धियों के अंतर्गत दो नाटक</title>
+		<event>अर्धांगिनी, अकाल</event>
+		<size>26X19 से. मी.</size>
+		<pages>10</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2089;2081" cid="054.234">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>किस्सा जागते सोते का (`अरेबियन नाइटस' कहानी पर आधारित)</title>
+		<writer>अली अहमद</writer>
+		<direction>अली अहमद</direction>
+		<size>21X14 से. मी.;22X14 से. मी.</size>
+		<pages>3;2</pages>
+		<venue>सोवियत भवन</venue>
+		<date>10-10-1984;11-10-1984</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1652-3" cid="054.235">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>किस्सा जागते सोते का</title>
+		<writer>अली अहमद</writer>
+		<direction>जितेन्द्र रघुवंशी</direction>
+		<event>इप्टा-संवाद 1984</event>
+		<artist>दिलीप रघुवंशी एवं अन्य</artist>
+		<size>24X18 से. मी.</size>
+		<pages>32</pages>
+		<date>00-00-1984</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1639" cid="054.236">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>किसी एक फूल का नाम लो</title>
+		<writer>मधुराय</writer>
+		<translation>ज्योति व्यास</translation>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<music>अरविंद कपूर</music>
+		<artist>ज्योत्स्ना रघुवंशी</artist>
+		<size>22.5X13.5 से. मी.</size>
+		<pages>1</pages>
+		<venue>आगरा क्लब हॉल</venue>
+		<date>04-02-1978;06-02-1978</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1651/1;2074-1" cid="054.237">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>घोड़ा घास नहीं खाता उर्फ बंधुआ</title>
+		<writer>अजीत पुस्कल</writer>
+		<direction>राजेन्द्र रघुवंशी, गीत सोम ठाकुर</direction>
+		<size>24X18 से. मी.</size>
+		<pages>39</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2080" cid="054.238">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>चीफ मिनिस्टर</title>
+		<writer>विजय तेंदुलकर</writer>
+		<translation>ललित देसाई</translation>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<size>19X12.5 से. मी.</size>
+		<pages>2</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2088" cid="054.239">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>जात ही पूछो साधु की</title>
+		<writer>विजय तेंदुलकर</writer>
+		<translation>बसंत देव</translation>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<size>21X13 से. मी.</size>
+		<pages>2</pages>
+		<date></date>
+		<desc>1 अतिरिक्त प्रति</desc>
+	</brochure>
+	<brochure sid="1638" cid="054.240">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>ठोल की पोल</title>
+		<writer>बाल कोल्हटकर</writer>
+		<version>सिंधु तिवारी</version>
+		<direction>जितेन्द्र रघुवंशी</direction>
+		<artist>दिलीप रघुवंशी एवं अन्य</artist>
+		<size>19X12 से. मी.</size>
+		<pages>1</pages>
+		<venue>सूर सदन, आगरा</venue>
+		<date>06-09-1984</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2078" cid="054.241">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>तलछटिये (प्रेमचन्द की कहानी `कफन' एवं मैम्सिम गोर्की की कहानी `चेल्काश' पर आधारित)</title>
+		<version>जितेन्द्र रघुवंशी</version>
+		<direction>शैलेन्द्र रघुवंशी एवं जितेन्द्र रघुवंशी</direction>
+		<event>प्रेमचन्द शताब्दी वर्ष</event>
+		<size>19X12.5 से. मी.</size>
+		<pages>2</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1640" cid="054.242">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>तुगलक</title>
+		<writer>गिरीश कारनाड</writer>
+		<translation>ब. व. कारंत</translation>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<music>अरविंद कपूर</music>
+		<producer>राजेन्द्र रघुवंशी</producer>
+		<size>24X18 से. मी.</size>
+		<pages>15</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2085;2077" cid="054.243">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>तुगलक</title>
+		<writer>गिरीश कारनाड</writer>
+		<translation>ब. व. कारंत</translation>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<size>23X14 से. मी.;19X12.5 से. मी.</size>
+		<pages>3;16</pages>
+		<venue>सूर सदन सांस्कृतिक भवन, आगरा</venue>
+		<date>07-09-1980;08-09-1980</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2079" cid="054.244">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाटक संघ</troupe>
+		<title>दुलारीबाई संगीत-नाटक</title>
+		<writer>मणि मधुकर</writer>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<size>23X14 से. मी.</size>
+		<pages>2</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1652-2" cid="054.245">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ (इप्टा)</troupe>
+		<title>नजीर बेनजीर</title>
+		<writer>राजेन्द्र रघुवंशी</writer>
+		<direction>जितेन्द्र रघुवंशी</direction>
+		<event>इप्टा-संवाद 1984</event>
+		<artist>विनीता सूद एवं राजेश सिसौदिया</artist>
+		<size>24X18 से. मी.</size>
+		<pages>32</pages>
+		<date></date>
+		<desc>00-00-1984</desc>
+	</brochure>
+	<brochure sid="2090-2" cid="054.246">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>नीली झील</title>
+		<writer>धर्मवीर भारती</writer>
+		<event>हीरक जयंती समारोह</event>
+		<size>12X18 से. मी.</size>
+		<pages>7</pages>
+		<date>03-11-1976</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2082" cid="054.247">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>प्रतिद्दन्द्दी</title>
+		<writer>नाग बोडस</writer>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<size>19X12.5 से. मी.</size>
+		<pages>2</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2083" cid="054.248">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>बड़ी बुआ जी</title>
+		<writer>बादल सरकार</writer>
+		<translation>प्रतिभा अग्रवाल</translation>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<event>उ. प्र. सं. ना. अकादमी एवं सांस्कृतिक कार्य निर्देशालय का नाट्य समारोह</event>
+		<size>19X12.5 से. मी.</size>
+		<pages>2</pages>
+		<venue>रवीन्द्रालय, लखनऊ</venue>
+		<date>21-03-1979</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2090" cid="054.249">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>यक्ष प्रश्न</title>
+		<writer>लक्ष्मीनारायण लाल</writer>
+		<direction></direction>
+		<event>हीरक जयंती समारोह</event>
+		<size>12X18 से. मी.</size>
+		<pages>7</pages>
+		<date>03-11-1976</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2084" cid="054.250">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>सूरे की आँख (प्रेमचन्द के उपन्यास `रंगभूमि' का नाट्य रूपांतर)</title>
+		<version>राजेन्द्र रघुवंशी</version>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<event>प्रेमचन्द जन्म शताब्दी समारोह</event>
+		<size>19X12.5 से. मी.</size>
+		<pages>2</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2075" cid="054.251">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>हैमलेट</title>
+		<writer>शेक्सपियर</writer>
+		<translation>अमृत राय (गद्यानुवाद)</translation>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<size>24X18 से. मी.</size>
+		<pages>10</pages>
+		<venue>सूर सदन, आगरा</venue>
+		<date>01-01-1977;02-01-1977</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="3403-3" cid="054.">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ एवं त्रिवेणी कला केन्द्र</troupe>
+		<title>खेल खिलौनों का संसार</title>
+		<writer>रेखा जैन</writer>
+		<direction>रेखा जैन</direction>
+		<music>श्री बाबू लाल श्रीवास्तव, रघुनाथ सिंह, साबिर खाँ</music>
+		<size>20X16 से. मी.</size>
+		<pages>4</pages>
+		<venue>सांस्कृतिक भवन (सूर सदन), आगरा</venue>
+		<date>01-07-1979</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="3403-2" cid="054.253">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ एवं त्रिवेणी कला केन्द्र</troupe>
+		<title>दुम का शाप</title>
+		<writer>सई परांजपे</writer>
+		<direction>रेखा जैन</direction>
+		<music>श्री बाबू लाल श्रीवास्तव, रघुनाथ सिंह, साबिर खाँ</music>
+		<size>20X16 से. मी.</size>
+		<pages>4</pages>
+		<venue>सांस्कृतिक भवन (सूर सदन), आगरा</venue>
+		<date>01-07-1979</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="3403-1" cid="054.254">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ एवं त्रिवेणी कला केन्द्र</troupe>
+		<title>बालोद्यान</title>
+		<writer>रेखा जैन</writer>
+		<direction>रेखा जैन</direction>
+		<music>श्री बाबू लाल श्रीवास्तव, रघुनाथ सिंह, साबिर खाँ</music>
+		<size>20X16 से. मी.</size>
+		<pages>4</pages>
+		<venue>सांस्कृतिक भवन (सूर सदन), आगरा</venue>
+		<date>01-07-1979</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2076" cid="054.255">
+		<state>उत्तर प्रदेश एवं मध्य प्रदेश</state>
+		<place>आगरा एवं ग्वालियर</place>
+		<troupe>भारतीय जन नाट्य संघ एवं कला मन्दिर</troupe>
+		<title>दिल्ली तेरी बात निराली</title>
+		<writer>प्रेम कश्यप `सोज'</writer>
+		<direction>बी. एम. सिंह</direction>
+		<size>24X18 से. मी.</size>
+		<pages>22</pages>
+		<date>00-00-1983</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2074" cid="054.256">
+		<state>उत्तर प्रदेश एवं महाराष्ट्र</state>
+		<place>आगरा एवं बम्बई</place>
+		<troupe>भारतीय जन नाट्य संघ एवं अबामी रंगमंच</troupe>
+		<title>बसंती वुआ का दूध भात</title>
+		<writer>आरनोल्ड वेस्कट</writer>
+		<version>विश्वमित्तर आदिल</version>
+		<direction>आर. एम. सिंह</direction>
+		<size>24X18 से. मी.</size>
+		<pages>39</pages>
+		<date>00-00-0000</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="4855/4-(1-7)" cid="054.262.1;054.262.2">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>संस्कार भारती</troupe>
+		<title>आधे-अधूरे</title>
+		<article>मोहन राकेश</article>
+		<projection>राजेश पण्डित</projection>
+		<direction>राजेश पण्डित</direction>
+		<event>राज्य नाटक समारोह-1992</event>
+		<music>सीमा गुप्ता, लाल सिंह व अन्य</music>
+		<lightconcept>देवेन्द्र सिंह, अर्चना</lightconcept>
+		<stage>श्याम सिंह व विजय भूषण</stage>
+		<make-up>नरेश कुमार व विनोद सेठ</make-up>
+		<costume>कृष्णा शर्मा व देवेन्द्र उपाध्याय</costume>
+		<artist>भावना माहेश्वरी, ममता नकुट व अन्य</artist>
+		<size>22X13.5 से. मी.</size>
+		<pages>16</pages>
+		<venue>निराला प्रेक्षागृह, उन्नाव</venue>
+		<date>20-02-1992</date>
+		<desc>महाप्राण पं. सूर्यकांत त्रिपाठी `निराला' की स्मृति में आयोजित, ``राज्य नाटक समारोह-1992" में मंचित एवं कथासार, निर्देशक व संस्था के बारे में जानकारी ।</desc>
+	</brochure>
+	<brochure sid="244-2" cid="054.267">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>संस्कार भारती नाट्य केन्द्र</troupe>
+		<title>तोता चश्म</title>
+		<writer>दिनेश पालीवाल</writer>
+		<version>केशव प्रसाद सिंह</version>
+		<direction>केशव प्रसाद सिंह</direction>
+		<size>18X13 से. मी.</size>
+		<pages>4</pages>
+		<venue>सूर सदन, दिल्ली</venue>
+		<date>18-12-1986</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="244-1" cid="054.268">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>संस्कार भारती नाट्य केन्द्र</troupe>
+		<title>पर्दा उठने से पहले</title>
+		<writer>राजेन्द्र कुमार शर्मा</writer>
+		<direction>केशव प्रसाद सिंह</direction>
+		<size>18X13 से. मी.</size>
+		<pages>4</pages>
+		<venue>सूर सदन, दिल्ली</venue>
+		<date>18-12-1986</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="3329-(1-5)" cid="054.269;054.270">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>संस्कार भारती नाट्य केन्द्र</troupe>
+		<title>सिलिया, उमा, गाँधी की काँवर, जैसे को तैसा, मुण्डन</title>
+		<writer>केशव प्रसाद सिंह व उमाशंकर मिश्र</writer>
+		<direction>केशव प्रसाद सिंह व उमाशंकर मिश्र</direction>
+		<event>भारत नेपाल रंगयात्रा</event>
+		<size>23.5X11.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>उभाव रामबरेली, अयोध्या बस्ती, महेरावल, मोतीहारी, गोरखपुर, लखनऊ</venue>
+		<date>03-01-1999;19-01-1999</date>
+		<desc>ये सभी नाटक भारत नेपाल रंग यात्रा में मंचित ।</desc>
+	</brochure>
+	<brochure sid="244" cid="054.271">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>संस्कार भारती नाट्य केन्द्र</troupe>
+		<title>सुनन्दा</title>
+		<writer>शरतचन्द्र</writer>
+		<version>विष्णु प्रभाकर (नाट्य रूपांतरकार)</version>
+		<direction>केशव प्रसाद सिंह</direction>
+		<size>18X13 से. मी.</size>
+		<pages>4</pages>
+		<venue>सूर सदन, दिल्ली</venue>
+		<date>18-12-1986</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2071-1" cid="054.274">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>हम एवं त्रिवेणी कलाकेन्द्र</troupe>
+		<title>बाकी इतिहास</title>
+		<writer>बादल सरकार</writer>
+		<translation>नेमिचन्द्र जैन</translation>
+		<direction>रामगोपाल सिंह चौहान एवं आलोक कुमार गुप्ता</direction>
+		<event>त्रिदिवसीय पंच वार्षिक समारोह 1978-1979</event>
+		<size>24X18 से. मी.</size>
+		<pages>17</pages>
+		<venue>सूर सदन, आगरा</venue>
+		<date>15-01-1979;16-01-1979</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2460-5" cid="054.275">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>हम ललित कला मंच</troupe>
+		<title>अब्दुल्ला दीवाना</title>
+		<writer>लक्ष्मीनारायण लाल</writer>
+		<direction>अनिल चौहान</direction>
+		<event>राज्य नाट्य समारोह</event>
+		<host>उ. प्र. संगीत नाटक अकादमी व सांस्कृतिक कार्य विभाग, उ. प्र. द्वारा</host>
+		<size>23.4X11.5 से. मी.</size>
+		<pages>8</pages>
+		<venue>श्री राम सेंटर प्रेक्षागृह</venue>
+		<date>09-08-1987;14-08-1987</date>
+		<desc>उ. प्र. संगीत नाटक अकादमी व सांस्कृतिक कार्य विभाग, उ. प्र. द्वारा आयोजित राज्य नाट्य समारोह के अंतर्गत ।</desc>
 	</brochure>
 </natarang>
