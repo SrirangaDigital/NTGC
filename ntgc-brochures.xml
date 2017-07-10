@@ -3345,293 +3345,369 @@
 		<date>00-00-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="4788-(1-23)" cid="054.313.4">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>विनोद रस्तोगी स्मृति संस्थान</troupe>
+		<title>चन्दन वन का बाघ</title>
+		<writer>विनोद रस्तोगी</writer>
+		<direction>अजय मुखर्जी</direction>
+		<producer>आलोक रस्तोगी</producer>
+		<event>शरद रंग उत्सव</event>
+		<music>उदयचन्द परदेसी</music>
+		<lightconcept>विनय श्रीवास्तव</lightconcept>
+		<make-up>अनिल चौधरी</make-up>
+		<size>20X14 से. मी.</size>
+		<venue>गेयटी थियेटर, शिमला</venue>
+		<date>22-11-2012</date>
+		<desc>शरद रंग उत्सव, गेयटी थियेटर, शिमला, 2012 में मंचित ।</desc>
+	</brochure>
+	<brochure sid="5027-(1-7)" cid="054.313.7;054.313.8">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>विनोद रस्तोगी स्मृति संस्थान</troupe>
+		<title>बँटवारे की आग (नौटंकी)</title>
+		<writer>विनोद रस्तोगी</writer>
+		<direction>अजय मुखर्जी</direction>
+		<event>रवीन्द्र नाट्य महोत्सव-2012</event>
+		<music>उदयचन्द परदेशर</music>
+		<light>विनय श्रीवास्तव</light>
+		<artist>सूर्यकांत, कीर्ति शर्मा व अन्य</artist>
+		<size>26X21 से. मी.</size>
+		<pages>50</pages>
+		<venue>जिला स्कूल, पूर्णियाँ</venue>
+		<date>25-03-2012</date>
+		<desc>गुरुदेव रवीन्द्रनाथ टैगोर की 150 वीं जयंती समारोह श्रृखलां एवं विश्व रंगमंच दिवस पर आयोजित ``रवीन्द्र नाट्य महोत्सव-2012" में मंचित एवं कथासार, निर्देशकीय व अन्य जानकारी ।</desc>
+	</brochure>
+	<brochure sid="4754-(1-8)" cid="054.313.9">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समन्वय</troupe>
+		<title>लाला हरदौल</title>
+		<writer>रामनारायण अग्रवाल</writer>
+		<projection>सुषमा शर्मा</projection>
+		<direction>सुषमा शर्मा</direction>
+		<musicconcept>उदयचंद परदेशी</musicconcept>
+		<lightconcept>सुजाय घोषाल</lightconcept>
+		<costume>मीना उरावं</costume>
+		<artist>सतीश तिवारी, विजय कुमार व अन्य</artist>
+		<size>21X17 से. मी.</size>
+		<date>16-10-2014</date>
+		<desc>कहानी, निर्देशक व निर्देशकीय जानकारी एवं राहुल बारपुते को समर्पित ।</desc>
+	</brochure>
+	<brochure sid="3685/3" cid="054.314">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>असमंजस बाबू</title>
+		<writer>सत्यजीत रे</writer>
+		<dramatization>अख्तर अली</dramatization>
+		<direction>अनिलरंजन भौमिक</direction>
+		<artist>राकेश यादव</artist>
+		<event>अभिनव रंगमण्डल का प्रतिष्ठा आयोजन</event>
+		<size>21X18 से. मी.</size>
+		<pages>24</pages>
+		<venue>उज्जैन</venue>
+		<date>04-02-2007</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="3108/3" cid="054.315.0">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>कोर्टमार्शल</title>
+		<writer>स्वदेश दीपक</writer>
+		<direction>ए. आर. भौमिक</direction>
+		<host>समानान्तर</host>
+		<size>16.4X11.5 से. मी.</size>
+		<pages>4</pages>
+		<venue>जगत तारन (गोल्डन जुबली) प्रेक्षागृह</venue>
+		<date>04-01-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="4992-(1-4)" cid="054.315.1">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>ताँबे के कीड़े</title>
+		<writer>भुवनेश्वर</writer>
+		<projection>अनिल रंजन भौमिक</projection>
+		<direction>अनिल रंजन भौमिक</direction>
+		<event>भुवनेश्वर स्मृति पर्व-2009</event>
+		<artist>ॠषभ, अम्बालिका चन्द्रा व अन्य</artist>
+		<size>10X22 से. मी.</size>
+		<pages>6</pages>
+		<venue>उ. म. क्षेत्र सांस्कृतिक केन्द्र, इलाहाबाद</venue>
+		<date>01-11-2009;02-11-2009</date>
+		<desc>कवि, कहानीकार एवं नाटककार भुवनेश्वर प्रसाद के जन्मशताब्दी वर्ष पर आयोजित ``भुवनेश्वर स्मृति पर्व-2009 में मंचित नाटक एवं अन्य कार्यक्रमा की जानकारी ।</desc>
+	</brochure>
+	<brochure sid="3044" cid="054.316">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>पाँचाली</title>
+		<writer>विभांशु वैभव</writer>
+		<direction>अनिल रंजन भौमिक</direction>
+		<size>22.5X9.7 से. मी.</size>
+		<pages>1</pages>
+		<venue>सांस्कृतिक केन्द्र</venue>
+		<date>08-03-1998</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="3099/3" cid="054.317.0">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>पाँचाली</title>
+		<writer>विभांशु वैभव</writer>
+		<direction>अनिल रंजन भौमिक</direction>
+		<host>यायावर रंगमण्डल लखनऊ</host>
+		<size>24X18.5 से. मी.</size>
+		<pages>32</pages>
+		<venue>राय उमानाथ बली प्रेक्षागृह कैसरबाश</venue>
+		<date>22-12-1998</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="3108/1" cid="054.318">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>मंथन</title>
+		<writer>विभांशु वैभव</writer>
+		<direction>ए. आर. भौमिक</direction>
+		<host>समानान्तर</host>
+		<size>16.4X11.5 से. मी.</size>
+		<pages>4</pages>
+		<venue>जगत तारन (गोल्डन जुबली) प्रेक्षागृह</venue>
+		<date>02-01-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2666" cid="054.319.0">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>मंथन</title>
+		<writer>विभांशु वैभव</writer>
+		<direction>अनिल रंजन भौमिक</direction>
+		<music>विनोद यादव</music>
+		<size>21.5X9.5 से. मी.</size>
+		<pages>6</pages>
+		<date>04-01-1998</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="3040-(1-3)" cid="054.320">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>समानान्तर नाट्य समारोह-98</title>
+		<event>मंथन-समानांतर इंटीमेट थियेटर, महाभोज-कैंपस थियेटर, कोर्ट मार्शल-समानांतर इंटीमेट थियेटर</event>
+		<size>22X10 से. मी.</size>
+		<pages>2</pages>
+		<venue>जगत तारन गोल्डन जुबली प्रेक्षागृह</venue>
+		<date>00-00-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="3108-(1-3)" cid="054.321">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>समानान्तर समारोह-95-96</title>
+		<event>मंथन, स्पार्टाक्स, कोर्ट मार्शल</event>
+		<size>16.4X11.5 से. मी.</size>
+		<pages>4</pages>
+		<date>00-00-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="3108/2" cid="054.322">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर</troupe>
+		<title>स्पार्टाक्स</title>
+		<writer>हावर्ड फास्ट</writer>
+		<direction>ए. आर. भौमिक</direction>
+		<host>समानांतर</host>
+		<size>16.4X11.5 से. मी.</size>
+		<pages>4</pages>
+		<venue>जगत तारन (गोल्डन जुबली) प्रेक्षागृह</venue>
+		<date>03-01-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="1337" cid="054.323">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर इंटिमेट थियेटर</troupe>
+		<title>आदि विद्रोही</title>
+		<writer>हावर्डफास्ट (मूल उपन्यास `स्पार्टकस' पर आधारित)</writer>
+		<version>अमृतराय (हिन्दी रूपांतर)</version>
+		<translation>रति बार्थोलोम्यु</translation>
+		<dramatization>बादल सरकार</dramatization>
+		<direction>अनिल रंजन भौमिक</direction>
+		<size>35X22 से. मी.</size>
+		<pages>2</pages>
+		<date>00-00-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="3040/3;2667" cid="054.324">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर इंटिमेट थियेटर</troupe>
+		<title>कोर्ट मार्शल</title>
+		<writer>स्वदेश दीपक</writer>
+		<direction>अनिल रंजन भौमिक</direction>
+		<event>समानांतर नाट्य समारोह-98</event>
+		<size>22X10 से. मी.</size>
+		<pages>2</pages>
+		<venue>जगत तारन गोल्डन जुबली प्रेक्षागृह, जार्ज टाउन, इलाहाबाद</venue>
+		<date>08-01-1998</date>
+		<desc>समानांतर नाट्य समारोह 98 के अन्तर्गत</desc>
+	</brochure>
+	<brochure sid="2847/1" cid="054.325">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर इंटिमेट थियेटर</troupe>
+		<title>कोर्ट मार्शल</title>
+		<writer>स्वदेश दीपक</writer>
+		<direction>अनिल रंजन भौमिक</direction>
+		<size>18X12.5 से. मी.</size>
+		<venue>राय उमानाथ बली प्रेक्षागृह, इलाहाबाद</venue>
+		<date>00-00-1995</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="1338" cid="054.326">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर इंटिमेट थियेटर</troupe>
+		<title>कोर्ट मार्शल</title>
+		<writer>स्वदेश दीपक</writer>
+		<direction>अनिल रंजन भौमिक</direction>
+		<music>मलयमिश्र</music>
+		<size>21.5X21 से. मी.</size>
+		<pages>9</pages>
+		<date>00-00-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2667" cid="054.327">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर इंटिमेट थियेटर</troupe>
+		<title>कोर्ट मार्शल</title>
+		<writer>स्वदेश दीपक</writer>
+		<direction>अनिल रंजन भौमिक</direction>
+		<size>21.5X9.5 से. मी.</size>
+		<pages>6</pages>
+		<date>08-01-1998</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2826" cid="054.328">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर इंटिमेट थियेटर</troupe>
+		<title>पाँचाली</title>
+		<writer>विभांशु वैभव</writer>
+		<direction>अनिल रंजन भौमिक</direction>
+		<music>उदयचन्द्र परदेसी</music>
+		<size>25.5X10 से. मी.</size>
+		<pages>4</pages>
+		<venue>सांस्कृतिक केन्द्र, इलाहाबाद</venue>
+		<date>08-03-1998;09-03-1998</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2847" cid="054.329">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर इंटिमेट थियेटर</troupe>
+		<title>मंथन</title>
+		<writer>विभांशु वैभव</writer>
+		<direction>ए. आर. भौमिक</direction>
+		<size>18X12.5 से. मी.</size>
+		<venue>राय उमानाथ बली प्रेक्षागृह, इलाहाबाद</venue>
+		<date>26-10-1995</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="3040/1" cid="054.330">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>समानान्तर इंटिमेट थियेटर</troupe>
+		<title>मंथन</title>
+		<writer>विभांशु वैभव</writer>
+		<direction>ए. आर. भौमिक</direction>
+		<event>समानांतर नाट्य समारोह 98</event>
+		<size>22X10 से. मी.</size>
+		<pages>2</pages>
+		<venue>जगत तारन गोल्डन जुबली प्रेक्षागृह, जार्ज टाउन, इलाहाबाद</venue>
+		<date>04-01-1998</date>
+		<desc>समानांतर नाट्य समारोह 98 के अन्तर्गत</desc>
+	</brochure>
+	<brochure sid="942" cid="054.331">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>साक्षात्कार</troupe>
+		<title>ठहरा हुआ पानी</title>
+		<writer>शांति मेहरोत्रा</writer>
+		<projection>सतीश चित्रंपरी</projection>
+		<direction>सतीश चित्रंपरी</direction>
+		<size>21.5X9 से. मी.</size>
+		<pages>8</pages>
+		<venue>उत्तर मध्य क्षेत्र सांस्कृतिक केन्द्र, इलाहाबाद</venue>
+		<date>23-11-1993;02-12-1993</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="1879-1-2" cid="054.332">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>साक्षात्कार</troupe>
+		<title>नाटक की एक शाम - बच्चों के नाम बाबा का बगीचा मंगरू की सूझ</title>
+		<article>उगा सतीश</article>
+		<projection>सतीश चिप्रवंशी</projection>
+		<direction>सतीश चिप्रवंशी</direction>
+		<size>22X9 से. मी.</size>
+		<pages>6</pages>
+		<venue>प्रयाग संगीत समिति, अल्फ्रेड पार्क, इलाहाबाद</venue>
+		<date>16-06-1996</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1621-1-2" cid="054.333">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>साक्षात्कार</troupe>
+		<title>नाटक की एक शाम - बच्चों के नाम (2 बाल नाटक)</title>
+		<event>ये भी कोई बात है, वयम् बड़म् झूठम</event>
+		<size>24X18 से. मी.</size>
+		<pages>4</pages>
+		<venue>उत्तर मध्य क्षेत्र सांस्कृतिक केन्द्र, इलाहाबाद</venue>
+		<date>19-02-1993</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="3048" cid="054.334">
+		<state>उत्तर प्रदेश</state>
+		<place>इलाहाबाद</place>
+		<troupe>साक्षात्कार - बाल इकाई ए बी सी डी</troupe>
+		<title>जादू का का कालीन (नौटंकी)</title>
+		<writer>मृदुला गर्ग</writer>
+		<version>राजकुमार श्रीवास्तव</version>
+		<direction>सतीश चित्रवंशी</direction>
+		<size>21.3X9 से. मी.</size>
+		<pages>6</pages>
+		<venue>कार्यशाला प्रस्तुति-प्रयाग संगीत समिति, आमंत्रण प्रस्तुति-राय उमानाथ बली प्रेक्षागृह</venue>
+		<date>24-06-1998;10-07-1998</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="3200" cid="054.335;054.336">
+		<state>उत्तर प्रदेश</state>
+		<place>उन्नाव</place>
+		<troupe>अनुष्ठान</troupe>
+		<title>दो पैसे की जन्नत</title>
+		<writer>अब्दुल बिस्मिल्लाह</writer>
+		<direction>विजय पंडित</direction>
+		<music>महेन्द्र सिंह मानू</music>
+		<light>रोहिताश्व गुप्ता</light>
+		<stage>प्रशान्त श्रीवास्तव, प्रसन्ना लालपुरी, हेलाल रिजनी, दुर्गेश कुमार</stage>
+		<costume>मृदुला पंडित</costume>
+		<artist>कल्याणी सिंह मानू, निराला त्रिपाठी, प्रसन्ना लालपुरी</artist>
+		<size>27X14 से. मी.</size>
+		<pages>20</pages>
+		<venue>उन्नाव प्रेक्षागृह, उत्तर प्रदेश</venue>
+		<date>01-12-1998</date>
 		<desc></desc>
 	</brochure>
 </natarang>
