@@ -2302,7 +2302,7 @@
 		<date>18-02-1986;19-02-1986</date>
 		<desc>रंग मंच एवं ललित कलाओं के लिए समर्पित अखिल भारतीय संस्था-संस्कार भारती द्वारा आयोजित ``श्री गुरू जी स्मृति नाट्य समारोह-1986" में मंचित नाटकों की संक्षिप्त एवं अन्य जानकारी</desc>
 	</brochure>
-	<brochure sid="2067;2066;2069;2070" cid="054.218.0;054.218.1">
+	<brochure sid="2067" cid="054.218.0">
 		<state>उत्तर प्रदेश</state>
 		<place>आगरा</place>
 		<troupe>त्रिवेणी कला केन्द्र</troupe>
@@ -2311,9 +2311,47 @@
 		<translation>विजय बापट</translation>
 		<direction>आलोकदास गुप्ता</direction>
 		<size>22X14 से. मी.;19X13 से. मी.</size>
-		<pages>3;4</pages>
+		<pages>3</pages>
 		<venue>सूर सदन, आगरा</venue>
-		<date>06-03-1982;07-03-1982;17-05-1985;18-05-1985;17-05-1985;11-02-1982</date>
+		<date>06-03-1982;07-03-1982</date>
+		<desc>अतिरिक्त प्रति</desc>
+	</brochure>
+	<brochure sid="2066" cid="054.218.0">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>त्रिवेणी कला केन्द्र</troupe>
+		<title>अरे ! शरीफ लोग</title>
+		<writer>जयवंत दलवी</writer>
+		<translation>विजय बापट</translation>
+		<direction>आलोकदास गुप्ता</direction>
+		<size>19X13 से. मी.</size>
+		<pages>4</pages>
+		<venue>सूर सदन, आगरा</venue>
+		<date>17-05-1985;18-05-1985</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2069" cid="054.218.1">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>त्रिवेणी कला केन्द्र</troupe>
+		<title>अरे ! शरीफ लोग</title>
+		<writer>जयवंत दलवी</writer>
+		<translation>विजय बापट</translation>
+		<direction>आलोकदास गुप्ता</direction>
+		<venue>सूर सदन, आगरा</venue>
+		<date>17-05-1985</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2070" cid="054.218.1">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>त्रिवेणी कला केन्द्र</troupe>
+		<title>अरे ! शरीफ लोग</title>
+		<writer>जयवंत दलवी</writer>
+		<translation>विजय बापट</translation>
+		<direction>आलोकदास गुप्ता</direction>
+		<venue>सूर सदन, आगरा</venue>
+		<date>11-02-1982</date>
 		<desc></desc>
 	</brochure>
 	<brochure sid="2071" cid="054.219">
@@ -2603,7 +2641,7 @@
 		<date>00-00-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="2085;2077" cid="054.243">
+	<brochure sid="2085" cid="054.243">
 		<state>उत्तर प्रदेश</state>
 		<place>आगरा</place>
 		<troupe>भारतीय जन नाट्य संघ</troupe>
@@ -2611,8 +2649,22 @@
 		<writer>गिरीश कारनाड</writer>
 		<translation>ब. व. कारंत</translation>
 		<direction>शैलेन्द्र रघुवंशी</direction>
-		<size>23X14 से. मी.;19X12.5 से. मी.</size>
-		<pages>3;16</pages>
+		<size>23X14 से. मी.</size>
+		<pages>3</pages>
+		<venue>सूर सदन सांस्कृतिक भवन, आगरा</venue>
+		<date>07-09-1980;08-09-1980</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2077" cid="054.243">
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
+		<title>तुगलक</title>
+		<writer>गिरीश कारनाड</writer>
+		<translation>ब. व. कारंत</translation>
+		<direction>शैलेन्द्र रघुवंशी</direction>
+		<size>19X12.5 से. मी.</size>
+		<pages>16</pages>
 		<venue>सूर सदन सांस्कृतिक भवन, आगरा</venue>
 		<date>07-09-1980;08-09-1980</date>
 		<desc></desc>
@@ -2765,9 +2817,9 @@
 		<desc></desc>
 	</brochure>
 	<brochure sid="2076" cid="054.255">
-		<state>उत्तर प्रदेश एवं मध्य प्रदेश</state>
-		<place>आगरा एवं ग्वालियर</place>
-		<troupe>भारतीय जन नाट्य संघ एवं कला मन्दिर</troupe>
+		<state>उत्तर प्रदेश</state>
+		<place>आगरा</place>
+		<troupe>भारतीय जन नाट्य संघ</troupe>
 		<title>दिल्ली तेरी बात निराली</title>
 		<writer>प्रेम कश्यप `सोज'</writer>
 		<direction>बी. एम. सिंह</direction>
@@ -3547,7 +3599,7 @@
 		<date>00-00-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="3040/3;2667" cid="054.324">
+	<brochure sid="3040/3" cid="054.324">
 		<state>उत्तर प्रदेश</state>
 		<place>इलाहाबाद</place>
 		<troupe>समानान्तर इंटिमेट थियेटर</troupe>
@@ -3708,6 +3760,547 @@
 		<pages>20</pages>
 		<venue>उन्नाव प्रेक्षागृह, उत्तर प्रदेश</venue>
 		<date>01-12-1998</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2997" cid="054.337">
+		<state>उत्तर प्रदेश</state>
+		<place>उन्नाव</place>
+		<troupe>अनुष्ठान</troupe>
+		<title>बकरी</title>
+		<writer>सर्वेश्वरदयाल सक्सेना</writer>
+		<projection>विजय पंडित</projection>
+		<direction>विजय पंडित</direction>
+		<music>हरिश्चन्द्र</music>
+		<size>22X28 से. मी.</size>
+		<pages>10</pages>
+		<venue>गांधी भवन प्रेक्षागृह, लखनऊ</venue>
+		<date>21-09-1997</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2195" cid="054.338.0">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>अक्स</troupe>
+		<title>आदमी का गोश्त</title>
+		<writer>विलास गुप्ते</writer>
+		<projection>सुनील सिन्हा</projection>
+		<direction>सुनील सिन्हा</direction>
+		<size>22.5X18.8 से. मी.</size>
+		<pages>6</pages>
+		<venue>मर्चेन्ट चेम्बर</venue>
+		<date>01-12-1985</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2198" cid="054.339">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>आयाम</troupe>
+		<title>चोर के घर मोर</title>
+		<writer>लेखक बेन जॉनसन</writer>
+		<translation>अरुण सहगल</translation>
+		<direction>ए. एच. थ्योडोर</direction>
+		<size>24X18 से. मी.</size>
+		<pages>26</pages>
+		<venue>मर्चेन्ट चेम्बर</venue>
+		<date>19-11-1983</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2197" cid="054.340">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>आयाम</troupe>
+		<title>जय बाबा गोपीनाथ</title>
+		<writer>मोलियर</writer>
+		<translation>राकेश सिंह</translation>
+		<direction>जितेन्द्र कौशल</direction>
+		<size>23.5X18 से. मी.</size>
+		<pages>30</pages>
+		<venue>मर्चेन्ट चेम्बर</venue>
+		<date>11-06-1983</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2196" cid="054.341">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>आयाम</troupe>
+		<title>बल्लभपुर की रूपकथा</title>
+		<writer>बादल सरकार</writer>
+		<direction>ए. एच. थ्योडोर</direction>
+		<size>24.4X18.7 से. मी.</size>
+		<pages>40</pages>
+		<venue>मर्चेन्ट चेम्बर</venue>
+		<date>16-10-1982</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2199" cid="054.342">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>आयाम</troupe>
+		<title>लंगड़ी टाँग</title>
+		<writer>हरिशंकर परसाई</writer>
+		<translation>सरन बली श्रीवास्तव</translation>
+		<direction>राकेश सिंह</direction>
+		<size>24.5X18 से. मी.</size>
+		<pages>24</pages>
+		<venue>मर्चेन्ट चेम्बर</venue>
+		<date>14-07-1984</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2200" cid="054.343">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>आयाम</troupe>
+		<title>लंगड़ी टाँग</title>
+		<writer>हरिशंकर परसाई</writer>
+		<translation>सरन बली श्रीवास्तव</translation>
+		<direction>राकेश सिंह</direction>
+		<size>19X12.5 से. मी.</size>
+		<pages>4</pages>
+		<date>02-10-1984</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2201" cid="054.344">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>आयाम</troupe>
+		<title>सैया भये कोतवाल</title>
+		<writer>बसंत सबनीस</writer>
+		<translation>उषा बनर्जी</translation>
+		<direction>ए. एच. थ्योडोर</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>36</pages>
+		<venue>मर्चेन्ट चेम्बर</venue>
+		<date>05-10-1985</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2028" cid="054.345">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>इन्डियन पीपुल्स थियेटर्स असो. (इप्टा)</troupe>
+		<title>माधवी</title>
+		<writer>भीष्म साहनी</writer>
+		<direction>ओमेन्द्र कुमार</direction>
+		<size>25.5X12 से. मी.</size>
+		<pages>6</pages>
+		<venue>क्राइस्ट चर्च कालेज, एस. एन. सेन डिग्री कालेज</venue>
+		<date>23-09-1986;24-09-1986</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2229" cid="054.346">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>इप्टा</troupe>
+		<title>माधवी</title>
+		<writer>भीष्म साहनी</writer>
+		<direction>ओमेन्द्र कुमार</direction>
+		<size>26X19 से. मी.</size>
+		<pages>6</pages>
+		<venue>मर्चेन्ट चेम्बर</venue>
+		<date>1986</date>
+		<desc>ए. एन. डी. एम. महिला महाविद्यालय द्वारा आयोजित ।</desc>
+	</brochure>
+	<brochure sid="2592" cid="054.347">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>अमीबा</title>
+		<writer>रमा शंकर निशेष</writer>
+		<direction>सन्तोष गुप्ता</direction>
+		<size>28X11.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>मर्चेन्ट चेम्बर हाल</venue>
+		<date>05-04-1996</date>
+		<desc>केन्द्रीय संगीत नाटक अकादमी, नई दिल्ली, रोटरी क्लब कानपुर, पश्चिम के सहयोग से ।</desc>
+	</brochure>
+	<brochure sid="2211-1" cid="054.348">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>आरक्त क्षण</title>
+		<writer>महेश एल. कुंचवर</writer>
+		<translation>वसंत देव</translation>
+		<direction>सन्तोष गुप्ता</direction>
+		<size>25X19 से. मी.</size>
+		<pages>40</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>15-05-1989</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2211" cid="054.349">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>आरक्त क्षण, एक और महाभारत</title>
+		<size>25X19 से. मी.</size>
+		<pages>40</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>15-05-1989</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2211-2" cid="054.350">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>एक और महाभारत</title>
+		<writer>रत्नाकर चयनी</writer>
+		<translation>धनंजय वर्मा, जयराम पंडा</translation>
+		<direction>सन्तोष गुप्ता</direction>
+		<size>25X19 से. मी.</size>
+		<pages>40</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>15-05-1989</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1601" cid="054.351">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>एक नाटक ऐसा भी (हास्य व्यंग्य)</title>
+		<writer>लक्ष्मीकन्त वैण्णव</writer>
+		<projection>संतोष गुप्ता</projection>
+		<direction>संतोष गुप्ता</direction>
+		<producer>राजेश दीक्षित</producer>
+		<size>27X11 से. मी.</size>
+		<pages>4</pages>
+		<venue>मर्चेन्ट चेम्बर, कानपुर</venue>
+		<date>29-03-1996</date>
+		<desc>केन्द्रीय संगीत नाटक अकादमी, दिल्ली एवं रोटरी क्लब, कानपुर पश्चिम के सहयोग से ।</desc>
+	</brochure>
+	<brochure sid="1622-1" cid="054.352">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>गरीब की दुनिया (नौटंकी)</title>
+		<writer>कृष्ण पहलवान</writer>
+		<direction>संतोष गुप्ता</direction>
+		<music>मीरा शर्मा</music>
+		<host>जवाहर कला केन्द्र, जयपुर</host>
+		<size>27.5X11.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>रवीन्द्र मंच, जयपुर</venue>
+		<date>05-11-1993;06-11-1993</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2204" cid="054.353">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>जाड़े की एक रात (लघु नाटक)</title>
+		<writer>कृष्ण चन्दर</writer>
+		<direction>के. वी. सक्सेना</direction>
+		<size>28X12 से. मी.</size>
+		<pages>6</pages>
+		<venue>एम. पी. कालेज, रामनगर</venue>
+		<date>08-06-1985</date>
+		<desc>रामनगर नाट्य महोत्सव समन्वय व अखिल भारतीय लघु नाट्य प्रतियोगिता के अन्तर्गत ।</desc>
+	</brochure>
+	<brochure sid="2039" cid="054.353">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>जाड़े की एक रात (लघु नाटक)</title>
+		<writer>कृष्ण चन्दर</writer>
+		<direction>के. वी. सक्सेना</direction>
+		<size>28X12 से. मी.</size>
+		<pages>6</pages>
+		<venue>एम. पी. कालेज, रामनगर</venue>
+		<date>08-06-1985</date>
+		<desc>रामनगर नाट्य महोत्सव समन्वय व अखिल भारतीय लघु नाट्य प्रतियोगिता के अन्तर्गत ।</desc>
+	</brochure>
+	<brochure sid="1623" cid="054.354">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>तिल का ताड़ (हास्य नाटक)</title>
+		<writer>शंकर शेष</writer>
+		<direction>संतोष गुप्ता</direction>
+		<size>27.5X11.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>बृजेन्द्र स्वरूप पार्क, कानपुर</venue>
+		<date>14-11-1991</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1622-2" cid="054.355">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>तिल का ताड़ (हास्य नाटक)</title>
+		<writer>शंकर शेष</writer>
+		<direction>संतोष गुप्ता</direction>
+		<music>के. बी. सक्सेना एवं अन्य</music>
+		<host>जवाहर कला केन्द्र जयपुर</host>
+		<size>27.5X11.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>रवीन्द्र मंच, जयपुर</venue>
+		<date>05-11-1993;06-11-1993</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2207" cid="054.356">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>पति-पत्नी और . . . . .</title>
+		<writer>अमृत कश्यप</writer>
+		<direction>के. बी. सक्सेना</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>18</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>24-11-1984</date>
+		<desc>कलानयन पाक्षिक नाट्य श्रखला के तत्वावधान में ।</desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="" cid="054.">
+		<state></state>
+		<place></place>
+		<troupe></troupe>
+		<title></title>
+		<writer></writer>
+		<direction></direction>
+		<event></event>
+		<music></music>
+		<stage></stage>
+		<host></host>
+		<size>X से. मी.</size>
+		<pages></pages>
+		<venue></venue>
+		<date></date>
 		<desc></desc>
 	</brochure>
 </natarang>
