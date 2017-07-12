@@ -4048,259 +4048,710 @@
 		<date>24-11-1984</date>
 		<desc>कलानयन पाक्षिक नाट्य श्रखला के तत्वावधान में ।</desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2205" cid="054.357">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>पति-पत्नी और . . . . . (लघु नाट्य)</title>
+		<writer>अमृत कश्यप</writer>
+		<direction>कृष्ण सक्सेना</direction>
+		<size>28X12 से. मी.</size>
+		<pages>6</pages>
+		<venue>एम. पी. कालेज, रामनगर</venue>
+		<date>08-06-1986</date>
+		<desc>रामनगर नाट्य महोत्सव समन्वय व अखिल भारतीय लघु नाट्य प्रतियोगिता अन्तर्गत ।</desc>
+	</brochure>
+	<brochure sid="2203" cid="054.358">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>पति-पत्नी और . . . . .</title>
+		<writer>अमृत कश्यप</writer>
+		<direction>कृष्ण सक्सेना</direction>
+		<size>29.3X15 से. मी.</size>
+		<pages>10</pages>
+		<venue>लाजपत भवन</venue>
+		<date>03-10-1986</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="1882" cid="054.359">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>बाँसुरी</title>
+		<writer>गोविन्द चातक</writer>
+		<projection>रतन राठौर</projection>
+		<direction>रतन राठौर</direction>
+		<producer>इन्द्रमोहन रोहतगी एवं राजेश दीक्षित</producer>
+		<size>28X11.5 से. मी.</size>
+		<pages>2</pages>
+		<venue>मर्चेन्ट चेम्बर, कानपुर</venue>
+		<date>16-07-1996</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2206" cid="054.360">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>मूर्तिकार</title>
+		<writer>शंकर शेष</writer>
+		<direction>संतोष गुप्ता</direction>
+		<size>25X19 से. मी.</size>
+		<pages>34</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>28-12-1994</date>
+		<desc>ज्ञानदेव अग्निहोत्री को शृद्धांजलि स्वरूप</desc>
+	</brochure>
+	<brochure sid="2209" cid="054.361">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>राजदर्शन</title>
+		<writer>मनोज मित्रा</writer>
+		<direction>संतोष गुप्ता</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>36</pages>
+		<venue>लाजपत भवन, कानपुर;रवीन्द्र मंच, जयपुर</venue>
+		<date>07-09-1989;26-09-1989</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2210" cid="054.362">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>रावण लीला</title>
+		<writer>कुसुम कुमार</writer>
+		<direction>संतोष कुमार गुप्ता</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>36</pages>
+		<venue>लाजपत भवन</venue>
+		<date>14-12-1987</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2208" cid="054.363">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>सत्यम्-शिवम्-सुन्दरम्</title>
+		<writer>शंकर शेष</writer>
+		<direction>के. बी. सक्सेना</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>32</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>04-01-1986</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2202" cid="054.364">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>एकजुट</troupe>
+		<title>सराय के बाहर</title>
+		<writer>कृष्ण चन्दर</writer>
+		<direction>के. बी. सक्सेना</direction>
+		<size>27X15 से. मी.</size>
+		<pages>8</pages>
+		<venue>मुरारीलाल मेहता प्रेक्षागृह</venue>
+		<date>10-02-1985</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2241" cid="054.365">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>द एम्बेस्डर्स</troupe>
+		<title>अखिल भारतीय नाट्य सम्मेलन 1966</title>
+		<event>पैसा बोलता है-श्री आर्ट क्लब, अर्ज़ का ख़वाब-द एम्बेस्डर्स, सुनो जन्मेजय- थियेटर युनिट्, कन्जूस-राष्ट्रीय नाट्य विद्यालय, ऐशियन थियेटर इन्स्टीट्यूट</event>
+		<size>25X19 से. मी.</size>
+		<pages>102</pages>
+		<venue>जी. एस. वी. एम. मेडिकल कालेज</venue>
+		<date>28-02-1966;03-03-1966</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2241-2" cid="054.366">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>द एम्बेस्डर्स</troupe>
+		<title>अर्ज़ का ख़वाब</title>
+		<writer>बर्नाड शॉ</writer>
+		<direction>शमीम मित्तल</direction>
+		<event>अखिल भारतीय नाट्य सम्मेलन 1966</event>
+		<size>25X19 से. मी.</size>
+		<pages>102</pages>
+		<venue>जी. एस. वी. एम. मेडिकल कालेज</venue>
+		<date>28-02-1966;03-03-1966</date>
+		<desc>अखिल भारतीय नाट्य सम्मेलन 1966 के अन्तर्गत ।</desc>
+	</brochure>
+	<brochure sid="2184" cid="054.367">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>द एम्बेस्डर्स</troupe>
+		<title>गुड़िया घर</title>
+		<writer>हेन्रीक इब्सन</writer>
+		<direction>भारत भूषण</direction>
+		<size>22X14 से. मी.</size>
+		<pages>16</pages>
+		<venue>जी. एस. वी. एम. मेडिकल कालेज</venue>
+		<date>01-09-1966</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2185" cid="054.368">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>द एम्बेस्डर्स</troupe>
+		<title>दर्पन</title>
+		<writer>लक्ष्मी नारायण लाल</writer>
+		<direction>ज्ञानदेव अग्निहोत्री</direction>
+		<size>24.3X15.5 से. मी.</size>
+		<pages>24</pages>
+		<date>00-00-0000</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2182" cid="054.369">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>कलानयन</troupe>
+		<title>कथा नन्दन की</title>
+		<writer>इन्द्रा पर्थासार्थि</writer>
+		<direction>त्रिपुरारी शर्मा</direction>
+		<host>दर्पण कानपुर</host>
+		<size>21X14 से. मी.</size>
+		<pages>6</pages>
+		<venue>गाँधी मेमोरीयल, नई दिल्ली</venue>
+		<date>10-10-1980</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="4377-I" cid="054.370;054.371">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>गुलाब थियेटर</troupe>
+		<title>शहंशाह जाहँगीर का इंसाफ (नौटंकी)</title>
+		<direction>आशा रानी (गुलाब बाई की पुत्री)</direction>
+		<event>नाट्योत्सव</event>
+		<manager>मुन्ना लाल दूबे</manager>
+		<artist>नफीस (सरदार संग्राम सिंह), आबीद हुसैन (शहंशाह जाहँगीर) एवं अन्य</artist>
+		<size>20.5X13.5 से. मी.</size>
+		<pages>3-4</pages>
+		<venue>रवीन्द्र भारती सभागार, कला भवन हैदराबाद</venue>
+		<date>12-03-2001</date>
+		<desc>दिल्ली संगीत नाटक अकादमी एवं संस्कृति संबंध विभाग, आंध्र प्रदेश द्वारा आयोजित `नाट्योत्सव-युवा कलाकारों द्वारा पारम्परिक एवं आधुनिक थियेटर महोत्सव' ।</desc>
+	</brochure>
+	<brochure sid="2183" cid="054.372">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>त्रिकोण</troupe>
+		<title>वैतरणी के पुल</title>
+		<writer>अज्ञात</writer>
+		<direction>अज्ञात</direction>
+		<size>22X13.8 से. मी.</size>
+		<pages>10</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>11-01-1984</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2173-4" cid="054.373">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>थियेटर ग्रुप</troupe>
+		<title>रक्त बीज</title>
+		<writer>शंकर शेष</writer>
+		<projection>संजीव सिकरोरिया</projection>
+		<direction>संजीव सिकरोरिया</direction>
+		<event>दर्पण रजत जयंती समारोह</event>
+		<size>24.5X18 से. मी.</size>
+		<pages>84</pages>
+		<venue>लाजपत भवन</venue>
+		<date>28-04-1986</date>
+		<desc>दर्पण रजत जयंती समारोह के अंतर्गत ।</desc>
+	</brochure>
+	<brochure sid="2191-1" cid="054.374">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<title>नायक-खलनायक-विदूषक</title>
+		<writer>सुरेन्द्र वर्मा</writer>
+		<event>थियेटर वर्कशॉप 74</event>
+		<size>24X16.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>22-09-1974</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2191" cid="054.375">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<title>नायक-खलनायक-विदूषक, बहुत बड़ा सवाल</title>
+		<event>थियेटर वर्कशॉप 74</event>
+		<size>24X16.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>22-09-1974</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2191-2" cid="054.376">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<title>बहुत बड़ा सवाल</title>
+		<event>थियेटर वर्कशॉप 74</event>
+		<size>24X16.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>22-09-1974</date>
 		<desc></desc>
 	</brochure>
-	<brochure sid="" cid="054.">
-		<state></state>
-		<place></place>
-		<troupe></troupe>
-		<title></title>
-		<writer></writer>
-		<direction></direction>
-		<event></event>
-		<music></music>
-		<stage></stage>
-		<host></host>
-		<size>X से. मी.</size>
-		<pages></pages>
-		<venue></venue>
-		<date></date>
+	<brochure sid="2217" cid="054.377">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>अंधा युग</title>
+		<writer>धर्मवीर भारती</writer>
+		<direction>रवि बासवानी</direction>
+		<size>24X18.3 से. मी.</size>
+		<pages>20</pages>
+		<venue>रवीन्द्रालय</venue>
+		<date>20-03-1975;21-03-1975</date>
 		<desc></desc>
+	</brochure>
+	<brochure sid="2133" cid="054.378;054.379">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>अनारकली</title>
+		<article>इम्तियाज़ अली `ताज'</article>
+		<direction>प्रगति शाह एवं राकेश वर्मा</direction>
+		<gimmickry>सिद्देश्वर अवस्थी</gimmickry>
+		<size>24X18 से. मी.</size>
+		<pages>11</pages>
+		<venue>डी. ए. वी. कालेज सभागार, कानपुर, लाजपतं भवन, कानपुर, रवीन्द्रालय भवन, लखनऊ</venue>
+		<date>28-09-1987;05-10-1987;06-10-1987;27-11-1987</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2172" cid="054.380">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>अनारकली</title>
+		<writer>इम्तियाज़ अली `ताज'</writer>
+		<projection>प्रगति शाह एवं राकेश वर्मा</projection>
+		<direction>प्रगति शाह एवं राकेश वर्मा</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>20</pages>
+		<venue>डी. ए. वी. कालेज, लाजपत भवन, रवीन्द्रालय भवन</venue>
+		<date>28-09-1987;05-10-1987;06-10-1987;02-11-1987</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2432-3" cid="054.381">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>अनारकली</title>
+		<writer>इम्तियाज़ अली `ताज'</writer>
+		<version>सिद्देश्वर अवस्थी</version>
+		<direction>प्रगति शाह एवं राकेश वर्मा</direction>
+		<event>दर्पण नाट्य समारोह</event>
+		<size>24X18 से. मी.</size>
+		<pages>22</pages>
+		<venue>श्री राम सेंटर प्रेक्षागृह</venue>
+		<date>14-08-1988;17-08-1988</date>
+		<desc>साहित्य कला परिषद्, दिल्ली प्रशासन एवं सांस्कृतिक कार्य विभाग, उ. प्र. के सहयोग से दिल्ली दर्पण द्वारा आयोजित दर्पण नाट्य समारोह के अंतर्गत ।</desc>
+	</brochure>
+	<brochure sid="2175" cid="054.382">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>अपरिभावित</title>
+		<writer>विभु कुमार</writer>
+		<direction>रवि शर्मा</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>12</pages>
+		<venue>मर्चेन्ट चेम्बर</venue>
+		<date>24-03-1982</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2216" cid="054.383">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>अभिशप्त यज्ञ</title>
+		<writer>पी. के. भट्टाचार्य</writer>
+		<direction>बंसी कौल</direction>
+		<size>18.8X25.5 से. मी.</size>
+		<pages>28</pages>
+		<venue>डी. ए. वी. कालेज प्रेक्षागृह</venue>
+		<date>09-06-1977</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2219" cid="054.384">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>उत्तर प्रदेश थियेटर सम्मेलन</title>
+		<event>किसी एक फूल का नाम लो, बाकी इतिहास, पांचवां सवार</event>
+		<size>18.5X24.8 से. मी.</size>
+		<pages>58</pages>
+		<date>11-08-1973;12-08-1973</date>
+		<desc>उत्तर प्रदेश संगीत नाटक अकादमी के सौजन्य से ।</desc>
+	</brochure>
+	<brochure sid="2215" cid="054.385">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>एंटोगनी</title>
+		<writer>सोफिक्लीस (ग्रीक), जीन एनोहॅल (फ्रेंच), वसी खान (उर्दू)</writer>
+		<direction>के. के. नायर</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>32</pages>
+		<venue>जी. एस. वी. एम. मेडिकल कॉलेज</venue>
+		<date>15-10-1967</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2214" cid="054.386">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>एंटोगनी</title>
+		<writer>सोफिक्लीस (ग्रीक), जीन एनोहॅल (फ्रेंच), वसी खान (उर्दू)</writer>
+		<direction>एस. मुनि</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>24</pages>
+		<venue>रवीन्द्र सदन, कलकत्ता</venue>
+		<date>12-10-1968</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2223" cid="054.387">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>एक और द्रोणाचार्य</title>
+		<writer>शंकर शेष</writer>
+		<direction>सुशील कुमार सिंह</direction>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>20</pages>
+		<venue>मर्चेन्ट्स चेम्बर</venue>
+		<date>23-10-1977</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1075-6" cid="054.388">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>एक घोड़ा छ सवार</title>
+		<writer>जार्ज एबट और जे. सी. होम्स</writer>
+		<direction>रंजीत कपूर</direction>
+		<version>रंजीत कपूर</version>
+		<event>रंग सोपान नाट्य समागम</event>
+		<host>रंगायन, भोपाल</host>
+		<size>29X13 से. मी.</size>
+		<pages>10</pages>
+		<venue>भारत भवन, भोपाल</venue>
+		<date>04-11-1992</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="844-3" cid="054.389">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>एक घोड़ा छ सवार</title>
+		<writer>जार्ज एबट और जे. सी. होम्स</writer>
+		<direction>रंजीत कपूर</direction>
+		<version>रंजीत कपूर</version>
+		<event>राष्ट्रीय नाट्य समारोह, 20-26 फरवरी 1993</event>
+		<host>अभिनव, उज्जैन</host>
+		<size>31X12.5 से. मी.</size>
+		<pages>5</pages>
+		<venue>विक्रम कीर्ति मंदिर, उज्जैन</venue>
+		<date>22-02-1993</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2179" cid="054.390">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>एक घोड़ा छ सवार</title>
+		<writer>जार्ज एबट और जे. सी. होम्स</writer>
+		<direction>रंजीत कपूर</direction>
+		<version>रंजीत कपूर (संगीत रूपांतर)</version>
+		<event>हमीरपुर महोत्सव, 10 जुलाई 1994</event>
+		<size>22.5X14.5 से. मी.</size>
+		<pages>4</pages>
+		<venue>स्टेडियम ग्राउन्ड</venue>
+		<date>10-07-1994</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2132" cid="054.391;054.392">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>एक घोड़ा छ सवार</title>
+		<writer>जार्ज एबट और जे. सी. होम्स</writer>
+		<direction>रंजीत कपूर</direction>
+		<version>रंजीत कपूर (संगीत रूपांतर)</version>
+		<producer>अतुल्य सत्यमूर्ति</producer>
+		<size>26X18 से. मी.</size>
+		<pages>4</pages>
+		<venue>मर्चेन्ट्स चेम्बर हॉल, कानपुर</venue>
+		<date>09-10-1994</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="597" cid="054.393">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>औरत का प्यार</title>
+		<writer>त्रिमोहन लाल</writer>
+		<direction>गुलाब बाई और राकेश वर्मा</direction>
+		<host>ट्रेड फेयर अथॉरिटी अॉफ इण्डिया (दिल्ली)</host>
+		<size>30X21 से. मी.</size>
+		<pages>1</pages>
+		<venue>मंजर थियेटर, दिल्ली</venue>
+		<date>24-02-1986;25-02-1986</date>
+		<desc>अतिरिक्त</desc>
+	</brochure>
+	<brochure sid="2178" cid="054.394">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>कथा नन्दन की</title>
+		<writer>इन्दिरा पार्थसारथी</writer>
+		<direction>त्रिपुरारी शर्मा</direction>
+		<size>24X18 से. मी.</size>
+		<pages>32</pages>
+		<venue>लाजपत भवन एवं कानपुर, रवीन्द्रालय, लखनऊ</venue>
+		<date>06-06-1980;07-06-1980;28-06-1980;10-06-1980</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2168" cid="054.395">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>कर्फ्यू</title>
+		<writer>लक्ष्मी नारायण लाल</writer>
+		<direction>बन्सी कौल</direction>
+		<size>18.5X25 से. मी.</size>
+		<pages>20</pages>
+		<venue>मर्चेन्ट चेम्बर हाल, कानपुर</venue>
+		<date>15-03-1975</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2193" cid="054.396">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>करमदास की कथा</title>
+		<writer>विजयदान देथा</writer>
+		<direction>सतीश आनन्द</direction>
+		<translation>सिद्देश्वर अवस्थी, सतीश आनन्द, सुशील कुमार</translation>
+		<size>21X9.8 से. मी.</size>
+		<pages>6</pages>
+		<venue>लाजपत भवन</venue>
+		<date>03-01-1997</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2576" cid="054.396">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>करमदास की कथा</title>
+		<writer>विजयदान देथा</writer>
+		<direction>सतीश आनन्द</direction>
+		<translation>सिद्देश्वर अवस्थी, सतीश आनन्द, सुशील कुमार</translation>
+		<size>21X9.8 से. मी.</size>
+		<pages>6</pages>
+		<venue>लाजपत भवन</venue>
+		<date>03-01-1997</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2912" cid="054.397">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>करमदास की कथा (नौटंकी शैली में)</title>
+		<writer>विजयदान देथा</writer>
+		<direction>सतीश आनन्द</direction>
+		<event>नाट्य समारोह-1997</event>
+		<size>21.5X9.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>रवीन्द्रालय, लखनऊ</venue>
+		<date>01-03-1997</date>
+		<desc>यायावार रंगमंडल द्वारा आयोजित नाट्य समारोह-1997 पर प्रस्तुत ।</desc>
+	</brochure>
+	<brochure sid="2575" cid="054.397">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>करमदास की कथा (नौटंकी शैली में)</title>
+		<writer>विजयदान देथा</writer>
+		<direction>सतीश आनन्द</direction>
+		<event>नाट्य समारोह-1997</event>
+		<size>21.5X9.5 से. मी.</size>
+		<pages>6</pages>
+		<venue>रवीन्द्रालय, लखनऊ</venue>
+		<date>01-03-1997</date>
+		<desc>यायावार रंगमंडल द्वारा आयोजित नाट्य समारोह-1997 पर प्रस्तुत ।</desc>
+	</brochure>
+	<brochure sid="2170" cid="054.398">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>कहें ईसा सुने मूसा</title>
+		<writer>विभु कुमार</writer>
+		<direction>राकेश वर्मा</direction>
+		<event>सत्यमूर्ति जी की द्वितीय पुण्य पर</event>
+		<size>24.5X18.5 से. मी.</size>
+		<pages>14</pages>
+		<venue>लाजपत भवन</venue>
+		<date>24-06-1989</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="1604" cid="054.399">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>काठ की गाड़ी</title>
+		<writer>त्रिपुरारी शर्मा</writer>
+		<direction>सुशीला वेर्णेकर</direction>
+		<projection>सुशीला वेर्णेकर</projection>
+		<host>संस्कृति विभाग, उत्तर प्रदेश</host>
+		<size>21X14 से. मी.</size>
+		<pages>4</pages>
+		<venue>रवीन्द्रालय, लखनऊ, लाजपत भवन, कानपुर</venue>
+		<date>28-01-1996;06-02-1996</date>
+		<desc>कुपठ रोगियों की मनोवेदनाओं पर आधारित (2 अतिरिक्त प्रति)</desc>
+	</brochure>
+	<brochure sid="1883" cid="054.400">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>काठ की गाड़ी</title>
+		<writer>त्रिपुरारी शर्मा</writer>
+		<direction>सुशीला वेर्णेकर</direction>
+		<projection>सुशीला वेर्णेकर</projection>
+		<event>महात्मा गाँधी की 125 वीं जयंती पर</event>
+		<size>2X13 से. मी.</size>
+		<pages>4</pages>
+		<venue>पूर्वोत्तर रेलवे जूनियर इंस्टीट्यूट, प्रेक्षागृह</venue>
+		<date>23-02-1996</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2218-2" cid="054.401">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>काया-कल्प</title>
+		<writer>राजेन्द्र कुमार शर्मा</writer>
+		<direction>राकेश वर्मा</direction>
+		<event>सफलता के दसवें वर्ष</event>
+		<music>सन्तू-गीता रोहतगी</music>
+		<size>24.8X18.5 से. मी.</size>
+		<pages>36</pages>
+		<venue>रवीन्द्रालय, लखनऊ, मर्चेन्ट चेम्बर, कानपुर</venue>
+		<date>24-08-1971;28-08-1971;29-08-1971;11-09-1971</date>
+		<desc>सफलता के दसवें वर्ष पर दो नाटक ।</desc>
+	</brochure>
+	<brochure sid="2219-1" cid="054.402">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>किसी एक फूल का नाम लो</title>
+		<direction>उर्मिल कुमार थपलियाल</direction>
+		<event>उत्तर प्रदेश थियेटर सम्मेलन</event>
+		<size>18.5X24.8 से. मी.</size>
+		<pages>58</pages>
+		<date>11-08-1973;12-08-1973</date>
+		<desc>उत्तर प्रदेश थियेटर सम्मेलन, उत्तर प्रदेश संगीत नाटक अकादमी के सौजन्य से ।</desc>
+	</brochure>
+	<brochure sid="2218-1" cid="054.403">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>खामोश अदालत जारी है</title>
+		<writer>विजय तेंदुलकर</writer>
+		<translation>कमलाकर सोनटके</translation>
+		<direction>राम गोविन्द</direction>
+		<event>सफलता के दसवें वर्ष</event>
+		<size>24.8X18.5 से. मी.</size>
+		<pages>36</pages>
+		<venue>रवीन्द्रालय, लखनऊ, मर्चेन्ट चेम्बर, कानपुर</venue>
+		<date>24-08-1971;28-08-1971;29-08-1971;11-09-1971</date>
+		<desc>सफलता के दसवें वर्ष पर दो नाटक ।</desc>
+	</brochure>
+	<brochure sid="1824/2" cid="054.404">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>घासीराम कोतवाल</title>
+		<writer>विजय तेंदुलकर</writer>
+		<translation>बसंत देव</translation>
+		<direction>अलोपी वर्मा</direction>
+		<event>उत्तरी संभाग नाट्य समारोह व हिन्दी रंगमंच दिवस</event>
+		<size>25X18 से. मी.</size>
+		<pages>94</pages>
+		<date>03-04-1984;07-04-1984</date>
+		<desc>दिल्ली संगीत नाटक अकादमी व उत्तर प्रदेश संगीत नाटक अकादमी द्वारा आयोजित उत्तरी संभाग नाट्य समारोह व हिन्दी रंगमंच दिवस के अन्तर्गत ।</desc>
+	</brochure>
+	<brochure sid="2372-2" cid="054.404">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>घासीराम कोतवाल</title>
+		<writer>विजय तेंदुलकर</writer>
+		<translation>बसंत देव</translation>
+		<direction>अलोपी वर्मा</direction>
+		<event>उत्तरी संभाग नाट्य समारोह व हिन्दी रंगमंच दिवस</event>
+		<size>25X18 से. मी.</size>
+		<pages>94</pages>
+		<date>03-04-1984;07-04-1984</date>
+		<desc>दिल्ली संगीत नाटक अकादमी व उत्तर प्रदेश संगीत नाटक अकादमी द्वारा आयोजित उत्तरी संभाग नाट्य समारोह व हिन्दी रंगमंच दिवस के अन्तर्गत ।</desc>
+	</brochure>
+	<brochure sid="834-5" cid="054.405">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>चांदी का जूता</title>
+		<writer>रंजीत कपूर</writer>
+		<direction>रंजीत कपूर</direction>
+		<event>राष्ट्रीय नाट्य समारोह, हबीब तनवीर का रंग उत्सव 19-24 फरवरी 1994</event>
+		<host>अभिनव, उज्जैन</host>
+		<size>28.5X11 से. मी.</size>
+		<pages>4</pages>
+		<venue>विक्रम कीर्ति मंदिर, उज्जैन</venue>
+		<date>23-02-1994</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2128" cid="054.406">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>चांदी का जूता</title>
+		<writer>रंजीत कपूर</writer>
+		<direction>रंजीत कपूर</direction>
+		<size>24X14 से. मी.</size>
+		<pages>3</pages>
+		<venue>विक्रम कीर्ति मन्दिर, उज्जैन</venue>
+		<date>23-02-1994</date>
+		<desc>अतिरिक्त प्रति</desc>
+	</brochure>
+	<brochure sid="2129" cid="054.406">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>चांदी का जूता</title>
+		<writer>रंजीत कपूर</writer>
+		<direction>रंजीत कपूर</direction>
+		<size>23X14.5 से. मी.</size>
+		<pages>2</pages>
+		<venue>मर्चेन्ट्स हॉल, कानपुर</venue>
+		<date>30-03-1995;31-03-1995;14-04-1995;16-04-1995</date>
+		<desc></desc>
+	</brochure>
+	<brochure sid="2180" cid="054.407">
+		<state>उत्तर प्रदेश</state>
+		<place>कानपुर</place>
+		<troupe>दर्पण</troupe>
+		<title>चांदी का जूता</title>
+		<writer>रंजीत कपूर</writer>
+		<direction>रंजीत कपूर</direction>
+		<size>18.5X24.5 से. मी.</size>
+		<pages>16</pages>
+		<venue>मर्चेन्ट्स चेम्बर, कानपुर, रंगायन जवाहर कलाकेन्द्र जयपुर</venue>
+		<date>18-05-1994;02-06-1994;04-06-1994</date>
+		<desc>सत्यमूर्ति जी की 7 वी पुण्य तिथि के अंतर्गत ।</desc>
 	</brochure>
 </natarang>
